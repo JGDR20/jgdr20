@@ -1,6 +1,6 @@
 # Joe Richardson
 # Personal Site
-[Under Development]
+Under Development
 
 [Blog](https://joerichardson.eu)
 
@@ -39,9 +39,9 @@ In my current and previous roles I have become familiar with the MS SQL suite as
 
 As part of my regular tasks I can:
 
--   Query SQL databases using multi-table joins, temporary tables, CTEs etc. with the results targeted for an appropriate audience
--   Update/Delete data
--   Manage backups and restores into different environments
+* Query SQL databases using multi-table joins, temporary tables, CTEs etc. with the results targeted for an appropriate audience
+* Update/Delete data
+* Manage backups and restores into different environments
 
 As part of my current role I also use Firebird (2.5) with IBConsole for a number of support applications used by our current products, as well as our legacy product.
 
@@ -61,51 +61,51 @@ I was a member of the support team, providing both front- and back-end support f
 
 My responsibilities included:
 
--   Assisting clients with use of the front-end of the various products, including remote hardware support
--   Supporting the Consultant team and providing relief cover for internal IT
--   Configuration changes (both product and environment)
--   Upgrades to both SaaS and self-hosted products
--   Deployments to testing environments
--   Data health maintenance
--   Troubleshooting and resolution of data-related issues
--   Maintenance of internal documentation
+* Assisting clients with use of the front-end of the various products, including remote hardware support
+* Supporting the Consultant team and providing relief cover for internal IT
+* Configuration changes (both product and environment)
+* Upgrades to both SaaS and self-hosted products
+* Deployments to testing environments
+* Data health maintenance
+* Troubleshooting and resolution of data-related issues
+* Maintenance of internal documentation
 
 I regularly used the following tools:
 
--   MS SSMS (2008 – 2014)
--   Multi-table select statements including CTEs and other recursive methods, as well as cross-DB comparisons
--   Update and delete statements as part of data health maintenance and support
--   DB backups/restores and reproduction to other environments
--   Some DB administration
--   Firebird (2.5) DBMS
--   Linux Busybox
--   Windows Services
+* MS SSMS (2008 – 2014)
+* Multi-table select statements including CTEs and other recursive methods, as well as cross-DB comparisons
+* Update and delete statements as part of data health maintenance and support
+* DB backups/restores and reproduction to other environments
+* Some DB administration
+* Firebird (2.5) DBMS
+* Linux Busybox
+* Windows Services
 
 In addition I use the following:
 
--   Powershell
--   IIS
+* Powershell
+* IIS
 
 #### Octopus HR  _(bought by IRIS HR)_ | **Software Support Consultant**  | June ’14 – July ’16:  
 I was the senior Support Consultant for the company, providing support both to clients and internally. My responsibilities included the below:
 
--   Data imports, system configuration & branding
--   Front-end support inc. troubleshooting, ad-hoc training, requirements gathering for custom work and more
--   Back-end support inc. bulk data change requests, after-sales configuration and more
--   Internal support inc. pre-sales queries, training queries, desktop support
--   Sanity-checks on some changes to the product
--   Product Suggestion gathering and communication
--   Client training via remote screen sharing
--   I’ve built a solid relationship with many of our frequent callers and have often been named in positive client feedback that the Account Management team gathered regularly.
+* Data imports, system configuration & branding
+* Front-end support inc. troubleshooting, ad-hoc training, requirements gathering for custom work and more
+* Back-end support inc. bulk data change requests, after-sales configuration and more
+* Internal support inc. pre-sales queries, training queries, desktop support
+* Sanity-checks on some changes to the product
+* Product Suggestion gathering and communication
+* Client training via remote screen sharing
+* I’ve built a solid relationship with many of our frequent callers and have often been named in positive client feedback that the Account Management team gathered regularly.
 
 #### Computers in Personnel HR | **Functional Support Analyst** | Sept ’10 – June ’14:
 
 Responsibilities:
 
--   Provided initial support contact to clients regarding the HR, expense and recruiting software packages via phone, email and screen-sharing technologies
--   Due to company requirements I also provided second line support at request
--   Support took the form of troubleshooting, training and completing arranged work packets (re-configuration, data entry, report creation) as required
--   Provided a level of support internally.
+* Provided initial support contact to clients regarding the HR, expense and recruiting software packages via phone, email and screen-sharing technologies
+* Due to company requirements I also provided second line support at request
+* Support took the form of troubleshooting, training and completing arranged work packets (re-configuration, data entry, report creation) as required
+* Provided a level of support internally.
 
 #### Retail & Service:
 ##### **WHSmith, Mama’s & Papa’s, Desborough Play Den** | (Jul ’05 – Sept ’10)
