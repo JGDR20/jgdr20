@@ -3,4 +3,4 @@
 ## Personal Site
 ### Under Development
 
-[Blog](/blog/index.html)
+[Blog](/jgdr20/blog/index.html)
