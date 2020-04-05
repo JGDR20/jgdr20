@@ -1,4 +1,5 @@
 # Joe Richardson
+
 # Personal Site
 
 Under Development
@@ -31,4 +32,3 @@ I’m also a rank-amateur photographer and play D&D at the weekends, you’ll find a
 * Windows Desktop Support
 * Basic IIS
 * SSH
-
