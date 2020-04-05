@@ -1,0 +1,20 @@
+---
+title: JR Blog
+baseurl: "/Blog"
+desc: A Quick and Dirty Blog
+about: A London-based support monkey with several years experience in MS SQL, application and OS support, plus several more years of customer service.
+
+I’m also a rank-amateur photographer and play D&D at the weekends, you’ll find a running journal of my characters in the blog. Just in case you play, there may be spoilers ahead.
+image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
+excerpt_separator: "<!-- more -->"
+markdown: kramdown
+gems:
+- jekyll-paginate
+exclude:
+  - .jekyll-metadata
+  - README.md
+  - CNAME
+paginate: 5
+paginate_path: "/:num/"
+highlighter: rouge
+permalink: pretty
