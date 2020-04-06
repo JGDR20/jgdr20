@@ -4,7 +4,7 @@
 
 Under Development
 
-[Blog](https://joerichardson.eu)
+<!--[Blog](https://joerichardson.eu)-->
 
 ## Intro:
 
