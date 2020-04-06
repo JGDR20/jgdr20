@@ -35,8 +35,4 @@ I'm also a rank-amateur photographer and play D&D at the weekends, you'll find a
 
 ### About Me:
 
-Photography is a hobby of mine\; I'm certainly an amateur but I enjoy exploring new places \(a camera is a great excuse) and experimenting with post-production techniques – currently I'm exploring HDR techniques and macro photography.
-
-Twice a week I also play D&D with friends, so far as a player but I'll also be running a campaign in the coming months. I've found that the critical thinking and team skills that I've learned during my career have proven surprisingly useful within the game – there is often limited information and time in order to make decisions that will affect both a single character and the party as a whole.
-
-### Relevant Experience:
+Photography is a hobby of mine; I'm certainly an amateur but I enjoy exploring new places
