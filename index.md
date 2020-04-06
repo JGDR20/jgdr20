@@ -134,5 +134,5 @@ _Certificate of Higher Education, Meteorology_
 
 #### Royal Grammar School | (1999 – 2006)
 
-_A-Levels_ | Physics, Maths, Biology and Chemistry[AS] (ABBB)  
+_A-Levels_ | Physics, Maths, Biology and Chemistry\[AS\] \(ABBB\)  
 _GCSEs_ | 10x A*-C
