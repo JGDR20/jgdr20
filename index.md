@@ -54,15 +54,3 @@ As part of my regular tasks I can:
 As part of my current role I also use Firebird with IBConsole for a number of support applications used by our current products, as well as our legacy product.
 
 #### Web/Programming Technologies:
-
-I have been exposed to classic asp, asp.net, VB.NET, C#, HTML, CSS & Javascript for troubleshooting purposes, as well as some home research for personal projects.
-
-#### Customer Service:
-
-Prior to my roles on support teams I worked in Retail for some years, the majority of which was spent in customer-facing roles. During this time I've gained a great deal of patience and a positive attitude when interacting with both internal and external clients. I've been mentioned by name in a number of client feedback communications and have been requested as a point of contact by several clients.
-
-#### Security:
-
-As part of their support contracts I have been security cleared by 2 previous clients; one was specific to the client and the other was for a government body. Whilst both applications were specific to my previous employment at Computers in Personnel I am willing to undergo scrutiny for sensitive clients.
-
-### Employment History:
