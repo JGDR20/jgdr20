@@ -17,4 +17,4 @@ I'm also a rank-amateur photographer and play D&D at the weekends, you'll find a
 ### Headline Skills:
 
 * Database and Data Administration
-* MS SQL (2008 – 2014)
+ * MS SQL \(2008 – 2014\)
