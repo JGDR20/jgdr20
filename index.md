@@ -12,7 +12,7 @@ A London-based support monkey with several years experience in MS SQL, applicati
 
 I'm also a rank-amateur photographer and play D&D at the weekends, you'll find a running journal of my characters in the blog. Just in case you play, there may be spoilers ahead.
 
-## Resumé:
+## Resume:
 
 ### Headline Skills:
 
