@@ -35,7 +35,7 @@ plugins:
 
 header_pages:
   - Resume.md
-  - index.md
+  - Home: 'index.md'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

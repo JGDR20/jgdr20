@@ -3,7 +3,7 @@ layout: page
 title: Resumé
 permalink: /resume/
 ---
-# Headline Skills:
+## Headline Skills:
 
 * Database and Data Administration
 	* MS SQL
@@ -22,15 +22,15 @@ permalink: /resume/
 * Basic IIS
 * SSH
 
-# About Me:
+## About Me:
 
 Photography is a hobby of mine; I'm certainly an amateur but I enjoy exploring new places - with a camera is a great excuse - and experimenting with post-production techniques. Currently I'm exploring HDR techniques and macro photography.
 
 Twice a week I also play D&D with friends, both as a player and a back-up/relief GM. I've found that the critical thinking and team skills that I've learned during my career have proven surprisingly useful within the game – there is often limited information and time in order to make decisions that will affect both a single character and the party as a whole.
 
-# Relevant Experience:
+## Relevant Experience:
 
-#### DBs and SQL:
+### DBs and SQL:
 
 In my current and previous roles I have become familiar with the MS SQL suite as I have used SSMS, SQL Profiler and Analysis Services often. Additionally I have created and maintained; Views, Stored Procedures, Tables, Constraints as well as providing training to colleagues.
 
@@ -42,21 +42,21 @@ As part of my regular tasks I can:
 
 As part of a previous role I also use Firebird with IBConsole for a number of support applications used by our current products, as well as our legacy product.
 
-#### Web/Programming Technologies:
+### Web/Programming Technologies:
 
 I have been exposed to classic asp, asp.net, VB.NET, C#, HTML, CSS & Javascript for troubleshooting purposes, as well as some home research for personal projects.
 
-#### Customer Service:
+### Customer Service:
 
 Prior to my roles on support teams I worked in Retail for some years, the majority of which was spent in customer-facing roles. During this time I've gained a great deal of patience and a positive attitude when interacting with both internal and external clients. I've been mentioned by name in a number of client feedback communications and have been requested as a point of contact by several clients.
 
-#### Security:
+### Security:
 
 As part of their support contracts I have been security cleared by 2 previous clients; one was specific to the client and the other was for a government body. Whilst both applications were specific to my previous employment at Computers in Personnel I am willing to undergo scrutiny for sensitive clients.
 
-# Employment History:
+## Employment History:
 
-#### Product Specialist<br>[Charles River Development](https://crd.com) | July '18 -
+### Product Specialist<br>[Charles River Development](https://crd.com) | July '18 -
 
 As a member of the EMEA Support team I provide application and business support for all segments of the main CR IMS product:
 
@@ -78,7 +78,7 @@ Internally I've also produced tools for managing test environments and a number 
 
 We also provide reciprocal internal support to colleagues in other teams.
 
-#### Application Support Consultant<br>[RITEQ Ltd. _(bought by Ceridian)_](https://www.ceridian.com/uk/riteq) | July '16 – July '18:  
+### Application Support Consultant<br>[RITEQ Ltd. _(bought by Ceridian)_](https://www.ceridian.com/uk/riteq) | July '16 – July '18:  
 
 I was a member of the support team, providing both front- and back-end support for our main Time and Attendance/Reporting product offerings as well as legacy software.
 
@@ -109,7 +109,7 @@ In addition I use the following:
 * Powershell
 * IIS
 
-#### Software Support Consultant<br>[Octopus HR  _(bought by IRIS HR)_](https://irishr.co.uk) | June '14 – July '16:  
+### Software Support Consultant<br>[Octopus HR  _(bought by IRIS HR)_](https://irishr.co.uk) | June '14 – July '16:  
 
 I was the senior Support Consultant for the company, providing support both to clients and internally. My responsibilities included the below:
 
@@ -122,7 +122,7 @@ I was the senior Support Consultant for the company, providing support both to c
 * Client training via remote screen sharing
 * I've built a solid relationship with many of our frequent callers and have often been named in positive client feedback that the Account Management team gathered regularly.
  
-#### Functional Support Analyst<br>[Computers in Personnel HR](https://www.ciphr.com) | Sept '10 – June '14:
+### Functional Support Analyst<br>[Computers in Personnel HR](https://www.ciphr.com) | Sept '10 – June '14:
 
 Responsibilities:
 
@@ -131,18 +131,18 @@ Responsibilities:
 * Support took the form of troubleshooting, training and completing arranged work packets as required; re-configuration, data entry, report creation
 * Provided a level of support internally
 
-#### Retail & Service:
-##### WHSmith, Mama's & Papa's, Desborough Play Den | Jul '05 – Sept '10
+### Retail & Service:
+#### WHSmith, Mama's & Papa's, Desborough Play Den | Jul '05 – Sept '10
 
 Details available on request
 
-# Education:
+## Education:
 
-#### The University of Reading | 2006 – 2008
+### The University of Reading | 2006 – 2008
 
 _Certificate of Higher Education, Meteorology_
 
-#### Royal Grammar School | 1999 – 2006
+### Royal Grammar School | 1999 – 2006
 
 _A-Levels_ | Physics, Maths, Biology and Chemistry [AS] | ABBB  
 _GCSEs_ | 10x | A*-C

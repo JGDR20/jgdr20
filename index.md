@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Personal Site
+title: Ramblings Pt. II
+alt_title: Home
 ---
 Under Development
 
