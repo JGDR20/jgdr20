@@ -3,4 +3,5 @@ _posts
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.bundle
 vendor
