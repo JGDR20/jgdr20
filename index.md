@@ -8,7 +8,7 @@ alt_title: Home
 ---
 Under Development
 
-[Blog](https://joerichardson.eu)
+[Old Blog](https://joerichardson.eu)
 
 ## Intro:
 

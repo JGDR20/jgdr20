@@ -21,6 +21,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+		{%- if post.voice -%}
+			<span class="post-voice">{{ post.voice }}:</span>
+		{%- endif -%}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

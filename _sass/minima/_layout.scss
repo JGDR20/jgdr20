@@ -207,7 +207,10 @@
   @include relative-font-size(1.5);
 }
 
-
+.post-voice {
+  font-size: $small-font-size;
+  color: $grey-color-dark;
+}
 
 /**
  * Posts
