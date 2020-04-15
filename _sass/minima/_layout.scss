@@ -100,7 +100,27 @@
   }
 }
 
-
+.sidebar-right {
+  padding-right: 0;
+  float: right;
+  height: auto; /* Full-height: remove this if you want "auto" height */
+  width: 130px; /* Set the width of the sidebar */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  right: 0;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  margin-left: 10px;
+  
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+    /*
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }*/
+  }
+}
 
 /**
  * Site footer

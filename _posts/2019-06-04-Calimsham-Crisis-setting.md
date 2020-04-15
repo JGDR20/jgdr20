@@ -5,7 +5,12 @@ date:   2019-06-04 00:00:00 +0000
 categories: [D&D, Games]
 author: Joe
 ---
-*This was for a game that never was so I've added additional notes on what I had planned. Please feel free to use any elements and let me know if they worked.*
+<hr style="border-color:red"/>
+<span style="color:red">*This was for a game that never was so I've added additional notes on what I had planned.
+Please feel free to use any elements and let me know if they worked.*</span>
+<hr style="border-color:red"/> <!-- more -->
+
+<br>
 
 # *A tale of horrors and heroes*
 ## Introduction
@@ -76,7 +81,7 @@ We can either work out a way to bring back the excitement or you can create a ne
 
 I will be available in the evenings before we start the campaign to assist with any questions, ideas and technical issues.
 
-## GM Notes - Session 1
+## <span style="color:red">GM Notes - Session 1</span>
 
 The first half of session 1 will be styled like a tutorial level with farm-related skill checks and saves.<br>
 For example, a player could be asked by **Uncle Bhȅn** to stack hay bales with an *Athletics check*, followed by a *Dex save* to avoid the toppling stack.
@@ -95,7 +100,7 @@ If a player expresses an interest you could allow them to try and tame it over t
 
 Once the players are getting more comfortable with navigating the character sheets begin the plot-hook...
 
-### Plot-Hook
+### <span style="color:red">Plot-Hook</span>
 
 The characers go to bed in one or two of the rooms at the front of the farmhouse, the window overlooks the rest of the farm including a partial view of the shack.<br>
 *\[Perception check: DC10]* A small earthquake and a rumbling sound rouses any character that passes the check.
@@ -115,7 +120,7 @@ Make it clear that there is no hope of winning a fight here and to run away.
 
 The players can now decide what they want their characters to do for the next 10 years - stick together, run far away, join the army, become a pirate etc.
 
-### Continuation
+## <span style="color:red">Continuation</span>
 
 After 10 years each receives a summons, regardless of where they are.
 The summons is from someone who is tracking the Mindflayer and attempting to thwart them but lacks the ability to do so themselves.
@@ -123,32 +128,46 @@ Those that have stayed within Calisham will have noticed a weird MLM-scheme gain
 Events held by MLM members mention an enigmatic leader that has a core of charismatic presenters surrounding them.
 This could be the Mindflayer from earlier, perhaps a character catches a brief glimpse through a tent.
 
-### Big Bad Motives
+## <span style="color:red">Big Bad Motives</span>
 
 Perhaps the Mindflayer is trying to build influence in Calimsham in order to obtain something to repair or power their ship and return home.
+Using the local citizens as pawns to further it's cause is perfectly correct for the Mindflayer as they are not equals and are very easy to influence.
+The Mindflayer has to be careful to stay out of sight though as they know they could not defend themselves physically against a determined oposition.
 
 ## Session Times
-As we are all busy people (plus I’ll be making up a bunch of stuff as we go) I am going to suggest we play once a month for 2 hours. If possible I would like to start the first session mid-July later this year – please let me know if this is suitable and what day of the week and time would work best for you.
+As we are all busy people (plus I’ll be making up a bunch of stuff as we go) I am going to suggest we play once a month for 2 hours.
+If possible I would like to start the first session mid-July later this year – please let me know if this is suitable and what day of the week and time would work best for you.
 
 ## Resources
-[Roll20.net]
-We’ll be playing using the virtual tabletop Roll20.net which will contain maps, your character sheets, creatures and people that you meet etc. Most of the dice rolls you’ll need will also be point-and-click but one-off rolls are handled easily as well.
+### [Roll20]
+We’ll be playing using the virtual tabletop [Roll20.net][Roll20] which will contain maps, your character sheets, creatures and people that you meet etc.
+Most of the dice rolls you’ll need will also be point-and-click but one-off rolls are handled easily as well.
 
-It is worth remembering that this is not a video game though. What you see on-screen is an abstraction to help you visualise the world as you interact with it. (Also I cannot guarantee the quality of the maps etc. as I’ll have to bodge some of them together myself).
+It is worth remembering that this is not a video game though.
+What you see on-screen is an abstraction to help you visualise the world as you interact with it.
+(Also I cannot guarantee the quality of the maps etc. as I’ll have to bodge some of them together myself).
 
-Discord
-Discord is a voice (and video) chat service designed around games. There is a tiny bit of lag but it’s normally pretty reliable. There are mobile and desktop apps on a bunch of platforms and I’d recommend some kind of headset if you can scrounge one up.
+### [Discord]
+[Discord] is a voice (and video) chat service designed around games. There is a tiny bit of lag but it’s normally pretty reliable.
+There are mobile and desktop apps on a bunch of platforms as well as a web client and I’d recommend some kind of headset if you can scrounge one up.
 
-Basic Rules
-The Basic Rules PDF is essential but you won’t have to read all of it. Read the Introduction and How to Play first then Parts 1 & 2. Part 3 is only important if you want to be a magic user.
+### [Basic Rules][Rules]
+[The Basic Rules PDF][Rules] is essential but you won’t have to read all of it. Read the *Introduction* and *How to Play* first then Parts 1 & 2.
+Part 3 is only important if you want to be a magic user.
 
 Any questions then let me know but the first session will be geared around getting used to the mechanics as well as establishing how you want to play your character.
 
-Further Reading
-The Player’s Handbook builds on the Basic Rules. A digital copy, of sorts, will be available to you in Roll20 but if you wanted a copy of your own there are loads of places to get it, some with very different prices. Ahem.
+### Further Reading
+[The Player’s Handbook][PHB] builds on the Basic Rules.
+A digital copy, of sorts, will be available to you in Roll20 but if you wanted a copy of your own there are loads of places to get it, some with very different prices.
+Ahem.
 
 [Calimsham]: https://vignette.wikia.nocookie.net/forgottenrealms/images/3/31/Mt_calimshan.jpg/revision/latest?cb=20100114094309 "Calimshan and neighbours from wikia"
 [Faerûn]: https://vignette.wikia.nocookie.net/forgottenrealms/images/3/36/Sword-Coast-Map_HighRes-Compressed.jpg/revision/latest/scale-to-width-down/1000?cb=20160307175412 "Faerûn from wikia"
 [Commoner]: https://drive.google.com/file/d/0B9fwgwF-ROH-STM0czd6Sml1TjA/view "Commoner stats"
 [Nautiloid]: https://spelljammer.fandom.com/wiki/Nautiloid "Nautiloid"
 [Illithid]: https://spelljammer.fandom.com/wiki/Illithid "Illithid"
+[Roll20]: https://roll20.net "Roll20"
+[Discord]: https://discordapp.com "Discord"
+[Rules]: http://dnd.wizards.com/articles/features/basicrules "Basic Rules"
+[PHB]: https://smile.amazon.co.uk/Dungeons-Dragons-Players-Handbook-Rulebooks/dp/0786965606/ref=sr_1_1?_encoding=UTF8&crid=V5BQOBX7L3EU&keywords=players+handbook&qid=1555278790&s=gateway&sprefix=ssd%2Caps%2C156&sr=8-1 "Play Handbook"
