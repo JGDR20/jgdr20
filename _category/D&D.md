@@ -1,6 +1,6 @@
 ---
 layout: category
 title: D&D
-permalink: /category/d&d/
+permalink: /category/d-d/
 category: D&D
 ---
