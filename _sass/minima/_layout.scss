@@ -232,6 +232,36 @@
   color: $grey-color-dark;
 }
 
+.image-table {
+  width: 100%;
+  margin: 20px auto;
+  table-layout: fixed;
+  text-align: center;
+  
+  table {
+	border: "0";
+	border-spacing: "7";
+	width: "100%";
+  }
+  
+  table#toc {
+    empty-cells: hide;
+  }
+  
+  td#toc {
+    width: calc(100% /3);
+  }
+
+  .empty {
+    border: none;
+  }
+  
+  img {
+    display: block;
+	width: 100%;
+  }
+}
+
 /**
  * Posts
  */

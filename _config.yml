@@ -42,6 +42,8 @@ plugins:
 header_pages:
   - index.md
   - Resume.md
+  - jmm.md
+  - /blog/blog.md
 
 # Collections
 collections:
