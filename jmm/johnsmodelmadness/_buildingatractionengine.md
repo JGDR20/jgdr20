@@ -8,12 +8,12 @@
 					<img src="/jgdr20/assets/jmm/afinishedallchin.jpg">
 				</a>
 			</td>
-			<td>
+			<td class="col2">
 				Allchin traction engine to 1 1/2" Scale
 			</td>
 		</tr>
 		<tr>
-			<td class="col2">
+			<td>
 				An earlier ( 1910 ) prototype
 			</td>
 			<td>
@@ -28,7 +28,7 @@ The six year term resulted from shortage of spare time due to a job which involv
 
 To see the construction of the Allchin from plans produced by the late great model engineer W. J. Hughes and a description of the many parts [click here][BuildAllchin].
 
-Following contact initially built up over the Internet with my now good friend **Peter Beck**, a German model engineer, pictures of my models now appear on his site.
+Following contact initially built up over the Internet with my now good friend **[Peter Beck][Beck]**, a German model engineer, pictures of my models now appear on his site.
 Peter is an accomplished model engineer and we share many interests, he has also built the Allchin and a number of locomotives, so appreciates the hours of application required.
 Peter has recently built a 1" to the foot scale traction engine ' *Minnie* ' to a design by L.C. Mason.
 

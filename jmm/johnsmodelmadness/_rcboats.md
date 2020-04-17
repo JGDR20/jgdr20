@@ -8,14 +8,14 @@ Currently activities are focussed on building model boats........so a page on th
 			<td class="col2">
 				<img src="/jgdr20/assets/jmm/Egrete.jpg">
 			</td>
-			<td>
+			<td class="col2">
 				' Egrete ' A Rhine ' Pusher tug ' in 1/2" scale from free drawings published in Model Boats Magazine.<br>
 				To view construction click here:<br>
 				<a href="buildingthepusherold">Building the Rhine pusher</a>
 			</td>
 		</tr>
 		<tr>
-			<td class="col2">
+			<td>
 				The wheelhouse is raised and lowered to clear the bridges along the river.
 			</td>
 			<td>
@@ -38,13 +38,13 @@ The step- by- step build is illustrated here: [Click here][BuildingWorkBoat]
 			<td class="col2">
 				<img src="/jgdr20/assets/jmm/Nearlyfinished1.jpg">
 			</td>
-			<td>
+			<td class="col2">
 				' Free Lancer ' a 1/24" scale, scratchbuilt workboat ' .....own design based on details of boats taken from the 'web'.<br>
 				To see the construction <a href="BuildingWorkBoat">Click here</a>
 			</td>
 		</tr>
 		<tr>
-			<td class="col2">
+			<td>
 				This is ' Freelancer 2 ' based upon lessons learned from the earlier build.<br>
 				To see the construction <a href="buildingfreelancer2">Click here</a>
 			</td>
@@ -65,7 +65,7 @@ A Recently added page describing two successful radio controlled model sailing b
 			<td class="col2">
 				<img src="/jgdr20/assets/jmm/LITTLEANDLARGE.JPG">
 			</td>
-			<td>
+			<td class="col2">
 				Both are built mainly from scrap and reclaimed materials.<br>
 				To see the construction <a href="Yacht">Click here</a>
 			</td>
