@@ -37,7 +37,7 @@ paginate_path:  "/blog/page:num/"
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
 
 header_pages:
   - index.md

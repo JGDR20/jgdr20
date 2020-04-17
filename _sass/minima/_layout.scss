@@ -237,22 +237,20 @@
   margin: 20px auto;
   table-layout: fixed;
   text-align: center;
+  empty-cells: hide;
+  border: "0";
+  border-spacing: "7";
+  width: "100%";
   
-  table {
-	border: "0";
-	border-spacing: "7";
-	width: "100%";
-  }
-  
-  table#toc {
-    empty-cells: hide;
-  }
-  
-  td#toc {
+  td.col3 {
     width: calc(100% /3);
   }
 
-  .empty {
+  td.col2 {
+    width: calc(100% /2);
+  }
+
+  td.empty {
     border: none;
   }
   

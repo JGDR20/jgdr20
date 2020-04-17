@@ -6,7 +6,7 @@ author: Cubcoman
 ---
 ## Visit my model world!
 
-Updated 31 February 2015
+###### Updated 31 February 2015
 
 Share my models, Kerr Stuart locomotive, Allchin traction engine, boats, OO railway, some artwork and cartoons (By Cubcoman, my alter ego) also a brief biography.
 
@@ -21,71 +21,71 @@ I illustrate recent a range of my work , some of which quite please me..........
 Click on the images below to go to the relevant pages and descriptions of their construction methods.
 
 <div align="center" class="image-table">
-	<table id="toc">
+	<table>
 		<tr>
-			<td>
-				<a href="BuildingtheAllchin.htm">
+			<td class="col3">
+				<a href="buildallchin">
 					<img src="/jgdr20/assets/jmm/afinishedallchin.jpg">
 				</a>
 			</td>
-			<td>
-				<a href="pixiesbackground.htm">
+			<td class="col3">
+				<a href="pixiesbackground">
 					<img src="/jgdr20/assets/jmm/pixie2.jpg">
 				</a>
 			</td>
-			<td>
-				<a href="tichspedigree.htm">
+			<td class="col3">
+				<a href="tichspedigree">
 					<img src="/jgdr20/assets/jmm/Tichrejuvenated1.JPG">
 				</a>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="Buildingworkboat.htm">
+				<a href="Buildingworkboat">
 					<img src="/jgdr20/assets/jmm/finished.jpg">
 				</a>
 			</td>
 			<td>
-				<a href="Building%20Free%20Lancer%202.htm">
+				<a href="buildingfreelancer2">
 					<img src="/jgdr20/assets/jmm/lancer2afloat.jpg">
 				</a>
 			</td>
 			<td>
-				<a href="yacht.htm">
+				<a href="yacht">
 					<img src="/jgdr20/assets/jmm/Littleandlarge.JPG">
 				</a>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="Building%20the%20pusher%20old.htm">
+				<a href="buildingthepusherold">
 					<img src="/jgdr20/assets/jmm/Egrete1.jpg">
 				</a>
 			</td>
 			<td>
-				<a href="buildingthesilhouette.htm">
+				<a href="buildingthesilhouette">
 					<img src="/jgdr20/assets/jmm/silbow2.JPG">
 				</a>
 			</td>
 			<td>
-				<a href="buildingsmallpsher.htm">
+				<a href="buildingsmallpusher">
 					<img src="/jgdr20/assets/jmm/smpushsternview3.jpg">
 				</a>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="workshops.htm">
+				<a href="workshops">
 					<img src="/jgdr20/assets/jmm/Workshop222.jpg">
 				</a>
 			</td>
 			<td>
-				<a href="workshoptoolsetc.htm">
+				<a href="workshoptoolsetc">
 					<img src="/jgdr20/assets/jmm/4tool5.jpg">
 				</a>
 			</td>
 			<td>
-				<a href="buildingpilotcutter.htm">
+				<a href="buildingpilotcutter">
 					<img src="/jgdr20/assets/jmm/pilotdecbeams%20installed.jpg">
 				</a>
 			</td>
@@ -93,7 +93,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		<tr>
 			<td class="empty"></td>
 			<td>
-				<a href="oogauge.htm">
+				<a href="oogauge">
 					<img src="/jgdr20/assets/jmm/the16x10lookingnorth.jpg">
 				</a>
 			</td>
@@ -114,58 +114,30 @@ I enjoy using materials recovered from sources such as scrap and recycled object
     * Chapters 1 to 7 of my Book on scale model locomotive construction featuring ' Pixie ' [click here][bookonbuilding]. This contains the Forward, an Introduction and the list of Contents.
     * Chapters 8 and on of my Book on scale model locomotive construction featuring ' Pixie ' [click here][bookonbuilding2]
     * Chapters 17 and on of my book on scale model locomotive construction featuring ' Pixie ' [click here][bookonbuilding3]
-    * Also there is a page on lessons learnt in 60 years+ of modelmaking.. [click here][modelengineersnostrums]
+    * Also there is a page on lessons learnt in 60 years+ of modelmaking.. [click here][ModelEngineersNostrums]
 
-Model Boat topics
+* Model Boat topics
+  * Building the 1/32" scale Rhine pusher tug 'Egrete'.. [Click here][BuildingThePusherOld]
+  * Scratchbuilding building two simple R.C. sailing boats click here..[Click here][Yacht]
+  * 1/24th scale scratchbuilt workboat 'Free Lancer '.. [Click here][BuildingWorkBoat]
+  * The Clyde Puffer and other earlier boats.. [Click here][TheClydePuffer]
+  * 1/24th scale scratchbuilt workboat 'Free Lancer 2'.. [Click here][BuildingFreeLancer2]
+  * Scratch building the trailer / sailer ' Silhouette '..[Click here][BuildingTheSilhouette]
+  * Building a small pusher tug similar to the popular ' Springer ' [Click here][BuildingSmallPusher]
+  * Scratch building a static model pilot cutter [Click here][BuildingPilotCutter]
+* Workshop topics
+  * Have a look at my workshop........ [Click here][Workshops]
+  * A model engineer's nostrums [Click here][ModelEngineersNostrums]
+  * Tools and things mainly from scrap.... [Click here][WorkshopToolsetC]
+* Model Railway topics
+ * Looking back at OO Gauge Model railways click.. [Click here][OOGauge]
+* A Few Miscellaneous Models
+  * Models built over the years a few assorted [Click here][Models]
 
-Building the 1/32" scale Rhine pusher tug 'Egrete'.. Click here
+{% include_relative _buildingatractionengine.md %}
 
-Scratchbuilding building two simple R.C. sailing boats click here..Click here
+{% include_relative _locomotives.md %}
 
-1/24th scale scratchbuilt workboat 'Free Lancer '.. Click here
+{% include_relative _rcboats.md %}
 
-The Clyde Puffer and other earlier boats.. Click here
-
-1/24th scale scratchbuilt workboat 'Free Lancer 2'.. Click here
-
-Scratch building the trailer / sailer ' Silhouette '..buildingthesilhouette.htm
-
-Building a small pusher tug similar to the popular ' Springer ' class.buildingsmallpsher.htm
-
-Scratch building a static model pilot cutter click here. buildingpilotcutter.htm
-
-Workshop topics
-
-Have a look at my workshop........workshops.htm
-
-A model engineer's nostrums click here...... modelengineersnostrums.htm
-
-Tools and things mainly from scrap.... workshoptoolsetc.htm
-
-Model Railway topics
-
-Looking back at OO Gauge Model railways click.. Click here
-
-A Few Miscellaneous Models
-
-Models built over the years a few assorted models.htm
-
-<!-- Allchin -->
-[BuildAllchin]: buildallchin
-[BuildAllchinImg]: /jgdr20/assets/jmm/afinishedallchin.jpg
-
-<!-- Pixie -->
-[PixiesBackground]: pixiesbackground
-[PixiesBackgroundImg]: /jgdr20/assets/jmm/pixie2.jpg
-
-<!-- Tich -->
-[TitchRejuv]: titchrejuvenated
-[TitchRejuvImg]: /jgdr20/assets/jmm/Tichrejuvenated1.JPG
-[TichsPedigree]: tichspedigree
-[BookOnBuilding]: bookonbuilding
-[BookOnBuilding2]: bookonbuilding2
-[BookOnBuilding3]: bookonbuilding3
-
-[modelengineersnostrums]: modelengineersnostrums
-
-[reformatted]: /jgdr20/jmm/johnsmodelmadness/
+{% include jmm_links.md %}
