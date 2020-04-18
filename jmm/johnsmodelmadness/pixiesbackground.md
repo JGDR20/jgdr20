@@ -1,20 +1,17 @@
 ---
 layout: page
-title: Building the Allchin traction engine
+title: Pixie's Background and Build
 author: John G. Richardson 'Cubcoman'
-last_updated: 2011-03-14
+last_updated: 2006-06-23
 ---
 *Content Updated {{ page.last_updated | date: "%a, %d %b %Y" }} by {{ page.author }}*  
 *Formatting Updated {{ "now" | date: "%a, %d %b %Y" }} by Joe Richardson*
 
-## Starting the ' Journey ' ...........some background information
+{% include_relative /_pixiesbackground/_introduction.md %}
 
-*Further down the page are more detailed descriptions of the component parts*
+{% include_relative /_pixiesbackground/_overview.md %}
 
-With two locomotives and a number of stationary engines under the belt we looked around for a more challenging, long term project.
-For years we had enjoyed the sight, smells and sounds of traction engines, redolent of our childhood when we watched what seemed like ' Monsters ' towing trains of trailers.
-The drivers were always friendly when we chatted with them whilst taking on water and on occasions allowed us up onto the footplate or manstand.
-The interest and memories persist.
+{% include_relative /_pixiesbackground/_survey.md %}
 
 <div align="center" class="image-table">
 	<table>

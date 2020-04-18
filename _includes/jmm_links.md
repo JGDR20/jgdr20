@@ -19,9 +19,34 @@
 [Hornplatedrg4]: /jgdr20/assets/jmm/Hornplatedrg4.JPG
 [Bearings]: /jgdr20/assets/jmm/bearings.jpg
 [Crankshaft]: /jgdr20/assets/jmm/Crankshaft.jpg
+[SecondShaft]: /jgdr20/assets/jmm/secondshaft.jpg
+[ThirdShaftBrakeDrum]: /jgdr20/assets/jmm/thirdshaftbrakedrum.jpg
+[WinchDrum]: /jgdr20/assets/jmm/Winchdrum.jpg
+[BoringCylinder]: /jgdr20/assets/jmm/boringcylinder.jpg
+[LinerOnMandrel]: /jgdr20/assets/jmm/lineronmandrel.jpg
+[TrunkGuide]: /jgdr20/assets/jmm/Guide.jpg
+[CylinderFixing]: /jgdr20/assets/jmm/Cylinderfixig.JPG
+[SitingTheCylinderBlock2]: /jgdr20/assets/jmm/sitingthecylinderblock2.jpg
+[Eccentrics]: /jgdr20/assets/jmm/eccentrics.jpg
+[Governer]: /jgdr20/assets/jmm/Governer.jpg
+[WaterPump]: /jgdr20/assets/jmm/waterpump.jpg
+[Manstand1]: /jgdr20/assets/jmm/manstand1.jpg
+[Toolbox]: /jgdr20/assets/jmm/Toolbox.jpg
+[Damper2]: /jgdr20/assets/jmm/Damper2.jpg
+[RampantAllchin]: /jgdr20/assets/jmm/rampantallchin.jpg
+[AllchinTopRH]: /jgdr20/assets/jmm/AllchintopRH.jpg
+
 <!-- Pixie -->
 [PixiesBackground]: pixiesbackground
 [PixiesBackgroundImg]: /jgdr20/assets/jmm/pixie2.jpg
+[PixieAndPeterPan]: /jgdr20/assets/jmm/Pixieandpeterpan.jpg
+[AStart]: /jgdr20/assets/jmm/Astart.jpg
+[FramesPixie]: /jgdr20/assets/jmm/Framespixie.jpg
+[PixiePic9]: /jgdr20/assets/jmm/pixiepic9.jpg
+[AwaitingBoiler]: /jgdr20/assets/jmm/Awaitingboiler.jpg
+[ReadyForBoiler]: /jgdr20/assets/jmm/Readyforboiler.jpg
+[WeighShaft]: /jgdr20/assets/jmm/weighshaft.jpg
+
 <!-- Tich -->
 [TitchRejuv]: titchrejuvenated
 [TitchRejuvImg]: /jgdr20/assets/jmm/Tichrejuvenated1.JPG
@@ -65,6 +90,8 @@
 <!-- Misc -->
 [Beck]: http://www.becks-dampfseite.de/
 [ConcreteSoc]: http://www.concrete.org.uk/
+[Home]: /jgdr20/jmm/johnsmodelmadness
+[BuzzRail]: http://www.buzzrail.uk/
 
 <!-- Workshop -->
 [Workshops]: workshops
