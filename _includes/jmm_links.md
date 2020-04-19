@@ -96,6 +96,17 @@
 <!-- Free Lancer 1 -->
 [BuildingWorkBoat]: buildingworkboat
 [NearlyFinished1]: /jgdr20/assets/jmm/Nearlyfinished1.jpg
+[Finished]: /jgdr20/assets/jmm/finished.JPG
+[EarlySetup]: /jgdr20/assets/jmm/Earlysetup.jpg
+[GiftWrappedForTest3]: /jgdr20/assets/jmm/Giftwrappedfortest3.JPG
+[BathTest]: /jgdr20/assets/jmm/Bathtest.jpg
+[SternSheeting5]: /jgdr20/assets/jmm/Sternsheeting5.JPG
+[UndersideOfHullSheeted]: /jgdr20/assets/jmm/undersideofhullsheeted.jpg
+[AftPortQuarter]: /jgdr20/assets/jmm/Aftportquarter.jpg
+[Fairing]: /jgdr20/assets/jmm/Fairing.jpg
+[NozzlesBeforeCleanup]: /jgdr20/assets/jmm/nozzlesbeforecleanup.JPG
+[Workboat1]: /jgdr20/assets/jmm/Workboat1.JPG
+
 <!-- Free Lancer 2 -->
 [BuildingFreeLancer2]: buildingfreelancer2
 [FreeLancer2Afloat1stTime2]: /jgdr20/assets/jmm/FREELANCER2AFLOAT1STTIME2.JPG

@@ -26,6 +26,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			<td>
 				<a href="Buildingworkboat">
 					<img src="/jgdr20/assets/jmm/finished.jpg">
+					<blockquote> Building a work boat - Free Lancer</blockquote>
 				</a>
 			</td>
 			<td>
