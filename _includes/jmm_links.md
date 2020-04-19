@@ -93,6 +93,7 @@
 <!-- Yacht -->
 [Yacht]: yacht
 [LittleAndLarge]: /jgdr20/assets/jmm/LITTLEANDLARGE.JPG
+
 <!-- Free Lancer 1 -->
 [BuildingWorkBoat]: buildingworkboat
 [NearlyFinished1]: /jgdr20/assets/jmm/Nearlyfinished1.jpg
@@ -106,6 +107,31 @@
 [Fairing]: /jgdr20/assets/jmm/Fairing.jpg
 [NozzlesBeforeCleanup]: /jgdr20/assets/jmm/nozzlesbeforecleanup.JPG
 [Workboat1]: /jgdr20/assets/jmm/Workboat1.JPG
+[BackInTheBath]: /jgdr20/assets/jmm/Backinthebath.JPG
+[PushPostStart]: /jgdr20/assets/jmm/Pushpoststart.JPG
+[TestPieces]: /jgdr20/assets/jmm/Testpieces.jpg
+[Bridge]: /jgdr20/assets/jmm/Bridge.jpg
+[StayInTheShallowEnd]: /jgdr20/assets/jmm/Stayintheshallowend.jpg
+[BulwarksForFinishing]: /jgdr20/assets/jmm/Bulwarksforfinishing.jpg
+[Funnels]: /jgdr20/assets/jmm/funnels.jpg
+[FreeingPortsPortholesAndBalwarkStays]: /jgdr20/assets/jmm/Freeingportsportholesandbulwarkstays.jpg
+[PaintingStart]: /jgdr20/assets/jmm/paintingstart.jpg
+[ColourScheme]: /jgdr20/assets/jmm/Colourscheme.JPG
+[Underhatch]: /jgdr20/assets/jmm/underhatch.JPG
+[ReadyForHandrails]: /jgdr20/assets/jmm/readyforhandrailsjpg.jpg
+[HandrailsInRaw]: /jgdr20/assets/jmm/Handrailsinraw.jpg
+[Access]: /jgdr20/assets/jmm/access.JPG
+[Winches]: /jgdr20/assets/jmm/winches.JPG
+[SternDeck]: /jgdr20/assets/jmm/sterndeck.JPG
+[Crane2]: /jgdr20/assets/jmm/crane2.JPG
+[Crane3]: /jgdr20/assets/jmm/crane3.JPG
+[Sailing2]: /jgdr20/assets/jmm/sailing2.jpg
+[EngineRoom]: /jgdr20/assets/jmm/Engineroom.JPG
+[SternWorks2]: /jgdr20/assets/jmm/Sternworks2.jpg
+[FullFrontal]: /jgdr20/assets/jmm/Fullfrontal.JPG
+[Mast6a]: /jgdr20/assets/jmm/Mast6a.JPG
+[FleetDeck]: /jgdr20/assets/jmm/Fleetdeck.jpg
+[DoryAdded]: /jgdr20/assets/jmm/doryadded.jpg
 
 <!-- Free Lancer 2 -->
 [BuildingFreeLancer2]: buildingfreelancer2
@@ -131,6 +157,7 @@
 [ConcreteSoc]: http://www.concrete.org.uk/
 [Home]: /jgdr20/jmm/johnsmodelmadness
 [BuzzRail]: http://www.buzzrail.uk/
+[Model Boat Madness]: http://www.modelboatmadness.co.uk "Model Boat Madness"
 
 <!-- Workshop -->
 [Workshops]: workshops
