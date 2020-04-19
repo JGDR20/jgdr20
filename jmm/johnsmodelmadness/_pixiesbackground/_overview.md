@@ -1,5 +1,5 @@
 ## Overview
-The finished model on narrow Gauge track is a ' Two man lift '.
+The finished model on Narrow Gauge track is a ' Two man lift '.
 
 Length | Width | Height
 29" (74cm) | 12" (31 cm) | 21" (53 cm)

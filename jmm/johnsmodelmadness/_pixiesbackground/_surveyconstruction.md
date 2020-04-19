@@ -11,7 +11,7 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 				<img src="/jgdr20/assets/jmm/pixiepic9.jpg">
 			</td>
 			<td class="col2">
-				From the dimensional drawings made at Pages Park, sketches were made of the key compnents, these would provide an overall picture of the parts to be made and prove useful in esatablishing the sequence of fabrication and machining operations.
+				<p>From the dimensional drawings made at Pages Park, sketches were made of the key compnents, these would provide an overall picture of the parts to be made and prove useful in esatablishing the sequence of fabrication and machining operations.</p>
 			</td>
 		</tr>
 		<tr>
@@ -47,6 +47,35 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 			</td>
 			<td>
 				<img src="/jgdr20/assets/jmm/weighshaft.jpg">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<p>Due to the considerable heat requirements in boiler manufacture, unlike in the case of Tich which boasts a home built boiler, Pixie's boiler was purchased from Cheddar Models who manufactured to the survey sizes, with due adjustments to ensure free steaming.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/jgdr20/assets/jmm/Paintingunderway1.jpg">
+			</td>
+			<td>
+				<p>With the boiler and all plumbing installed a start could be made on painting. This necessitated complete dismantling, degreasing and removal to a dust free environment ( the greenhouse ).</p>
+				<p>Bondaglass primer was applied followed by many coats of spray applied cellulose and acrylic paint.</p>
+				<p>The smokebox and chimney received motorcycle exhaust enamel.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<p>Of course a driving trolley is an essential in the case of models of this size and a prototype was selected such that coal and water could be carried if required. To reduce drag the wheels, turned from a billet that I found on the road in my travels ( It had literally fallen off of a lorry ! ) were fitted with ball bearings. Snatch on startup is reduced by a heavy spring around the drawbar.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>Pixie and driving trolley, note the well upholstered seat !</p>
+				<p>P.S. The sleeper spacing is typical of certain Narrow Gauge Railways ! No names no packdrill.</p>
+			</td>
+			<td>
+				<img src="/jgdr20/assets/jmm/Pixieanddrivingtrolley.jpg">
 			</td>
 		</tr>
 	</table>

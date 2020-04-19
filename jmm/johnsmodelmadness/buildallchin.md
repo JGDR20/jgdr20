@@ -24,18 +24,18 @@ The interest and memories persist.
 				<blockquote>Prototype</blockquote>
 			</td>
 			<td class="col2">
-				The Alchin build to 1 1/2" scale was serialised in ' Model Engineer ' magazine,
+				<p>The Alchin build to 1 1/2" scale was serialised in ' Model Engineer ' magazine,
 				the author, an accomplished engineer WJ.Hughes' descriptions of the production
 				techniques made the proposition appear to be within our capabilities,
-				and so the die was cast.
+				and so the die was cast.</p>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				The book on building the Allchin, Royal Chester was purchased at the
+				<p>The book on building the Allchin, Royal Chester was purchased at the
 				Model Engineer exhibition and the first few castings bought from Messrs Reeves.
 				So started what became a long and sometimes arduous build,
-				particularly for a concrete engineer with self-taught metalworking skills !
+				particularly for a concrete engineer with self-taught metalworking skills !</p>
 			</td>
 			<td>
 				<img src="/jgdr20/assets/jmm/muchthumbed.JPG">
@@ -47,10 +47,10 @@ The interest and memories persist.
 				<blockquote>On the shelf, part built, for sale</blockquote>
 			</td>
 			<td>
-				It doesn't surprise us that one frequently sees part-built Allchins
+				<p>It doesn't surprise us that one frequently sees part-built Allchins
 				and sets of part-machined castings for sale at exhibitions,
 				or advertised in the model press, unfortunately adverts in the latter case
-				frequently mention failing health as a reason for the sale.
+				frequently mention failing health as a reason for the sale.</p>
 			</td>
 		</tr>
 	</table>
@@ -66,12 +66,12 @@ At a recent exhibition I watched a fellow visitor purchase the book and took the
 	<table>
 		<tr>
 			<td class="col2">
-				Looking back over my activities, I learned a great deal, honed my skills
+				<p>Looking back over my activities, I learned a great deal, honed my skills
 				and have now a model of which I can be reasonably proud.
 				I work slowly and often remake items that do not meet my own set standards.
 				Not the least of the challenges was to understand how the engine worked and
 				in the back of the mind was always the question....
-				' when finished, however long it takes, will it work ? '
+				' when finished, however long it takes, will it work ? '</p>
 			</td>
 			<td class="col2">
 				<img src="/jgdr20/assets/jmm/Gearboxdownlh.jpg">
@@ -84,7 +84,7 @@ At a recent exhibition I watched a fellow visitor purchase the book and took the
 The finished model measurements are as follows; 
 
 Length | Width across wheels | Height 
-24" (81 cm ) | 12" (31 cm ) | 18" (48 cm )
+24" (81 cm) | 12" (31 cm) | 18" (48 cm)
 
 I keep a log of my modelling activities and see that I made a start on the chimney, fashioned from a piece of reinforcing bar for concrete, on the 1st of February 1996.
 The model was completed with the addition of the second-shaft cover on the 17th April 2004 after a total of 1358 hours total worked.
@@ -100,7 +100,7 @@ Of course the overall period included making the various jigs and fittings to co
 				<blockquote>Gleaming new boiler</blockquote>
 			</td>
 			<td class="col2">
-				I have to add that although I had built the boiler for ' Tich ' it was apparent that as was the case in building the 2 1/2" scale model locomotive ' Pixie ',the mass of copper in the Allchin boiler would demand greater heat input than I could achieve with my equipment. The ' Allchin ' boiler was thus sublet, more detail later....
+				<p>I have to add that although I had built the boiler for ' Tich ' it was apparent that as was the case in building the 2 1/2" scale model locomotive ' Pixie ',the mass of copper in the Allchin boiler would demand greater heat input than I could achieve with my equipment. The ' Allchin ' boiler was thus sublet, more detail later....</p>
 			</td>
 		</tr>
 	</table>

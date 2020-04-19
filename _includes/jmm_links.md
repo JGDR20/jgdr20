@@ -46,11 +46,39 @@
 [AwaitingBoiler]: /jgdr20/assets/jmm/Awaitingboiler.jpg
 [ReadyForBoiler]: /jgdr20/assets/jmm/Readyforboiler.jpg
 [WeighShaft]: /jgdr20/assets/jmm/weighshaft.jpg
+[PaintingUnderway1]: /jgdr20/assets/jmm/Paintingunderway1.jpg
+[PixieAndDrivingTrolley]: /jgdr20/assets/jmm/Pixieanddrivingtrolley.jpg
+[GeneralViewPixieLH]: /jgdr20/assets/jmm/generalliewpixielh.jpg
+[PlanOnFrameSetC]: /jgdr20/assets/jmm/plan%20onframesetc.JPG
+[AllTheBits]: /jgdr20/assets/jmm/allthebits.JPG
+[CotterPixie]: /jgdr20/assets/jmm/cotterpixie.JPG
+[WheelsCylinders]: /jgdr20/assets/jmm/wheelscylinders.jpg
+[DieBlock3]: /jgdr20/assets/jmm/dieblock3.jpg
+[FullFrontPixie]: /jgdr20/assets/jmm/fullfrontpixie.jpg
+[SafetyPixie]: /jgdr20/assets/jmm/safetypixie.jpg
+[NakedSafetyPixie]: /jgdr20/assets/jmm/nakedsafetypixie.jpg
+[SaddleTank]: /jgdr20/assets/jmm/saddletank.jpg
+[Lamp]: /jgdr20/assets/jmm/lamp.jpg
+[Regulator]: /jgdr20/assets/jmm/regulator.jpg
+[FireDoorPixie]: /jgdr20/assets/jmm/firedoorpixie.jpg
+[FiringUp]: /jgdr20/assets/jmm/Firing%20up.jpg
+[BunkerAndMakerPlate]: /jgdr20/assets/jmm/Bunker%20and%20makers%20plate.jpg
+[BrakeStandPixie]: /jgdr20/assets/jmm/brakestandpixie.jpg
+[GaugePixie]: /jgdr20/assets/jmm/gaugespixie.jpg
+[DriversEyeView]: /jgdr20/assets/jmm/driverseyeview.JPG
+[RearPixie]: /jgdr20/assets/jmm/rearpixie.jpg
+[FirstRun]: /jgdr20/assets/jmm/first%20run.jpg
 
 <!-- Tich -->
-[TitchRejuv]: titchrejuvenated
-[TitchRejuvImg]: /jgdr20/assets/jmm/Tichrejuvenated1.JPG
 [TichsPedigree]: tichspedigree
+[TitchRejuvImg]: /jgdr20/assets/jmm/Tichrejuvenated1.JPG
+[BirthdayRefit]: /jgdr20/assets/jmm/Birthdayrefit.jpg
+[TichsSmokebox]: /jgdr20/assets/jmm/Tichssmokebox.JPG
+[TitchDSCF0030]: /jgdr20/assets/jmm/DSCF0030.JPG
+[TitchDSCF0035]: /jgdr20/assets/jmm/DSCF0035.JPG
+[TitchDSCF0033]: /jgdr20/assets/jmm/DSCF0033.JPG
+[TichsFootplate]: /jgdr20/assets/jmm/Tichsfootplate.JPG
+
 <!-- Minnie -->
 [MinnieImg]: /jgdr20/assets/jmm/petersminnie%20finished.JPG
 <!-- Rocket -->
