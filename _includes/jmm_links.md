@@ -80,7 +80,7 @@
 [TichsFootplate]: /jgdr20/assets/jmm/Tichsfootplate.JPG
 
 <!-- Minnie -->
-[MinnieImg]: /jgdr20/assets/jmm/petersminnie_finished.JPG
+[MinnieImg]: /jgdr20/assets/jmm/petersminnie_finished.jpg
 <!-- Rocket -->
 [Rocket]: /jgdr20/assets/jmm/rocketbypeterbeck.JPG
 [Rocket2]: /jgdr20/assets/jmm/rockketbypeterbeck2.JPG
