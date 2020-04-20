@@ -37,7 +37,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			</td>
 			<td>
 				<a href="yacht">
-					<img src="/jgdr20/assets/jmm/Littleandlarge.JPG">
+					<img src="/jgdr20/assets/jmm/littleandlarge.jpg">
 				</a>
 			</td>
 		</tr>

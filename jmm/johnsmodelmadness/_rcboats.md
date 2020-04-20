@@ -40,7 +40,7 @@ The step- by- step build is illustrated here: [Click here][BuildingWorkBoat]
 			</td>
 			<td class="col2">
 				' Free Lancer ' a 1/24" scale, scratchbuilt workboat ' .....own design based on details of boats taken from the 'web'.<br>
-				To see the construction <a href="BuildingWorkBoat">Click here</a>
+				To see the construction <a href="buildingworkboat">Click here</a>
 			</td>
 		</tr>
 		<tr>
@@ -63,11 +63,11 @@ A Recently added page describing two successful radio controlled model sailing b
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/LITTLEANDLARGE.JPG">
+				<img src="/jgdr20/assets/jmm/littleandlarge.jpg">
 			</td>
 			<td class="col2">
 				Both are built mainly from scrap and reclaimed materials.<br>
-				To see the construction <a href="Yacht">Click here</a>
+				To see the construction <a href="yacht">Click here</a>
 			</td>
 		</tr>
 	</table>
@@ -84,7 +84,7 @@ This page describes construction of a small trailer sailer / cruiser which I use
 				<img src="/jgdr20/assets/jmm/Silhouette%201.JPG">
 			</td>
 			<td>
-				To see the construction <a href="BuildingTheSilhouette">Click here</a>
+				To see the construction <a href="buildingthesilhouette">Click here</a>
 			</td>
 		</tr>
 	</table>
