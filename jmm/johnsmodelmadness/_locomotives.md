@@ -4,7 +4,7 @@
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Tichrejuvenated1.jpg">
+				<img src="/jgdr20/assets/jmm/tichrejuvenated1.jpg">
 			</td>
 			<td class="col2">
 				3/4" scale ' Tich ' for 3 1/2 gauge track (to LBSC drawings).<br>

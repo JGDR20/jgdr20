@@ -19,7 +19,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 				<a href="tichspedigree">
 					<img src="/jgdr20/assets/jmm/tichrejuvenated1.jpg">
 				</a>
-				<blockquote>Titch's Pedigree</blockquote>
+				<blockquote>Tich's Pedigree</blockquote>
 			</td>
 		</tr>
 		<tr>

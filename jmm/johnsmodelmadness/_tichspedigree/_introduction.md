@@ -1,6 +1,6 @@
 ## Introducing Tich And The Designer
 
-![TitchRejuvImg]
+![TichRejuvImg]
 
 Length | Width | Height
 16" (41 cm) | 7" (18 cm) | 10" (25 cm)
