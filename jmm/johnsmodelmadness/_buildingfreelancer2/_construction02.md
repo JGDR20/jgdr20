@@ -7,7 +7,7 @@ Added ballast combined with the weight of the batteries and the upper works will
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Shrinkwrappedpondtest.jpg">
+				<img src="/jgdr20/assets/jmm/shrinkwrappedpondtest.jpg">
 			</td>
 			<td class="col2">
 				<p>First ' Dip ' in the water. It is useful at this stage to actually float the hull and think about ballast, weight of the upper works etc.</p>

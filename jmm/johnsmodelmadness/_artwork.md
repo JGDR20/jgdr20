@@ -34,10 +34,10 @@ He found himself in many demanding situations
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/a5.JPG">
+				<img src="/jgdr20/assets/jmm/a5.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/CRTOON03.jpg">
+				<img src="/jgdr20/assets/jmm/crtoon03.jpg">
 			</td>
 		</tr>
 	</table>

@@ -17,7 +17,7 @@ You have only to look at illustrations of the craft that the construction indust
 		</tr>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Backinthebath.JPG">
+				<img src="/jgdr20/assets/jmm/backinthebath.jpg">
 			</td>
 			<td class="col2">
 				<p>At this stage it seemed, in light of the ' Out of my head ' design, worthwhile running another ' Bath test ' to check the freeboard with all the gear onboard. The boat floated level and with plenty of freeboard to allow more additions in the form of deckhouse, crane, winches, bridge deck and all the other details such as rails and mast. The polythene sheeting serves to keep the hull sheeting dry, as it is not yet sealed.</p>
@@ -28,7 +28,7 @@ You have only to look at illustrations of the craft that the construction indust
 				<p>The forward deckhouse is a one piece structure sitting over the coamings bonded to the side decks. This arrangement will provide ample access to the motors and battery or batteries.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Pushpoststart.JPG">
+				<img src="/jgdr20/assets/jmm/pushpoststart.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -48,7 +48,7 @@ You have only to look at illustrations of the craft that the construction indust
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Testpieces.jpg">
+				<img src="/jgdr20/assets/jmm/testpieces.jpg">
 			</td>
 			<td>
 				<p>In the illustration the two pieces of ply on the foredeck are test pieces. All joints are made with PVA and just to make sure of its waterproof properties I soaked a joint for three days to test it.......100% OK.</p>
@@ -60,7 +60,7 @@ You have only to look at illustrations of the craft that the construction indust
 				<p>The wheelhouse is virtually completed except internal fittings, and ready for sanding and filling. External glazing will be applied after painting.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Bridge.jpg">
+				<img src="/jgdr20/assets/jmm/bridge.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -80,7 +80,7 @@ You have only to look at illustrations of the craft that the construction indust
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Stayintheshallowend.jpg">
+				<img src="/jgdr20/assets/jmm/stayintheshallowend.jpg">
 				<blockquote>Stay in the Shallow End!</blockquote>
 			</td>
 			<td>
@@ -107,7 +107,7 @@ You have only to look at illustrations of the craft that the construction indust
 				<p>Bulwarks installed. Holding the ply to the bend and fixing it by glueng and pinning was one of theose operations calling for four hands ! Here the bulwarks are trimmed ready for strutting and capping.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Bulwarksforfinishing.jpg">
+				<img src="/jgdr20/assets/jmm/bulwarksforfinishing.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -150,7 +150,7 @@ railway modelers say ' There is a prototype for everything ', and so there is.
 				<p>Bulwark stays and freeing ports cut. The portholes called for a large drill which we don't have, I cut the holes with a small drill and brought them to size with a conical grinding wheel.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Freeingportsportholesandbulwarkstays.jpg">
+				<img src="/jgdr20/assets/jmm/freeingportsportholesandbulwarkstays.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ railway modelers say ' There is a prototype for everything ', and so there is.
 				<p>A colour scheme is emerging ! The waterline has yet to be finally established, hence the white strip. The reflected light in the image does not do justice to the ' cutting in ' between colours. A coat of matt varnish will improve the overall appearance later. It will also be neecessary to decide on the final appearance, pristine new or weathered in service !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Colourscheme.JPG">
+				<img src="/jgdr20/assets/jmm/colourscheme.jpg">
 			</td>
 		</tr>
 	</table>

@@ -4,7 +4,7 @@ On a more serious note, it was time to complete the controls on ' Free Lancer '.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Engineroom.JPG">
+				<img src="/jgdr20/assets/jmm/engineroom.jpg">
 			</td>
 			<td class="col2">
 				<p>The engine room, yet to be spruced up with a lick of paint on the raw ply. A vent in the deckhouse side allows air to circulate around the speed controller. A fan will be added later.</p>
@@ -16,7 +16,7 @@ On a more serious note, it was time to complete the controls on ' Free Lancer '.
 				<p>The stern hatch removed, home produced steering gear exposed, plenty of space for further switches etc.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Sternworks2.jpg">
+				<img src="/jgdr20/assets/jmm/sternworks2.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -40,7 +40,7 @@ Meanwhile here are a couple of shots of the near-finished article.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Fullfrontal.JPG">
+				<img src="/jgdr20/assets/jmm/fullfrontal.jpg">
 			</td>
 			<td class="col2">
 				<p>Here is a ' Full frontal ' view. Demountable cargo deck, more rails, mast, navigation lights, krieglights etc., to be added.</p>
@@ -53,7 +53,7 @@ Meanwhile here are a couple of shots of the near-finished article.
 				<p>Next spring will see the pond extended to provide an ' in-house ' test tank. DV.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Nearlyfinished1.jpg">
+				<img src="/jgdr20/assets/jmm/nearlyfinished1.jpg">
 			</td>
 		</tr>
 	</table>

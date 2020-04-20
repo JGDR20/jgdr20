@@ -6,7 +6,7 @@ Currently activities are focussed on building model boats........so a page on th
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Egrete.jpg">
+				<img src="/jgdr20/assets/jmm/egrete.jpg">
 			</td>
 			<td class="col2">
 				' Egrete ' A Rhine ' Pusher tug ' in 1/2" scale from free drawings published in Model Boats Magazine.<br>
@@ -36,7 +36,7 @@ The step- by- step build is illustrated here: [Click here][BuildingWorkBoat]
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Nearlyfinished1.jpg">
+				<img src="/jgdr20/assets/jmm/nearlyfinished1.jpg">
 			</td>
 			<td class="col2">
 				' Free Lancer ' a 1/24" scale, scratchbuilt workboat ' .....own design based on details of boats taken from the 'web'.<br>

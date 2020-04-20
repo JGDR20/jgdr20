@@ -55,7 +55,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Ruddertubes.jpg">
+				<img src="/jgdr20/assets/jmm/ruddertubes.jpg">
 			</td>
 			<td>
 				<p>The rudder tubes are turned from Hex. P/bronze, bored 7/32" for S/steel posts. Expensive materials but offcuts left from the earlier <a href="buildallchin">'Allchin' traction engine build</a>.</p>
@@ -66,12 +66,12 @@
 				<p>Rudder tubes set temporarily into place. They will be 'Araldited' into the stern block. For the moment they are there to check the propshaft position and inclination.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Ruddertubesinstalled.jpg">
+				<img src="/jgdr20/assets/jmm/ruddertubesinstalled.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Propshafttemplate.jpg">
+				<img src="/jgdr20/assets/jmm/propshafttemplate.jpg">
 			</td>
 			<td>
 				<p>The propshaft template used to ensure correct inclination now determines the length of projection to coincide with the centre line of the rudder post and steering nozzle.</p>

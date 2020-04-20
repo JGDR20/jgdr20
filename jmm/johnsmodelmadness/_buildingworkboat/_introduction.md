@@ -14,7 +14,7 @@ As regards design the boat will include many of the details that I enjoy when lo
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/finished.JPG">
+				<img src="/jgdr20/assets/jmm/finished.jpg">
 			</td>
 			<td class="col2">
 				<p>Completed boat on test, it's a pity the pond isn't larger ! The intention is to enlarge it this spring so that my fleet has a 'Home water'</p>

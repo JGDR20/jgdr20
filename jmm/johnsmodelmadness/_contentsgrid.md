@@ -25,7 +25,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		<tr>
 			<td>
 				<a href="buildingworkboat">
-					<img src="/jgdr20/assets/jmm/finished.JPG">
+					<img src="/jgdr20/assets/jmm/finished.jpg">
 					<blockquote> Building a work boat - Free Lancer</blockquote>
 				</a>
 			</td>
@@ -44,12 +44,12 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		<tr>
 			<td>
 				<a href="buildingthepusherold">
-					<img src="/jgdr20/assets/jmm/Egrete1.jpg">
+					<img src="/jgdr20/assets/jmm/egrete1.jpg">
 				</a>
 			</td>
 			<td>
 				<a href="buildingthesilhouette">
-					<img src="/jgdr20/assets/jmm/silbow2.JPG">
+					<img src="/jgdr20/assets/jmm/silbow2.jpg">
 				</a>
 			</td>
 			<td>
@@ -61,7 +61,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		<tr>
 			<td>
 				<a href="workshops">
-					<img src="/jgdr20/assets/jmm/Workshop222.jpg">
+					<img src="/jgdr20/assets/jmm/workshop222.jpg">
 				</a>
 			</td>
 			<td>
@@ -71,7 +71,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			</td>
 			<td>
 				<a href="buildingpilotcutter">
-					<img src="/jgdr20/assets/jmm/pilotdecbeams_installed.JPG">
+					<img src="/jgdr20/assets/jmm/pilotdecbeams_installed.jpg">
 				</a>
 			</td>
 		</tr>

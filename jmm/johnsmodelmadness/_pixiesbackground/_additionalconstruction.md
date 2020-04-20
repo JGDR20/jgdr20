@@ -21,12 +21,12 @@ Construction techniques are described and will hopefully assist in the construct
 				<p>This view of the locomotive under construction shows the frames with the riveted angle steel stiffeners, Rigidity is ensured by transverse frames and the smokebox saddle, substantial angles also contribute at the joint between buffer and drag beam and main frames.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Astart.jpg">
+				<img src="/jgdr20/assets/jmm/astart.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/plan%20onframesetc.JPG">
+				<img src="/jgdr20/assets/jmm/plan%20onframesetc.jpg">
 			</td>
 			<td>
 				<p>Overhead view .The leaf springs are ' dummies' although correct in detail. Actual suspension is catered for by rubber blocks inserted between the upper horn member and the axle boxes of the front axle. In practice this proves adequate to provide equalisation. Further detail in the above illustration will be described later.</p>
@@ -38,12 +38,12 @@ Construction techniques are described and will hopefully assist in the construct
 				<p>The coupling blocks were fabricated from a number of TIG welded pieces of mild steel. This avoided the task of making a pattern with cores to form the slots. These assemblies were subsequently milled and ground to shape.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Framespixie.JPG">
+				<img src="/jgdr20/assets/jmm/framespixie.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Awaitingboiler.jpg">
+				<img src="/jgdr20/assets/jmm/awaitingboiler.jpg">
 			</td>
 			<td>
 				<p>This illustration shows the loco with some of the major features installed, notably the cylinders, motionwork, smokebox, spectacle plate and bunkers. Although the frames etc. are bright mild steel,the platework is mainly of stainless steel, quite tricky for the amateur to work, drill bitts are easily burned out unless kept cutting, but it is guaranteed to ensure longevity ( of the model ! ).</p>
@@ -54,7 +54,7 @@ Construction techniques are described and will hopefully assist in the construct
 				<p>Here is a last shot of the main components, in the raw. I like to see the model parts in the bare metal stage; the Stainless and Mild Steel gleam although the Phosphor Bronze is beginning to oxydise and will need a clean up prior to painting.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/allthebits.JPG">
+				<img src="/jgdr20/assets/jmm/allthebits.jpg">
 			</td>
 		</tr>
 	</table>
@@ -66,7 +66,7 @@ Construction techniques are described and will hopefully assist in the construct
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/cotterpixie.JPG">
+				<img src="/jgdr20/assets/jmm/cotterpixie.jpg">
 			</td>
 			<td class="col2">
 				<p>The wheels being solid ( spokeless ) were cast from a simple pattern of turned hardwood produced by a woodturner friend. The balance weights were carved and planted onto the pattern prior to despatch to the foundry where they were cast in grey iron. The crossheads were fabricated from m.s. and fitted with slippers milled from phosphor bronze.</p>
@@ -167,7 +167,7 @@ also bolt and rivet sizes are to scale to the extent that the main angle to fram
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Firing%20up.jpg">
+				<img src="/jgdr20/assets/jmm/firing%20up.jpg">
 			</td>
 			<td>
 				<p>I am sure that the visitor can sense the thrill experience when firing up the loco for the first time after some years of anticipation! Paraffin soaked sticks and some crushed steam coal soon generated enough steam to permit the blower to be employed in building the 'incandescence' necessary to power up the works. We tried a gas burner earlier but it was unsuccessful - Coal is the thing.</p>
@@ -178,7 +178,7 @@ also bolt and rivet sizes are to scale to the extent that the main angle to fram
 				<p>The bunkers are from stainless steel, bent round a slightly tapered hardwood jig, allowed for the spring properties of the sheet. Makers plates were photo enlarged, and the black and white negative sent away for etching onto brass, on receipt they were flooded with enamel and polished back to expose the cast lettering.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Bunker%20and%20makers%20plate.jpg">
+				<img src="/jgdr20/assets/jmm/bunker%20and%20makers%20plate.jpg">
 				<blockquote>This image is from the prototype</blockquote>
 			</td>
 		</tr>
@@ -200,7 +200,7 @@ also bolt and rivet sizes are to scale to the extent that the main angle to fram
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/driverseyeview.JPG">
+				<img src="/jgdr20/assets/jmm/driverseyeview.jpg">
 			</td>
 			<td>
 				<p>This is a drivers' eye view of the backhead taken through the driving back. With this back replacing the scale back the loco can be fired and the gauges eaily seen. In the LH bunker is a hand pump. Coal is stored in the driving trolley.</p>

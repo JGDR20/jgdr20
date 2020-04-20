@@ -27,12 +27,12 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 				<p>The sheets alongside Pixie area few of the many ( 150 ) dimensioned sketches prepared at site</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Awaitingboiler.jpg">
+				<img src="/jgdr20/assets/jmm/awaitingboiler.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Readyforboiler.jpg">
+				<img src="/jgdr20/assets/jmm/readyforboiler.jpg">
 			</td>
 			<td>
 				<p>Now the locomotive is really taking shape. The major components are assembled, mainly constructed using stainless steel. The saddle tank is of mild steel for flanging purposes, lined with fibreglass.</p>
@@ -56,7 +56,7 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/Paintingunderway1.jpg">
+				<img src="/jgdr20/assets/jmm/paintingunderway1.jpg">
 			</td>
 			<td>
 				<p>With the boiler and all plumbing installed a start could be made on painting. This necessitated complete dismantling, degreasing and removal to a dust free environment ( the greenhouse ).</p>
@@ -75,7 +75,7 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 				<p>P.S. The sleeper spacing is typical of certain Narrow Gauge Railways ! No names no packdrill.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/Pixieanddrivingtrolley.jpg">
+				<img src="/jgdr20/assets/jmm/pixieanddrivingtrolley.jpg">
 			</td>
 		</tr>
 	</table>
