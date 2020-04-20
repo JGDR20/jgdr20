@@ -17,7 +17,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			</td>
 			<td class="col3">
 				<a href="tichspedigree">
-					<img src="/jgdr20/assets/jmm/Tichrejuvenated1.JPG">
+					<img src="/jgdr20/assets/jmm/tichrejuvenated1.jpg">
 				</a>
 				<blockquote>Titch's Pedigree</blockquote>
 			</td>

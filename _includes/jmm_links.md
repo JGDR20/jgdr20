@@ -71,16 +71,16 @@
 
 <!-- Tich -->
 [TichsPedigree]: tichspedigree
-[TitchRejuvImg]: /jgdr20/assets/jmm/Tichrejuvenated1.JPG
+[TichRejuvImg]: /jgdr20/assets/jmm/tichrejuvenated1.jpg
 [BirthdayRefit]: /jgdr20/assets/jmm/Birthdayrefit.jpg
 [TichsSmokebox]: /jgdr20/assets/jmm/Tichssmokebox.JPG
-[TitchDSCF0030]: /jgdr20/assets/jmm/DSCF0030.JPG
-[TitchDSCF0035]: /jgdr20/assets/jmm/DSCF0035.JPG
-[TitchDSCF0033]: /jgdr20/assets/jmm/DSCF0033.JPG
+[TichDSCF0030]: /jgdr20/assets/jmm/DSCF0030.JPG
+[TichDSCF0035]: /jgdr20/assets/jmm/DSCF0035.JPG
+[TichDSCF0033]: /jgdr20/assets/jmm/DSCF0033.JPG
 [TichsFootplate]: /jgdr20/assets/jmm/Tichsfootplate.JPG
 
 <!-- Minnie -->
-[MinnieImg]: /jgdr20/assets/jmm/petersminnie%20finished.JPG
+[MinnieImg]: /jgdr20/assets/jmm/petersminnie_finished.JPG
 <!-- Rocket -->
 [Rocket]: /jgdr20/assets/jmm/rocketbypeterbeck.JPG
 [Rocket2]: /jgdr20/assets/jmm/rockketbypeterbeck2.JPG
@@ -161,7 +161,7 @@
 <!-- Railways -->
 [OOGauge]: oogauge
 [WidgetsWharf]: /jgdr20/assets/jmm/Widgetswharf.jpg
-[DocksideCranes]: /jgdr20/assets/jmm/Docksidecranes.jpg
+[DocksideCranes]: /jgdr20/assets/jmm/docksidecranes.jpg
 
 <!-- Misc -->
 [Beck]: http://www.becks-dampfseite.de/

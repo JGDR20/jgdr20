@@ -49,7 +49,7 @@ The step- by- step build is illustrated here: [Click here][BuildingWorkBoat]
 				To see the construction <a href="buildingfreelancer2">Click here</a>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/FREELANCER2AFLOAT1STTIME2.JPG">
+				<img src="/jgdr20/assets/jmm/freelancer2afloat1sttime2.jpg">
 			</td>
 		</tr>
 	</table>
@@ -81,7 +81,7 @@ This page describes construction of a small trailer sailer / cruiser which I use
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/Silhouette%201.JPG">
+				<img src="/jgdr20/assets/jmm/silhouette_1.jpg">
 			</td>
 			<td>
 				To see the construction <a href="buildingthesilhouette">Click here</a>
