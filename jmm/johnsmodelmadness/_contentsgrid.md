@@ -71,7 +71,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			</td>
 			<td>
 				<a href="buildingpilotcutter">
-					<img src="/jgdr20/assets/jmm/pilotdecbeams installed.jpg">
+					<img src="/jgdr20/assets/jmm/pilotdecbeams_installed.jpg">
 				</a>
 			</td>
 		</tr>
