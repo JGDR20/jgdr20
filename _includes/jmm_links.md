@@ -136,6 +136,17 @@
 <!-- Free Lancer 2 -->
 [BuildingFreeLancer2]: buildingfreelancer2
 [FreeLancer2Afloat1stTime2]: /jgdr20/assets/jmm/FREELANCER2AFLOAT1STTIME2.JPG
+[Lancer2Afloat]: /jgdr20/assets/jmm/lancer2afloat.jpg
+[Framing5]: /jgdr20/assets/jmm/framing5%20.jpg
+[FramingTopSternR]: /jgdr20/assets/jmm/05050103.jpg
+[FramingBowR]: /jgdr20/assets/jmm/05050106.jpg
+[SternSkin]: /jgdr20/assets/jmm/05050602.jpg
+[RudderTubes]: /jgdr20/assets/jmm/Ruddertubes.jpg
+[RudderTubesInstalled]: /jgdr20/assets/jmm/Ruddertubesinstalled.jpg
+[PropshaftTemplate]: /jgdr20/assets/jmm/Propshafttemplate.jpg
+[ShrinkwrappedPondTest]: /jgdr20/assets/jmm/Shrinkwrappedpondtest.jpg
+[EngineRoom2]: /jgdr20/assets/jmm/engineroom2.jpg
+
 <!-- The Clyde Puffer -->
 [TheClydePuffer]: theclydepuffer
 <!-- Silhouette -->
@@ -157,7 +168,7 @@
 [ConcreteSoc]: http://www.concrete.org.uk/
 [Home]: /jgdr20/jmm/johnsmodelmadness
 [BuzzRail]: http://www.buzzrail.uk/
-[Model Boat Madness]: http://www.modelboatmadness.co.uk "Model Boat Madness"
+[Model Boat Mayhem]: http://www.modelboatmayhem.co.uk "Model Boat Mayhem"
 
 <!-- Workshop -->
 [Workshops]: workshops

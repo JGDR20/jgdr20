@@ -54,7 +54,7 @@ It is a mix of many of the features that I enjoy when looking at the real thing 
 
 Motors have still to be installed using a solid connection during fixing in place of the eventual universal joint.
 This to line motor and shaft, critical to vibration-free running.
-This is an idea gleaned from Martin, Webmaster and owner at [Model Boat Madness] - a site that I visit frequently
+This is an idea gleaned from Martin, Webmaster and owner at [Model Boat Mayhem] - a site that I visit frequently
 and where Martin kindly exhibits models made by many people
 ( many more skilled than me, but few making freelanced vessels built from scratch and scrap such as **Free Lancer** ).
 

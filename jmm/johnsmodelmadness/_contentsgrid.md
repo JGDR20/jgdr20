@@ -32,6 +32,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			<td>
 				<a href="buildingfreelancer2">
 					<img src="/jgdr20/assets/jmm/lancer2afloat.jpg">
+					<blockquote> Building the Free Lancer 2</blockquote>
 				</a>
 			</td>
 			<td>
