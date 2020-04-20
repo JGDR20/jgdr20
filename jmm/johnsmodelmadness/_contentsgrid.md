@@ -24,8 +24,8 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		</tr>
 		<tr>
 			<td>
-				<a href="Buildingworkboat">
-					<img src="/jgdr20/assets/jmm/finished.jpg">
+				<a href="buildingworkboat">
+					<img src="/jgdr20/assets/jmm/finished.JPG">
 					<blockquote> Building a work boat - Free Lancer</blockquote>
 				</a>
 			</td>
@@ -71,7 +71,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			</td>
 			<td>
 				<a href="buildingpilotcutter">
-					<img src="/jgdr20/assets/jmm/pilotdecbeams%20installed.jpg">
+					<img src="/jgdr20/assets/jmm/pilotdecbeams installed.jpg">
 				</a>
 			</td>
 		</tr>
