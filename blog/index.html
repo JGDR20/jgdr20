@@ -18,10 +18,22 @@ alt_title: Blog
             {{ post.title | escape }}
           </a>
         </h3>
+		{%- if post.location.size > 0 -%}
+			{%- assign locations = post.location -%}
+			<span class="post-location">Postmark:
+			{%- for location in locations -%}
+				{%- if forloop.last -%}
+					{{ location | prepend: " "}}
+				{%- else -%}
+					{{ location | prepend: " <del>" | append: "</del>" }}
+				{%- endif -%}
+			{%- endfor -%}
+			</span><br>
+		{%- endif -%}
 		{%- if post.voice -%}
 			<span class="post-voice">{{ post.voice }}:</span>
 		{%- endif -%}
-        {%- if site.show_excerpts -%}
+        {% if site.show_excerpts %}
           {{ post.excerpt }}
         {%- endif -%}
       </li>

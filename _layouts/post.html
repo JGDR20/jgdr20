@@ -12,7 +12,19 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+	  {%- if page.location.size > 0 -%}
+			{%- assign locations = page.location -%}
+			<br><span class="post-location">Postmark:
+			{%- for location in locations -%}
+				{%- if forloop.last -%}
+					{{ location | prepend: " "}}
+				{%- else -%}
+					{{ location | prepend: " <del>" | append: "</del>" }}
+				{%- endif -%}
+			{%- endfor -%}
+			</span>
+		{%- endif -%}</p>
 	  {%- if page.voice -%}
       <h1 class="p-voice h-card">Diary of <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.voice }}</span></span></h1>
       {%- endif -%}</p>

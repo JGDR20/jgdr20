@@ -104,12 +104,14 @@
   padding-right: 0;
   float: right;
   height: auto; /* Full-height: remove this if you want "auto" height */
-  width: 130px; /* Set the width of the sidebar */
+  width: 150px; /* Set the width of the sidebar */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   right: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
-  margin-left: 10px;
+  margin-left: 5px;
+  border-left: 1px solid;
+  padding-left: 5px;
   
   .page-link {
     color: $text-color;
@@ -230,6 +232,13 @@
 .post-voice {
   font-size: $small-font-size;
   color: $grey-color-dark;
+}
+
+.post-location {
+  font-family: "Courier New", Monospace;
+  font-size: $small-font-size;
+  color: $grey-color-dark;
+  text-transform: uppercase;
 }
 
 .image-table {
