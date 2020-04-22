@@ -6,7 +6,7 @@ Length | Width | Height
 16" (41 cm) | 7" (18 cm) | 10" (25 cm)
 
 Many years ago, the magazine ' **Model Enginer** ' published, over a period of some years,
-a series of articles by a writer using the pen name LBSC ( Taken from that of the London, Brigton and South Coast railway ! ).
+a series of articles by a writer using the pen name [LBSC] ( Taken from that of the London, Brighton and South Coast railway ! ).
 He described his writing as ' The words and music '.
 These articles and others, all of which have been published in plan and book form,
 have introduced thousands of us to model locomotive construction.

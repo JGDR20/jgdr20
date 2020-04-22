@@ -146,6 +146,33 @@
 [PropshaftTemplate]: /jgdr20/assets/jmm/propshafttemplate.jpg
 [ShrinkwrappedPondTest]: /jgdr20/assets/jmm/shrinkwrappedpondtest.jpg
 [EngineRoom2]: /jgdr20/assets/jmm/engineroom2.jpg
+[SternBalwark1]: /jgdr20/assets/jmm/sternbulwark1.jpg
+[BulwarkTrimmed]: /jgdr20/assets/jmm/05052807.jpg
+[FL2InsideHull]: /jgdr20/assets/jmm/05052812.jpg
+[Mockup]: /jgdr20/assets/jmm/mockup.jpg
+[OnwardsAndUpwards]: /jgdr20/assets/jmm/onwardsandupwards.jpg
+[Upperworks2]: /jgdr20/assets/jmm/upperworks2.jpg
+[InForADip2]: /jgdr20/assets/jmm/inforadip2.jpg
+[FL2Nozzles]: /jgdr20/assets/jmm/fl2nozzles.jpg
+[LargeAndSmall1]: /jgdr20/assets/jmm/largeandsmall1.jpg
+[LargeAndSmall2]: /jgdr20/assets/jmm/largeandsmall2.jpg
+[BowViewPart8]: /jgdr20/assets/jmm/bow%20view%20part%208.jpg
+[SternViewPart8]: /jgdr20/assets/jmm/stern%20view%20part%208.jpg
+[SternView2Part8]: /jgdr20/assets/jmm/stern%20view%202%20part%208.jpg
+[AnchorWinch2]: /jgdr20/assets/jmm/anchorwinch2.jpg
+[AnchorWellsAndAnchors]: /jgdr20/assets/jmm/anchorwellsandanchors.jpg
+[SternDeck3]: /jgdr20/assets/jmm/sterndeck%203.jpg
+[Warps]: /jgdr20/assets/jmm/warps.jpg
+[WeHaveMast]: /jgdr20/assets/jmm/wehavemast.jpg
+[EngineRoom3]: /jgdr20/assets/jmm/engineroom3.jpg
+[FuseSetC]: /jgdr20/assets/jmm/fusesetc.jpg
+[BECAndFuses]: /jgdr20/assets/jmm/becandfuses.jpg
+[RadioDepartment]: /jgdr20/assets/jmm/radiodepartment.jpg
+[KnuckleCrane]: /jgdr20/assets/jmm/knucklecrane.jpg
+[SuperstructureInPlace2]: /jgdr20/assets/jmm/superstructureinplace2.jpg
+[SuperstructureRemoved]: /jgdr20/assets/jmm/superstructureremoved.jpg
+[SternViewAsRevised]: /jgdr20/assets/jmm/sternviewasrevised.jpg
+
 
 <!-- The Clyde Puffer -->
 [TheClydePuffer]: theclydepuffer
@@ -158,6 +185,8 @@
 <!-- Pilot Cutter -->
 [BuildingPilotCutter]: buildingpilotcutter
 
+[CarrierLauncher]: /jgdr20/assets/jmm/carrielrlauncher.jpg
+
 <!-- Railways -->
 [OOGauge]: oogauge
 [WidgetsWharf]: /jgdr20/assets/jmm/widgetswharf.jpg
@@ -168,7 +197,9 @@
 [ConcreteSoc]: http://www.concrete.org.uk/
 [Home]: /jgdr20/jmm/johnsmodelmadness
 [BuzzRail]: http://www.buzzrail.uk/
-[Model Boat Mayhem]: http://www.modelboatmayhem.co.uk "Model Boat Mayhem"
+[Model Boat Mayhem]: http://www.modelboatmayhem.co.uk
+[Mtroniks]: https://www.mtroniks.net/
+[LBSC]: https://en.wikipedia.org/wiki/Curly_Lawrence
 
 <!-- Workshop -->
 [Workshops]: workshops

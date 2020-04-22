@@ -6,38 +6,39 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			<td class="col3">
 				<a href="buildallchin">
 					<img src="/jgdr20/assets/jmm/afinishedallchin.jpg">
+				<blockquote>Allchin</blockquote>
 				</a>
-				<blockquote>Building the Allchin Traction Engine</blockquote>
 			</td>
 			<td class="col3">
 				<a href="pixiesbackground">
 					<img src="/jgdr20/assets/jmm/pixie2.jpg">
+				<blockquote>Pixie</blockquote>
 				</a>
-				<blockquote>Pixie's Background and Build</blockquote>
 			</td>
 			<td class="col3">
 				<a href="tichspedigree">
 					<img src="/jgdr20/assets/jmm/tichrejuvenated1.jpg">
+					<blockquote>Tich</blockquote>
 				</a>
-				<blockquote>Tich's Pedigree</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<a href="buildingworkboat">
 					<img src="/jgdr20/assets/jmm/finished.jpg">
-					<blockquote> Building a work boat - Free Lancer</blockquote>
+					<blockquote>Free Lancer</blockquote>
 				</a>
 			</td>
 			<td>
 				<a href="buildingfreelancer2">
 					<img src="/jgdr20/assets/jmm/lancer2afloat.jpg">
-					<blockquote> Building the Free Lancer 2</blockquote>
+					<blockquote>Free Lancer 2</blockquote>
 				</a>
 			</td>
 			<td>
 				<a href="yacht">
 					<img src="/jgdr20/assets/jmm/littleandlarge.jpg">
+					<blockquote>Yachts</blockquote>
 				</a>
 			</td>
 		</tr>
@@ -45,16 +46,19 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			<td>
 				<a href="buildingthepusherold">
 					<img src="/jgdr20/assets/jmm/egrete1.jpg">
+				<blockquote>Egrete</blockquote>
 				</a>
 			</td>
 			<td>
 				<a href="buildingthesilhouette">
 					<img src="/jgdr20/assets/jmm/silbow2.jpg">
+				<blockquote>Sillhouette</blockquote>
 				</a>
 			</td>
 			<td>
 				<a href="buildingsmallpusher">
 					<img src="/jgdr20/assets/jmm/smpushsternview3.jpg">
+				<blockquote>Small Pusher</blockquote>
 				</a>
 			</td>
 		</tr>
@@ -62,16 +66,19 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			<td>
 				<a href="workshops">
 					<img src="/jgdr20/assets/jmm/workshop222.jpg">
+				<blockquote>Workshops</blockquote>
 				</a>
 			</td>
 			<td>
 				<a href="workshoptoolsetc">
 					<img src="/jgdr20/assets/jmm/4tool5.jpg">
+				<blockquote>Tool Sets</blockquote>
 				</a>
 			</td>
 			<td>
 				<a href="buildingpilotcutter">
 					<img src="/jgdr20/assets/jmm/pilotdecbeams_installed.jpg">
+				<blockquote>Pilot Cutter</blockquote>
 				</a>
 			</td>
 		</tr>
@@ -80,6 +87,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 			<td>
 				<a href="oogauge">
 					<img src="/jgdr20/assets/jmm/the16x10lookingnorth.jpg">
+				<blockquote>OO Gauge</blockquote>
 				</a>
 			</td>
 			<td class="empty"></td>
