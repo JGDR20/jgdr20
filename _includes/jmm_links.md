@@ -90,9 +90,20 @@
 [BuildingThePusherOld]: buildingthepusherold
 [EgreteImg]: /jgdr20/assets/jmm/egrete.jpg
 [DeckHouse1]: /jgdr20/assets/jmm/deckhouse1.jpg
+
 <!-- Yacht -->
 [Yacht]: yacht
 [LittleAndLarge]: /jgdr20/assets/jmm/littleandlarge.jpg
+[Carcass2]: /jgdr20/assets/jmm/carcass2.jpg
+[SideSkin]: /jgdr20/assets/jmm/sideskin.jpg
+[StickUp2]: /jgdr20/assets/jmm/itsastickup2.jpg
+[KeelFix2]: /jgdr20/assets/jmm/keelfix2.jpg
+[NoseBlocks1]: /jgdr20/assets/jmm/noseblocks1.jpg
+[InevitableTest2]: /jgdr20/assets/jmm/inevitabletest2.jpg
+[FittingsFromScrap]: /jgdr20/assets/jmm/fittingsfromsrap.jpg
+[RadioBox]: /jgdr20/assets/jmm/radiobox.jpg
+[LargeYachtRefit]: /jgdr20/assets/jmm/largeyachtrefit.jpg
+[LargeYachtDims]: largeyachtdims
 
 <!-- Free Lancer 1 -->
 [BuildingWorkBoat]: buildingworkboat
