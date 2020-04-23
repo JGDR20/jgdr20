@@ -44,6 +44,7 @@ header_pages:
   - Resume.md
   - jmm.md
   - /blog/blog.md
+  - ToDo.md
 
 # Collections
 collections:
