@@ -89,7 +89,16 @@
 <!-- Egrete Pusher -->
 [BuildingThePusherOld]: buildingthepusherold
 [EgreteImg]: /jgdr20/assets/jmm/egrete.jpg
+[Egrete1]: /jgdr20/assets/jmm/egrete1.jpg
 [DeckHouse1]: /jgdr20/assets/jmm/deckhouse1.jpg
+[CoverPic]: /jgdr20/assets/jmm/cover%20pic.jpg
+[FairedOff]: /jgdr20/assets/jmm/fairedoff.jpg
+[MotorBases]: /jgdr20/assets/jmm/motorbases.jpg
+[MotorsSternTubes]: /jgdr20/assets/jmm/motorsandsterntubes.jpg
+[BridgeDeckRaised]: /jgdr20/assets/jmm/bridgedeckraised.jpg
+[UpperDeck]: /jgdr20/assets/jmm/upperdeck.jpg
+[Anchors]: /jgdr20/assets/jmm/anchors.jpg
+[OnTheWater]: /jgdr20/assets/jmm/onthewater.jpg
 
 <!-- Yacht -->
 [Yacht]: yacht
@@ -211,6 +220,7 @@
 [Model Boat Mayhem]: http://www.modelboatmayhem.co.uk
 [Mtroniks]: https://www.mtroniks.net/
 [LBSC]: https://en.wikipedia.org/wiki/Curly_Lawrence
+[ModelBoatsMag]: https://www.modelboats.co.uk/
 
 <!-- Workshop -->
 [Workshops]: workshops
