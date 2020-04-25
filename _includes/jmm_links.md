@@ -196,10 +196,39 @@
 
 <!-- The Clyde Puffer -->
 [TheClydePuffer]: theclydepuffer
+
 <!-- Silhouette -->
 [BuildingTheSilhouette]: buildingthesilhouette
 [Silhouette1]: /jgdr20/assets/jmm/silhouette%201.jpg
-<!-- Small Pusher -->
+[GlassSilhouette]: /jgdr20/assets/jmm/glasssilhouette.jpg
+[StartingWithKellogsCard]: /jgdr20/assets/jmm/startingwithkellogscard.jpg
+[TranslatedFromCard]: /jgdr20/assets/jmm/translatedfrom%20card.jpg
+[ShearAndBilgeStringers3]: /jgdr20/assets/jmm/shearandbilgestringers3.jpg
+[SternBlockAdded]: /jgdr20/assets/jmm/sternblockadded.jpg
+[PlySidesAndTemplates]: /jgdr20/assets/jmm/plysidesandtemplates.jpg
+[SilEndBulkheads1]: /jgdr20/assets/jmm/silend%20bulkheds1.jpg
+[SilStartDecks]: /jgdr20/assets/jmm/silstartdecks.jpg
+[SilHedgehog]: /jgdr20/assets/jmm/silhedghog.jpg
+[SilDeckLaid]: /jgdr20/assets/jmm/sildecklaid.jpg
+[SilLippingFix]: /jgdr20/assets/jmm/sillippingfix.jpg
+[SilEdgeAndPly]: /jgdr20/assets/jmm/siledgeandply.jpg
+[SilHatchCut1]: /jgdr20/assets/jmm/silhatchcut.jpg
+[SilHatchCut2]: /jgdr20/assets/jmm/silhatchcut2.jpg
+[SilHatch1]: /jgdr20/assets/jmm/silhatches1.jpg
+[SilHatch2]: /jgdr20/assets/jmm/silhatche2.jpg
+[SilKeelsAndFinFix]: /jgdr20/assets/jmm/silkeelsandfinfix.jpg
+[SilOnOwnFeet]: /jgdr20/assets/jmm/silonownfeet.jpg
+[SilRudderTry]: /jgdr20/assets/jmm/silruddertry.jpg
+[SilDeckPainted]: /jgdr20/assets/jmm/sildeckpainted.jpg
+[SilCoamingFixed]: /jgdr20/assets/jmm/silcoamingfixed.jpg
+[SilBowFittings]: /jgdr20/assets/jmm/silowfiitings.jpg
+[SilSternFittings]: /jgdr20/assets/jmm/silsternfittings.jpg
+[WifeOnSilhouette]: /jgdr20/assets/jmm/wifeonsilhouette.jpg
+[SilOverhead1]: /jgdr20/assets/jmm/silhoetteohead1.jpg
+[SilOverhead2]: /jgdr20/assets/jmm/silhouetteohead2.jpg
+[SilOverhead4]: /jgdr20/assets/jmm/silouetteohead4.jpg
+
+<!-- Small Pusher / Springer -->
 [BuildingSmallPusher]: buildingsmallpusher
 [SmPushSternView3]: /jgdr20/assets/jmm/smpushsternview3.jpg
 <!-- Pilot Cutter -->
@@ -221,6 +250,7 @@
 [Mtroniks]: https://www.mtroniks.net/
 [LBSC]: https://en.wikipedia.org/wiki/Curly_Lawrence
 [ModelBoatsMag]: https://www.modelboats.co.uk/
+[BoatsAndOutboards]: https://www.boatsandoutboards.co.uk
 
 <!-- Workshop -->
 [Workshops]: workshops

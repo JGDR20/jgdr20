@@ -4,8 +4,8 @@ title: Building the Rhine Pusher 'Egrete'
 subtitle: 
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2012-03-17
-last_updated_format: "now"
-wip: true
+last_updated_format: 2020-04-25
+wip: false
 ---
 *Content Updated {{ page.last_updated_content | date: "%a, %d %b %Y" }} by {{ page.author }}*  
 *Formatting Updated {{ page.last_updated_format | date: "%a, %d %b %Y" }} by Joe Richardson*
