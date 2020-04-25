@@ -249,6 +249,20 @@
 
 <!-- Pilot Cutter -->
 [BuildingPilotCutter]: buildingpilotcutter
+[PilotLines1]: /jgdr20/assets/jmm/pilotlines1.jpg
+[PilotTemplates]: /jgdr20/assets/jmm/pilottemplates.jpg
+[PilotAssembly1]: /jgdr20/assets/jmm/pilotassembly1.jpg
+[PilotGlue2]: /jgdr20/assets/jmm/pilotglue2.jpg
+[PilotLastLayer]: /jgdr20/assets/jmm/pilotcutterlastlayer.jpg
+[PilotTrialCut1]: /jgdr20/assets/jmm/pilottrialcut1.jpg
+[PilotAddition]: /jgdr20/assets/jmm/additiontopilotcutter.jpg
+[PilotPrimer]: /jgdr20/assets/jmm/pilotcutterprimercoat.jpg
+[Pilot14Jun1]: /jgdr20/assets/jmm/pilotcutter14%20jun1.jpg
+[Pilot14Jun2]: /jgdr20/assets/jmm/pilotcutter14thjun%202.jpg
+[PilotSternBlock2]: /jgdr20/assets/jmm/sternblockwithin2.jpg
+[PilotCheckHeights]: /jgdr20/assets/jmm/pilotcuttercheckheights.jpg
+[PilotDeckBeams]: /jgdr20/assets/jmm/pilotdecbeams_installed.jpg
+[PilotReadyFalseDeck]: /jgdr20/assets/jmm/pilotcutterreadyforfalsedeck.jpg
 
 [CarrierLauncher]: /jgdr20/assets/jmm/carrielrlauncher.jpg
 

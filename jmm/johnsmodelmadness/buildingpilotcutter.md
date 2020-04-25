@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Building Pilot Cutter
+title: Building A Static Model Pilot Cutter
 subtitle:
 author: John G. Richardson 'Cubcoman'
-last_updated_content: 2011-11-20
+last_updated_content: 2015-01-21
 last_updated_format: "now"
 wip: true
 ---
@@ -13,6 +13,12 @@ wip: true
 {% if page.wip %}
 ## Page under construction
 {% endif %}
+
+{% include_relative _buildingpilotcutter/_introduction.md %}
+
+{% include_relative _buildingpilotcutter/_establishingdetails.md %}
+
+{% include_relative _buildingpilotcutter/_intotheworkshop.md %}
 
 To return to main page [click here][Home].
 
