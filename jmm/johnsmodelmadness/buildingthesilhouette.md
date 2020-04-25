@@ -37,7 +37,7 @@ PVA adhesive is used throughout as, when the model is completed, several coats o
 <div class="image-table">
 	<table>
 		<tr>
-			<td class="col2">
+			<td style="word-break:break-all;" class="col2">
 				<img src="/jgdr20/assets/jmm/glasssilhouette.jpg">
 				<blockquote>Image from <a href="https://www.boatsandoutboards.co.uk">www.boatsandoutboards.co.uk</a> *</blockquote>
 			</td>

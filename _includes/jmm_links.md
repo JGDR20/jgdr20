@@ -230,7 +230,23 @@
 
 <!-- Small Pusher / Springer -->
 [BuildingSmallPusher]: buildingsmallpusher
-[SmPushSternView3]: /jgdr20/assets/jmm/smpushsternview3.jpg
+[SPSternView3]: /jgdr20/assets/jmm/smpushsternview3.jpg
+[SPSupStart]: /jgdr20/assets/jmm/spsupstart.jpg
+[SPFunnel3]: /jgdr20/assets/jmm/spfunnel3.jpg
+[SPFunnel4]: /jgdr20/assets/jmm/spfunnel4.jpg
+[SPStiffeners]: /jgdr20/assets/jmm/spstiffeners.jpg
+[SPBulwarks1]: /jgdr20/assets/jmm/smlpushbulwks.jpg
+[SPBulwarks2]: /jgdr20/assets/jmm/smlpushbulwks2.jpg
+[SPSternBulwarks]: /jgdr20/assets/jmm/smpushstern%20bul.jpg
+[SPTools]: /jgdr20/assets/jmm/smpushtoolsoftrade.jpg
+[SPHandRails]: /jgdr20/assets/jmm/springhanrails.jpg
+[SPControlDept]: /jgdr20/assets/jmm/spricontroldept.jpg
+[SPFloatTest]: /jgdr20/assets/jmm/springfloattest.jpg
+[SPCrane2]: /jgdr20/assets/jmm/springcrane2.jpg
+[SPCraneConstruction]: /jgdr20/assets/jmm/spricraneinconstruction.jpg
+[SPSternWinch2]: /jgdr20/assets/jmm/spristernwinch2.jpg
+[SPAfloat]: /jgdr20/assets/jmm/sprifngerafloat.jpg
+
 <!-- Pilot Cutter -->
 [BuildingPilotCutter]: buildingpilotcutter
 
