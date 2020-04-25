@@ -275,6 +275,13 @@
 [BookOnBuilding3]: bookonbuilding3
 [ModelEngineersNostrums]: modelengineersnostrums
 [WorkshopToolsetC]: workshoptoolsetc
+[ME1989Jul]: /jgdr20/assets/jmm/me11.jpg
+[Workshop111]: /jgdr20/assets/jmm/workshop111.jpg
+[Workshop222]: /jgdr20/assets/jmm/workshop222.jpg
+[CleanBenches1]: /jgdr20/assets/jmm/cleanbenches1.jpg
+[Myford1]: /jgdr20/assets/jmm/myford1.jpg
+[Tools1]: /jgdr20/assets/jmm/toolsandthings1.jpg
+
 
 <!-- Artwork -->
 [Beach3]: /jgdr20/assets/jmm/beach3.jpg
