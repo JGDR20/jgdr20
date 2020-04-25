@@ -281,6 +281,24 @@
 [CleanBenches1]: /jgdr20/assets/jmm/cleanbenches1.jpg
 [Myford1]: /jgdr20/assets/jmm/myford1.jpg
 [Tools1]: /jgdr20/assets/jmm/toolsandthings1.jpg
+[4Tool1]: /jgdr20/assets/jmm/4tool1.jpg
+[4Tool5]: /jgdr20/assets/jmm/4tool5.jpg
+[DividAttach1]: /jgdr20/assets/jmm/dividattach1.jpg
+[FacingTool1]: /jgdr20/assets/jmm/facingtool1.jpg
+[SmallBore]: /jgdr20/assets/jmm/smallbore.jpg
+[RearTool1]: /jgdr20/assets/jmm/reartool1.jpg
+[KnurlingTool3]: /jgdr20/assets/jmm/knurlingtool3.jpg
+[Wobbler1]: /jgdr20/assets/jmm/wobbler1.jpg
+[MiniMulti1]: /jgdr20/assets/jmm/minimulti1.jpg
+[MiniMulti2]: /jgdr20/assets/jmm/minimulti2.jpg
+[FixedSteady3]: /jgdr20/assets/jmm/fixedsteady3.jpg
+[FixedSteady4]: /jgdr20/assets/jmm/fixedsteady4.jpg
+[Hoist1]: /jgdr20/assets/jmm/hoist1.jpg
+[Hoist2]: /jgdr20/assets/jmm/hoist2.jpg
+[Hoist3]: /jgdr20/assets/jmm/hoist3.jpg
+[SprayCabinet1]: /jgdr20/assets/jmm/spraycabinet1.jpg
+[SprayCabinet2]: /jgdr20/assets/jmm/spraycabinet2.jpg
+[SprayCabinet3]: /jgdr20/assets/jmm/spraycabinet3.jpg
 
 
 <!-- Artwork -->
