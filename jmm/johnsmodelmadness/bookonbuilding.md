@@ -27,7 +27,7 @@ Introduction by {{ page.author }}
 
 The attractions of model engineering, locomotives and narrow-gauge in particular. An outline of the approach to model engineering in the book.
 
-Contents:
+## Contents:
 * [Chapter 1](#chapter-1): Choice of prototype. Space, weight and scale considerations. Location of track. Haulage and handling considerations.
 * [Chapter 2](#chapter-2): Establishing detail. Research. Manufacturers drawings. Commercially available designs. Value of the model press, exhibitions and club membership.
 * [Chapter 3](#chapter-3): Going it alone. Surveying a prototype. Equipment for the survey. A system of working. Ongoing visits. The database. Use of photographs, transparencies and prints.
@@ -87,6 +87,7 @@ fashion, I for one wish the volume every success.
 > Preparing PIXIE for transport to the Model Engineering 
 Exhibition 
 
+[Back to Contents](#contents)
 ## Chapter 1
 ### Choice Of Prototype
 ### Why Narrow Gauge?
@@ -364,6 +365,7 @@ suspended on such a spreader will ensure safety.
 ![AwaitingBoiler]
 > Pixie with some of the survey sketches
 
+[Back to Contents](#contents)
 ## Chapter 2
 
 *Establishing detail. Research. Manufacturers drawings. Commercially available designs. Value of the model press, exhibitions and club membership.*
@@ -539,6 +541,7 @@ often include talks and demonstrations by visiting speakers, specialist in some
 branch of model making such as boilermaking, painting and so on, these events 
 are particularly beneficial to the beginner. 
 
+[Back to Contents](#contents)
 ## Chapter 3
 *Going it alone. Surveying a prototype. Equipment. A system of working. Ongoing 
 visits. The database. Use of photographs and prints.*
@@ -804,6 +807,7 @@ It should always be remembered that permission should be sought to photographon
 site. Safety arrangements have to be observed and also care should be taken 
 regarding copyright of images from the web.
 
+[Back to Contents](#contents)
 ## Chapter 4
 *Workshop, tools and equipment. Practical aspects of heating, lighting and 
 ventilation. Workshop practice for the model engineer. The logbook.*
@@ -1158,6 +1162,7 @@ a later date.
 ![4Tool5]
 > Indexing 4 tool toolpost mainly from scrap
 
+[Back to Contents](#contents)
 ## Chapter 5
 *Materials. Sources of supply. Organised storage and the scrap box. Modifying 
 available materials. An introduction to simple pattern making.* 
@@ -1348,6 +1353,7 @@ the necessary allowances must be made for shrinkage, and it has to be remembered
 the finished casting will reflect faithfully the standard of finish imparted to 
 the pattern. 
 
+[Back to Contents](#contents)
 ## Chapter 6
 *Planning. Model engineering with pencil and paper. Machining sequence. 
 Fabrication vs. the use of castings. Use of models, mock-ups, jigs and 
@@ -1619,6 +1625,7 @@ required geometry was attained. time spent in thinking through jigging
 operations and the provision of templates will be amply repaid in ease of 
 operation and the avoidance of scrap. 
 
+[Back to Contents](#contents)
 ## Chapter 7
 *Frames, stretchers, horns and axleboxes. Wheels, axles, crankpins and 
 quartering. Coupling rods and bearings. Brake hangers and blocks.*
