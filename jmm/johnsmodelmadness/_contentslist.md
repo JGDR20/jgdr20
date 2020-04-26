@@ -5,8 +5,8 @@
   * 3 1/2" Gauge Loco 'Tich's' pedigree.. [Click here][TichsPedigree]
   * 5" Gauge Loco 'Pixie's' background, survey and contruction... [Click here][PixiesBackground]
     * Chapters 1 to 7 of my Book on scale model locomotive construction featuring ' Pixie ' [click here][bookonbuilding]. This contains the Forward, an Introduction and the list of Contents.
-    * Chapters 8 and on of my Book on scale model locomotive construction featuring ' Pixie ' [click here][bookonbuilding#chapter-8]
-    * Chapters 17 and on of my book on scale model locomotive construction featuring ' Pixie ' [click here][bookonbuilding#chapter-17]
+    * Chapters 8 and on of my Book on scale model locomotive construction featuring ' Pixie ' [click here](bookonbuilding#chapter-8)
+    * Chapters 17 and on of my book on scale model locomotive construction featuring ' Pixie ' [click here](bookonbuilding#chapter-17)
     * Also there is a page on lessons learnt in 60 years+ of modelmaking.. [click here][ModelEngineersNostrums]
 
 * Model Boat topics

@@ -294,7 +294,19 @@
 <!-- Railways -->
 [OOGauge]: oogauge
 [WidgetsWharf]: /jgdr20/assets/jmm/widgetswharf.jpg
+[WidgetsWharf2]: /jgdr20/assets/jmm/widgetswharf..jpg
 [DocksideCranes]: /jgdr20/assets/jmm/docksidecranes.jpg
+[16x10N]: /jgdr20/assets/jmm/the16x10lookingnorth.jpg
+[16x10SE]: /jgdr20/assets/jmm/lookingsoutheast.jpg
+[NL3]: /jgdr20/assets/jmm/new%20layout%203.jpg
+[RC3]: /jgdr20/assets/jmm/railway%20corner3.jpg
+[NoFishing]: /jgdr20/assets/jmm/strictlynofishing.jpg
+[NoParking]: /jgdr20/assets/jmm/noparking.jpg
+[MainTerminus]: /jgdr20/assets/jmm/mainterminus.jpg
+[SailingClub]: /jgdr20/assets/jmm/sailingclub.jpg
+[GoodsTrains]: /jgdr20/assets/jmm/goodstrains.jpg
+[LocoGraveyard]: /jgdr20/assets/jmm/locograveyard.jpg
+[AnglerClub]: /jgdr20/assets/jmm/watchingtheday.jpg
 
 <!-- Misc -->
 [Beck]: http://www.becks-dampfseite.de/
