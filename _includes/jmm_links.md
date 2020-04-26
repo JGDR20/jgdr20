@@ -263,6 +263,31 @@
 [PilotCheckHeights]: /jgdr20/assets/jmm/pilotcuttercheckheights.jpg
 [PilotDeckBeams]: /jgdr20/assets/jmm/pilotdecbeams_installed.jpg
 [PilotReadyFalseDeck]: /jgdr20/assets/jmm/pilotcutterreadyforfalsedeck.jpg
+[PilotLayFalseDeck]: /jgdr20/assets/jmm/pilotcutterlayingfalsedeck.jpg
+[PilotReadyDeck]: /jgdr20/assets/jmm/cutterreadyfordecklaying.jpg
+[PilotJurySaw]: /jgdr20/assets/jmm/pilotjurysaw.jpg
+[PilotPlanking]: /jgdr20/assets/jmm/pilotcutterplanking.jpg
+[PilotDeckLay2]: /jgdr20/assets/jmm/pilotdecklaying2.jpg
+[PilotDeckComplete]: /jgdr20/assets/jmm/pildeckcomplete.jpg
+[PilotRudder3]: /jgdr20/assets/jmm/rudder3.jpg
+[PilotRudder6]: /jgdr20/assets/jmm/rudder6.jpg
+[PilotRudderProp]: /jgdr20/assets/jmm/pilotrudandprop.jpg
+[PilotMastDowel]: /jgdr20/assets/jmm/pilotmastdowel.jpg
+[PilotBulwarkStart]: /jgdr20/assets/jmm/pilotbwurkstart.jpg
+[PilotBulwark2]: /jgdr20/assets/jmm/pilotbuwk2.jpg
+[PilotBulwarkTrim]: /jgdr20/assets/jmm/pilotblwkfotrim.jpg
+[PilotBulwarkTrim2]: /jgdr20/assets/jmm/piltrimbul2.jpg
+[PilotPrefab4]: /jgdr20/assets/jmm/pilprefab4.jpg
+[PilotDeckHouse2]: /jgdr20/assets/jmm/pildechouse2.jpg
+[PilotDeckGlueFit2]: /jgdr20/assets/jmm/plidechglufit2.jpg
+[PilotRubStrake]: /jgdr20/assets/jmm/pilotrubstrake.jpg
+[PilotFreePorts1]: /jgdr20/assets/jmm/pilofreeports1.jpg
+[PilotCappingRail1]: /jgdr20/assets/jmm/pilcappingrail.jpg.jpg
+[PilotCappingRail2]: /jgdr20/assets/jmm/pilcappingrail2.jpg.jpg
+[PilotBulwarkCap1]: /jgdr20/assets/jmm/pilbulcap1.jpg
+[PilotCabTopPlank]: /jgdr20/assets/jmm/pilcabtopplank.jpg
+[PilotSideJig]: /jgdr20/assets/jmm/pilcutwellsidejig.jpg
+[PilotDeck18Nov14]: /jgdr20/assets/jmm/pildeckl8thnov14.jpg
 
 [CarrierLauncher]: /jgdr20/assets/jmm/carrielrlauncher.jpg
 

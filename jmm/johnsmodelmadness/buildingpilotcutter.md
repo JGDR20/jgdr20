@@ -18,7 +18,9 @@ wip: true
 
 {% include_relative _buildingpilotcutter/_establishingdetails.md %}
 
-{% include_relative _buildingpilotcutter/_intotheworkshop.md %}
+{% include_relative _buildingpilotcutter/_intotheworkshop1.md %}
+
+{% include_relative _buildingpilotcutter/_intotheworkshop2.md %}
 
 To return to main page [click here][Home].
 
