@@ -81,7 +81,7 @@ One can only applaud his industry in making the volume available in this
 fashion, I for one wish the volume every success. 
 
 *Ted Jolliffe. Editor*
-* Model Engineer Magazine. Hemel Hempstead. 2nd November 1994*
+*Model Engineer Magazine. Hemel Hempstead. 2nd November 1994*
 
 ![PixiesBackgroundImg]
 > Preparing PIXIE for transport to the Model Engineering 
@@ -539,7 +539,1559 @@ often include talks and demonstrations by visiting speakers, specialist in some
 branch of model making such as boilermaking, painting and so on, these events 
 are particularly beneficial to the beginner. 
 
+## Chapter 3
+*Going it alone. Surveying a prototype. Equipment. A system of working. Ongoing 
+visits. The database. Use of photographs and prints.*
 
+![PixieAndPeterPan]
+> Pixie and Peter Pan at the Leighton Buzzard N. G. Railway
+
+### Going It Alone
+
+As we have seen there are many drawings available for narrow gauge locomotives, 
+quite a number of kits of castings and indeed, even sets of parts for home 
+assembly. It is however quite likely that the modeller has a particular 
+prototype in mind, one that has fired his imagination, one that brings back fond 
+memories from the past, or perhaps a locomotive to which access can be gained. 
+
+Where the prototype is one of the many that have passed on to the ' great engine 
+shed in the sky' then some research will be required. Indeed, research of some 
+order will be required whatever the reason behind the choice of a specific 
+prototype. We are fortunate that the history of steam and steam railways in 
+particular has been so thoroughly recorded by many devoted writers over the 
+years, these constitute major works and will prompt further reading as a 
+particular topic is followed up. 
+
+### Surveying A Prototype
+
+The cover of MODEL ENGINEER Vol 158 No 3795 Feb 1987 illustrates 'Rishra' and 
+'Challoner' of the Leighton Buzzard Narrow Gauge Railway. The remarks of the 
+Editor of MODEL ENGINEER, Ted Jolliffe who took the photograph are apposite. He 
+writes,' This shot was taken on one of the best days of last Summer at Pages 
+Park Station, home of the Leighton Buzzard Narrow Gauge Railway. ' Rishra ' and 
+' Challoner ' pose together after double heading a Special Train, a charming 
+sight and one which could well cause many modellers to dash to the railway armed 
+with camera, ruler and sketch pad' ........ We know the feeling! 
+
+If one is fortunate enough to have access to the chosen prototype there are a 
+number of things to consider in achieving sufficient detail for the construction 
+of a convincing model. The locomotive may be sited on a preserved line, in a 
+museum or may even be standing in derelict condition in a scrap yard. The 
+important thing is to secure access. The first step will be an approach to the 
+controller of a preserved line, the curator of a museum or the proprietor of a 
+scrap yard. Permission to survey the prototype is generally given although there 
+may be some stipulations regarding access times and so on. The thing uppermost 
+in the minds of those in authority will be that of safety, both that of the 
+visitor and those who work the line or run the museum. This is understandable in 
+these days when responsibility and the rights of the individual are assuming 
+such importance in life. It is essential that any visitor makes his presence 
+known to those in charge in order that this safety can be preserved in the case 
+of engine, stock or plant movements. 
+
+In the case of a locomotive preserved in a museum, one may be fortunate enough 
+to find that drawings already exist, more than likely the curator or some 
+enthusiast will have done some research already and will be prepared provide 
+valuable information. In the case of a preserved locomotive it is likely that 
+the line is in possession of at least some drawings from which copies or at 
+least major dimensions may be taken. 
+
+In the case of PIXIE it was decided to make a complete survey, starting from 
+scratch as described in this chapter. Where drawings or key dimensions are 
+available, a lot of what is described can be omitted but in the interests of 
+achieving a model of character it is advisable that, where possible, a visit or 
+visits are made to the prototype for the purpose of achieving accuracy, and 
+observing details that have either resulted from rebuilding or preservation 
+work. Some detail changes are brought about simply by repair of wear and tear, 
+or changes in the demands made upon the loco in service. For example, some small 
+details such as the loops of tow that are used to lubricate the valve rods on 
+PIXIE, the diesel couplers that were mounted for some years, the changes to the 
+rear weather plate and the replacement of the riveted tank by one of welded 
+construction with imitation rivets have been incorporated in the model to good 
+advantage. We did not, however, incorporate the differences between wheels that 
+have resulted from refurbishment over the years! 
+
+At an early stage it becomes necessary to decide on a ' base date' for the 
+model. In the case of Pixie this was set as the date on which we first saw the 
+locomotive. As well as the base date, the state in which the model is to be 
+presented has to be determined. It takes a strong character to produce a model 
+locomotive in pristine condition and then render it into a weathered condition! 
+Mostly, we like to see our models in an outshopped state and not exhibiting the 
+ravages of service. I decided to model Pixie as though she had just undergone a 
+face-lift in the paint department but incorporating all the detail that I saw 
+that magic day when I first saw her glide into Pages Park Station on the 
+Leighton Buzzard Narrow Gauge Railway. 
+
+Having decided on the prototype it is time to start on the survey. I was 
+fortunate to have the Leighton Buzzard Narrow Gauge Railway ' on the doorstep '. 
+I had visited this line on a number of occasions and been struck by the friendly 
+manner of all the volunteers who work the line. Not for nothing has the railway 
+won its name as ' The friendly little line'. I gathered all the information I 
+could from their publicity leaflets, and obtained some attractive posters, one 
+of which showed my chosen prototype PIXIE the Kerr Stuart ' Wrenn ' Class saddle 
+tank locomotive, built in 1922. The poster still adorns one wall in the 
+workshop. This illustration and the memory of our first encounter acted as a 
+spur to my efforts over the years. 
+
+At the Railway I soon established that the volunteers, among them the taxman, 
+the accountant, the telecom engineer and a number of other interesting 
+characters, were all pleased to help in any way they could. Access to the 
+workshop was given by the Controller. Drivers, firemen and other functionaries 
+took the greatest of pleasure in responding to my sometimes naive questions. I 
+was able to time my visits to coincide with occasions when the locomotive was 
+shedded for normal maintenance and repair, and one notable occasion when the 
+boiler was to be subjected to inspection and test by the Insurance Inspector. 
+Take time to develop a good relationship with the staff of your selected 
+prototypes' line then you are sure to be accorded the same privileges. 
+
+Of course you may be fortunate enough to obtain copies of the works drawings 
+from the manufacturer, or you may have gleaned sufficient information to build 
+your model from your research. In the first case you will only have to scale 
+down the detail, in the second you will need to prepare sufficient detail for 
+construction planning and parts manufacture. In the case of Pixie sketches were 
+produced from site measurements, not finished drawings but simple line drawings 
+to be worked from at the various stages of construction. Examples of these 
+sketches can be seen in the accompanying illustrations. 
+
+Plan the survey work. You can only make so many measurements in each session! 
+Sometimes you will need a friend to hold the tape or direct the torch. You can't 
+always bother the locals who are busy with their maintenance and restoration 
+tasks. It is helpful to pre-prepare sketches from photographs so that you can 
+enter the dimensions as you measure, failing this produce sketches on the spot. 
+Bold outline sketches are best, it is difficult to sketch, measure and insert 
+dimensions all at the same time. It is also difficult to convey to another 
+person just what dimensions you are calling-off, so wherever possible enter the 
+numbers yourself. On return to base, and as working sketches are prepared, make 
+notes of any dimensions that are missing, these will be the first measurements 
+to be taken on the next site visit. Do not be dismayed if on the first visit ( 
+or two ) you miss some details, you will find with practice that you become more 
+observant, and more inquisitive. 
+
+### Equipment For The Survey
+
+Each individual will have differing ideas on the gear required for the 
+preparation of measured details from a prototype. The equipment used by the 
+author, whilst varying from visit to visit, included the following items;- 
+
+Clipboard, pencil (s) and paper, eraser, pencil sharpener or knife, measuring 
+tape, steel rule, torch and a set square, ( on most occasions the edges of the 
+clipboard sufficed) 
+
+Camera and flash equipment, preferably a single lens reflex model although 
+todays compact cameras, with their built-in flash and zoom facilities provide 
+excellent photographs. Dare we mention spare film! 
+
+Most of these items can be carried in a knapsack or some similar bag, nothing 
+too special should be used as it is likely to accumulate its share of steam oil 
+or grease! Mention of oil and grease brings to mind the need for a supply of ' 
+Swarfega ' or some similar de-greasant, a bottle of water and an old towel. Not 
+all loco sheds have supplies of such basic needs! 
+
+### A System Of Working
+
+It is always advisable to phone the site prior to a visit, both to confirm that 
+you may have access to the locomotive and to establish where it is to be found 
+on the day, also what state it will be in. It is also useful to know how to 
+dress for the visit, some days are 'clean' days and some decidedly dirty! 
+
+Now for taking the actual measurements. It is best to start by making simple 
+sketches of the key items to be measured in the course of a visit, say a front 
+beam, back plate or frame member. It makes good sense to keep groups of details 
+on separate sheets, even at the risk of duplicating some detail. This will make 
+reference to detail of particular parts of the locomotives easier in the 
+workshop when a specific sheet of details can be isolated for reference. This 
+also facilitates filing of the results of the survey, speeding the process of 
+identifying dimensions. 
+
+Try to make each sketch to the same proportions as the member to be measured, 
+later this will be facilitated by the use of photographs in producing sketches 
+on which the dimensions can be set out. It is advisable to take running 
+dimensions from a datum point thus avoiding inaccuracies due to the build up of 
+small differences in measurement. In the absence of a helping hand, running 
+dimensions can be taken single-handed by clamping one end of the tape to the 
+feature forming the datum, and reading the tape at each point of interest ( 
+remembering to pull the tape taut as each reading is taken, and ensuring that it 
+is not snagged on some projection! ) Where taking details of groups of items 
+such as bolts or rivets these should be sketched and measured, and the running 
+dimension taken to a key point in the group. The individual rivet heads or bolts 
+positions can then be related to this key point, and set out accordingly when 
+interpreting the sketches back at base. At this stage with the tape in position, 
+a photograph will reinforce the dimensions being noted. When the time comes to 
+translate the detail the photo will serve as a reminder of odd little points 
+which whilst clear on site fade in the mind between whiles. Things that are 
+easily overlooked are material thicknesses, bolt, nut and washer sizes. Whilst 
+measuring the plane surfaces it is also necessary to note such detail as plate 
+thicknesses, pipe diameters, bolt and rivet head sizes and shapes. Where there 
+are details such as cranked plates and coupling rods, dimensions of offsets have 
+to be noted.. Sets in plate, or changes in plane, and similar detail which are 
+critical to the overall appearance and ' atmosphere ' of the finished model 
+should be noted and ' scrap ' sketches made for future reference. These scrap or 
+local details are most useful in interpreting the overall picture presented by 
+the dimensioned sketches. Brief notes help too, a note regarding colour, texture 
+or material of some feature will save valuable time at a later date. 
+
+### Ongoing Visits
+
+After the first visit it may be possible to mark up dimensions onto sketches 
+taken from photographs or from slides, the former by tracing from a large print 
+of a subject set upon a light box, alternatively on a sheet of glass or perspex 
+placed over some suitable form of illumination such as a table lamp. 
+Transparencies can be projected at a suitable size onto a piece of paper taped 
+to the workshop wall and tracings made for use on the next visit to site. 
+Judicious scaling of the projected picture will ensure that sufficient space is 
+available for the insertion of dimensions at site. 
+
+At the commencement of a follow-up visit it is essential that outstanding 
+queries are cleared up. This may necessitate further measurement or some 
+discussion with a local, be he a curator, or a volunteer in the case of 
+preserved locomotives. A point of caution here, enthusiasts can be very helpful 
+but.....their memories are tinctured by their personal interests and any two 
+taken together may come up with different opinions regarding when such and such 
+a detail was modified or a particular feature added. In the course of 
+conversations it is worth while listening for local ' intelligence ' such as a 
+forthcoming ' shopping ' of the prototype or perhaps a boiler inspection. Visits 
+timed to coincide with such events, with permission, will provide opportunities 
+for examining the inner workings of the locomotive, the valve chests and boiler 
+tube arrangements, blower ring and so on which would otherwise prove difficult 
+when the loco is in service. 
+
+When working on the survey it is advisable to visualise how the model parts will 
+be constructed, whether they will be machined from castings or fabricated. 
+Whilst this does not affect the dimensions needed it does assist when the 
+fabrication commences in the workshop. 
+
+### The 'Database'
+
+Information achieved at site will form the basis for some months and in some 
+cases, some years of effort in the workshop so that on return to base it becomes 
+necessary to store the details from survey in such a manner that they can be 
+recovered at will. All rough sketches made at site should be retained, possibly 
+in a box file. Photographs and file cards can be stored in boxes and slides 
+filed in the containers in which they are returned from processing. It is 
+advisable, in order to save time later, to segregate details under various 
+headings such as ' Backhead', ' Smokebox' etc. Ideally, general assembly 
+photographs will serve to tie the various items together and indicate the 
+relationships of the individual subsections. During the course of constructing 
+the model of PIXIE more than 180 photographs were taken in the form of 
+transparencies and some 100 pages of notes and sketches were assembled. These 
+are still retained today and act as a reminder when some adjustment or 
+modification becomes necessary. Between visits and when not engaged in making 
+parts in the workshop, some redrawing of details can assist in clarifying 
+detail. It is advisable always to retain original sketches although they may 
+have been superceded by a more recent, perhaps tidier sketch. There is often a 
+need to return to the original to recap on some note or sketch made at the site. 
+In this context it is advisable to make notes of details that present themselves 
+during the survey, Where lock nuts are used, the position of a cotter pin and so 
+on, later in the workshop one does not want to attempt feats of memory to 
+establish what one saw months or years before. 
+
+### Photographic Records
+
+Now we have digital photography and can wiew the images we take at whatever size 
+is required on computer screen. Archiving is a simple matter and referencing 
+simpler still. It still pays to take addition trouble to include tape and rules 
+to enable sizes to be established back at base and special care over lighting to 
+reveal the inner workings of the machanics of our subject. 
+
+Often there are posters and similar material which can yield useful information, 
+as well as postcards perhaps, on sale at a kiosk illustrating our subject in 
+earlier days. 
+
+The Internet provides a fund of images of virtually every locomotive that ever 
+existed, simple to download and readily sizable on our computer, and again 
+simple to archive. 
+
+It should always be remembered that permission should be sought to photographon 
+site. Safety arrangements have to be observed and also care should be taken 
+regarding copyright of images from the web.
+
+## Chapter 4
+*Workshop, tools and equipment. Practical aspects of heating, lighting and 
+ventilation. Workshop practice for the model engineer. The logbook.*
+
+![Myford2]
+> Old faithful of 30years... My Myford
+
+### Workshop, Tools And Equipment
+
+This chapter ought really to be entitled ' Tools, equipment and workshop ' 
+because, whilst many books on the topic set out initially to describe in some 
+detail the workshop facilities required, in practice the first requirement is 
+some tools. The next requirement is some mechanical equipment and eventually a 
+workshop, or rather a workplace! Of course it is ideal if one has a dedicated 
+space in which to work, a place where everything can remain undisturbed between 
+sessions, but it is a lucky man indeed who can start with such a space 
+available. A great deal of work has been done in what were on the face of 
+things, quite unlikely situations, in a first floor flat, in a roof space, 
+onboard ship and countless other such awkward or uncomfortable places. At one 
+time the writer made models on a fold-down bench sited, of all places, in the 
+toilet ! Then followed a move to the loft via. the kitchen table and eventually, 
+some years later it became possible to build an extension to the house and set 
+up a formal workshop. 
+
+A great deal of useful work can be done simply by using hand tools, small parts 
+being turned in an electric drill. Occasional access to a lathe and drill press, 
+made possible perhaps by enrollment in an evening class or by ' chatting- up ' 
+the maintenance engineer at one's place of work can bring the opportunity to 
+progress further in the hobby. Several of the stationary engines which provided 
+the basis of the author's model engineering experience were fabricated 
+piece-part fashion using such facilities..... ........Maintenance engineers 
+often turn out to be steam enthusiasts at heart! 
+
+The pleasure to be obtained from our hobby can be realised in a number of ways. 
+One of these revolves around pride in possessing the necessary tools for the 
+job, sometimes obtained as a result of some sacrifice such as giving up smoking, 
+or forgoing some other pleasure. There is also the satisfaction to be taken from 
+achieving something which would normally be considered beyond the scope of the 
+simple equipment which we may have acquired. Whilst other delights of model 
+engineering have been touched upon earlier in the book, the challenge of 
+achieving, what once may have seemed to be if not impossible, extremely 
+difficult, using available equipment and facilities still features heavily in 
+the enjoyment stakes! 
+
+### Tools
+
+Tools are a joy, however acquired either purchased in pristine condition from a 
+first class tool shop or from other sources such as garage or car-boot sales, 
+possibly in need of renovation. The tools that give the greatest pleasure are 
+often those passed on to us from relatives or friends. Tools may have been 
+handed down from departed relatives and considerable pleasure can be obtained as 
+using them prompts remembrance.. Use on the current project prompts thoughts of 
+the original owner, such as the old tool maker who on his retirement made us a 
+present of his micrometer and other measuring tackle. As experience grows the 
+modeller will probably design and make some special tools, these are 
+particularly precious in meeting an identified need and are special to the 
+maker. 
+
+It is important to buy the best tools that can be afforded, they will if 
+properly maintained probably outlive us and be passed on to sons (and 
+daughters). Where possible, a workshop set of tools should be maintained as 
+distinct from the general kit used in the garage and on DIY work about the house 
+and garden. When a loan is requested, lend from the general kit! Mainly tools 
+are acquired as the need arises although most of us will have to admit to making 
+purchases on an impulse, particularly at the magical MODEL ENGINEER EXHIBITION 
+where there is the opportunity of making some fantastic purchases. It makes 
+sense to go to the exhibition with a shopping list of items necessary to bring 
+tool stocks up to standard, it offers a grand opportunity for replacing broken 
+small items such as taps and drills. It is very difficult to withstand the urge 
+to snap up bargains and indeed often return with such ' bargains ', perhaps 
+wondering what prompted the purchase yet secure in the knowledge that they will 
+come in useful one day 
+
+### Measuring Tackle And Instruments
+
+Apart from the aforementioned micrometer the following equipment, listed in 
+order of aquisition, meets all the requirements of model making on models up to 
+5" gauge:- 
+
+Good quality steel rules in 300 and 150 mm lengths, squares of various sizes, 
+inside and outside calipers, oddleg caliper, 0-150mm vernier caliper gauge, 
+height gauge, mm dial gauge, surface plate ( mine is 250 x 200mm obtained second 
+hand ), magnetic stand for dial gauge also various scribers. Although the sizes 
+are quoted in millimetres the workshop still boasts a set of Imperial equipment 
+and much of the work is carried out in ' dear old ' feet and inches. 
+
+Later additions to the outfit include some inside micrometers, obtained 
+secondhand, a centre finder, a wiggler set for edge and centre-finding, pair of 
+vee blocks and a huge, ex-WD, caliper, purchased for a song in an open market. A 
+dial caliper gauge ( the pride of my life, bought as a bargain at the MODEL 
+ENGINEER EXHIBITION ) is in constant use. As model engineers rather than 
+engineers, much of our work involves working to fits rather than critical 
+dimensions. The dial caliper provides a speedy yet sufficiently accurate means 
+of comparing sizes whether internal, external or depth. The current generation 
+of digital gauges are of course even more dynamic to use and will prove to be 
+worth the ' arm and a leg ' they may cost. The great advantage is that these 
+instruments can be zeroed at any dimension and thus directly indicate 
+differences between measurements. 
+
+A recent aquisition, a magnetic-based holder for a dial gauge, has proved 
+extremely useful. It is used the course of turning, milling and drilling to 
+measure tool feeds. With the base set onto the machine bed and the magnet 
+actuated, a dial gauge can be set to bear against a table or slide such that the 
+travel or depth of feed can be directly read from the gauge as work proceeds. It 
+is far easier in some cases to read the gauge thus set-up, than it is to read 
+the micrometer dial on the machine. 
+
+### Hand Tools
+
+The number and type of tools that one uses is a very personal thing, excellent 
+models are built by some modellers equipped with what could be regarded as the 
+absolute minimum of tools. It is preferable as far as possible to have the 
+correct tool for the job, sometimes to the extent of 'overkill'! 
+
+Again in the order of aquisition the following tools have permitted the 
+production of a series of models up to 5" gauge:- 
+
+An assortment of saws including 'senior' and 'junior' hacksaws and a coping saw. 
+Hammers, ball pein, claw and pin, also a builders lump hammer for persuasion of 
+heavy sections! An assortment of files and some rasps. A short set of ( 
+expensive ) jewelers files have proved invaluable Pliers of assorted shape also 
+a pair of steelfixers ' nips ' and two sizes of tin snips, one having curved 
+blades. Chisels, punches of various sizes and an ' automatic ' centre punch. A 
+wheel brace and an electric drill, later supplemented by the aquisition of a 
+high speed mini-drill and variable speed control. A variety of clamps include ' 
+Mole ' overlever clamps, 'G' clamps and a range of tool makers clamps. A 
+hot-glue gun has proved useful, particularly for locating small or thin parts 
+during machining operations! Screwdrivers include the good old ' engineers 
+pattern driver, electrical and watchmakers screwdrivers. Several adjustable 
+spanners are used,for rough work but for actual work on models only good quality 
+open ended, or socket spanners are used. Messrs Proop's ' Doofers ' come in 
+useful at many stages. 
+
+Drill bitts have been purchased over the years to the stage where number sizes 
+are supported as are Imperial and letter sizes to about 1 / 2" diameter maximum. 
+Taps and dies have been purchased as the need has arisen and most sizes from 9 
+BA to 1 / 2" are held, together with the necessary stocks and tapholders. 
+
+### Tool Storage
+
+Tools are stored on boards, either wall mounted or, in the case of small tools, 
+fixed as riser boards on the back edge of the benches. The location of tools on 
+these boards is determined by the place in which they are most often used, chuck 
+keys adjacent to the drills, tommy bars adjacent to the mill, small tools 
+adjacent to the clean bench and so on. Tools which see only occasional use are 
+stored in file trays picked up cheaply in a car boot sale. Portable power tools 
+and lathe accessories are sited in cabinets, again wall-mounted, with glass 
+doors to ward off the ever present workshop dust. 
+
+### Benches
+
+Bench height is a very personal thing, the vices must be at the right height for 
+filing and sawing operations, in the writers case 32 inches from floor level, 
+yet for very fine work it is often necessary to have them higher as does a 
+watchmaker. This is achieved by having a supplementary worktop which rest on the 
+standard bench and can be secured when necessary by clamps, or mounted in the 
+vices. 
+
+Within the workshop it seems that one can never have enough benches or worktops. 
+Just as it is sometimes said that ' work expands to fill time ', so things 
+multiply to fill workspace ! Nearly 2 / 3 rds of the perimeter of the workshop 
+is allocated to worktops or benches. Some discipline has to be maintained here, 
+one bench is the ' dirty bench ', one the ' clean bench ' and the other the 
+light, mobile bench. The first two speak for themselves, although there is a 
+need for strong discipline to keep the clean bench, used for electronics and 
+fine work, really clean ! The dirty bench is for the heavy work of preparing 
+metal for machining. 
+
+The mobile bench is a recent production, made from DEXION angle, it is set to 
+match the height of the fixed benchwork and can be used in its own right for 
+light fabrication work, or appended to the fixed benches to accomodate overlong 
+pieces of work. The castors are of the heavy industrial type and are set so that 
+the uprights of the assembly just clear the floor. When any particularly heavy 
+task is to be undertaken it is a matter only of a few seconds work to insert 
+thin wedges to take the strain off the castors. The bench is used for final 
+assembly of clean items and can be sited according to the work in hand, against 
+the lathe as a repository for tools between uses or adjacent to the benches as 
+required. It is useful to have space to 'park' small tools in the course of 
+work, to hand yet not cluttering the available worktop. A particular advantage 
+to be gained from a mobile bench is that, sited in the right place in the 
+workshop, it provides a base on which a length of portable track can be mounted 
+for service work, adjustments to the loco and so on. A short length of 3/4 inch 
+plywood is used to bridge between the fixed and mobile benches and access is 
+available all round the 'island' so formed. 
+
+### Vices
+
+Vices are mounted on secondary pieces of benchtop which allow their location to 
+be changed to suit the work in hand. The heavy ply bases for the vices were 
+drilled to template, as were the benchtops and it is a matter of a few minutes 
+work to change things around as required whether for heavy or light work, 
+working in wood, metal or plastics. As well as the normal duties of holding 
+metal for sawing, filing etc. the two metalworking vices mounted in tandem are 
+used for folding and bending plate materials. There is a woodworking vice, this 
+swivels and has the useful facility of reversible jaws which permit gripping 
+material up to 7 inches wide. Cramps include toolmakers, mole, screwclamps as 
+used in woodworking and some excellent clamps which whilst intended to be used 
+as screw clamps can if supplemented by a 3/4" stock bar be used in clamping 
+lengths limited only by the available bar. 'Grippery' is competed by a small 
+parts, universal vice built to a design published in MODEL ENGINEER, this is 
+invaluable for small part assembly and the investment of the 2 or 3 hours 
+expended in its construction has been repaid many times over. 
+
+### Machine Tools
+
+The King of the workshop in these scales is without doubt the Myford 7 series 
+lathe. We graduated to this from a Unimat via a very ancient but extremely 
+trusty Zyto lathe, purchased second-hand which was used in building a series of 
+Stuart Turner stationary engines. The Myford is equipped with 3 and 4 jaw 
+chucks, faceplate, and a swiveling vertical table. Drill chucks to 1 / 2" and a 
+home- built die holder for the tailstock complete the lathe equipment proper 
+although a number of accessories have been built including boring and knurling 
+tools, wobblers, height gauges and so on from descriptions in MODEL ENGINEER 
+over the years. 
+
+The first exercise with the Myford was the construction of a sensitive drill to 
+a design from Messrs Reeves catalogue. The necessary castings and raw metal were 
+purchased from Reeves and provided excellent practice in turning, boring and so 
+on. The parts worked-up into an extremely accurate piece of workshop equipment 
+which allows the use of the smallest number drills without breakages. With small 
+number drills it is important that one gets the 'feel' of the drill as it cuts 
+metal, particularly at the critical time just before and at break through, the 
+Reeves drill provides just that feel. One addition ,in the interests of safety 
+was the inclusion of a perspex, ' wrap-around ' guard for the belt drive which 
+otherwise is running just inches from the users face in course of work. This 
+machine has been replaced in recent years by a 'cheap and cheerful' drill press 
+of doubtful ancestry, and recently a small universal milling machine was 
+purchased to suplement the armoury. 
+
+A throwback from the days of wooden models is a a small bandsaw. this is 
+invaluable for producing templates and for cutting the odd bit of packing 
+timber. It can be used for light metal cutting which is of course also carried 
+out using a hacksaw and brute force. A 'nibbler' has proved useful in cutting 
+thin sheet for cleading and similar purposes. 
+
+### The Workshop Building
+
+Given the opportunity to have a dedicated building for the workshop there are so 
+many possibilities that a description would fill another volume. We have been 
+fortunate enough to be able to build an extension to the house, brick built, 
+properly heated, insulated and lighted, with power and water available. 
+
+The workshop which was described in MODEL ENGINEER Vol 163 No.3853 really is a ' 
+quart in a pint pot ' as the Editor described it at that time. The best advice 
+stemming from experience must be that one should think of a size, and double it! 
+As with all building work, the finished result always seems smaller than the 
+drawings indicated, and anyway extra space can always be put to good use until 
+filled with that new machine or additional storage shelves. 
+
+A well insulated timber building can be used as a workshop, as can the space at 
+the back of the garage, and most of us know model engineers who produce 
+excellent work in such places. A covered access from the house is desirable as 
+in the depths of winter it takes some strength of character to leave the warmth 
+of the house and brave the elements to get to the workshop! In the case of the 
+timber building it is essential to insulate the walls AND THE ROOF. The latter 
+often being overlooked can be responsible for massive heat loss and consequent 
+condensation. The walls should be lined with something smooth to permit ease of 
+cleansing and ideally the floor should have heavy lino or tiles to permit 
+sweeping, thus simplifying the location of those small parts which insist on 
+gravitating to the floor, ( and under the nearest machine or bench ! ) Double 
+glazing, or at the least, secondary glazing of any structure is a further weapon 
+in the fight against condensation as well as retaining such heat as can be 
+introduced by some ' dry ' form of heating. A centrally heated workplace is of 
+course a luxury. Low wattage tubular heaters have a lot to offer in the smaller 
+or the isolated workshop. A time switch can be a benefit as the heating cycle 
+can then be optimised to suit workshop ' hours ' whilst maintaining the gentle 
+heat required to preserve tools and equipment. 
+
+### Services
+
+Plenty of power points at bench height are a must. Provided that substantial 
+cable is used these can be supplemented by extension leads with multiple outlets 
+( switched and fused ). We have a preference for general fluorescent lighting, 
+local intensity of light being provided by anglepoise or similar fittings. 
+Whilst low voltage lighting is ideal, normal mains voltage equipment has been 
+used for many years without problem or accident, of course these lamps whether 
+free standing, wall mounted or mobile are properly earthed and never mounted on 
+the machines. The use of a circuit breaker is essential where portable power 
+tools are used. On the topic of electricity, one of the most useful pieces of 
+equipment that I possess is a rather ancient meter, this measures current, 
+resistance and other detail to complicated for my ' ken ' but proves invaluable 
+in checking lamps, earthing of equipment and the like 
+
+Access to a sink, adjacent to the workshop yet not in it, is a great asset, 
+providing for the cooling of metal, scrubbing down prior to soldering and so on. 
+A sink which has become too disreputable for normal domestic use is ideal, and 
+an old sink is usually accompanied by some old taps, so that the installation 
+can be carried out by the model engineer with access to appropriate pipes 
+economically and in no time at all ! 
+
+### Ventilation
+
+Many hours are spent in the workshop environment and thought must be given to 
+good ventilation. As some of the operations, such as those of machining cast 
+iron and gunmetal generate a very fine dust we must look after our lungs. A good 
+quality mask will do much to save the respiratory system from attack but the 
+quality of the mask and the suitability of the cartridge to the work in hand is 
+all-important. 
+
+The writer's workshop is ventilated using a very large, Vent-axia fan bought in a 
+car-boot sale, this is mounted in a box INSIDE one of the the fanlights in such 
+a way that the fanlight can be opened and closed in the normal fashion for 
+general ventilation purposes. When a forced draught is required the fanlight is 
+set wide, the fan switched on, and a hinged perspex inner pane is buttoned down 
+to blank-off the fanlight opening beside the fan housing. The fan now produces 
+anything between a mild breeze and a howling gale. Air circulation is also 
+assisted by two smaller fans, as used in cooling computers, set over the lathe 
+and the milling machine. These fans which are attached by clamps can be moved 
+easily, and as they are brushless can also be used to flush away the fumes from 
+any small painting operations carried out in the shop. 
+
+### The Logbook
+
+As a keen diarist some entry is made in the diary each day. At the same time the 
+hours spent in the workshop are noted, also the activities. This odd 
+quarter-hour or so, each evening is spent noting down details of the way in 
+which things have been assembled, screw and fixing sizes and other details that 
+will prove useful, both when the time comes to take the model down and 
+re-assemble it, and when remaking parts. The information should also prove 
+useful to anyone who may own the models in the future. As well as details of 
+finished work, part of the entries will be sketches of the next component to be 
+fabricated together with a planned sequence of machining operations ( Often in 
+the ' heat of the moment t' in the workshop the sequence may be changed but 
+brief notes ensure an awareness of critical dimensions and intended secondary 
+set-ups ) It is also helpful to note down any items which need to be checked 
+when next visiting the prototype. 
+
+It is said that sketch is worth a thousand words, many times now notes have 
+disclosed a detail that had slipped the memory......... after all some models 
+take many years to build and a lot of detail becomes buried as work proceeds. As 
+an example, recently, due to some corrosion around the regulator gland it was 
+decided that the mild steel studs and nuts be replaced by new ones from 
+stainless steel. A few moments spent with the logbook confirmed that 5BA studs 
+and nuts had been used, and not 1 / 8 inch M.E. as they appeared on first 
+inspection. So, as the result of a few jottings some years ago, as well as 
+valuable time being saved the likelihood of a damaged regulator body was 
+avoided. Other notes made include references to articles in MODEL ENGINEER and 
+ENGINEERING IN MINIATURE for future use when a particular operation is to be 
+tackled. Some notes are reminders, which form a shopping list and ensure that a 
+component cant be produced for lack of the raw material or a particular tool, 
+say a drill, tap or other such item easily forgotten when at the shop. 
+
+On completion of a model, with reference to the logbook, it is worthwhile to 
+prepare a set of cards, 150 x 100 index cards are ideal for the purpose. These 
+shew the sequence of erection, fixing and fastening sizes and other detail that 
+a future owner may find useful in running and maintaining the model. These form 
+something like a simplified workshop manual such as one may have for a motorcar. 
+A computer ' buff ' could set up a useful database in which to record a number 
+of the details mentioned, although this may not prove so accessible to others at 
+a later date.
+
+![4Tool5]
+> Indexing 4 tool toolpost mainly from scrap
+
+## Chapter 5
+*Materials. Sources of supply. Organised storage and the scrap box. Modifying 
+available materials. An introduction to simple pattern making.* 
+
+### Sources Of Supply
+
+Sourcing of material is an important aspect of model making. The writer makes no 
+secret of the fact that a large part of the materials used in modelmaking is 
+scavenged from scrap bins and 'Biffa' skips (with permission from the owner of 
+course). We have also benefitted from the miscellaneous selections of 
+ironmongery to be found at road junctions and similar spots where vehicles, 
+waiting for traffic lights to change, shake themselves to pieces. Judging from 
+the range of screws, bolts and miscellaneous metal sections one finds, much of 
+our countries' transport fleet must be in imminent danger of collapse! 
+
+Much of the benchwork and shelving in the workshop, as well as the lighting 
+fixtures and associated wiring have come from skips. Proprietors of the local 
+engineering works are very helpful in this respect, to the extent that, knowing 
+our interests they set aside any particularly useful items of scrap! Once they 
+become aware of ones interest, friends often turn up with interesting bits of 
+metal which can yield useful raw materials. There will be however a number of 
+materials which have to be purchased and much of these will come from the 
+suppliers who advertise in the model press. A good source of materials is the 
+advertiser who puts up packs of useful sizes of bar and rod. A selection of 
+these bundles forms a good basis for a modelmakers stock. Of course not all the 
+materials will have an immediate application in the sizes purchased but a 
+hacksaw and some elbow grease work wonders! 
+
+### Organised Storage
+
+It is important to be able to access ones stock quickly and simply. Care in 
+segregating materials and storing them in such a fashion that they are not 
+damaged in store is just one further facet of the model engineering hobby. It 
+makes sense to run ones stock in much the way it would be organised in a 
+commercial workshop, noting when stocks are getting low and thus not finding 
+oneself in a situation where materials have to be used wastefully to obtain the 
+particular section required. 
+
+Containers suitable for storing small parts and materials are available in a 
+variety of materials, largely steel and plastic. Often job-lots of containers 
+can be purchased at auction. File trays are excellent for the storage of short 
+ends of bar, oddments that prove so useful, provided one can lay hands on the 
+when the need arises. Different materials can be segregated in such trays, mild 
+steel in one, nonferrous in another and so on. A simple wooden or welded steel 
+frame allows such a number of trays to be stacked and reduce the uptake of 
+space. For smaller items plastic icecream containers are useful, honey jars are 
+excellent for small bolts, screws etc. rotate the jar and give it a shake and 
+the bolt screw that you seek will pop into view! 
+
+Some simple methods for storing material:- 
+
+Medium length pieces of bar, rod and tube can be stored vertically in racks 
+comprising two grillages of steel bar fixed to a wall of the workshop, one to 
+locate the bottom of the stock and the other to support the material 3 foot or 
+so above floor level. 
+
+Short pieces of these materials can be stored in lengths of plastic drainpipe. 
+The pipes can be cemented together and banks of such pipes allow both easy 
+access and a quick check on stockholdings. Similar banks constructed from 
+wastepipe and conduit will control stocks of small diameter tubing. 
+
+Multiple-draw storage units are available from DIY stores or can easily be 
+manufactured in the workshop. Being wall-mounted they save space. Drawers marked 
+with their contents will save hours of searching. 
+
+Drills are best stored in racks, simply made from wood blocks, it will save time 
+too if tapping and clearance sized drills are stored together with the screwing 
+tackle. Draws marked 'Small number drills', 'Small cutting tools', 'Centre 
+bitts', 'Unions', 'springs', 'Washers' and so on, used methodically also save 
+time and avoid frayed tempers. 
+
+Jars and ice cream containers are useful for storing small offcuts, nuts bolts 
+and similar items, labeling saves precious minutes of time which will otherwise 
+be expended in searching for an elusive piece! 
+
+When seeking space in which to store tools and materials remember to consider 
+the space over, as well as, under that crowded benchwork. With a brick-built 
+workshop and in some cases in timber framed buildings quite substantial loads 
+can be supported in custom-built shelf frames, suspended from the roof members 
+or fixed back to the walls. The shelf frames should be supported in such a way 
+that the majority of the loading is applied to the wall fixings in shear, 
+vertically downwards at the face of the wall. Shelf units placed strategically 
+above the benchwork, leaving adequate working space also permit the installation 
+of lighting units below the shelving providing a good working environment below. 
+
+Some of the materials used in the model engineering hobby are quite aggressive, 
+some such as acids and certain paints require special storage. These are best 
+kept in a metal cabinet, locked if there are 'little people' about the house. 
+This is another instance where the same care should be taken over storage as is 
+taken in industry. 
+
+### The Scrap Box
+
+The first port of call when seeking materials for a part of the locomotive will 
+be the scrap box, or that odd corner of the garage or shed where those bits of 
+metal ' that may come in useful one day ' are stored. That day is bound to come, 
+and provided we weren't too ruthless the last time we sorted through in the 
+pursuit of space, we will find at least a few pieces that can be pressed into 
+service in our project. The materials may not be exactly what we need and it 
+needs imagination to see how we can use some of the stuff. It may be that, 
+rather than providing material for the locomotive proper, some pieces will 
+provide the basis for jigs or templates to assist in the construction or 
+erection work. Scrap angle steel such as that from an old bedstead whilst being 
+virtually ' Monkey metal ' could prove to be useful in the manufacture of an 
+erection frame. Dexion angle can be used in mocking-up a driving trolley, scraps 
+of plate may be used as the backplate for the jig on which the horn casting will 
+be machined and so on. 
+
+A well-organised scrap box is an important asset. Some time spent in dismantling 
+a defunct television set, a radio, damaged video tape case or virtually any 
+piece of domestic equipment can yield supplies of a range of materials from 
+self-tapping screws to sheet metal bracketry. Admittedly the current trend in 
+commercial manufacture towards ' throw away ' engineering practice leaves less 
+of a recoverable nature, but there is always some small thing worth keeping. 
+
+### Modifying Available Materials
+
+Often material of the section or length required for the current component may 
+not be available. With some adjustment either by way of a change of material or 
+method something from stock may be brought into service. Re-cycling, sawing down 
+angle, splitting tube, using chucking pieces saved from castings as bushes and 
+similar dodges can save money and time. Even pieces that were spoiled in some 
+previous operation, and probably thrown into the scrap box in disgust can prove 
+useful when cleaned-up, cut-up and re-machined. Whilst apparently a wasteful 
+process, producing studs by cutting the threaded portion from a bolt can be 
+productive in that one finishes up with a stud, and an embryo bolt albeit one of 
+much reduced length! Conversely, the small threaded offcut that is saved after a 
+bolt has been reduced in length may well be pressed into service as a grub-screw 
+in another application. Keep a few containers marked ' Small brass ', ' Small 
+steel ' and so on, and you may be surprised how often you find just the piece of 
+material that suits the current requirement. 
+
+It is occasionally possible to find alternative uses for items which would 
+otherwise be considered as domestic or garden hardware. instances of this are 
+small sized hinges which can be reduced for use in a model, studding sold at the 
+ironmongers, again for domestic use which can be brought into service as tie 
+bolts for securing material for machining in the lathe or milling machine. 
+Stores retailing automotive parts sell metal and rubber tube in various sizes 
+and gauges also shim brass and steel and a number of fixings which can be put to 
+use in models. DIY stores stock a number of standard sections of brass, 
+aluminium and plastic which may meet a modelling need at some time. Even the 
+local supermarket will stock polishes, scourers and abrasive materials which can 
+be used in metal finishing. A number of the shops market spun or pressed metal 
+products such as trays, bowl and eggcups, some in stainless steel others in 
+brass. The materials and sometimes the geometric shape of these present 
+possibilities to the model engineer, an example that springs to mind is that of 
+the steam dome cover cut from the bottom of a spun brass vase!. The search for 
+alternative and economic sources of material can be quite fun and may, to some 
+extent, relieve the boredom of a domestic shopping outing. 
+
+### Simple Pattern Making
+
+There have been many excellent articles, indeed a number of series of articles 
+in the model press on the topic of pattern making. The topic is interesting and 
+one which, given time, could become all-engrossing. Ones time available for 
+model engineering activities is often limited. With such limits there might be 
+some reluctance to spend the time and energy required for the manufacture of the 
+more intricate pattern work required by a project. In this case two courses 
+present themselves. The necessary casting may be obtained, as in the case of the 
+horns for Pixie, by modifying some nearly similar, available casting. 
+Alternatively one may turn-to and make simple patterns which, whilst probably 
+beneath the contempt of the dedicated pattern making modeller, yield castings 
+which can, by careful machining, permit the production of the required part. 
+
+Simple patterns may be carved from wood or, in the case of circular work, ' 
+horsed ' from plaster. Simple wooden patterns need no further description, as 
+long as the resulting castings include the principal detail and enclose the 
+outline of the required part, once the casting has been produced only straight 
+forward machining operations will be required to produce the required component. 
+Of course the amount of machining has to be limited to work that can be carried 
+out with the equipment available in the workshop. Firms producing castings have 
+readily accepted and cast from my simple patterns. 
+
+Plaster patterns can be simply produced for the most complicated parts and will 
+provide the one or two uses required for most model casting needs. Regarding the 
+' horsing ' of plaster to produce circular work such as wheels, this is an 
+age-old skill yet one which has often been overlooked. The technique which was 
+used for the smokebox rings for Pixie involves the preparation of a sheet metal 
+template of the required section ( plasterers use galvanised material, but for 
+our short-lived requirements any sheet will do ). The template is furnished with 
+a pin which can be inserted into a piece of plate, large enough to accommodate 
+the required pattern. The plate is very lightly oiled and the oil wiped away to 
+leave just a suspicion of greasiness and the plaster laid approximately to the 
+required shape. Judicious ' horsing '( scraping ) with the template around the 
+pin generates a plaster master which when hard and coated with two or three 
+coats of shellac or paint can be used to produce several castings. In each case 
+the necessary allowances must be made for shrinkage, and it has to be remembered 
+the finished casting will reflect faithfully the standard of finish imparted to 
+the pattern. 
+
+## Chapter 6
+*Planning. Model engineering with pencil and paper. Machining sequence. 
+Fabrication vs. the use of castings. Use of models, mock-ups, jigs and 
+templates.*
+
+![PixiePic9] | ![WeighShaft]
+> Sketches to indicate approach to making axleboxes, hornblocks and dieblock 
+guides for the model of Pixie
+
+### Getting Started
+
+With a portfolio of dimensioned sketches and a considerable number of 
+photographs under the belt it is time to make a start on planning the model. 
+This is the time to do some taking-off of materials, not only establishing 
+immediate needs but listing and probably budgeting for, the future. Ours is 
+fortunately a long term hobby, and there are many facets to each project. Once 
+the main equipment has been bought or made or at least a way of accessing 
+equipment has been established, perhaps via a local evening class or community 
+centre, the materials for a model can be bought in step with progress in making 
+the model. This is a major economic ' plus ', bearing in mind the cost of 
+materials, particularly the more exotic ones, such as stainless steel and 
+phosphor bronze for which there are few serviceable replacements. 
+
+It is decision time once again! Looking through our sketches and visualising the 
+model it becomes necessary to determine whether standard castings that 
+approximate to those required for the model are to be used or modified, or 
+whether parts will be fabricated from raw materials. The alternative, and this 
+may be time consuming, is to have castings made from patterns which will be time 
+consuming to produce. Fortunately much of this deliberation can be carried out 
+away from the workshop, in the lounge whilst others watch the television, or 
+during boring business meetings, there is no end to the scope! In practice, a 
+lot of thinking can be done in the workshop or garage where the materials can be 
+handled and their possibilities pondered. Pixie's chimney was turned from 
+reinforcing steel from a building site, the platework once comprised the 
+instrument panel on a piece of control equipment, the chassis for the driving 
+trolley was in a previous existence part of a steel door, and so on. In many 
+instances a considerable amount of work was required to rework the material and 
+prepare it for the operations that would transform it into a part of the model. 
+Often a whole evening's modelling time was spent in sawing or shaping ' rough 
+stuff ' to a stage where marking out and the work of machining proper could be 
+commenced. It adds to the pleasure obtained from the hobby to be economic with 
+materials and be prepared to do some re-cycling! 
+
+### Pencil And Paper
+
+The scrap pad or the notebook is a vital tool in model engineering. Time spent, 
+pencil in hand will yield immense savings in the time required to produce parts 
+for a model. No matter what our artistic abilities, as long as WE can understand 
+our notes and sketches that is all that really matters! Sketches of the parts 
+required for the model, ideally full size, worked-up from our details and 
+dimensions, will give us a feeling for their eventual shape, size and ' heft '. 
+With a sensible sketch in hand a start can be made on figuring out the material 
+requirements, and visualising key operations in producing the part. Some of the 
+operations will be those standard operations described so often, and so capably, 
+by the expert writers in the model journals. These replicate to a large degree 
+the actual methods used in the construction of the prototype. In many instances 
+however because of the implications of available equipment or available material 
+we have to be our own method engineer and consultant combined, and devise 
+original techniques. The methods so arrived at may not of course be completely 
+original, modellers have a saying that there is a precedent for everything. 
+Whatever we re-invent however will give us immense satisfaction when 
+successfully put into practice. 
+
+### Working Details
+
+Whether, or not, to produce scale drawings will depend upon individual 
+preference, The writer works from sketches prepared from the site sketches, 
+often after making several different sketch views of the item as described 
+elsewhere. For detail which is critical mechanically, such as valve gear and 
+motion work, measured drawings are made at the drawing board ( Well actually the 
+pastry board! ), often twice full size. These can be used in conjunction with 
+cut-card components to establish valve events, critical clearances etc. 
+
+The amount of drawings prepared will depend upon one's skill with pencil and 
+paper, and indeed on one's particular interests. We all tackle jobs differently. 
+In the case of ' Pixie ' many sketches were made, from all viewpoints. After 
+some time spent in this way the part can probably be drawn from memory . This is 
+very helpful when it comes to the time to decide upon the materials and methods 
+to be employed, also in the course of work in the workshop. Some modellers are 
+happier cutting metal but even they will have to sort out the overall sizes and 
+details to enable the selection of an appropriate piece of stock. Working from 
+the dimensions obtained during the survey each part may be sketched, as near to 
+model size as possible. Some modellers may prefer to use one of the lap-top 
+drawing boards complete with miniature drafting machine, others may even use a 
+computer with a CAD programme. The writer prefers to work in sketch form on a 
+pad of A4 paper, this can be done virtually anywhere, even in the bath! 
+
+It is worthwhile making a series of sketches of the part in the various stages 
+of production. In this way the sequence of operations in producing the part can 
+be visualised and suitable chucking or fixing points provided. Choice of a poor 
+sequence of operations can make completion of machining difficult or even result 
+in the production of a substandard finish. Ideally, once a part is set into a 
+chuck or mounted in a fixture it should only be removed once operations critical 
+to concentricity or line are completed. Re-chucking a part causes problems, 
+especially for newcomers in their early days in the hobby. Turned mandrels are 
+often the solution to the problem and the need for these, and suitable jigs to 
+hold small parts for finishing operations, will become apparent on paper as each 
+stage of production is examined in detail. 
+
+As an aside, a fixture which the model engineer may like to use as a design 
+exercise is a means of supporting 3 jaw or 4 jaw chucks, and faceplates OFF the 
+lathe. As well as allowing set-ups to be established in comfort on the 
+workbench, such a fitting is useful in holding material whilst setting out and 
+during milling operations. The lathe manufacturer generally offers as an 
+accessory a threaded mandrel replicating the headstock thread and it is a simple 
+matter to attach this to a backplate drilled to match the slots on the top table 
+of the lathe, the milling machine, drilling machine etc. Make a few sketches, 
+dig out the necessary plate from the scrap box, buy, or better still, fabricate 
+a replica of the spindle nose. A suitably threaded nosepiece can cut from a 
+spare intended for use in the tailstock, leaving a useful No 2 Morse taper 
+mandrel which can subsequently be drilled and tapped for use as a backstop when 
+machining thin discs in the 3 or 4 jaw chuck. The result, provided care is taken 
+to ensure accuracy of the fixture, as well as providing an exercise in 
+sketching, simple method engineering and some turning and fabrication work, is a 
+most useful piece of workshop equipment. 
+
+### Scaling Dimensions - Scaledness
+
+There will be occasions where small adjustments or a compromise has to be made 
+between dimensions established from survey and those to which the model parts 
+are eventually prepared. These adjustments may be required to simplify something 
+which otherwise would be over complicated to manufacture with the means at one's 
+disposal, to overcome erection difficulties or to ensure that model parts are 
+sufficiently robust to be durable in service. Where a scale 4" axle may be 
+required the writer has no qualms about using the nearest available stock size, 
+in this case, to 2 1/2 inch to the foot scale, 0.875 diameter. This is not 
+laziness, or a reluctance to spend time on a machining operation, rather it 
+constitutes the approach taken in value engineering. Time saved by eliminating 
+the machining operation may well be put to better advantage preparing some other 
+more critical part. Whilst this approach may not suit the purist, it is one that 
+most people will find they can live with ! 
+
+Instances of compromise made in the course of constructing the model of PIXIE 
+were increased thickness of the plates used for frames and some thinning of 
+parts of the motion. There were one or two other situations such as the axles 
+where, as noted above, stock bar was used rather than material turned to scale 
+diameter. The amount of adjustments made by the individual will be determined by 
+personal preference and standards. At one stage consideration was given to the 
+unprototypical move of splitting the smokebox horizontally, making the top half 
+removable in order to facilitate access for installing the blast pipe, wet 
+header and so on. Even in 2 1/2 " to the foot scale it is difficult to get 
+fingers and especially spanners to the fittings for the blower and such items 
+within the smokebox. Some thought was given to Martin Evans comments in ' Manual 
+of Model Steam Locomotive Construction ' where he recommends split smokeboxes, 
+in that instance for 1" scale locomotives. Eventually the decision was taken to 
+use a piece of large diameter steel steam pipe, turned to size, and in the event 
+after much fiddling and bruised knuckles the exhaust pipes were ' persuaded ' 
+into place. The decision has been regretted since however, as the substantial 
+exhaust pipes and blower ring make it difficult to sweep the boiler tubes. A 
+rebuild would include a split smokebox ! 
+
+### Fabrication vs. Castings
+
+As our working sketches develop we will be better placed to visualise the 
+finished part in model form. as our prototype is a narrow gauge locomotive if we 
+are working in 2 1/2" to the foot scale we are drawing components which are, 
+linearly speaking, approximately 1 / 6th full size. The finished model parts 
+will be quite substantial and correspondingly weighty. It may well be that if we 
+are constructing a model of an unusual prototype, and one for which there are 
+few commercially available part, we may choose to fabricate components rather 
+than make patterns for our local foundry. The coupling blocks and weighshaft 
+brackets for Pixie were unusual to a degree and it being unlikely that more than 
+two uses would be obtained from patterns, these items were fabricated. Such 
+castings as were bought-in were cast from simplified patterns or, in the case of 
+the horns, were modifications of castings produced commercially for other 
+prototypes. Fabrication allows for economic use of material and in some 
+instances economical use of available time. Pattern making is a time consuming, 
+although enjoyable pastime, offering as it does a change from metal working 
+practice and it does provide another most interesting avenue or aspect of 
+manufacturing technology to be explored. Where club membership provides contact 
+with other enthusiasts it may well prove worthwhile spending time making 
+conventional patterns when the use can be shared with fellow members. Equally if 
+a batch of locomotives were in course of construction then patterns providing 
+multiple casts would be favourite. 
+
+### Models, Mock-Ups ( And Test Pieces )
+
+The mock-up is an essential stage in automotive, aircraft and many types of full 
+size engineering.Due to small discrepancies in scaling of parts, or the accuracy 
+of our production, it becomes increasingly essential in our model making, . As 
+production of our model parts proceeds models ' mock-ups ' help us to ensure 
+proper fits in the final erection stage. For ' Pixie ' a card model was made and 
+superimposed on the general assembly sketch of the frames and cylinder casting 
+to determine acceptable events in the valve settings. A model of the boiler 
+fabricated from stout card was used to ensure that the boiler, as detailed, 
+could be fitted between the frames. A further model of the saddle tank proved 
+the position of the mounting brackets on the boiler, and so on. 
+
+On a larger scale, a dexion angle mock-up was made of the driving trolley to 
+ensure a comfortable seating position with access to the controls, this was 
+subsequently translated into the trolley described in Ch xx and has proved to be 
+safe, stable and comfortable in service. 
+
+Model assemblies are especially important if, as in the case of the model of 
+PIXIE, parts are being made from a series of sketches rather than a full set of 
+finished drawings. There are however a number of instances such as those quoted 
+where details can be proved ' in the round ' in mock up form, a task which would 
+account for no little amount of head scratching in the two dimensions of a 
+drawing. Apart from the technical reasons calling for the use of mock-ups there 
+is a great deal of satisfaction to be obtained from the preview of the finished 
+article presented by even the simplest model! 
+
+Where some new material or technique is to be employed, time spent on a test 
+piece or pieces is time well spent. instances where tests were performed in the 
+production of Pixie were the trial flanging of the mild steel used for the 
+sandboxes and the saddle tank, particularly the formation of the joggle sketched 
+where the tank plates overlap. Trial rivet formation, used in producing the 
+rivets for the main frame angles, a trial pressing of brass sheet between wooden 
+formers indicated that the technique could be used in making the steam and 
+exhaust pipe covers which have to fit snugly to the steam chests and smokebox. 
+Unusually, in the case of these covers the second trial piece was found to be of 
+sufficiently good standard to be used in the finished model !
+
+### Jigs And Templates
+
+Jigs will be required to locate parts for some of the operations such as milling 
+and silver soldering. Time spent in producing a simple jig will be repaid by the 
+ease and speed with which the most difficult operations can be carried out. 
+Jigs, used to locate parts in their correct position, do away with the chancy 
+set-ups which are sometimes attempted, using odd bits of metal or wire to hold 
+pieces for soldering, or the sometimes makeshift clamping arrangements to hold 
+metal during machining. A simple jig permits work to be carried out accurately 
+with the correct application of cutting force or allows brazing to be done 
+whilst avoiding the odd movements whilst the metal is being brought up to heat 
+for jointing. 
+
+An example of a simple jig is that used whilst soldering the components of the 
+exhaust pipes for Pixie. 
+
+A piece of stock mild steel from the scrap box was marked out to replicate the 
+position of the bolts fixing the exhaust pipe flanges to the cylinder casting. 
+The key points of the set out were transferred using calipers and scribing lines 
+on marking blue. A further piece of mild steel was welded centrally to provide a 
+mounting for a bracket which in its turn secured a piece of studding to locate 
+the junction piece where the two pipes join. The exhaust pipes passed through 
+the flanges and were cut to the correct profile to seat onto the junction block. 
+The whole of the jig was oxydised to prevent the flanges becoming soldered solid 
+with their supports ! The flange bolts and those securing the two parts of the 
+junction block were also oxidised. The exhaust parts were thoroughly cleaned and 
+flux was applied before being assembled into the jig. The assembly was made 
+using the preprepared bolts. The joints were then made with one heating, sure in 
+the knowledge that the flanges of the finished components would match the fixing 
+holes and the assembly would seat properly without strain. 
+
+Whilst discussing jigs, ties and packing are worthy of mention. For accuracy, 
+jigs must be securely fixed to the bed of a machine. This will be facilitated if 
+suitable tie bolts and packings are handy. It is well worthwhile assembling an 
+assortment of lengths of studding to match tee-nuts suited to the tee slots in 
+the lathe saddle and vertical slide as well as the bed of the milling machine 
+and rotary table if available. Time will then be saved when securing work for 
+operations such as boring and fly-cutting. Studding for the purpose can be 
+purchased relatively cheaply from the trade, tee-slot material can be bought by 
+the length for machining in the home workshop. Short offcuts of bar should be 
+marked with their size for quick recognition and set aside for use as packings. 
+Marking using a punch on the end of the stock will avoid problems caused by the 
+local ' upset ' arising from the punching operation. Often trade suppliers sell 
+such offcuts by the kilo containing a range of useful sizes which are ideal for 
+use as packing pieces. 
+
+Templates were produced for the machining operations on the horn castings, the 
+drilling of items such as the steam chest covers, the drillings in the steam 
+dome bush, the foundation ring and the cylinder covers. LBSC's advice was 
+followed in the course of the platework and plumbing. A stiff wire was bent 
+around flanged plates to give the width of plate required. Similarly, wire was 
+also used to establish the route of the pipework and when re-straightened gave 
+the lengths of pipe required. Templates were made for any offhand turning such 
+as that for the cylinder covers, dome, chimney base and so on, ensuring that the 
+required geometry was attained. time spent in thinking through jigging 
+operations and the provision of templates will be amply repaid in ease of 
+operation and the avoidance of scrap. 
+
+## Chapter 7
+*Frames, stretchers, horns and axleboxes. Wheels, axles, crankpins and 
+quartering. Coupling rods and bearings. Brake hangers and blocks.*
+
+![AStart]
+> Pixie's frames and a start on the motion
+
+### Making A Start
+
+So now the time has come, to make a start on machining parts for the locomotive 
+we have so carefully chosen and, on visits to site, measured, photographed and 
+generally fussed over! In the workshop it will be necessary to make constant 
+referance to the database, A plastic folder will hold and preserve the measured 
+sketches from survey and our sketches pertaining to the parts to be tackled. A 
+sheet of perspex in front of a striplight can be used for viewing transparencies 
+which are clipped in place using butterfly clips. It also makes sense to provide 
+some means of retaining photographs of the relevant pieces so that they can be 
+viewed without being handled with ' workshop hands '. A piece of ply with some 
+criss-cross tapes as used to hold letters in an hotel foyer will enable the 
+photos currently in use to be displayed on the workshop wall. 
+
+Whilst your subcontractor is casting the wheels from your patterns it is a good 
+thing to make a start on the frames. Handling the raw steel for a 5 inch gauge 
+locomotive gives a good impression of the eventual size and ' heft' of the 
+finished frames. Our supplier came up with a length of ' Black steel '. This has 
+an extremely tough surface and is quite difficult to work. Luckily, in this case 
+, a friend undertook to surface-grind the material and it came back shining 
+bright with the hard crust removed. It can prove helpful to carry a small file 
+with you when you visit your supplier, if you are in any doubt about the 
+workability of materials, a few strokes of the file ( on the metal! ) will tell 
+a great deal. 
+
+Regarding thickness of frame material, whilst this may be accurately scaled from 
+the prototype it may prove advantagous to beef-up the frames somewhat. Those on 
+Pixie are from material which after surface grinding worked up to just over 5 / 
+32 inch thick which is in line with Martin Evan's recommendations for 5 inch 
+gauge locomotives in his ' Manual of Model Steam Locomotive Construction' 
+
+### Marking-Out
+
+The first and perhaps the most critical operation is that of marking-out. The 
+tools for use in marking out frames are basic, a square, a clearly marked steel 
+rule, a good true straight edge and a sharp scriber ( the latter two items can 
+be home produced ). If a marking die which comes as a laquer to be applied by 
+brush is used, the coating thus formed can, with care, be scribed lightly to 
+make an impression without actually marking the steel. Remarkably the lines thus 
+scribed can be ' felt ' using the tip of a sharp centre punch and will guide the 
+punch to points of intersection where a punchmark is needed. An automatic punch 
+which can be adjusted to make various depths of indentation and accommodate 
+differing surface hardnesses is a useful tool. The blue can be left on the metal 
+until all necessary machining is completed then wiped away with a rag soaked in 
+methylated spirit. Where heat is generated whilst the blue is on metal the marks 
+may require some stronger treatment such as a rub with emery cloth or wire wool. 
+
+Marking-out is best carried out using running dimensions, as used in the survey, 
+to mark stations along the frames. Running dimensions are taken from one datum 
+in each case and avoid build-up of dimensional errors and consequent innaccuracy 
+likely to be encountered where a series of discrete dimensions are used. The 
+square is used ( from a true edge of the frame steel ) to mark perpendiculars 
+and then dividers or a calipers to set up offsets from the base line. Perhaps it 
+goes without saying that the initial set-out should be checked for errors, it 
+would be a pity to spoil valuable metal and waste valuable time by errors in 
+setting out. 
+
+Care must be taken at this stage to establish the centreline of the axles in 
+their running position, both vertically and longitudinally, centre pops either 
+side of the eventual position of the horn openings will provide a means of 
+establishing the axle position and determining the cylinder location, 
+inclination and so on when the actual centre will have been machined away. 
+
+### Cutting Metal
+
+Frame steel usually requires cutting to both length and width, a hard job but 
+one made easier by rotating the hacksaw blade through 90 degrees in the frame 
+and mounting the frame material in the vice together with a stock bar to act as 
+a guide.This substantial stock bar inserted into the jaws behind the frame steel 
+acts as both a guide for the saw and a stiffener retaining the long materials 
+Aword here about the number of teeth on the hacksaw blade, and the blade 
+tension, good quality blades generallybear a lael indicatingthe thickness of 
+metal they are designed to cut. Selection of the correct number of tethmakes all 
+the difference to tthe ease, or otherwise of the tsk in hand. Once the blade has 
+been brought to initial tension about three complete turns of the thumbscrew 
+generally suffices to set the correct blade tension. incorrect tension can be 
+recognised when a cut starts townder from the ' straight and narrow '. One last 
+thought on technique, for years we will have been tutored to use the forefinger 
+of the hand gripping the handle pointed forward, ' to guide the cut ' in the 
+case of a wood saw. This action courts disaster in the case of the hacksaw, as 
+the finger is liable to be the first point of contact with raw mtall in the case 
+of blade breakage ! Long cuts such as those required for the frame profiles give 
+time to think out the next move as well as providing some exercise to counteract 
+some of the less energetic workshop activities! With the nett length and width 
+established the frames can be cut to profile. A fairly recent alternative to all 
+this hard work is offered by the trade, in the form of laser cut frames. There 
+is an added bonus in this approach as the supplier will spot most of the holes 
+ready for drilling. Accounts in the model press have been extremely 
+complimentary about the prompt an acurate service offered by the one or two 
+lazer-cutting specialists. 
+
+The front and back plates follow, again sawn to shape. Where shapes such as 
+those required on the front plate are required, these can be produced by chain 
+drilling and subsequent sawing. The profile of the frame members can be tidied 
+up by draw filing and all is then set for detailed marking out of holes 
+positions for rivets, horns and similar details. The side frame members should 
+be bolted together at this stage using countersunk headed bolts (countersunk to 
+allow the material to be layed flat on the bench for marking out, and more 
+importantly flat on the bed of the drilling and milling machines during 
+subsequent operations ) 
+
+At this stage the key lines of the motionwork should be established, for this 
+purpose the frames may be coated in marking fluid from behind the front plate to 
+the line of the back axle or some stout paper glued in place. The first line 
+will be that of the axis of the cylinder which will be set to coincide with the 
+centre of the driving axle at its running position. This line established, the 
+location of the cylinder block can be set out and the position of the slide bar 
+indicated. The motion plate fixing holes can now be spotted with the motion 
+plate normal to the slide bars. The critical angle of between the axis of the 
+cylinder and the top of the steam chest can be measured and a template prepared 
+for use in setting up that casting for machining at a later stage. All this is 
+done using dimensions taken during the site survey. Later the critical sizes of 
+the connecting rods, the valve rods and the piston rods will be established. 
+
+### A Jig For The Wheel Centres
+
+At an early stage in the marking operation it is well worthwhile taking time out 
+to make a simple jig to the dimensions of the wheel centres. This jig can be 
+used to mark the wheel centres on the frames, to locate the wheel bearings and 
+to replicate these centres exactly when making the coupling rods. Having set out 
+the wheel centres and drilled pilot holes in the jig, it should be hardened and 
+set it aside for future use. 
+
+### Drilling The Frames
+
+With all holes marked out and punched they can be spotted accurately using a 
+centre bitt. This is followed by drilling using a succession of bitts up to the 
+required, final size. Any slight innaccuracies can be corrected at an 
+intermediate stage by drawing wrongly placed holes by centre-punching the edge 
+of the hole on the edge to which the drill bitt has to be drawn during one of 
+the intermediate drilling stages. Often the correct procedure for drilling 
+holes, that of using a series of drills up to the finished size of hole, is 
+omitted. Where this procedure is followed the opportunity for correcting the 
+occasional wrongly positioned hole is forfeited,also the finished hole, unless 
+reamed, is likely to be oversized.. On frames of this size it will be advisable 
+to add further bolts to hold the frames together as work proceeds. 
+
+Horn locations can be spotted and opened out by drilling and sawing, finishing 
+with a file or by milling. With only two pairs of horns to cater for in the case 
+of an 0-4-0 filing is not too arduous a process!. 
+
+### Frame Angles
+
+Whilst standard mild steel angle was used for the frame angles they were trued 
+up by milling along one outer face to render them ' die square' to ensure that 
+once they had been rivetted into position, the joints between frame members came 
+up square. The angles were rivetted to the frames taking care that the top of 
+the angle steel was quite flush with the top of the frame members. 
+
+### Buffer Beam And Drag Beam
+
+These were cut from the same material as the frames, somewhat overscale but 
+substantial. The positions of the holes for rivets were spotted through from the 
+frame angles whilst the whole assembly, frames and beams were held together by 
+instrument makers clamps. The actual erection / assembly process was carried out 
+on the bed of the lathe to ensure absulute accuracy of plane. On PIXIE as 
+distinct from many standard gauge locomotives, the head of all rivets on the 
+beams are countersunk. This was replicated on Pixie as were the rivet heads 
+described earlier. There are a number of holes in the beams which give witness 
+to various modifications made during service, although surveyed these were 
+ignored at this stage but will be incorporated later to add to the authenticity 
+of the model. 
+
+### Frame Stays
+
+The frame stays on PIXIE are castings, these are reproduced by fabrication to 
+save the time which would otherwise have been spent in making patterns. The 
+flanges and fillets were shaped, pinned and held together with wire during 
+silver soldering. Having learned the technique,silver solder is generally used 
+to join items where strength is required. A word here about silver soldering. 
+When first starting model engineering great difficulty was experienced in 
+obtaining sound, clean joints.Fortunately however, a friend arranged for a brief 
+training session with a dear old ' Gent ' in the local engineering works. He 
+emphasized the importance of degreasing the materials to be joined, and the need 
+for an adequate source of heat as well as the conservation of this heat by 
+strategically placed firebricks. " Watch the flux," he said, " When it 
+liquifies, touch the solder to the metal and see it ' flash ' into the joint! " 
+Among other tips which he passed on in the course of the brief session was that 
+of making small centre pop marks on surfaces to be joined. The slight raising 
+about the pop mark ensures a minute space between the two parts being joined 
+into which the molten solder is drawn by capilliary action. The solder always 
+flows towards the hottest component in the joint, a point which will prove of 
+assistance when making a difficult joint. For pickle, follow Ted Jolliffe's 
+advice in MODEL ENGINEER and use a solution of citric acid crystals in water. 
+This is generally as effective as acid pickle and far safer to have about the 
+workshop and safer in disposal. The crystals can be obtained in any shop 
+specialising in home brewing equipment. 
+
+Many narrow gauge locomotives have distinctive frame details, in the case of 
+PIXIE it is the stiffening angles at the top of the side frames, attached by 
+prominent, large diameter rivets. Having had difficulty in the past with forming 
+rivets to any degree of consistency, and, realising that the results achieved 
+here would greatly effect the final appearance of the locomotive, it was decided 
+to fabricate the rivets.The formed end and shank of the rivets were turned from 
+mild steel rod. The formed end was held in place using a conventional ' Snap ' 
+whilst the shank was peened into a countersink formed in the dummy cone head. In 
+the case of the ' rivets used to fix spreaders between the frames, these were in 
+fact bolts with their heads turned to rivet profile. The cone head was made 
+seperately, tapped to suit the thread on the shank and the fixing was made by 
+tightening head using a specially made socket spanner, furnished with a pin 
+which registered with a hole in the cone. A miniature tommy bar assisted in the 
+tightening process and prior to final assembly the threads were annointed with 
+locktite ' screwfix '. Elswhere on the frames, such as at the angles connecting 
+the beams with frame members, standard black iron rivets were used, the shanks 
+being peened into countersunk holes in heads, again produced seperately but 
+drilled and countersunk rather than tapped. on completion of the peening 
+processs, the ends of the shanks were and filed flush with the face of the ' 
+heads ' 
+
+### Horns
+
+The axles on PIXIE run in heavy, sprung axleboxes, riding in cast horns. 
+Consultation with Peter, a mine of information, at that time major domo at 
+Messrs Kennion, in Hertford, revealed that some gunmetal castings, which they 
+held in stock, would provide suitably shaped material which with further 
+additions by silver soldering and subsequent machining could be made to 
+replicate those on the full size locomotive. These operations were carried out, 
+prior to the aquisition of a milling machine, on the lathe using a simple jig to 
+assist in work holding. It seems that we amateurs do not make enough use of jigs 
+and fittings, so much a feature of full-size practice. Where we need two similar 
+components, and especially where there are four or more items then construction 
+of a simple jig is well worthwhile, not the least from the safety aspect. Record 
+has it that, in the course of machining materials for an earlier locomotive, one 
+part flew out of a makeshift attachment and left the workshop through a ( 
+fortunately open ) window. Jigs and fittings may take time, they can frequently 
+be fabricated from scrap, and set aside, can often be re-used, albeit with some 
+modification, for further work of a similar nature. Some tasks simply cannot be 
+done without jigs or fittings, for example, to attempt turning a wheelset to 
+size without a suitable mandrel would result in failure. Many other jobs will 
+benefit from the time and thought employed in producing similar simple tools. 
+
+At this stage a start was made on machining the horns, the worst of the rough 
+texture of the casting having been removed by filing, the outside face of each 
+was cleaned up by facing cuts made using this tool with the horn mounted in the 
+four-jaw chuck. A tungsten carbide tipped tool is kept specially for such 
+operations, it is a rugged tool produced for a lathe much more substantial than 
+the Myford. It is set on packing blocks under the holder intended to retain 
+tools in the Myford ' boat ' nd is capable of giving castings big licks, 
+provided that is that they are securely fixed! The flat face produced in this 
+fashion was then used as a datum whilst bringing the castings to finished 
+thickness. Centrelines were established and the axlebox openings milled to 
+slightly less thaan drawing size, some work with a fine file squared up the 
+radiussed internal corners left from the milling operation. It was now necessary 
+to solder onto the bottom of each horn a flange piece for later attachment of 
+the hornstay. A jig was made to facilitate the final machining of the horns, it 
+consisted of a backplate which could be mounted on the vertical slide ( those 
+with a milling machine can of course use a similar jig ), fitted with a pad of 
+steel representing the axlebox and having a cover plate which in effect formed a 
+flange retaining the horn in position. Each horn in turn was set onto the jig 
+whilst the bolting face of the horn was machined back by the thickness of the 
+main frame members. The horns were then reversed on the jig and a small diameter 
+end mill used to tidy up the back faces, around the fillets. Each horn was filed 
+to shape and drilled, again on the jig, for the bolts which secure it to the 
+frames. These bolts must have the heads thinned down. Although the slight recess 
+in the back of the wheels provides ample clearance with the axles in their 
+running position it has to be remembered that the completed wheel sets have to 
+be assembled onto the frames and full-sized heads would prohibit this. 
+
+### Equalisation
+
+Consideration was given to making working springing. It was decided however to 
+use the simple suspension achieved by the use of a hard rubber block as adopted 
+on ' Sweet Pea'. Dummy springs were milled from brass block, these were enclosed 
+in a fabricated band of mild steel and the whole drilled with a clearance hole 
+for the tie rods which are screwed into the axleboxes. In practice the 
+rudimentary springing arrangement serves the purpose of keeping all four wheels 
+in contact with the track, at least on my track, described later, which is 
+portable and can thus be packed to a good level when being set out in the 
+garden. The spring mounting brackets were machine from the solid, again by 
+milling in the lathe. 
+
+### On Milling
+
+Considerable amounts of milling work can be carried out in the lathe. To obtain 
+the best results it is worth investing in a substantial vertical slide, 
+preferably one incorporating a swivel action. Lateral support for the vertical 
+slide can be taken from the tailstock quill and for heavy work the slide can be 
+packed up from the top slide. Even without a vertical slide, a lot of useful 
+milling can be done on materials either secured to the topslide using steel 
+packings and strong clamps or in the case of smaller items clamped in the lathe 
+tool holder. A range of end milling cutters and slot drills will prove useful in 
+forthcoming operations. Contact with a local engineering works may yield a 
+supply of used cutters which although past their useful life in the course of 
+rigourous production work can prove useful in the amateur workshop. 
+
+As a result of the ' crick in the neck ' resulting from time spent viewing the 
+milling cutter at work on material held in a vice on the vertical slide, that 
+the decision was made to purchase a milling machine! A visit to the Model 
+Engineering Exhibition afforded an opportunity to compare machines, and prices. 
+Fortunately for the model engineer the exhibitors often make special offers on 
+equipment and tools at the exhibition , and many are prepared to quote a special 
+price if approached. For the occasional light machining that I was 
+contemplating, a imported machine appeared to fill the bill, and as the price 
+reached after some discussion, and comparison with other suppliers, was within 
+my budget one was duly purchased. 
+
+With care in mounting the work, controlled application of cutting force, the use 
+of sharp tools and other simple precautions the machine has proved to be a good 
+investment. I also use it in woodworking, for grooving, routing and so on. It is 
+invaluable as in the construction of hollow masts for model yachts, and similar 
+tasks.The collet chuck is essential in achieving rigidity by reducing the 
+projection of the quill from within the head of the machine. In the absence of 
+an autolock chuck it is advisable to ' key ' cutters into the collets to avoid 
+draw-out of the bitt during the cutting operation. As in all milling operations 
+on such light machines it is important to avoid step milling, or moving the 
+material being machined in the direction of rotation of the cutter, with the 
+tendency of the cutter to climb onto the work. Either of these actions whilst 
+using a light machine are likely to result in snatch with the possibility of 
+damaged tools or worse! . Purchase of the milling machine called for a rotary 
+table and a kit of parts or completed table which has proved quite adequate for 
+the task is marketted by an advertiser in MODEL ENGINEER. Purchase in the 
+completed form, saved valuable time which I could spend in model engineering, 
+this saving more than outweighed the extra cost of a fabricated table. The table 
+has been a great help in many instances from the finishing of valve spindle 
+forks to simple dividing. When rounding ends of connecting rods and similar 
+operations it is important to hold the work securely, and to rotate the work 
+against the rotation of the cutter, failure to observe this rule can result in 
+snatch and possibly injury. 
+
+### Axleboxes
+
+The axleboxes were made in two stages, a phosphor bronze bar sufficiently long 
+to yield four individual axleboxes was machined to a tee-shaped section, the 
+main stem of the tee, being a few thou' wider than the horn openings. The limbs 
+of the tee formed one pair of flanges. The axleboxes were parted off using a 
+slitting saw on a simple mandril in the three jaw chuck. A further phosphor 
+bronze plate was then prepared to form the second, inside flange of each box 
+This method of construction whilst, on the face of things appearing laborious, 
+permits a good fit to be simply achieved in the next operation, that of filing 
+to an individual fit in each hornblock and ensuring a good slide fit between the 
+cheeks of the hornblock. The wearing surface so formed was filed slightly convex 
+to avoid binding when the axleboxes move as the rubber springing blocks become 
+compressed as the locomotive rides innacuracies in the track. The second flange 
+face was now fixed into position using countersunk screws. Each axlebox was next 
+drilled and bored to suit the silver steel used for axles, oilways were cut in 
+each bore and the lubrication holes conveying oill to the axle and to the 
+axleboxehorn surfaces were then drilled. 
+
+### Wheels
+
+The wheel castings were in grey cast iron, and remarkably free from casting sand 
+which, if not removed, can quickly take the edge off tools. The castings were 
+mounted in the four jaw and the back face turned until the wheel thickness was 
+.03 inch more than the required finished thickness of the wheel at the boss. At 
+this stage the recess in the back of the wheel, noted during the survey, was 
+machined. This recess provides clearance for the heads of the bolts retaining 
+the horns in the frames. With the back turned to profile the central hole in 
+each wheel was drilled, first with a centre bitt then using successively larger 
+bitts to the stage where it could be reamed to final size. 
+
+A plate mandrel was now built from materials from the scrapbox, a short length 
+of 1 inch diameter rod and a disc of mild steel slightly smaller in diameter 
+than the flange dimension of the wheels. The rod formed a stout chucking piece 
+to be gripped in the three jaw and was set to protrude through the plate in 
+order to provide a mounting pin for the reamed wheel bores. The mandril having 
+been turned true its outer face was lightly relieved so that the wheels would 
+bear only around the edge. Care was taken to avoid any fillet at the root of the 
+pin, which would have prevented the wheel casting seating properly. The mounting 
+pin was drilled and tapped, using only first and second taps, and slit so that, 
+when a bolt was inserted and tightened to the extent of the thread, the wheel 
+casting would be firmly located and prevented from revolving under the force of 
+the cutting tool.ith some wheel patterns the existence of a through hole, or the 
+space between spokes may allow the insertion of a stud to further prevent the 
+wheel turning on the mandril. After the mandril was inserted in the three-jaw a 
+reference mark was punched on the rim coincident with the centre of No. 1 Jaw. 
+During the following operations a watch was kept on this to ensure that it had 
+not moved. The mandril was not disturbed until further work on all the wheels 
+was finished. The mandril has now joined the various jigs, collets and templates 
+retained for future use. 
+
+Each wheel in turn was mounted on the mandril, face outwards, for the flange to 
+be turned and the tread coned. The old chestnut that coning allows for 
+differential travel of wheels on a curve has often been debated, whether it does 
+or not it certainly assists in maintaining an 0-4-0 centred on the track and may 
+well reduce the tendency of the locomotive to yaw. Here we are reminded of 
+report of the Board of Trade Inspector, Captain H W Tyler on the Talyllin 
+Railway of September 1866 regarding the 'horizontal oscillation' of the one 
+locomotive available to steam the line. 0-4-0 locomotives, particularly those 
+with short wheelbase and substantial overhangs are likely to 'oscillate' and any 
+means which may help to reduce this tendency is welcome. Recent reports in MODEL 
+ENGINEER describe the free running of coned wheels compared with those having 
+parallel treads when set to ' freewheel ' down a curved gradient, another item 
+of food for thought. Coning completed, the radius between the tread and flange 
+was turned using a tool ground to the correct form, the flanges were rounded by 
+filing, (using a file with a proper handle ) and the chamfer put onto the edge 
+of the tread using a sharp tool. Prior to removing each wheel from the mandril, 
+the retaining bolt was removed and a final light cut was taken over the boss. A 
+line was then lightly scribed across the centre of the wheel and the boss for 
+use in locating the crankpin holes. In order to drill these holes, accurately 
+located and perpendicular to the face of the wheel, each of the wheels were 
+supported on two parallel pieces of stock bar in the drilling machine. A 
+hardened drilling jig with an accurately located guide hole was located onto a 
+fitted steel pin, set into the bore of the wheel and clamped into position with 
+reference to the lines scribed whilst the wheel was on the mandril. Each hole 
+was then drilled in the drill press and subsequently reamed to suit the 
+crankpin, the reaming operation being completed on the same setup. 
+
+### Axles
+
+It was convenient to use silver steel for the axles, as discussed earlier the 
+stock size selected approximated to the scale dimension. The axles were sawn 
+slightly over length then, after turning to nett length, centres were formed in 
+each end for subsequent turning operations. PIXIE has plain axles with just two 
+shoulders, one bearing against the back of the axlebox, locating the axle 
+transversely, the other acting as a spacer bears against the back the wheel. The 
+shoulders and bearing surfaces were turned and, after re-touching the tools with 
+a stone, brought to a fine finish. As the wheels were to be fixed using 
+retaining fluid, the axle seatings were machined to leave a full thou' of 
+clearance within the reamed bore of the wheels. Later the joints would be 
+further secured by pins pressed into holes drilled half in the wheel casting and 
+half in the axle 
+
+### Crankpins
+
+Crankpins are of silver steel with turned shoulders to determine the length of 
+projection. Here a slight departure from prototype was made, the outer end was 
+drilled and tapped to permit a separate retaining flange to be screwed into 
+place. In the case of the model Pixie this permitted the marine type bearings to 
+be made in one piece with a dummy joint face as described later. In service the 
+heads are secured by a touch of retaining fluid on the screw as it is turned 
+home into the crankpin. The crankpins are secured by pins pressed into holes 
+drilled half in the wheels and half in the crankpins. This is particularly 
+important in the case of the crankpins on the rear wheels, to maintain the truth 
+of the return crank setting. 
+
+### Quartering
+
+A variety of methods for quartering wheels have been described in MODEL ENGINEER 
+over the years and choice must be a personal thing. The wheels for Pixie were 
+quartered using twin plate templates accurately squared-up as a pair, bolted 
+together, and holes drilled and reamed at the axle centres and crankpin 
+positions. Holes were drilled at each corner of the plates for tie bolts used to 
+drive the wheels into position on the axles. These plates were used in 
+conjunction with a turned stub-centre of the same diameter as the wheel bore 
+mounted in the tailstock Jacobs chuck. The centre was located in the tailstock 
+chuck to facilitate access to the tie nuts in the next operation. The crankpins 
+were first fitted into the wheels, using LOCKTITE, the bond being reinforced by 
+a pin fitted into a hole drilled half in the crankpin and half in the wheel 
+casting. One wheel of each pair was set onto its axle using locktite and the 
+joint allowed to cure. The axle with the one wheel ( and with axleboxes 
+installed!) was then positioned within the ' jacking frame ' formed by the two 
+templates and the four jacking screws. The previously turned centres in the 
+axles engaged on the point of a standard lathe centre at the headstock whilst 
+the tailstock centre was engaged into the previously machined stub centre. At 
+this stage the loose wheel, whilst supported by the stub centre had its bore 
+slightly engaged on the axle end. The bottom edge of each of the templates was 
+packed up, on a common bearing plate, to ensure they remainded correctly aligned 
+in the next operation, that of feeding the wheel into place on the axle. The 
+exposed bearing surface of the axle where the wheel was to seat was annointed 
+with LOCKTITE as far as the shoulder and the nuts on the tie rods were quickly 
+tightened, taking a few turns on each in rotation. The wheel was thus 
+transferred from the stub centre into its correct location against the shoulder 
+on the axles. Accurate quartering was ensured as the crankpins were correctly 
+located by the plate templates which were retained in position by the carefully 
+levelled packings. Once the LOCKTITE had cured each wheel was secured onto its 
+axle by a pin, half in the wheel and half in the axle. 
+
+On reflection the work could have been simplified by using a smaller centre 
+slipped into the tailstock sleeve, this would have supported the axle without 
+the need for the roduction of a stub centre. Whilst the first described method 
+worked satisfactorily, it is typical of the model engineering hobby that 
+improvements, or at least modifications of method occur in the course of an 
+operation. This is one of the reasons that the journals devoted to model 
+engineering are so valuable, they form the forum for the transfer of ideas and 
+new improved methods and are akin to the commercial concerns research and 
+development department!
 
 80
 

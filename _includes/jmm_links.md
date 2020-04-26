@@ -331,6 +331,7 @@
 [Workshop222]: /jgdr20/assets/jmm/workshop222.jpg
 [CleanBenches1]: /jgdr20/assets/jmm/cleanbenches1.jpg
 [Myford1]: /jgdr20/assets/jmm/myford1.jpg
+[Myford2]: /jgdr20/assets/jmm/lathe.jpg
 [Tools1]: /jgdr20/assets/jmm/toolsandthings1.jpg
 [4Tool1]: /jgdr20/assets/jmm/4tool1.jpg
 [4Tool5]: /jgdr20/assets/jmm/4tool5.jpg
