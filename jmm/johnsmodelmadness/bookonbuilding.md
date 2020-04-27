@@ -80,7 +80,7 @@ benefit of other constructors by the author.
 One can only applaud his industry in making the volume available in this 
 fashion, I for one wish the volume every success. 
 
-*Ted Jolliffe. Editor*
+*Ted Jolliffe. Editor*  
 *Model Engineer Magazine. Hemel Hempstead. 2nd November 1994*
 
 ![PixiesBackgroundImg]
@@ -813,7 +813,7 @@ regarding copyright of images from the web.
 ventilation. Workshop practice for the model engineer. The logbook.*
 
 ![Myford2]
-> Old faithful of 30years... My Myford
+> Old faithful of 30 years... My Myford
 
 ### Workshop, Tools And Equipment
 
@@ -2099,6 +2099,1613 @@ operation. This is one of the reasons that the journals devoted to model
 engineering are so valuable, they form the forum for the transfer of ideas and 
 new improved methods and are akin to the commercial concerns research and 
 development department!
+
+[Back to Contents](#contents)
+## Chapter 8
+*Coupling rods and bearings. Brake hangers and blocks. Lubricator and mounting
+plate. Coupling blocks. Footplates, support brackets and angles.*
+
+![PrototypeMotionWork]
+> Motionwork on Prototype
+
+### Coupling Rods And Bearings
+
+' PIXIE ' has round-section coupling rods terminating in marine bearings at each 
+end. The coupling rods for ' Pixie ' are made from lengths of silver steel, 
+shouldered and entered into the bolting flanges at each end. These joints were 
+brazed and the faces cleaned up. The bearings were simulated on ' Pixie 'using 
+blocks milled from mild steel incorporating the profile of the prototype 
+castings. Each block is scribed deeply to represent the joint between the two 
+parts of the bearing and each crankpin hole is fitted with a pressed-in phosphor 
+bronze bush. The length of the coupling rods was checked against the wheel 
+centre template made earlier. Small adjustments were required at this stage, due 
+no doubt to minor differences in dimension at each joint. Adjustment was 
+achieved by turning-off the inner ends of the bearing blocks in the four-jaw 
+chuck. To complete each assembly, matching keeper plates were filed to shape, 
+clamped in place on the coupling rod ends together with the bearing blocks and 
+the whole assembly was then drilled for bolting. mm size bolts were found to be 
+very near to the required diameter and these were used, the heads being turned 
+to the shape of those on ' PIXIE '. The thread ends were turned away and the 
+bolts drilled for split pins. Oil cups are fitted to each bearing block. For ' 
+Pixie ' these were machined from brass hexagonal material, which provided the 
+flats by which the cup is screwed into the block. A small form tool ground up 
+from a slip of toolsteel ensured the same 'antique' profile to each cup. The 
+cups are topped off by a threaded cap screwed into place, these were reproduced 
+by turning down the heads of BA bolts and knurling the periphery of the 
+resulting head. It was noted at the time of the first survey that any missing 
+caps were replaced by corks, as yet no caps have gone missing from Pixie so this 
+has not been necessary! Each of the upper bearing bolts has a turned groove 
+coincident with the oil cup to allow lubricant to penetrate to the bearing 
+surfaces. 
+
+### Brake Hangers And Blocks
+
+On ' PIXIE ', braking arrangements are simple in the extreme, there being only 
+two blocks acting on the front of the rear wheels. The brake hangers are pieces 
+of bar drilled for fixing to the frames, for the brake block pivot pins and 
+attachment to the brake rod. The brake blocks we r e cut from a ring of mild 
+steel turned to match the wheel section internally and externally to a section 
+which could be milled to provide the hanger slot. The hangers pivot on 
+shouldered studs, captive in the frames and backed up by large square washers. 
+The pivot pins securing the blocks to the hangers are fitted with split pins. 
+
+### Oilboxes
+
+Four brass 'trays' or reservoirs for axlebox lubricating oil 
+are mounted on the stiffening angles. The reservoirs and their hinged lids were 
+milled from some anony mous brass from the scrap box, probably parts of 
+electical switchgear dismantled in the ongoing ' salvage and alternative uses 
+campaign ! Rubber tubing forming minute pipes conveying oil to the bearing 
+surfaces of the axleboxes was obtained from a suppl i er of laboratory 
+equipment, a useful source of speciality items such as rubber and plastic tube. 
+The pipes are attached to small diameter copper pipes silver soldered into the 
+oil trays. The feed to the bearings is via similar copper bends which are solde 
+red into the axlebox castings. Old fashioned fluffy wire pipe cleaners pushed 
+into these bends stems the flow of oil to ensure a constant flow of the 
+necessary lubrication at the critical points. 
+
+### Lubricator And Mounting Plate
+
+PIXIE has a mechanical lubricator mounted on a steel plate fixed using two bolts 
+through the right hand frame angle. On the model this is replaced by a 
+proprietary lubricator from Norman Spinks. The lubricator was seen in an 
+advertisement, catching the eye because it incorporates roller clutches rather 
+than a ratchet and pawl mechanism, this allows an infinately adjustable stroke. 
+The oil case is not too unlike that on the prototype, except that it lacks an 
+oil level gauge. On Pixie, as on the prototype, the drive is taken via. a small 
+diameter rod clamped to the valve rod, adjustment to the flow being achieved in 
+the model form by selecting one or other of the holes in the pump actuating 
+lever. The geometry of the action can be adjusted by nuts set on a threaded 
+portion of the actuat ing rod. When first seen PIXIE was carrying diesel 
+coupling blocks, and, as this is how she was to be recorded, diesel coupling 
+blocks were next on the agenda. The dimensions from my survey were set out in 
+sketch form and the scrap box yielded the majority of the small pieces of mild 
+steel required for fabrication. Access to TIG welding equipment provided the 
+opportunity to assemble the parts ' in the square ' and a session with the angle 
+grinder, used offhand, introduced the necessary geometry. A study of the 
+prototype front plate revealed the fact that a variety of attachments had been 
+made during the life of the loco but currently the blocks are attached by 4 
+large diameter bolts, these are replicated by BA bolts. The coupling pins were 
+turned fom scraps of mild steel rod. These were cross-drilled whilst clamped 
+onto a vee-block. A line was scribed on the periphery of the head, a centre 
+finder was used to scribe a diameter coinciding with this line. The centre of 
+the cross hole was marked with a punch. The pin with the diameter set vertical 
+was clamped in a vee block and a pointed wiggler used to locate the punch mark 
+below the centre bit in the drill press. An overlever clamp remains on the drill 
+press table at all times providing a simple means of retaining material and jigs 
+during drilling operations. The fact that the clamp is ' resident ' avoids 
+situations where one might otherwise be tempted to ' take a chance ' by holding 
+something for a one-off drilling operation, putting ones fingers in jeopary at 
+the time of the drill breaking through when snatch is liable to take place. 
+
+### Footplates, Support Brackets And Angles
+
+Two support brackets were fabricated from plate and angle steel, these are 
+important as they support the weight of the bunkers. They are rivetted back to 
+the main frames using dummy rivets as previously described. The rails are 
+sections of angle rivetted to the main frames and the drawbeam at footplate 
+level, those supporting the outer plates being at a lower level than for the 
+centre plate. The centre footplate is slotted for the damper handle and provided 
+with a cranked angle which engages in the handle to provide several settings of 
+the damper opening. There is also a checkout for the drain pipe from the water 
+gauge. The rail which trims the outer footplates is cut and bent to form a curve 
+matching that of the bunker later mounted above it. PIXIE'S footplates are 
+replicated in the model by stainless steel plates which are bolted to the angles 
+and rails. 
+
+### Finishing Touches To The Frames
+
+On top of each of the frame stiffening angles are mounting blocks on which are 
+seated the bearing flanges on the boiler. On the prototype the brackets are 
+fabricated from steel angle, these are reproduced in the model although to 
+ensure that the boiler would sit true to level within the frames, final 
+machining to height was was left until the boiler could be offered up into 
+position and the appropriate dimension established. Cutouts were required in the 
+stay immediately behind the boiler, these provide clearance for blowdown valves, 
+sited just above the foundation ring. Details not to be found on the full-size 
+locomotive are the holes for dumping rods or pins which allow the ashpan to be 
+dropped in case of emergency. Whilst the downward movement of the ashpan is 
+restricted, there is still sufficient room for the grate to drop and the fire to 
+disperse in the event of the pins having to be pulled in case of emergency These 
+details just about c omplete the frames. Of course detail varies from loco to 
+loco and there is a lot of enjoyment to be obtained from identifying details for 
+inclusion in ones model. It may be that a particular prototype has been modified 
+at some time in its life, something added, a piece of plate fixed at a 
+potential crack position or some other ' adjustment ' made in service. For 
+example, in the case of PIXIE there are some plates bolted to the front of the 
+weatherboard where at some stage the angles have been cut and subsequently 
+rejoined. These are yet to be incorporated in the model. It is well worth while 
+researching such detail which will go a long way to improving the authentic 
+atmosphere of the finished model. On PIXIE there is a small piece of plate 
+attached to the front frame member, this provides a purchase for the bolting 
+attachment of the drain cock return spring. Small details such as this which 
+were perhaps an afterthought on the part of the designer, or an innovation on 
+the part of a restorer, help to promote the atmosphere so beloved of the narrow 
+gauge enthusiast. 
+
+[Back to Contents](#contents)
+## Chapter 9
+*Smokebox saddle. Cylinders, ports, passages, covers and glands.
+Pistons and piston rods.*
+
+![Gland]
+> Piston rod gland and slide bar fixing
+
+### Smokebox Saddle
+
+The smokebox saddle is a simple casting, produced from a rudimentary pattern 
+which governed the profile with allowances for shrinkage but incorporating no 
+fine detail. The casting was clamped to the topslide and the bolting faces were 
+machined using a fly cutting tool. This useful tool simply produced in the home 
+workshop comprises a substantial section of 2 1/2" diameter bar with a drilled 
+hole for a circular tool and a grub screw set in the perimeter to enable the 
+toolsteel to be set at the correct angle. The mass of metal comprising the body 
+of the tool when CHAPTER NINE gripped in the three jaw chuck serves to induce a 
+'flywheel' action reducing the effect of the intermittent cutting, a feature of 
+flycutting operations. in order to increase the versatility of the attachment it 
+is provided with three further holes which match the centres of the tapped holes 
+in the faceplate on the milling machine quill. This arrangement is always used 
+when heavy cutting / planing operations are carried out in the mill. 
+
+The seating for the smokebox and the small rebate which conceals the joint 
+between the saddle and the smokebox were fly-cut whilst the saddle was fastened 
+to the vertical slide, set parallel with the axis of the lathe. When setting a 
+fly cutting tool to radius it is essential to remember that too small a radius 
+will result in metal being cut away from the depth of the concavity, i.e. with 
+too great a rise on the chord. Cutting should be started with the tool set to a 
+slightly larger radius than that finally required, the tool being adjusted 
+inwards, slowly reducing the radius of the cut until the finished radius is 
+achieved! This needs a little thought but a few lines on a piece of paper will 
+soon verify the facts, and may save a valuable casting from destruction! 
+
+On completion of the machining operations the small gussets which stiffen the 
+bolting flanges on PIXIE were silver soldered into position, leaving an generous 
+fillet of solder to replicate those on the casting. At this stage a template was 
+prepared for the location of the cylinder / frame fixing bolts The centre line 
+of the cylinder was transferred to this template and the template set aside for 
+later use. 
+
+### Cylinders
+
+The cylinder castings were made from simple wooden patterns which followed the 
+main outline of the pieces. In view of the writer's limitations in the pattern 
+making department, it had been decided that such items as seatings for the valve 
+spindle and piston glands would be added after the main machining operations had 
+been carried out. First the top face of the casting was fly cut to the correct 
+inclination. This angle was determined from a trial set out in marking blue on 
+the frame, using the dimensions from survey and the template previously 
+prepared. As well as providing a plane surface to assist in setting out this 
+face would later determine the correct angle for boring the cylinder. The next 
+operation was that of machining the steam chest. PIXIE has the steam chest 
+integral with the cylinder casting, and this called for some massive excavations 
+in the model casting ! A new term was added to the vocabulary at this stage. 
+Conversation with a ' real ' engineer evinced a description of an operation 
+known as ' hogging-out '. This elegant term describes the process of making 
+multiple drilled holes within the area which would eventually become the steam 
+chest cavity in the casting, before finally the remaining few pieces of metal 
+were milled out, using an end mill, to leave an accurate cavity. This procedure 
+was duly followed and the resulting steam chests proved to be acceptably 
+accurate. 
+
+Having cleaned up the perimeter of the steam chest, attention was then turned to 
+boring the cylinders. This was carried out with the castings secured to the 
+topslide using straps of stock material in conjunction with suitable packings 
+and tie bolts to retain the casting securely during the fairly substantial cuts 
+of the boring operation. A word of warning...... unless ties such as used in 
+this instance are set absolutely vertical, relative to the topslide, with, in 
+this case tapered packings properly anchored into position to provide a firm 
+purchase, they may loosen in the course of boring, with dire results. The 
+tendency is, due to the cutting effort applied together with vibration in the 
+system, for the tie bolts to loosen as they assume a position normal to the 
+topslide and the tee-nuts therein. At this stage the cross travel of the saddle 
+must be locked by tightening the clamp nut. On my lathe I have fitted a short 
+lever here to enable me to exert stronger pressure on the clamp bolt without the 
+need to use a spanner. 
+
+Once lined with the axis of the lathe and with the correct inclination 
+determined by the previously fly cut face, the ties checked and the cross-slide 
+secured against movement, a start was made on drilling for the piston rod. PIXIE 
+only has one cylinder cover on the front end of the cylinder, the piston-rod 
+passing through a gland on the the closed end of the casting. Drilling for the 
+piston rod was done using bitts held in a headstock-mounted drill chuck. This 
+operation was started using an end mill to provide a flat land on which the 
+centre bitt could bear without being deflected, after the centre bit a 
+succession of changes of drill size, up to clearance size for the rod, ensured a 
+correctly located and accurately sized hole. The hole was not reamed because 
+reaming to finished size can, in this instance, when the gland nut is inserted, 
+form what is in effect a 'self locking clutch'. Any misalignment of two reamed 
+holes occurring in the course of taking-up the gland causing the piston-rod to 
+bind. 
+
+The cylinder bore was cut using a specially made, short, stiff boring tool set 
+up in the four jaw chuck which in this instance was used as a boring head. On 
+the Myford this required some thought. Finally reference to, would you believe, 
+a page by ' Geometer ' in the 6th September 1962 issue of MODEL ENGINEER 
+provided the solution ! Two pieces of 1/4" plate were cut and inserted between 
+the jaws. This allowed the boring tool to be moved laterally across the axis of 
+the machine, within the central hole in the chuck, by the amount required to 
+bring the bore to finished size. The metal plates ensured that at all positions 
+of the tool it was still supported by all four jaws. A proper boring head would 
+have simplified the operation but, bearing in mind the few occasions on which 
+such a tool would be used, budgetary considerations determined that other 
+accessories were more important. 
+
+In machining bores which are to have a cylinder cover at one end only it is 
+necessary to guard against producing a bell-mouthed bore. This is best achieved 
+by bringing the bore nearly to finished size then taking only very fine 
+finishing cuts. LBSC called this ' taking the spring out of the tool '. 
+
+Cylinder boring completed, the writer encountered a piece in MODEL ENGINEER by 
+Keith Wilson relating to the profile of cylinder bores. Given the benefit of 
+Keith's experience earlier in the course of building Pixie the cylinder bores 
+would have been made according to his ' words and music '. 
+
+Next the position of the ports was established and the milling machine brought 
+into play to cut them. These were not the working ports, as the port faces were 
+to be in stainless as described earlier. They were cut within the outline of the 
+eventual port positions to a depth which would permit the steam ways to 
+intercept within the metal between the bottom of the steam chest and the 
+cylinder bore. The steam inlet and the exhaust passages from the steam chest 
+terminate on the top face of the cylinder block where the flanged pipes seat. 
+These passages were drilled from the bolting face of the cylinder block and 
+were, after the vertical parts of the passages had been drilled and swarf 
+cleared from the holes, subsequently sealed by small turned and threaded plugs 
+with slotted heads similar to grubscrews. The plugs were anointed with liquid 
+gasket prior to being screwed home. The slotted heads of the plugs enabled 
+insertion using a screwdriver and were of course concealed between the cylinder 
+casting and the frame after erection. No excuses are offered for the use of 
+liquid gasket. Joints do not need to be taken-up too tightly, the synthetic 
+rubber hardens as it cures, excess is easily stripped away with a sharp knife, 
+and a good seal results each time. This technique may not be in line with the 
+practice adopted in the prototype but I feel sure that, had Engineers of yore 
+been given access to liquid gasket, they would have used it. Indeed it is 
+interesting to ponder, given the range of materials available to us today, what 
+the Trevithics and Stephensons would have selected for their constructions were 
+they here to make the choice ! 
+
+The passages between the valve chest and the cylinder ends were drilled in the 
+drill press, care being taken to achieve the correct inclination by packing and 
+clamping to the drill table. First the open end of the cylinder was prepared 
+with the bevel which allows steam to pass into the cylinder, this was done by 
+filing , using a scrap of brass to shield the bore should the file slip. As well 
+as permitting the passage of steam in service, this bevel allows the hole 
+positions to be spotted with a fine punch to ensure that the smallest centre 
+bitt can be started correctly. LBSC's tip on grinding the drill bitts used to 
+drill the channels with one lip wider than the other to enable a broken bitt to 
+be extracted is a winner, as was proved in the process ! There is nothing quite 
+like the panic that one experiences when a drill or a tap breaks in an expensive 
+casting, possibly the more valuable because a lot of time has been spent working 
+on that casting up to the stage at which the breakage occurs. I suppose as a 
+last resort spark erosion could be used but fortunately thanks to LBSC this has 
+not yet been necessary. 
+
+The inclination of the passage from the port to to the blind end of the cylinder 
+was such that the holes could be drilled using an extended drill from the steam 
+chest. An extended drill was necessary to avoid the drill chuck coming into 
+contact with the bolting face of the steam chest. Extended drills can be simply 
+fabricated by grinding a stepped joint on the drill shank, cutting a matching 
+step on a suitably sized rod, applying flux, binding with soft iron wire and 
+then silver soldering the two together. A collection of various sizes of drill 
+treated in this fashion will build up as work proceeds and provide a useful 
+armoury for future use. 
+
+It had already been decided that, as the valve events of the model would in the 
+early stages, prove to be somewhat tentative, the valve port faces would be made 
+replaceable. Stainless steel was used for the faces and this proved to be simple 
+to machine to the required degree of accuracy as it could be set up flat on the 
+bed of the milling machine. Those without access to a mill could equally well 
+machine the piece on the vertical slide. Final fixing was carried out within the 
+steam chest bedding the stainless steel onto ARALDITE and securing the plate 
+using purpose made, stainless steel countersunk screws into tapped holes in the 
+bottom of the steam chest. In the event that subsequent modification to the 
+porting may be required, the ARALDITE bond could be broken down by local 
+application of heat. 
+
+Flanges were prepared for the inlet and exhaust pipes. These were used to locate 
+the drilled and tapped holes for their fixing onto the top of the cylinder 
+casting, these were then set aside for assembly onto their respective pipes in 
+due course. 
+
+### Cylinder Covers
+
+Having bored the cylinders and prepared the steam passages, the next step was to 
+produce the cylinder covers, in the case of PIXIE these are of fairly 
+substantial section with a nice domed centre. Machining this centre called for a 
+lot of knob twiddling, a thoroughly enjoyable business. Achieving the correct 
+profile was aided by the production, on the drawing board, of a card template 
+which could be applied to check the profile between bouts of twiddling. 
+Experience has shown that such profiled surfaces generally turn out to be less 
+than spectacular due to a conservative tendency on the part of the machinist, 
+reluctant to take those last few cuts that would make all the difference to the 
+form of the piece. This springs from the memory of those ' last few cuts ' taken 
+in the past which have resulted in a scrapped part and lots of rework ! The use 
+of a template as described promotes the development of the striking shapes which 
+are a feature of, and provide much of the charm of, the narrow gauge locomotive. 
+
+A glance through any of the books which describe the motive power employed by 
+the various narrow gauge and light railways evidences the fact that engineers in 
+the heyday of steam were quite happy to spend money on ornamentation which would 
+be frowned upon by the ' value engineering ' oriented designer of today. 
+
+The covers were mounted in the three-jaw and the spigot prepared a good fit in 
+the cylinder. The spigot was carefully filed away to provide a clear steamway 
+to, and from, the steam passage. On a previous locomotive this step had been 
+omitted and only remembered when on trial with air, when unbelievably there was 
+no action on switching on the air supply. this was of course simply rectified, 
+once the cause of the problem had been identified, although at the cost of 
+unbolting the cylinder covers and breaking the then carefully made gaskets (that 
+was in the days b.i.g, before instant gasket). Drilling for the studs followed 
+using a template from thin plate material. The hole positions were transferred 
+from the cover clamped into position and then the first hole was drilled and 
+tapped to allow the insertion of a stud to immobilise the cover during the 
+subsequent drilling of the remainder of the holes. The use of a template whilst 
+apparently laborious is a worthwhile precaution as otherwise although the holes 
+for the studs can be set out on the cover and transferred to the cylinder, with 
+a gunmetal on gunmetal joint slip can easily occur. Again harking back to a 
+previous model, the draughtsman had drawn equally spaced studs although with the 
+cover located as drawing, one of the studs would have coincided with the 
+position of one of the steam passages, small errors like this sometimes slip 
+into details and are worth watching for. One cannot help but wonder what is the 
+effect on the modeller following instructions in a periodical when he reads an 
+announcement such as ' we regret that owing to a printers error in our last 
+issue etc. etc.!' Perhaps its advisable to work a few issues in arrears in which 
+case printers errors will have been accounted for by the time work commences on 
+a particular part. In the same vein one magazine, now defunct, published an 
+apology some 16 installments into a series on building a particular model, a 
+note to the effect that they had lost touch with the writer and were seeking 
+someone to complete the series! This must have had disastrous results ! 
+
+### Steam Chest Covers
+
+Next came the preparation of the steam chest covers. This called for a template 
+which was duly produced from a scrap of mild steel. The template was used to 
+drill each cover plate in turn, including the small tapped holes for the metal 
+threads used to break the gasket joint when access was required to the valve 
+chest for maintenance purposes on full size PIXIE. 
+
+Once the cover plates were drilled the template was again used to locate the 
+tapped holes in the cylinders, one hole being first drilled and tapped and a 
+bolt inserted to secure the template against displacement whilst the remainder 
+of the holes were spotted through. PIXIE has a union set in the right hand cover 
+providing a take-off for a pipe to a steam chest pressure gauge, this was 
+produced from a chucking piece of material from the scrap box. 
+
+The studs securing the steam chest cover are, on PIXIE, set out uniformly about 
+the centre line of the cover. At each end is a small bolt, set into a tapped 
+hole on the centre line. These bolts serve the important purpose of enabling the 
+steam chest / cover joint to be broken when carrying out adjustments to valve 
+settings. It was a delight at the time that the covers were required to be 
+removed to be able to slacken off the lock nuts on these small easing bolts at 
+the ends of the cover, then to break the cylinder/cylinder cover joint by 
+screwing down the bolts. Although on Pixie are they are only 8 BA. they did the 
+job famously. Those old engineers certainly knew their stuff ! 
+
+### Glands
+
+Seatings for the valve rod gland and tail cover on each cylinder casting were 
+milled and shaped from bar stock. They were then silver soldered into place on 
+the cylinder casting, correct location being ensured by the use of short lengths 
+of carbon salvaged from the bushes of a vacuum cleaner, turned to a push fit in 
+each assembly. The carbon resists the solder whilst retaining the correct 
+location and is a good example of the recycling activities which form a part of 
+the writer's modelling activities! A good fillet of solder was formed at each 
+joint to emulate those on the prototype casting. After the soldering operation 
+each gland was faced up true to the main body of the casting. 
+
+The glands for the valve rods were turned up as circular, flanged bushes prior 
+to being sawn and filed to the required shape. The body of the piston-rod gland 
+is interesting, incorporating as it does the seating for the slide bar. 
+Production of the body involved a considerable amount of hand-work, carried out 
+once the the hole for the rod had been drilled and counter bored for the gland. 
+The piston rod gland has an oilway for lubrication and is adjusted by two 
+shouldered studs as is that for the valve rod. Rather than use conventional 
+packings in the glands, ' O ' rings are preferred as these provide tightness 
+whilst causing minimum friction between the parts. 
+
+A nice little detail seen in service is an oil-soaked length of tow which is 
+tied to the easing bolt on the valve chest cover and looped around the valve rod 
+to provide lubrication. Very practical, and a useful bit of ' colour ' to assist 
+with the narrow gauge image ! 
+
+### Pistons And Rods
+
+Pistons are turned from gunmetal, the piston blanks being mounted in the three 
+jaw, the holes for the rods drilled and tapped with a 1 / 4 in M.E Thread. The 
+thread was cut away using a 1 / 4 inch diameter D-bitt for half of the piston 
+thickness to allow the piston rod to be drawn into position by its thread in the 
+later operation of uniting the two parts. 
+
+Piston rods of silver steel were set into a simple collet in the three jaw. 
+These collets are home produced from suitably sized slugs of metal by drilling 
+and reaming to the finished diameter of the spindle or rod to be gripped. After 
+marking by centre punch at No. 1 jaw to ensure accurate re-location the collets 
+are then slit with a razor saw. As work progresses a number of useful collets 
+accumulate and are be stored with the tooling ready for re-use as the occasion 
+arises. 
+
+The thread for the pistons was cut with extreme care, using an M.E. die and 
+ensuring that at all times the die stock was firmly supported square to the axis 
+of the rod by the nose of the tailstock chuck. A tailstock-mounted die holder is 
+of great assistance in such work and can be manufactured in the home workshop 
+from a proprietary mandrel and some offcuts of round bar. A secondary bush which 
+can be set into the space for the die, and which permits longer adjustment 
+screws to pass, allows the use of smaller sizes of die within the main sliding 
+die holder. 
+
+With the rod set in the collet within the three jaw, the ends of the rods were 
+lightly centre drilled prior to oil being placed on their threads and into the 
+the tapped holes in the pistons. The pistons, gripped in a hand protected by 
+rag, were then screwed onto the rods, care being taken that the plain portion of 
+the rod entered well into the smooth, ' D-bitted ' part of the hole. Once the 
+pistons were secured in this fashion the tailstock centre was engaged in the 
+small centre and the pistons turned to finished diameter with reference to each 
+cylinder bore. Each piston was then marked to ensure subsequent matching of the 
+sets. It is helpful if a uniform system of marking is followed, centre-pops on 
+an unimportant surface will suffice, say one pop for items on the right side of 
+the loco and two on the left, looking forward from the footplate, or perhaps 
+simpler still one pop for one side, and no pops for the other ! 
+
+With each piston assembly still mounted in the collet and supported by the 
+tailstock centre, grooves for ' O ' rings were machined using a parting-off 
+tool. Grooves for these rings must be produced to the sizes recommended by the 
+makers, this being critical to achieving a sound seal whilst reducing frictions 
+to a minimum. The edges of pistons and grooves should always be 'broken' using a 
+fine file, to avoid damage to the rings as they are installed. 
+
+On final assembly, the piston rods are retained in the crosshead bushes by 
+wedges passing through slots in both parts. In the case of Pixie these wedges 
+are, in fact, bolts with the heads filed to simulate the ends of wedges. Holes 
+for these simulated wedges were not drilled until their position could be 
+accurately located at the time of trial assembly of the engines. Builders may 
+wish to replicate the full size arrangement which may call for slotting the 
+piston rod and crosshead and providing appropriate cotters and wedges. 
+
+[Back to Contents](#contents)
+## Chapter 10
+*Motion plate. Slide bars and crossheads. Valve gear. Weigh shaft and reversing 
+gear. Valve setting. Brake column.*
+
+![MarineBearings]
+> Marine bearings on Pixie
+
+### Motion Plate
+
+The motion plates are of course a handed pair, those on PIXIE are quite 
+conventional and those for Pixie were produced by cutting plate to the required 
+profile. Then the flange for fixing to the frame was attached by silver 
+soldering. The lugs which support the trailing end of the slide bars were 
+soldered into place at the same heating. Drilling the holes for the slide bar 
+fixing bolt was left until final erection. The motion plate was trimmed with a 
+half round fillet on the front face, simulating the detail on the prototype, 
+this was attached using soft solder. For the purpose of trial assemblies the 
+slide bar was be held in place using a toolmakers clamp. The location of the 
+motion plate and thus the position of the fixing holes in the frames is best 
+established at the time of setting out the motion work. 
+
+### Slide Bars
+
+Each engine on ' PIXIE ' has a single slide bar the front end of which takes 
+support from the body of the piston rod gland on the back of the cylinder 
+casting. The trailing end is bolted to a bracket on the bottom of the motion 
+plate. The slide bar itself is a piece of profiled steel, in the case of Pixie 
+ground gauge plate. This was milled to shape and the fixing holes and 
+countersunk lubrication holes drilled in conventional fashion in the drill 
+press. 
+
+### Crossheads
+
+On PIXIE the crossheads are substantial steel boxes, assembled around the slide 
+bars. Lining each box is a set of slippers, so shaped as to remain captive once 
+the crosshead assembly is bolted up. The box is fabricated from three plates and 
+a fabricated mounting, assembled by bolting. Incorporated in the bottom plate of 
+the crosshead assembly is the mounting for the piston rod / coupling rod joint. 
+This comprises a flange for the gudgeon pin and a boss into which the piston rod 
+end is secured. The boss was first turned onto a mild steel blank, and was left 
+overlength for subsequent adjustment when the motion was assembled. The 
+crosshead blanks were then milled to profile and section, incorporating the 
+bottom plate of the crosshead. Twelve bolts were prepared. The threads were 
+turned from the ends of the bolts which were then drilled for split pins. In 
+course of erection on PIXIE the leading two bolts of the assembly are entered 
+from above the crosshead, the remainder from below. It was important that the 
+assembly on Pixie replicated that employed on PIXIE, otherwise with all six 
+bolts entered from the top, the projecting ends of the trailing bolts would have 
+interfered with the movement of the coupling rod. Detail such as this must be 
+studied carefully at the time of survey as each locomotive is likely to have 
+some such idiosyncrasy. Omission of such information from the notes made at the 
+time of survey could result in problems at the time of erection or worse, 
+damaged parts at the time of air testing. 
+
+The hole for the gudgeon pin was then drilled and a phosphor bronze bush 
+pressed-in. To ensure a good fit the gudgeon pin is machined from silver steel, 
+brought to a high finish in the lathe. As is general practice on PIXIE the ends 
+of the pins are turned down and fitted with split pins for safety purposes. 
+
+### Slippers
+
+Slippers are of gunmetal and provide a nice exercise in milling, either in the 
+milling machine or the vertical table on the lathe. As with many thin or slender 
+components it is worthwhile soldering, or bonding the material to a more 
+substantial section of metal. This backplate can be more readily gripped in a 
+vice, or if necessary, bolted to a faceplate or bed. In this way machining can 
+be carried out without fear of a nearly finished part moving under the cutting 
+effort and becoming scrap. This technique was adopted for the slippers which 
+were brought to within a few thousandths of the calculated finished size prior 
+to filing and burnishing to fit within the crosshead, ensuring a nice easy 
+action. There is a tendency to make parts too slack a fit at this stage. It must 
+be bourn in mind that the running-in process affects every part of the motion 
+and parts which seem quite tight at first, or trial, assembly soon free-up as 
+the running in process proceeds ( using plenty of lubricant of course! ) 
+
+### Assembling The Slide Bars, Crossheads And Motion Plate
+
+This is a critical part of the construction. Parallelism (if there is such a 
+word) between the piston centre line and the slide bar being most important for 
+free running. Fortunately in the case of Pixie there was an opportunity in the 
+course of the erection process to maintain this parallelity ( ? ) by adjusting 
+the level of the bearing surfaces at the top of the glands and if necessary 
+insertion of shim washers at the bracket on the lower edge of the motion plate. 
+
+### Valve Gear
+
+PIXIE is fitted with Hackworth valve gear. This gear is sometimes derided by 
+pundits because vertical movement of the axles upsets the valve events to some 
+extent. This has not proved to be too noticeable in the case of Pixie and indeed 
+the Hackworth gear is employed effectively on what must be the hundreds of Sweet 
+Pea locomotives, designed by Jack Buckler, running on club tracks about the 
+country. Jack Butler contributed an excellent article to ENGINEERING IN 
+MINIATURE May 1986, Volume 7, No. 12 examining some of the criticisms and 
+recommending methods of optimising performance. These include adjusting the 
+height of the weighshaft and ensuring the correct ride position of the axle to 
+ensure that the die block pivot moves equally about the weighshaft centre. In a 
+more recent edition of ENGINEERING IN MINIATURE Vol 15 No.1 June 1993 a highly 
+technical article, almost of Ph.D. standard by Nigel Bennet describes the 
+computer simulation of Hackworth valve gear for Edward Thomas and incorporates a 
+lot of useful detail on the motion work for Sweet Pea. 
+
+In the case of Pixie the critical dimensions of the prototype were replicated as 
+accurately as possible and in the air trials these worked satisfactorily. no 
+doubt the events could be fine tuned in light of Messrs Bucklers and Bennetts 
+discussions, and maybe they will, when time permits perhaps. Meanwhile Pixie's 
+performance is quite satisfactory with her replicated sizes incorporated. 
+
+Hackworth gear takes its motion from the return crank fixed directly opposite 
+the crank pin i.e. on a line passing through the crankpin and centre of the 
+axle. The vibrating lever attached to the return crankpin connects with a pivot 
+pin on the die block which runs within straight guides set upon the weighshaft. 
+With the guides in line with the centre of the axle the valve rod pivot on the 
+vibrating lever is driven through an oval path of which the length of the 
+horizontal axis equals twice the valve lap plus the lead. Rotating the 
+weighshaft alters the inclination of the guides and changes valve events 
+accordingly. 
+
+The size of the components of the valve gear was scaled down from the prototype 
+and cardboard templates were employed at the drawing board to ensure that all 
+would work when assembled onto Pixie. Whilst a spare weighshaft and guides was 
+produced having extended slides for experimental purposes, to date these have 
+not been installed. 
+
+One end of the return crank blanks was drilled and bored to match the shouldered 
+crankpin. The other end was drilled for the vibrating lever pivot pin. The blank 
+was milled to shape and the pivot pin set into place using retaining fluid. The 
+return crank itself was secured to the crankpin by a slotted and bolted 
+connection, aided by a further touch of retaining fluid. 
+
+The vibrating lever on PIXIE has a small marine type bearing at the lower end, 
+and two bushed holes for the die block and valve rod pivot pins. As with the 
+connecting and coupling rods, the marine bearing permits some small adjustment 
+to be made to the geometry at the time of final erection. The vibrating lever 
+blank was cut from mild steel, the pivot holes drilled and then milled to final 
+shape. When milling bosses, or indeed when shaping the ends of any of the rods 
+or levers by means of an an end mill in the lathe or milling machine with the 
+material set upon a pin, it is important to remember that the material must only 
+be moved against the direction of the cutter. Failure to observe this will 
+result in the cutter attempting to ' climb ' onto the material, the resulting 
+snatch causing damage to the part or, worse, the operators fingers ! Phosphor 
+bronze bushes were pressed into the pivot pin holes. 
+
+### Oil Cups And Local Lubrication
+
+Oil cups are fitted at each pivot point and adjacent to the bearings. These oil 
+cups like those on other narrow gauge locomotives add a touch of individualism, 
+they are of brass, of interesting shape and can be polished, and are ' perched ' 
+somewhat precariously it seems, on the vibrating levers and die blocks. Those on 
+the vibrating lever were milled to shape prior to fitting the tubes which convey 
+oil to the bearings. These tubes are fitted into drilled holes with just a touch 
+of bonding fluid, sufficient to fix them without blocking the tubes. Each cup is 
+topped with a screw plug turned from a BA bolt, the head being brought to 
+profile then knurled prior to the arisses being removed. A small centre bitt was 
+used to drill the countersunk breather holes in each plug. 
+
+### Weigh Shaft, Weigh Shaft Brackets And Guides
+
+The weigh shaft is of silver steel, shouldered to enter the back plates of the 
+guide assemblies. The shaft is rotated from the reversing lever by a reach rod 
+which is connected to a lug on the bottom of the right-hand guide. The cheeks of 
+the guide are milled from gauge plate, later hardened by heating,and are 
+attached by bolts and a locating pin passing through the backplate and the 
+weighshaft. 
+
+The weigh shaft brackets were fabricated from steel angle and plate, the lower 
+section being welded-up. The top plate has small seating pieces sweated into 
+place to accomodate the stud nuts when the two parts are assembled. Once the two 
+parts are assembled the hole for the weigh shaft can be drilled and reamed. The 
+brackets are assembled onto the frames by bolts passing through the frames and 
+the frame angles. Ideally the position of the brackets should be determined when 
+the whole of the motion work has been completed and the valves inserted onto the 
+rods within the valve chest. At this stage the correct location can be 
+established by trial and error with the brackets clamped to the frame angles. 
+
+A modification to the guides has been suggested by Jack Buckler in describing ' 
+Sweet Pea ', ENGINEERING IN MINIATURE. In his redesign the guides are milled 
+from one block of mild steel, a slotted cover plate being attached by 
+countersunk screws onto the front of the guides so formed. This appears to be a 
+simpler form of construction and may commend itself for some models. 
+
+### Die Blocks
+
+Die blocks are of tee section and have a shouldered pin for connection with the 
+top of the eccentric rod. this pin is entered from the back of the die block, a 
+further shoulder seating in a counterbore in the back of the block. An oil cup 
+is mounted on the top of the die block. With a good sliding fit achieved within 
+the guides, the die block and pin were case-hardened by heating and treatment 
+using ' Casenite ' 
+
+### Reversing Lever And Sector Plate
+
+The lever was prepared by sawing and filing from a piece of mild steel. The 
+handle, with a pin for insertion into the top of the lever, was turned from a 
+piece of square material and soldered into position. The latch block prepared by 
+filing was soldered into position at the same heating. The latch itself was 
+prepared by soldering a blade onto a square steel shaft with the top milled and 
+drilled for connection to the latch lever. A small spring maintains the 
+latchblade in contact with the sector plate. A good source of high quality 
+springs has been found to be the plastic video tape case. On opening a defunct 
+case one finds a number of small stainless steel springs also some stainless 
+steel rollers as well as several self -tapping screws, all useful candidates for 
+the scrap box ! 
+
+### Slide Valves
+
+The slide valves were machined from gunmetal, heeding LBSC's advice that 
+dissimilar metals should be used for slide valves and portface. The blocks of 
+gunmetal were turned to overall size in the four jaw, leaving a little on the 
+length for final finishing work. then the cavity for exhaust steam was milled 
+out using an plain end mill and finished with a bull-nozed bitt, care being 
+taken to work within setting-out lines lightly scribed on marking blue. 
+
+The slots for the valve rod and the recesses for the collars which are used in 
+place of a buckle were milled then filed to shape, care being taken that the fit 
+permitted the valve to slide freely from end to end of the valve spindle when 
+set in the steam chest and before the locating bushes were installed. The face 
+of the valve was rubbed on a sheet of medium wet-and- dry paper ( used dry ) to 
+impart the minute scratches which, in service, retain a film of oil and assist 
+in maintaining a tight joint under the steam pressure in the steam chest. it is 
+of course important to ensure that the valve block is free to lift from the 
+portface, it is held in contact during service by the valve chest steam pressure 
+but has to be free to overcome any problems with condensate in the early stages 
+of firing whilst the cylinders are cold. 
+
+The arrangement of threaded valve rods and nuts with locknuts employed for 
+fixing the valve blocks to the rods on PIXIE is replaced on Pixie by 4 bronze 
+bushes ( 2 per valve block ) machined from hexagonal bronze bar. These bushes 
+were initially secured to the valve rod by mild steel grub screws which whilst 
+proving sound enough in service, started to rust. These have been replaced by 5 
+BA set screws machined from stainless hexagonal bar. The hexagon head of the set 
+screw permits greater fixing force to be applied once the correct setting has 
+been achieved than was possible with the earlier grub screws. These stainless 
+steel screws are secured in service using a retaining fluid. 
+
+A general point regarding grub screws which can save problems with head breakage 
+in the case of smaller sizes is that the body and most of the head of the screw 
+should enter the tapped hole. In this way, when effort is applied using a 
+screwdriver, the lobes at each side of the slot in the head end are supported by 
+the walls of the tapped hole in the bush, wheel or whatever the screw is 
+intended to secure. Where possible, when set screws or grub screws are used, the 
+spindle or axle should have a small flat or dimple on which the tip of the screw 
+can bear when tightened. The use of two screws in a bush permits a small drill 
+to be passed down one tapped hole to form such a location whilst the bush is 
+secured by the other fixing screw. 
+
+### Dummy Slide Valves
+
+As an aid to determining slide valve dimensions, valve setting and visualising 
+the events of the slide valve assembly the modeller may care to make a pair of 
+dummy slide valves. These can be simply prepared using 1 / 8 inch perspex sheet. 
+The exhaust cavity position can be scribed on the base and further piece of 
+perspex cemented vertically onto the ' valve '. The upright can be drilled for 
+the valve rod and the valve spindle installed in the usual fashion, using grub 
+screws or whatever fixing is favoured. Whatever the final arrangement for 
+securing the actual valves to the spindle, for the dummy assembly two bushes 
+fitted with grub screws allow trial settings. With the dummy valves set in place 
+the engines can be taken through their cycle and, with the length of the valve 
+scribed on the perspex, the valving checked out. This arrangement has proved 
+particularly helpful in the case of Pixie where the motion was constructed to 
+dimensions taken from survey and small innaccuracies arising in construction 
+called for some adjustment of the valve lengths to achieve optimum performance. 
+Where a model is being built to proven details this eventuality should not arise 
+although it is still most interesting to see the valves in motion and to 
+visualise the events. 
+
+### Valve Spindles
+
+The valve spindles are lengths of rustless steel, their ends terminate in bosses 
+which are turned to shape, drilled and reamed for phosphor bronze bushes prior 
+to being silver soldered into place. After the soldering process the bores are 
+cleaned up by a pass of the reamer and a small bush pressed into place in each. 
+When working on bushes of this size, the bore of the bush is often reduced by 
+this squeezing action and require a pass of the reamer to bring them back to 
+size. Small oil cups are mounted on the top of each bush, a fine hole being 
+drilled to convey the 'amber liquid' to the bearing face. 
+
+### Valve Rods
+
+These are from silver steel with mild steel forks soldered at each end. The 
+forks are profiled by milling and filing. Milling the rounded ends is carried 
+out on a pin mounted in the small 4 jaw chuck attached to a baseplate which can 
+be bolted onto the table of the milling machine. Prior to the aquisition of the 
+milling machine such work was carried out using a pin mounted in a machine vice 
+secured to the vertical table. In each case care has to be taken to avoid climb 
+milling with resulting snatch on the part. Prior to installing the valve rods 
+onto the locomotive the silver steel pins were fitted into the forks and holes 
+for split pins were drilled through fork and pin. A very small drill was used, 
+run at the highest speed obtainable on the drilling machine. 
+
+Work of this nature is carried out on a sensitive drill constructed from a set 
+of castings purchased from MESSRS REEVES of Birmingham. The drill formed an 
+exercise in machining and boring and building the drill served to teach many a 
+lesson. The result is a drill with which minute holes of considerable depth can 
+be drilled with confidence, an extended arm controlling the movement of the 
+quill giving a very direct ' feel ' right to that critical point where the drill 
+breaks through on the underside of the material. One small amendment made to the 
+design of the machine is the addition of a perspex guard around the twin pulleys 
+driving the quill. One's face is often quite near to this area when 
+concentrating on that last, critical hole in some assembly that represents some 
+hours of work, and a broken drive belt could seriously damage a person's good 
+looks ! Prior to building the sensitive drill I used an auxiliary drill chuck 
+set in the lathe and used in conjunction with a drill-pad set in the tailstock, 
+feed being achieved by the tailstock handwheel. This is quite an exciting 
+operation, particularly with the lathe turning at top speed to suit the smaller 
+number drills. Drama can result if, with the Super 7 and its self-ejecting 
+mechanism, the drill-pad reaches the point of ejection before the bitt reaches 
+the bottom of the hole ! 
+
+### Valve Setting
+
+Valve setting was carried out at the appropriate stage in the erection process. 
+The best description that we have encountered in any book is that by LBSC in his 
+account of building ' TICH '. As he always did, old LBSC describes the process 
+in the simplest of terms, and there seems little point in repeating any but the 
+key points here. these are basically that the 'crack ' of the port must occur on 
+each dead centre In the case of the Hackforth valve gear, the inclination of the 
+guides on the weighshaft determine the amount of the port opening. 
+Unfortunately, compared with the Walschaerts' gear there is no combination lever 
+to hasten the opening of the ports to exhaust, inlet and exhaust taking place at 
+similar pace. This has not proved to be a problem in practice however and the 
+little locomotive has ample pulling power. 
+
+### Brake Standard
+
+The brake standard was turned from a piece of mild steel reinforcing rod, bored 
+a clearance fit for the rod. The standard is supported by two angle steel straps 
+bolted into the frame supporting the footplate. On Pixie it is set-up on the 
+right of the foot plate although in some previous period it has been sited on 
+the left. At footplate level the standard is based upon an oval plate and 
+incorporates two angle steel supports between this plate and the standard 
+proper. At the top a bracket takes support from the frame of the rear 
+weatherboard. Near the top of the rod and within an enlarged section of the 
+standard is a collar which, being pinned to the shaft, acts as a bearing 
+resisting the thrust as braking effort is applied by rotating the brake handle 
+clockwise. As the force set up by putting the brake off is relatively small, a 
+keeper plate, retained by small round head screws tapped into the top face of 
+the standard, is sufficiently substantial to provide a bearing surface. this is 
+one of the few places in railway mechanical engineering that such screws are 
+encountered. 
+
+The rod passes through the footplate into a substantial bush set in the fork of 
+the actuating lever. the thread on PIXIE is of course a buttressed thread, that 
+on Pixie, a ' common or garden ' Whitworth thread... we did say that Pixie was a 
+near-scale model ! The brakeshaft sits in two bushes bolted to the frames. 
+Actuating rods form a connection between cranks on the brakeshaft and transverse 
+rods passing through clearance holes in the bottom of the brake hangers. The 
+actuating rods are maintained in the correct transverse position by bushes and 
+split pins, some allowance for adjustment to the brake set-up is provided by a 
+series of holes in the back end of the actuating rods. 
+
+[Back to Contents](#contents)
+## Chapter 11
+*Smokebox and and smokebox door. Hinges, darts and rings. Wet header, steam,
+blast and petticoat pipes. Blower ring.*
+
+![SmokeboxDoor]
+> Smokebox door, coupling block and location of axle driven pump
+
+### Smokebox
+
+The smokebox was turned from a piece of steam barrel, not on first sight a 
+prepossessing piece of material. Turning in the four jaw revealed an immaculate 
+piece of high quality steel however and this was soon brought to the correct 
+diameter and length. Before removal from the lathe, lines were scribed 
+longitudinally onto marking fluid on the outer surface at 90 degrees intervals 
+as a guide for use later in setting out the position of the chimney, the 
+openings for the steam and exhaust pipes, and importantly the holes for the 
+bolts which are used to connect the smokebox to the saddle. This marking was 
+aided by using the simple dividing attachment described later in the book, the 
+lines being scribed using a point tool in the topslide tool holder and 
+traversing the saddle. 
+
+The position of the hole for the chimney was next established and marked out, 
+again using marking fluid. The tube was then set on end and clamped to the 
+saddle with packing such that the centre of the hole was on the axis of the 
+lathe. The hole was started using a centre bitt, followed by a succession of 
+drill bits up to the largest available, finally being brought to size using a 
+boring tool mounted in the four-jaw chuck. 
+
+Two pieces of ply were bandsawn to the profile of the outer diameter of the 
+smokebox tube. Spaced by a block of wood these permitted the location of the 
+tube, on its side, on the table of the drilling machine. Where just a few 
+operations are to be carried out, such an arrangement, whilst quickly produced 
+is adequate in providing a sound support. If there were a number of similar 
+operations something more substantial would be employed. Apertures for the steam 
+and exhaust pipes were then set out. These openings were formed by chain 
+drilling and some careful work with ' junior ' hacksaws. The ends of the saws 
+being wrapped with insulating tape to avoid damage to the inside of the smokebox 
+tube. Two saws were used, one the common ' junior ' saw with the blade parallel 
+to the handle, the other with the frame cranked through 90 degrees enabling the 
+cuts around the perimeter of the tube to be made. The edges of the openings were 
+finished by filing. Holes for the bolts securing the smokebox to the saddle were 
+then set out and drilled, still using the ply cradle to support the tube, these 
+would be subsequently transferred to the top of the saddle casting. 
+
+### Smokebox Door
+
+A disk of 'mild steel' yielded the smokebox door, after a fight that was ! The 
+blank proved to be extremely hard, possibly as a result of some long-past 
+cropping operation. This is a problem sometimes encountered when ones material 
+comes from scrapboxes, breakers yards and similar sources, although a problem 
+which will not be encountered by modelmakers who patronise the trade supplying ' 
+bona fide ' model engineering materials ! The result was that having taken the 
+edge off, and the temper out of, several tools it became necessary to set up 
+green-grit grinding wheel in a power drill and having protected the lathe bed 
+with rags, applying this to the blank as it rotated in the lathe. Unorthodox as 
+this may have been, it did the trick. Fortunately there was no hard spot in the 
+centre of the piece, and after drilling the blank was mounted on a bolt whilst 
+the inner face was relieved to leave just a small ' land ' which would ensure a 
+good seal on the front smokebox ring. What LBSC would have described as a ' 
+nobby ' handle, and what the writer sees as a Victorian cupboard door handle is 
+screwed into the central hole to complete the door. Other prototypes employ 
+darts and crossbars with perhaps keys and locking handles, these provide some 
+exercise in watchmaking. Crossbars to retain the dart are seated into brackets 
+rivetted to the front smokebox ring. These are not needed on Pixie as the door 
+is retained by two angle steel brackets and ball handles 
+
+### Smokebox Rings
+
+On PIXIE, as on a number of narrow gauge locomotives, the smokebox front is a 
+piece of plate mounted on the firebox by a rolled steel angle. this arrangement 
+is represented on Pixie by using a one-piece gunmetal casting turned to profile. 
+Dummy bolts in the front face represent those connecting the plate and ring of 
+the prototype. Such an arrangement often proves simpler in model form than would 
+fabrication using separate components, in this case it makes the sealing of the 
+firebox easier to achieve. 
+
+A plaster pattern had been prepared for the smokebox ring castings. The pattern 
+was ' horsed ' as described earlier and yielded the two castings which, whilst 
+crude, contained the necessary material. The rings were prepared by first 
+machining the external form with the casting set-up on the reversed jaws of the 
+four jaw chuck. The outer face of the front ring was turned to a snug fit within 
+the smokebox tube, leaving the small projection which simulated the thickness of 
+the front plate where it laps over the front edge of the tube. Set-ups of this 
+type must be approached with care as thermal expansions tend to loosen the grip 
+of the chuck. Frequent checking is essential. With the outer edges machined, the 
+face and inner section of the casting could be brought to profile. This was 
+carried out with the ring gripped within the jaws of the chuck, here again care 
+is required to avoid distorting the now quite slender ring whilst tightening the 
+chuck. The back ring was turned to a neat fit within the tube then set aside 
+until the inside diameter could be ascertained from the boiler. 
+
+The front ring was next drilled for the bolts which on the prototype connect the 
+front plate and the annular angle. The twenty bolts are installed nut outside, 
+one shares the duty of supporting the lamp iron at the top in front of the 
+chimney. 
+
+### Hinge Plate, Lugs, Pins And Catches
+
+Mild steel plate was used for the hinge plate. In order that the back face could 
+be turned to match the form of the door the blank was cut to rough outline and 
+set up on a faceplate. A secure fixing was obtained by using bolts screwed into 
+tapped holes in parts of the hinge plate which would later be machined away. 
+With a good fit obtained between the hinge plate and the outer face of the door, 
+the blank was filed to profile. 
+
+To ensure the airtight joint essential to good draughting under steam, care must 
+be taken with the geometry of the hinge points. A few minutes work with pencil 
+and card will reveal that the hinge point must be so placed that the door opens 
+both outwards and away from the front ring of the smokebox. It may be necessary 
+to slightly relieve the edge of the door adjacent to the hinge to ensure 
+clearance. Once the geometry has been resolved the hinge plate can be milled or 
+filed to final profile and rivetted onto the door. The hinge lugs are filed up 
+to shape from square mild steel, set into the four jaw and turned to accept a 
+thread. A bright steel hinge pin is lightly tapered at one end and fitted with a 
+collar. The lugs can be slipped onto the pin which is passed through the hinge 
+plate and the whole offered-up to the front ring. It may prove necessary at this 
+stage to make some small adjustment to the shoulders on the lugs to bring the 
+perimeter of the door into contact with the front plate to ensure the essential 
+airtight joint when the door is closed. 
+
+Twin steel angle brackets secure Pixie's door in the closed position. These are 
+mounted on studs set into the smokebox front ring and are tightened by two ' 
+ball headed nuts ', which present a nice piece of ornamental turning. This is an 
+example where a note on the survey sketch would have resulted in a more 
+authentic model, these ball handles appear on later inspection to be of gunmetal 
+and not mild steel as reproduced ! The manufacture of these handles was however 
+most a enjoyable exercise. The profiles were generated offhand, using a bar 
+clamped under the MYFORD tool clamp as a tool support. After parting off the 
+blanks with a ball at each end were set into the drilling machine vice, 
+sandwiched between two scaps of steel having countersunk holes to provide a 
+locating grip for the blanks. With the blanks set to the correct angle the 
+larger ball was then drilled ad tappped for the stud which is set into the front 
+face of the smokebox. 
+
+### Wet Header
+
+The wet header was turned from a piece of gunmetal rod, it sits in a bush 
+soldered into the smokebox tubeplate. Three stainless steel bolts pass through 
+the header into holes tapped into the boiler bush. The steam pipe ( from the 
+regulator ) enters the header and the joint is sealed by an ' O ' ring. A small 
+diameter pipe from the lubricator delivers oil into the steam at this point. 
+Whilst generally this is done by inserting tees into the steam pipes nearer the 
+cylinders or by means of displacement lubricators mounted on the steam chest 
+covers, the current arrangement appears to be satisfactory and does not lead to 
+priming as the steam ports of the Stroudley type regulator are set high in the 
+steam dome and thus considerably above the level of the outlet at the header. 
+
+### Steam, Blast And Petticoat Pipes
+
+After careful annealing, the steam pipes were bent to shape and fitted with the 
+flanges to connect with the cylinder casting. The flanges were silver soldered 
+to the pipes and care was required to ensure the correct orientation of these 
+flanges to suit the location of the fixing studs in the cylinder block. The 
+upper ends were then soldered into the wet header during the same heating as the 
+lubricator pipe. 
+
+Exhaust steam pipes were formed from 1 / 2 inch diameter copper pipe which had 
+to be annealed frequently in the course of producing the reverse bends between 
+the cylinder block and the connection for the blower ring. A jig was prepared 
+replicating the actual position of the holes in the cylinder casting for the 
+blast pipes and the proposed location of the blower ring, determined by the type 
+of ring selected. The connection between the twin exhaust pipes was filed up 
+from two pieces of mild steel, the two halves were clamped together and the 
+holes for connecting bolts drilled. The assembled joint was then drilled and 
+tapped for the installation of the combined blast pipe and blower nozzle and a 
+small slug of metal prepared to fair-in the joint and improve the flow of steam 
+once the joint is assembled. The parts were all assembled into the jig and the 
+flange and connecting block joints were all soldered at one heating. In the case 
+of all flanged connections the flanges are prepared as a pair and then used to 
+spot the holes for the fixing bolts. a centre popped mark ensures that the 
+flanges are used where intended and thus minor discrepancies in hole centres are 
+overcome. 
+
+### Blower Ring
+
+As the ring on PIXIE is a loop of small diameter tubing and replication in model 
+form would not perhaps have provided a satisfactory draught, a rather more 
+sophisticated type of blast ring was incorporated. This took the form of of a 
+combined blast nozzle and blower with an annular chamber around the nozzle 
+pierced by very small holes to provide the blower jets. The arrangement has been 
+detailed in several articles in the technical press over the years. 
+
+### Petticoat Pipe
+
+A piece of copper pipe from a recent domestic plumbing job was annealed ready 
+for spinning. The pipe was plugged at one end to avoid distortion in the three 
+jaw, the other end was then spun-up to a push fit in the chimney base using a 
+polished piece of silver steel supported from a piece of stock bar clamped into 
+the tool holder. The first plug was removed and the newly expanded end was 
+plugged then spun. Frequent annealing permitted the eventual achievement of the 
+required form. On erection the petticoat pipe would be fixed using a smear of 
+instant gasket. 
+
+[Back to Contents](#contents)
+## Chapter 12
+*Boilers. Home built vs. proprietary supply. Construction techniques. Location. 
+Cleading.*
+
+![Boiler]
+> A boiler from a proprietary supplier, this one for the Allchin
+
+### Boilers - Home Build Vs Proprietary Supply
+
+Tackled systematically and following upon the advice of the masters such as 
+L.B.S.C, Alec Farmer Martin Evans and Keith Wilson the task of boiler 
+construction is within the capability of most model engineers. Where possible 
+the modelmaker will be wise to enlist the assistance of an experienced person in 
+constructing his first boiler, in the case of the writer this person was a dear 
+old gentleman who had for many years been employed in all types of plate 
+fabrication and jointing using welding, brazing and soldering and many different 
+techniques for a range of materials. The following comment arises from 
+experience in building that first boiler, the advice recieved from the 
+aforementioned old gentleman who provided me with the basics of soldering 
+practice. Other people have joined evening classes or attended short courses 
+held during the vacation at various Universities and colleges. Usually these 
+events are organised and staffed by experienced technicians prepared to guide 
+participants through the tricky parts of the operation. They also provide access 
+to that most important ingredient of good boilermaking, the substantial heat 
+source. 
+
+The keys to successful boiler building are; a proven design, care in obtaining 
+good fits between parts, absolute cleanliness, and an adequate heat source. 
+Given these essentials together with space and time the beginner can produce 
+what L.B.S.C described as the ' kettle ' for their locomotive. In the case of 
+Pixie, experience gained in producing the boiler for an earlier 3 1/2" gauge 
+locomotive had convinced the writer of the difficulty of providing sufficient 
+heat using existing equipment, both propane and butane torches. To avoid 
+problems, and economise on time available for model engineering work, the 
+decision was made to sublet the boiler construction. 
+
+This proved to be a wise decision and should there be any doubt in the modellers 
+mind as to whether he can afford the equipment or obtain the necessary support 
+and assistance, he would do well to consider obtaining a ready-made boiler from 
+one of the many experts advertising in the trade journals. In this case it may 
+only be necessary to phone several suppliers to obtain a quotation for a boiler 
+for a specific model to a published design. Various well known specialist 
+suppliers spring to mind and one cannot go far wrong in purchasing from any of 
+these. Although there are a few widely known suppliers, prior knowledge passed 
+on by a fellow club member may direct ones choice to another fabricator who 
+although perhaps not so widely known has proved his ability in a previous 
+supply. 
+
+Non-standard boilers such as that required for Pixie call for a slightly 
+different approach. Here, whilst the overall dimensions are known, the design of 
+the boiler and its staying is best left to a builder with with a proven track 
+record. After obtaining several ' budget ' figures it was decided to employ a 
+boilermaker with an excellent record, although the budget price quoted was not 
+the lowest. The fact that the builder had for many years manufactured a range of 
+standard boilers, so much so that his firm had a ' household name ', generated 
+confidence. As well as being approachable the proprietor was exceedingly 
+knowledgeable and was most helpful in assisting with design input. 
+
+Armed with outline details, especially critical dimensions of items such as the 
+location of the tank support brackets, firehole door, steam fountain and dome, 
+arrangements were made for a meeting at the firms stand at the MODEL ENGINEERING 
+EXHIBITION. Here the boilermaker advised upon such matters as the number and 
+location of tubes, size and bore of bushes, desirability or otherwise, in fact 
+otherwise, of superheater and so on. After the meeting these details were 
+transferred to a finished drawing on which the final quotation was to be based. 
+At this stage the builder knew exactly what was expected of him and as a result 
+could provide an accurate quotation of what the cost would be, an essential to a 
+satisfactory business deal. Here it should be bourn in mind that money that we 
+spend on a boiler today would, a few years ago, have purchased quite a 
+reasonable motor car ! Boilers from commercial suppliers come with a boiler test 
+certificate which must not be confused with the certificate required by clubs 
+where the locomotive is to be run. The certificate simply indicates the pressure 
+contained during a raw test, probably before the bushes were drilled out to 
+tapping size. Although the criteria vary from club to club, officials will 
+require more stringent testing, including the efficiency of the safety valves, 
+before they issue a club certificate. 
+
+In the event that the model engineer decides to go it alone, it makes sense, in 
+the case of a standard model for which designs have been published, to make use 
+of the ready flanged plate service offered by many suppliers. This will save a 
+lot of time and, whilst costing more than obtaining the raw material and 
+flanging up over hardwood or mild steel formers, can prove more economic in 
+time, and material. The price of flanged plates can be maintained at an economic 
+level because as well as re-using the formers many times in the course of 
+production, the proprietary supplier has a better chance of planning his 
+material usage in the course of a production run. He can work far more 
+economically than does the individual attempting to cut a set of plates from his 
+one piece of sheet copper. 
+
+### Construction Techniques
+
+A first class boiler, and we must not settle for anything less, demands 
+excellent materials. These will be found in the catalogues of the proprietary 
+suppliers to the hobby. With the materials to hand, the plates must be set out 
+in the most economic fashion. Here paper templates are essential, these can be 
+shuffled around on the raw material to provide a best fit and thus the utmost 
+economy in material. The lines are best transferred to the material using a 
+waterproof overhead projector pen. In this way scribing is avoided at this stage 
+and the lines can be simply erased using a rag soaked in methylated spirits. 
+Where essential the lines can be lightly scribed once the best layout has been 
+achieved. 
+
+To cut the plating material obtain the largest pair of snips possible, grip one 
+handle in the vice and slip a piece of pipe of suitable diameter over the other. 
+With this arrangement, not only can considerable force be applied when 
+necessary, but also very small cuts can be made slowly with great precision. 
+
+Whilst the platework can be prepared using the range of hand tools owned by most 
+model engineers there are one or two additional tools which can make platework 
+easier. a planishing hammer, a cross faced hammer and a large pair of tongs, 
+mine are in fact medical forceps as used in delivering babies ! Plumbers gland 
+or automotive pump pliers are useful for grasping hot metal. Also overlever 
+wrenches such as the ' MOLE ' wrench make useful quick release clamps. 
+
+When flanging, anneal plate frequently by heating to a medium red then plunging 
+it into cold water. The tendency to take a plate ' just a little bit further ' 
+before annealing must be avoided as cracks will result due to work hardening of 
+the metal. When preparing the tube holes in the tubeplates, countersink the 
+holes, roughen the edges of the holes and file small nicks in the periphery of 
+the hole to promote the flow of solder into the joint and around the tube. 
+
+Where it is necessary to drill copper plate for tubes, bushes and the like, Alec 
+F. Farmer suggests a useful dodge which will be appreciated anyone having 
+experienced the snatch of a drill as it breaks through the material. He 
+recommends that drill bitts for copper plate should be ground in such a way that 
+the tips cut the plate almost in the manner of a trepanning cut and so that the 
+lips of the drill remove a curl of swarf from within this cut. The point of the 
+drill seats within a pilot hole drilled after the centre of the hole has been 
+set-out an positively spotted using a centre punch. 
+
+### Assembling The Boiler Parts
+
+On the matter of soldering one can do no better than to read ( and view in the 
+series of more than 300 photographs ) the advice of Alec F. Farmer. Not the 
+least of the tips passed on in this treatise, 'Model Locomotive Boiler Making' 
+is the mixture that Alec uses when making up flux. He uses 2 heaped 
+TABLESPOONFULS of flux powder, a 1 / 4 TEASPOONFUL of household detergent and 
+mixes these to a creamy consistency with water. Using this mixture we are told 
+that the detergent breaks down the surface tension of the liquid, ensuring 
+penetration into the joint as well as degreasing the components being soldered, 
+the greases being replaced by flux and then burnt off. As well as adding the 
+detergent to the flux paste, cleaning and degreasing of components, prior to 
+painting on the flux, has been found to provide the best results. With the joint 
+painted with flux and the metal quickly brought to red heat. the flux will be 
+seen to glaze and melt. The solder stick or wire, applied with the metal at this 
+temperature, will melt and flash into joints. If blobs appear these have to be 
+dispersed using a scratch, a wire ground to a point and bent through a right 
+angle at the end. The solder will flow to the hottest parts of the joint and can 
+be drawn along by judicious heating. Once a bright line of solder is apparent 
+along or around the joint the parts can be allowed to cool before immersion in 
+pickle. Final cleaning of soldered joints is best carried out using steel wool 
+or scouring powder, after 1 / 2 an hour or so in pickle. 
+
+Firebricks as a wall around the hearth which is banked up with crushed firebrick 
+maintain all available heat in the soldering process around the parts being 
+worked on. A useful source of firebrick is the redundant storage heater. If it 
+should be necessary to purchase bricks then a local laboratory supply company 
+will generally stock the genuine article. 
+
+It is advisable to have a trial assembly of as much of the boiler as possible ' 
+dry '. Holes can then be drilled, in key positions, for small rivets to hold the 
+parts firmly during the soldering operations that follow. The pundits have 
+always advised the use of differing grades of solder for the ongoing soldering 
+operations to avoid spoiling joints made earlier. Due to the way in which the 
+solder amalgamates with the copper in the course of the soldering process whilst 
+advisable this is however, not essential. 
+
+### Firehole Door
+
+Arrangements had been made at the time of ordering Pixie's boiler for the 
+provision of blind bushes for later attachment of the firehole door hinge plate 
+( Care being taken to ensure that these were set on the correct side of the 
+firehole ring ), also a bush for the spur. The firehole door with its hinge 
+incorporating two shaped gusset pieces was set in place and clamped in the 
+closed position against the firehole ring. With the hinge plate, again 
+fabricated from mild steel located within the projecting gussets the hinge pin 
+position could be marked and the hole for the pin drilled in the door gussets. 
+At that stage the fixing bush positions were transferred to the hinge plate, the 
+plate drilled and the hole positions spotted through to the bushes which were in 
+their turn drilled and tapped. The spur for the latch, profiled from a piece of 
+mild steel, was set into the four jaw for the end to be turned and threaded for 
+insertion into the bush on the boiler. At this stage the latch lever could be 
+cut to shape and brought to thickness, ensuring a good fit in the spur with the 
+door closed tightly. A baffle was then cut to size which allowed it to pass 
+through the firehole ring without binding when mounted, using a small parallel 
+collar to space it from the door proper. On Pixie a small length of chain is 
+used to lift the latch. In practice it is more likely lifted by the fireman's 
+shovel, however the chain is provided and as on the prototype it terminates in a 
+ring through the small shelf above the firehole door 
+
+### Cleading
+
+There has been considerable discussion in the model press regarding the 
+insulation values of available materials. For Pixie the asbestos replacement 
+material supplied by the trade has proved successful. The material was easy to 
+cut to pattern, did not stretch or distort in the course of handling and 
+installation and was sufficiently rigid to remain firmly in place until the 
+cleading material was fitted and the boiler bands set in place. In shaping the 
+material the use of patterns is essential, it takes but a few minutes with paper 
+and scissors to produce quite accurate patterns, indeed the lady of the house 
+may well find that this is an area where she can make a contribution ! The 
+material is best cut on a sheet of hardboard using a sharp knife or a scalpel. 
+Prior to installing the cleading the insulation can be held in place around the 
+boiler using soft iron wire or even the plastic coated wire sold for use in the 
+garden. These wires serve as an extra pair of hands and can be snipped away 
+after the cleading is in place. 
+
+A further set of patterns are required for the cleading plates. It is important 
+when cutting the plate material to remember to allow for the overlap at the 
+joint. The time honoured method of using snips, with one of the handles secured 
+in the vice and a piece of pipe on the other, makes short work of the straight 
+cuts. A nibbler is fine for this job although it may be worthwhile protecting 
+the metal from scoring by laying sellotape along the line of the cut. For curves 
+and for the formation of the large diameter holes for boiler fittings, chain 
+drilling and a sharp chisel will suffice or, rather more laboriously, a metal 
+cutting blade in the saw frame. Precautions are required to avoid scoring or 
+burring the metal and particularly, forming creases which will prove impossible 
+to remove. 
+
+In the case of Pixie a supply of half-hard brass was available, this was used 
+although the pundits advise using thin mild steel Although the material is a 
+kindly one in use and tin snips can be used for cutting it to shape, care has to 
+be taken in installation to avoid a local sharp bend which can produce an 
+irremovable crease in the plate. Attempts to remove such a crease will only 
+emphasize it so it is best left alone, that is if the builder can live with it, 
+otherwise that piece should be set aside for a less visible use and a new plate 
+prepared. In the absence of bending rolls, and few of us are fortunate enough to 
+possess these, a variety of formers can be used to roll the plate, clean 
+scaffold tube, preferably the lightweight variety, even a jam jar has been 
+pressed ( with care ) into service, work being carried out on a piece of carpet 
+to preserve the face of the material. 
+
+The boiler bands are fairly straightforward provided that the correct length is 
+first established using a piece of wire wrapped around the cleading which is 
+temporarily held in place by wires, as was the insulation. Small sections of 
+angle steel, drilled for the fixing bolts are rivetted and soldered to the ends 
+of the boiler bands, remembering to leave a tongue of the band projecting beyond 
+one of the angles to maintain the line of the banding. With the bands assembled, 
+the wires temporarily retaining the cleading plating can be snipped allowing the 
+bands to do the job for which they are designed. 
+
+[Back to Contents](#contents)
+## Chapter 13
+*Plumbing. Gland and union nuts. Union liners and olives. Valve bodies, 
+spindles and wheels. Pumps. Gauges. Sanding gear. Clacks and dummy injectors.*
+
+### Plumbing
+
+One of the attractions of locomotives large or small is the profusion of 
+pipework, both in copper and brass. Much of this is visible and can be polished, 
+adding to the aura of a model. When preparing runs of pipe, once their routing 
+has been established it is advisable to replicate the pipe using a length, or 
+lengths, of fairly stiff wire. Straightened out, the wire(s) will give an 
+accurate length measurement which would otherwise be difficult to achieve. Many 
+of the pipes on PIXIE have a joiner in mid-run, this is helpful when it comes to 
+erection when the two lengths of a pipe can be installed, sometimes a fiddley 
+job, the joiner inserted and the pipes coupled up. 
+
+L.B.S.C. had a lot to say about pipes and unions and there can be little doubt 
+that he was right to ridicule the overlarge unions seen on many standard gauge 
+models on 3 1/2 inch gauge track. His solution was to solder the cone directly 
+onto the pipe thus avoiding union linings which have of necessity to be of such 
+a diameter that the pipe can be entered into them. Size is not such a problem in 
+2 1/2 inch scale and on Pixie linings incorporating the cone are soldered onto 
+the pipe ends. This soldering is best carried out by applying the heat to the 
+inside of the lining whilst touching the fluxed outside of the pipe and lining 
+with 1/16" diameter rod of silver solder. 
+
+### Gland Nuts And Union Nuts
+
+Gland nuts for valves will be of standard sizes and a number should be 
+fabricated for stock. A small recess cut with a minute boring tool will form the 
+locating groove for an 'O' ring seal adjacent to the butress end of the nut, 
+steam or water tightness can be achieved with just the slightest turn of the nut 
+on the Model Engineer thread. 
+
+Gland and union nuts are made from appropriately sized hexagonal brass bar. The 
+bar is first centered from the tailstock then drilled using the appropriate bitt 
+for the thread employed. Model Engineer threads are used universally for 
+fittings and a glance at any catalogue will indicate the appropriate size of 
+threads for specific pipe sizes. It is worthwhile making up a ' D ' bitt to 
+complete this stage of the work and provide a square face to the buttress. Next 
+drill a few thousandths of an inch larger than the diameter of the pipe is taken 
+just beyond the overall length of the nut. Tapping is carried out with the tap 
+supported by the tailstock centre, finishing with a plug tap. A touch with a a 
+chamfer tool or a smooth file ( with a good handle ) applies the chamfers and 
+the piece is completed by parting-off. 
+
+### Union Liners
+
+Making liners is an enjoyable job, especially where a four tool turret is 
+available ( and if it isn' t, now is a good time to make one! ) The angle 
+setting of the chamfer tool forming the cone on the liner can be set from a 
+centre-bitt mounted in the tailstock drill chuck and once set can remain in 
+position until a batch of work is complete. A knife tool is set into another 
+position in the holder. With a parting tool set in the rear tool post production 
+can commence. A length of brass bar of diameter which will just enter the thread 
+to be cut in the union nut is set in the 3 jaw, centred and drilled from the 
+tailstock chuck, using firstly a centre-bitt then a drill of the diameter of the 
+pipe bore. The hole is taken rather deeper than the turned and shouldered length 
+of the lining plus the length of the cone. This is to ensure a through hole 
+after parting-off. Next a drill of the a few thousandths of an inch greater than 
+the outside diameter of the pipe is taken down to the line of the eventual 
+shoulder, this provides a positive stop for the pipe end. The parallel portion 
+of the liner is now turned to a diameter a fraction under that of the hole in 
+the buttress face of the union nut. The chamfer tool is plunged in leaving a 
+short length of the original diameter between the cone and the shoulder. The 
+parting off tool completes the job, bringing the cone to length. If the dial 
+readings are noted as the first component is made then manufacture of a batch of 
+linings becomes almost automatic. 
+
+### Union Olives
+
+Small cones or olives can be used where it is required to reduce the overall 
+size of a union or connector. From the range of copper tube available it is 
+usually possible to select one that is a sliding fit on the size of pipe to be 
+connected or secured. To obtain the correct cone angle a chamfer tool can be set 
+to a centre bit in the headstock drill chuck. Several cones can be produced in 
+quick succession from the copper tube held in the three jaw chuck. A sharp tool 
+and high speed will be required to avoid distorting the tube, particularly when 
+parting off which should be done leaving a small shoulder. These cones soldered 
+into place on the tube, using the merest touch of solder require very little 
+force on the union nut to achieve a tight joint. 
+
+### Valve Bodies
+
+Manufacture of valves is quite a time consuming operation and some builders may 
+wish to buy theirs from the trade. It is always difficult to get exactly what is 
+required for a specific prototype however and the following should prove helpful 
+to those who wish, or are forced, to have a go for themselves. Trade suppliers 
+market useful material for the body of valves in the form of tees and double-tee 
+castings. These save the constructor the trouble of building-up bodies from bar 
+or rod. 
+
+At this stage a set of tapped bushes will prove to be most useful. Produced in 
+the three jaw, drilled, tapped and marked for number one jaw in a series of 
+Model Engineer thread sizes, these bushes permit bodies to be mounted securely 
+for turning and drilling operations without thread damage. The set of bushes, 
+which should include 3/16, 1/4 and 5/16 sizes as a minimum, can be set 
+aside and re-used, so that time spent in their manufacture will be amply repaid 
+as work proceeds on further models . The valve body casting can mounted in the 
+four jaw, the first end to be threaded centered and lined with the axis of the 
+lathe. This can be achieved by centre punching the approximate centre of the 
+spigot, lodging this on a centre set in the tailstock and then lining-up the 
+body by adjusting the chuck jaws, the tailstock can then be withdrawn. With the 
+body thus set the outside diameter of the body can be machined as far as the 
+intersection of the limbs of the valve. The limb can be brought to length, 
+centre drilled and a hole drilled a slight clearance over the pipe size. A 
+suitable size of centre bit can then be used to form an internal chamfer to suit 
+the liner. The external thread for the gland nut can now be cut, ideally using a 
+tailstock die holder. In the absence of a tailstock die holder the nose of a 
+tailstock drill chuck can be brought along to bear on the back of a standard 
+diestock to maintain the correct line of thread. With the body still mounted in 
+the mandrel the hole for the valve spindle can be drilled to the required depth 
+and the body tapped to suit the spindle. Once one limb of a casting has been 
+threaded externally it is a simple matter to mount it in one of the previously 
+prepared mandrels, set in the three jaw chuck for further turning and completion 
+of the other limb(s) ready for union nuts. With all limbs completed it becomes 
+matter of a few minutes work with a succession of files to complete the body 
+profile. For this operation the valve body, still in the mandrel can be 
+transferred to a vice or the chuck set on the mounting plate described in the 
+chapter on simple tools and attachments. 
+
+### Valve Spindles
+
+These are generally made from rustless steel and are best made several at a 
+time. A length of material set in the three jaw and fine turned to the 
+appropriate spigot diameter. this may if required be coned using a smooth, flat 
+file. Threading is carried out using the tailstock die holder or a diestock 
+supported from a tailstock drill chuck. The neck of the spindle can then be 
+turned to diameter and, if required, the end filed square for attachment of the 
+valve wheel. An accurate square section can be achieved using the simple 
+indexing attachment described later. After parting off, if the valve wheel is to 
+be fitted permanently, the gland nut should assembled onto the spindle before 
+the end is swaged or punched. Where the wheel is to be threaded onto the spindle 
+sufficient length of thread should be allowed to enable a lock-nut to be fitted. 
+
+It is important to ensure that valve spindles remain captive in the body of the 
+valve whilst in their open position. Spindles which unscrew completely from the 
+body of the valve are potentially hazardous in service. Spindles can be rendered 
+captive by reducing the spindle diameter where it passes through the gland nut 
+such that a shoulder is formed beneath the ' land ' of the nut. When the valve 
+spindle is unscrewed this shoulder bears against the buttress so formed, 
+preventing its complete withdrawal. 
+
+### Valve Wheels
+
+Those who manufacture their own valves will be faced with the production of 
+valve wheels that convey the spirit of the prototype. There have been several 
+methods suggested in the model press and the following are though to provide 
+convincing wheels. A.G Neville in MODEL ENGINEER Vol 146, No 3644 described a 
+method using six lengths of thick walled tube, silver soldered around the 
+circumference of a central tube. These were held in place for the soldering 
+operation by soft iron wire. Succeeding operations were to part off suitable 
+lengths for individual wheels, lightly countersink the holes and file the rim to 
+required final section. 
+
+LBSC describes a method of building ' cool ' wheels where a coiled wire is 
+soldered around the periphery of a turned brass wheel centre. Requiring 
+considerable care in production this does produce a good looking and effective 
+wheel. 
+
+A person coming new to model engineering will do well to buy a few nuts and 
+cones, or even a complete valve to serve as patterns for their plumbing work. 
+From these the general proportions can be gauged rather more easily than from 
+the many drawings that are published in the model press. Of course the fanatic 
+can produce fully scaled models of fittings if they wish, but most of us are 
+happy with conventional model fittings. as has been said before, we set our own 
+standards to suit our purses and the time available. 
+
+### Pumps
+
+The use of ' O ' rings for packing pistons and glands ensures that the very 
+beginner can manufacture efficient pumps. In the days of graphited yarn and 
+tallowed hemp, the amount of packing and the tightness of gland nuts was 
+critical, too little and pressure was lost, too much and excessive friction 
+resulted. With careful machining, in accordance with the manufacturers 
+instructions, pistons and glands will be perfectly tight with the least possible 
+amount of friction developing. In the case of piston packings some small pieces 
+of tool steel ground to the correct width for the main sizes of ' O ' ring will 
+save time in preparing the necessary grooves. For gland nuts, small diameter 
+boring tools, again ground up to the correct profile can be set into the tool 
+holder described later to machine the internal grooves in glands. 
+
+Pumps should be located such that the eccentric rod is as long as possible. This 
+reduces the wear on glands as well as cutting out a certain amount of the 
+friction in the system. The length of the ram is also critical in this respect.. 
+In Pixie the pump is mounted behind the front beam, below the saddle, on a block 
+profiled such that the axis of the pump lines with the centre of the front axle. 
+This position was chosen as the available space was limited by the position of 
+the main stretcher spanning between the motion plates. There would also have 
+been insufficient clearance around the back axle for the sweep of the eccentric 
+strap. The mounting block is secured to the front beam by countersunk screws 
+hidden behind the front coupling, the pump in its turn being bolted to the 
+block. This arrangement will permit the pump to be dropped down from between the 
+frames in the event of maintenance being required. 
+
+Pump rams are best made of rustless steel, barrels are generally gunmetal 
+castings incorporating the stand and valve box and are readily obtainable from 
+the trade. Rustless steel balls, a suitable sized ' O ' ring and some hexagon 
+brass bar complete the material requirements. Construction details have been 
+spelled out many times in the model engineering press and there is little point 
+in repeating them here. LBSC gave good coverage in his collection entitled ' 
+LBSC's Shop Shed and Road ' which describes several types of pump and their 
+construction. He notes the key points, for efficiency of eccentric driven pumps 
+as being, ' fairly large bore and short stroke, ample sized ball valves with 
+restricted lift, minimum clearance within the pump itself, and the water pipes ( 
+especially the suction ) of sufficient diameter not to throttle the flow of 
+water '. 
+
+A crosshead driven pump has a lot to offer, not the least being accessibility 
+for adjustment and maintenance. Discussing the the advantages of a 
+crosshead-driven feedwater pump in the case of ' Rob Roy ', Martin Evans rightly 
+states that ' such a pump is readily accessible for servicing, if the pump 
+doesn't function for some reason such as balls sticking or becoming furred-up, 
+it is only the work of minutes to take the whole thing off, strip it right down 
+and clean the valves etc.' 
+
+### Gauges
+
+There have been some magical articles in the model press, written by wizards who 
+have made their own gauges complete with microscopic Bourdon tubes. The beginner 
+will do well to buy-in his gauges from a specialist supplier. Gauges are not the 
+thing to cut ones teeth on, particularly when dealing with the substantial 
+pressures that our locomotives are capable of producing. Those who have an 
+overwhelming desire to construct their own gauges should study the article in 
+Model Engineer. This will probably prove sufficient to prompt them to start out 
+for the nearest trade supplier of the finished article! The gauges on Pixie were 
+purchased from a suppliers catalogue, one for the boiler pressure, taking its 
+feed from the steam fountain, the other measuring valve chest pressure. The 
+latter is fed from the right hand valve chest via a ' tee ' incorporating a 
+drain valve complete with a tap reminiscent of that to be found on a antique 
+Samovar, complete with ebony handle, replicated here by a turned, stained and 
+varnished piece of hardwood on a mild steel spindle. 
+
+### Sanding Gear
+
+Sandboxes are a prominent feature on most narrow gauge locomotives, being 
+especially necessary in the conditions in which narrow gauge locomotives 
+operate. Making the sandboxes on any narrow gauge locomotive should give the 
+builder great deal of enjoyment. Whether mounted on the running plates, on top 
+the boiler or as in the case of the Wrenn Class on the front of the saddle tank, 
+they probably include a degree of geometry. The many patterns can be produced by 
+turning or using a combination of turned parts and barrel or formed sheet. 
+Sandboxes are another of the features which generate atmosphere and care was 
+taken to replicate those on the model. For Pixie the mild steel fronts and backs 
+of the boxes were flanged up over a piece of 1/4 inch plate which was cut to the 
+correct profile, with allowance for the plate thickness to be used, and rounded 
+on one edge. As the flange was to be relatively narrow flanging could be done 
+cold without too much upset to the metal. With the profiled plate sandwiched 
+between the template and a slightly smaller piece of stock steel it was 
+gradually flanged using hammer with a smooth face. Progressing around the plate 
+about 1/8 inch of flange was formed without creases. After removal from the 
+templates the flanges were brought to uniform thickness by filing, paired off 
+and marked in two sets. With the plates set flange to flange, the outside edges 
+were trued locally, again by filing. 
+
+A wire was bent around the perimeter of the flange to establish the length of 
+the strips of mild steel infill which were to form the sides, top and bottom of 
+the boxes. The strips were then bent to the required profile and small 
+adjustments made to ensure a neat butt joint. At this stage a small hole was 
+drilled centrally where the flange for the cover would be located. This was 
+thought necessary to avoid any possibility of an explosion as each box was 
+sealed during welding! Now the three pieces of each box were wired together and 
+the welding operation carried out. Welding was only adopted for this assembly as 
+access was available to TIG welding equipment, brazing would have been equally 
+acceptable. After the assemblies had been cleaned-up the filler openings were 
+drilled and bored and flanges for the covers were soldered into place. 
+
+With the boxes clamped to the topslide of the lathe the holes for bushes for the 
+operating rod could be drilled. As the rod passes through four bushes, two in 
+each box, the lathe set-up was used in order to ensure that the holes lined 
+correctly, parallel to the faces of the boxes. The bushes for the operating rod 
+were then soldered into place, location aided by turned shoulders, bearing 
+against the sandbox sides and the insertion of a length of rod which had been 
+thoroughly oxidised to prevent it becoming a permanent installation! Now the 
+back of each box was drilled for the fixing bolts which were to engage in the 
+blind, stepped bushes in the front face of the saddle tank. These holes were 
+spotted from the template prepared at the time when the bushes were set-out on 
+the tank. The cone shaped feeders at the bottom of the boxes were shaped and fly 
+cut to radius then through-drilled for the sand flow. Pipe flanges were prepared 
+and drilled at the same time as the feeder cones to ensure a good fit on final 
+assembly. 
+
+Filler caps and flanges proved to be simple turning jobs and one of those little 
+tasks that give so much enjoyment in obtaining the correct curves. These are 
+achieved using a graver held on a bar secured under the clamping shoe of the top 
+slide, and finished, dare I say, by filing in the lathe! 
+
+The operating lever with a boss at one end and at the other a tapped hole 
+providing a fixing for the pivot bolt connection with the pull rod was prepared 
+from mild steel. The pull rod itself is a length of 1/8 inch diameter mild 
+steel rod terminating in an eye for the pivot bolt at one end and yet another ' 
+Victorian cupboard handle ' at the other. The travel of this pull rod is limited 
+by a strategically placed split pin which bears against the weather plate in the 
+extreme rearward position. Small cranks and a dart valve inside each box control 
+the flow of sand to the copper sandpipes which extend to the track level and are 
+supported at one spot by pipe brackets bolted to the main frame members. 
+
+### Clacks And Dummy Injectors
+
+Feed water on Pixie is introduces via clack valves positioned where the 
+prototype injectors are installed. Clacks are efficient and provide trouble free 
+running. Lately time has permitted the production of dummy injectors which fit 
+into the bosses on the boiler and replicate injectors for show purposes. These 
+dummy injectors, whilst outwardly similar to the prototype, are in reality clack 
+valves in disguise. they are soldered up assemblies of pieces filed from 
+gunmetal offcuts from other operations. The screwed cap permits the installation 
+of a spring and ball valve just as in standard valve. At a later date a working 
+injector will be installed under the footplate. 
+
+### Boiler Feed By-Pass Valve
+
+An extra not to be found on the prototype is a feedwater by-pass valve. On Pixie 
+this is mounted on the left hand frame member in the space between the back of 
+the bunker and the boiler cleading. It is unobtrusive in this position, yet 
+easily accessible. The valve itself is an essential brought about by the axle 
+mounted water pump and the setting has to be monitored in steam to prevent 
+over-feed and priming. That is if the driver wishes to avoid the ' hot shower ' 
+which will otherwise result! 
+
+### The Waterworks
+
+Below and at the rear of the saddle tank, feeds are taken to the axle pump 
+located behind the front beam and the hand pump sited in the left hand bunker. 
+From the pumps the feed goes to the boiler, that from the axle pump via the 
+by-pass valve. Sited below the front of the saddle tank is a balance pipe which 
+also serves for emptying the tank. On Pixie this is extended and the shut-off 
+valve is, for convenience, accessed below the level of the main frame member. 
+
+[Back to Contents](#contents)
+## Chapter 14
+*Regulator block, gland and lever. Chimney. Steam dome. Safety valves. 
+Retro-fitted pump eccentric. Cylinder drain cocks.*
+
+![Regulator]
+> Regulator
+
+![RegulatorSteamDome]
+> Steam dome
 
 80
 

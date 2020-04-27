@@ -60,6 +60,7 @@
 [SaddleTank]: /jgdr20/assets/jmm/saddletank.jpg
 [Lamp]: /jgdr20/assets/jmm/lamp.jpg
 [Regulator]: /jgdr20/assets/jmm/regulator.jpg
+[RegulatorSteamDome]: /jgdr20/assets/jmm/regulator%20and%20steam%20dome.jpg
 [FireDoorPixie]: /jgdr20/assets/jmm/firedoorpixie.jpg
 [FiringUp]: /jgdr20/assets/jmm/firing%20up.jpg
 [BunkerAndMakerPlate]: /jgdr20/assets/jmm/bunker%20and%20makers%20plate.jpg
@@ -68,6 +69,10 @@
 [DriversEyeView]: /jgdr20/assets/jmm/driverseyeview.jpg
 [RearPixie]: /jgdr20/assets/jmm/rearpixie.jpg
 [FirstRun]: /jgdr20/assets/jmm/first%20run.jpg
+[PrototypeMotionWork]: /jgdr20/assets/jmm/motionwork.jpg
+[Gland]: /jgdr20/assets/jmm/gland.jpg
+[MarineBearings]: /jgdr20/assets/jmm/marinebearingsjpg.jpg
+[SmokeboxDoor]: /jgdr20/assets/jmm/smokeboxdoorpixie.jpg
 
 <!-- Tich -->
 [TichsPedigree]: tichspedigree
