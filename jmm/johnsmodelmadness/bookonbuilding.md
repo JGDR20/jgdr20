@@ -3707,6 +3707,1339 @@ Retro-fitted pump eccentric. Cylinder drain cocks.*
 ![RegulatorSteamDome]
 > Steam dome
 
+### Regulator Block And Gland
+
+A search through the scrapbox revealed some short lengths of gunmetal, chucking 
+pieces from a previous model, these were to form the body and gland. The 
+machining involved is similar to that for any gland assembly, the body being a 
+slide fit in the large bush on the backhead, secured in place using threaded and 
+shouldered studs. Nuts on the threaded part of the stud tighten the gland into 
+its recess. An ' O ' ring was installed into a groove behind the flange of the 
+regulator body so as to bear on the boiler bush and ensure a steam tight joint. 
+' O ' Rings, whether standard or purpose-made from a kit feature more and more 
+in model engineering and, provided the manufacturer's limits on groove sizes and 
+fits are observed give trouble-free service. 
+
+The regulator rod in rustless steel locates into a hole in the regulator within 
+the dome and is maintained in position by a tiny bush of the same material 
+which, pinned to the rod, bears against the back of the regulator body at the 
+backhead. Some small allowance is necessary to avoid any tendency towards 
+binding due to expansion in service. The gland slides within the block, guided 
+by the threaded studs, here again an ' O ' ring forms an excellent steam tight 
+joint with little or no effort applied to the nuts. 
+
+The regulator lever and handle, ( sometimes seen on the prototype with the 
+handle facing rear-wards and sometimes facing forwards ) is from mild steel and 
+the travel of the lever is limited by an angular shroud fitted with stops at the 
+perimeter of the face of the block. Some experiment was required to ensure that 
+the limits imposed by the shroud allowed the full travel of the actual regulator 
+disc on the Stroudley type regulator within the steam dome 
+
+### The Regulator
+
+A number of reasons prompted the choice of a Stroudley type regulator, not the 
+least was the straightforward construction and positive action. A further factor 
+was that access for maintenance could be simply achieved via. the steam dome. 
+These considerations have been bourn out in service although the fixing method 
+would be revised in a further model. Being reluctant to drill the boiler to 
+provide a fixing for the regulator the fastening is is made through the steam 
+dome, using stainless steel bolts. This necessitates some juggling at the time 
+of assembly and would, in a rebuild, be modified to the more conventional fixing 
+using a strap screwed to the boiler shell. 
+
+Gunmetal was used for the body of the regulator, and the two valve discs. The 
+body was drilled to provide the vertical steamway then sealed with screwed 
+plugs. The fixed disc and two fixing brackets were silver soldered onto the body 
+at one heating. The steamway was drilled through the disc and the hole for pivot 
+stud drilled and tapped. Care was taken to remove the burrs formed in these 
+drilling operations as they would otherwise prevent the valve disc from making a 
+steam tight joint with the fixed disc. A ' vee ' notch was filed in the edge of 
+the hole in the fixed disc to assist in providing gradual opening of the port as 
+the regulator was opened in service. The hole for the steam pipe was next 
+drilled and tapped. The loose disc was then prepared, being drilled a close 
+clearance on the pivot pin. Holes were drilled and tapped for the linkage bolts. 
+These were threaded such that when fully inserted into the holes in the loose 
+disc they provided ' pinch-free fit ' when passed through the holes in the 
+actuating rods. All screws and pins are stainless steel and all are drilled and 
+secured using stainless wire to prevent loosening in service. The spring 
+maintaining contact between the valve faces is of stainless wire wound-up around 
+a pin in the 3 jaw, only a light spring is required here as steam pressure does 
+the job in service. The actuating levers are from rustless steel as is the 
+rocker bar. This fits onto a square formed on the end of the regulator rod, 
+being retained by a nut threaded onto the rod. The rod terminates in the rounded 
+spigot which engages in the regulator body. 
+
+### Chimney
+
+The chimney was turned from a piece of reinforcing steel culled from the scrap 
+heap on a building site. It was set in the 3 jaw, drilled using the largest 
+available drill bit, then bored out. The boring tool used was an adaptation of a 
+design published in MODEL ENGINEER many years ago and described later in this 
+book. This has the advantage that it can be entered into small bores and, when 
+modest cuts are taken, provides a a long reach without chatter. The tool uses 
+small diameter cutters which can be produced from the remains of broken centre 
+bitts. As with all long tools however it is essential that a number of fine 
+finishing cuts are made to counteract inaccuracy resulting from the spring of 
+the shank holding the tool. 
+
+The outer taper was turned in several stages, setting the top slide to the 
+required angle and moving the saddle and locking it at each intermediate 
+position. A small rebate was formed at the top of the piece to locate the cap, 
+and, prior to parting-off to finished length, a similar rebate formed to seat 
+into the chimney base. The cap and base castings were next machined to the 
+required profile with the necessary rebate and projection to ensure a good 
+register between the parts at the time of soldering the joints. 
+
+The chimney cap was turned from a piece of gunmetal, set in the 3 jaw. It was 
+bored and the joggle formed for the joint with the chimney body. The curved 
+surfaces were shaped offhand, using a tool supported by a piece of stock bar set 
+in the tool post. Once bored and profiled the cap was then parted off. The 
+bottom casting was turned, again with a joggle for locating the chimney body and 
+the plain portion above the flair turned circular. The part was then set on the 
+vertical slide for fly-cutting to match the radius of the smokebox. This was 
+facilitated by using a washer and one of the medium Myford tee bolts set into 
+the slot in the vertical slide. as in all such operations the slide was packed 
+from the topslide to eliminate movement and avoid chatter. Finally the flair was 
+ground and filed to shaped. Enthusiasts may wish to produce their parts by 
+spinning or raising them from gilding metal. This is, it seems, an aquired art 
+and presents a rather daunting prospect to the tyro. 
+
+The three parts were joined by silver soldering and the base drilled for the 
+bolts to fix it in position onto the smokebox. As is the case when soldering 
+boiler tubes, several small nicks in the joining surfaces will assist the flow 
+of solder into the joint. 
+
+The petticoat pipe was spun-up from a piece of copper pipe, an offcut from the 
+last plumbing job carried out in the house. Frequent annealing permitted the 
+lower end to be expanded to a profile in line with the recommendations in 'The 
+manual of Model Locomotive Construction' by Martin Evans. The upper end is a 
+push-fit into the chimney and stays secure with the aid of a dab of instant 
+gasket. Whilst on the face of things this may seem to be a pretty tenuous means 
+of fitting it permits the petticoat pipe to be withdrawn when access is required 
+to the otherwise congested smokebox. 
+
+### Steam Dome
+
+The steam dome on any locomotive is a joy to produce. Whether turned from a 
+casting, from solid material or spun to shape by the more adventurous and 
+proficient model engineer the dome has to be a thing of beauty. The fortunate 
+model engineer may find a suitable casting in the stocks of his local supplier. 
+He may through perusing the details in articles in the model press find a dome 
+casting that nearly matches his requirements and can be doctored to provide the 
+required form. It was Henry Moore the celebrated sculptor who pointed to a 
+massive piece of material and said that the form he wanted was ' in there 
+somewhere ' ! The dome on PIXIE has been fabricated from thin sheet metal and 
+fortunately there is a joint in the material just below the convex curve at the 
+top. In the case of Pixie this permits a turned dome being produced in two 
+pieces, the lower from an offcut of steel of unknown parentage, probably a 
+cropping from a stockists scrapbox, the upper a cast piece of gunmetal. Assembly 
+from two pieces of material also facilitated the cutting of the opening for the 
+base of the safety valve assembly. 
+
+A length of bar for the lower dome was cut by hand from the billet of steel.... 
+blood and sweat ! The length required was determined bearing in mind the flare 
+which fits over the cleading. This was then set in the 3 jaw chuck and a length 
+slightly less than the dimension from the top of the flair to the top of the 
+parallel portion of the dome was turned to finished diameter. A small rebate was 
+formed in the end to provide a location for the dome top section. The blank was 
+then turned in the chuck, gripped by the reduced section and the remainder 
+turned to to the diameter of the finished flair. The body was then bored out to 
+clear the inner dome. 
+
+Whilst means of producing the flair by milling alone have been described by 
+Martin Evans, the tyro will find that the simplest solution to the somewhat 
+knotty problem of the geometry involved will be to turn the upper, external 
+concave shape which is viewed in the side elevation of the finished dome, fly 
+cut the seating to match the boiler cleading ( NOT the boiler itself ) then mill 
+away the evidently surplus material before finally finishing up with a 
+succession of files. Ideally the edges of the flare should be very thin to 
+replicate the prototype, this is easier said than done and the individual must 
+work to HIS predetermined standard. Again a template will assist in achieving 
+the correct profile. 
+
+Following the sequence described above, the base of the dome was fly-cut to the 
+profile of the cleading. The part-machined blank was mounted on the vertical 
+slide using bolts passed into the tee grooves via a washer fitted into the inner 
+dome recess. In instances such as this where material is to be machined whilst 
+attached to the vertical slide, particularly where there is any amount of 
+overhang, some packing should be used to augment the support provided by the 
+bolts or clamps. A piece of stock bar and some small blocks secured between the 
+piece to be machined and the top slide will provide such support This precaution 
+will be appreciated when for example the heavier of the intermittent cuts of a 
+fly cutter are experienced. Once again, a reminder .... when fly cutting, first 
+set the cutter to describe a radius greater than the required finished radius 
+and then slowly reduce the radius of the cut, whilst advancing the piece, until 
+the eventual diameter is achieved. Frequent checking against a template will 
+ensure a good fit. 
+
+With the seating shape generated, the excess material was milled away and the 
+final form achieved by filing, taking care not to remove too much material in 
+any one place at a time. The filing operations were eased by mounting the dome 
+blank onto a mandrel secured in the vice at the workbench. Final polishing 
+produced an acceptable lower dome ready for drilling for the various valves 
+which adorn the prototype. 
+
+Pixie's upper dome was produced by straightforward turning, finished freehand 
+using a tool bearing upon a length of stock bar set in the toolpost. The part 
+was then set, protected by paper at each jaw in the 3 jaw for the inner profile 
+and the locating tongue to be turned. Later the plan profile of the the safety 
+valve base was set out on the top of this piece using lines scribed in marking 
+blue and the opening milled for final filing to fit at the time of erection. 
+
+### Safety Valves
+
+The safety valves on PIXIE sit on top of the steam dome. This arrangement is 
+replicated in Pixie by two valve bodies, containing the valve seatings, which 
+pass through a shaped block into bushes in the top of the inner steam dome. A 
+turned pillar which provides the fulcrum for the spring retaining beam is 
+mounted on the block. When the valves lift, exhausting steam is directed away 
+above the roof of the locomotive by two polished brass pipes slotted to fit over 
+the retaining beam. These pipes seat upon a shoulder turned onto the valve seat 
+bushes and are supported by a mild steel bracket bolted to the roof. 
+
+Where two safety valves are fitted, and this is recommended, they should be set 
+to blow at the same pressure. Failing this the higher of the two may never be 
+actuated and may seize-up. 
+
+In Pixie the valves are phosphor bronze balls drilled and tapped to accept 
+stainless steel spindles. The seat for the balls was formed in the manner 
+described by LBSC, a blow with a heavy hammer on a steel ball set onto the 
+embryo seating. To avoid thread damage during this somewhat brutal procedure 
+each valve bush in turn was screwed, as far as its shoulder, into a tapped hole 
+in a substantial piece of bar. Valve springs were wound from stainless steel 
+wire and were tested using a simple loading rig as described in an article by ' 
+Laurie ' Lawrence on ' SAFETY VALVES AND A FEW OTHER SAFE ODDS AND ENDS ' in 
+Model engineer Vol. 162 No.3847 of May 1989 
+
+### Retro-Fitted Pump Eccentric
+
+The axle driven pump is, of course, quite unprototypical in the case of Pixie, 
+although as with most things connected with locomotion, there are prototypical 
+examples of the use of axle pumps. However, in view of often encountered 
+comments regarding substandard performance of injectors with ' warm ' water an 
+axle driven pump is mounted behind the front plate. Later experiments may result 
+in this being discarded in favour of an injector. With subsequent removal of the 
+pump in mind, and as the wheels are bonded onto the axles, the pump eccentric is 
+clamped and pinned to the leading axle. 
+
+The standard pump is mounted on a pair of tapered blocks behind the front plate 
+using countersunk headed screws. The inclination of the blocks lines the pump 
+with the axle. A blank for the eccentric tumbler was first produced from a piece 
+of stock bar, this was left oversize for eventual finish turning and the 
+machining of the locating groove for the eccentric sheave. A length of bar of 
+sufficient section to incorporate the clamping bolts was squared-up on all four 
+faces. This block was drilled for clamping bolts. One of the faces was 'raised' 
+by centre pop marks to ensure full penetration of the solder into the joint, and 
+the block then silver soldered into position on the tumbler disc with regard to 
+the approximate axle centreline. The assembly was then split by sawing, the sawn 
+faces lightly cleaned up and the whole re-assembled to enable the axle hole to 
+be drilled then bored. With the hole bored a thou or so undersize, the assembly 
+could now be clamped onto a stub of material of the same diameter as the axle, 
+mounted in the four jaw, offset by the throw of the eccentric. Now the eccentric 
+was machined to final shape including the projecting guide. Later, during 
+erection, the eccentric assembly was pinned to the axle using a short length of 
+silver steel, this was inserted into a hole drilled through the clamping block. 
+The eccentric thus produced works efficiently and can be removed when an 
+injector is fitted in due course. 
+
+The eccentric strap was a standard casting intended for another locomotive. The 
+lugs were drilled for the assembly bolts, the assembly sawn into two parts, 
+re-assembled then faced and the inner radius and guide groove bored, to match 
+the tumbler which was frequently offered up to ensure a nice fit. The strap was 
+then clamped onto a stub of stock material for the other face to be machined. 
+Provision of an oil cap on one lug and milling the halved joint for the 
+eccentric rod completed the part. Binding between the tumbler and the completed 
+strap was eased by some judicious application of grinding paste then metal 
+polish followed by a good wash and scrub with scouring powder and detergent ! 
+
+LBSC's words and music provided the basis of the method used to produce the 
+drain cocks. The principle operation here was not that of machining the valve 
+bodies but rather the manufacture of a tapered reamer for forming the valve 
+seatings. The technique involved setting the top slide to the correct 
+inclination and turning not only the tapered plugs but also a reamer in silver 
+steel for forming the seating within the body of the valve. The reamer was then 
+filed to shape and tempered. The cross hole in the body of the valve was drilled 
+undersize and then reamed to what must then to be the correct taper for the 
+plug. The ' thin ' end of the plug was then threaded for the retaining nut and 
+washer and the ' thick ' end squared-up for the attachment of the operating 
+lever. A little ' running-in ' with a small amount of grinding paste ensured a 
+tight valve although all traces of the paste had to be removed using scouring 
+powder then detergent. On Pixie very small diameter tubes are superglued into 
+the valve outlets to direct the wet steam away from the loco with the drain 
+cocks in the open position. 
+
+### Steam Actuated Cylinder Drain Valves
+
+When first encountered PIXIE was fitted with steam actuated drain cocks. These 
+are operated from the footplate by a valve similar to that found on the outlet 
+of Victorian tea urns, a valve of character ! The actuating cylinder is mounted 
+behind the front beam, the piston rod connecting to the cockshaft via a link and 
+lever. The bar connecting the drain cocks on the right hand side of the 
+locomotive has a tension spring which keeps the cocks open / closed according to 
+the setting of the valve on the weather plate. 
+
+A short stub of gunmetal was turned then bored for the cylinder, quite fun as it 
+is only just about an inch overall. A cylinder cover was turned to suit and 
+bored for the piston rod. The piston and rod were prepared all as those for the 
+engines, and the whole assembled using 8 BA bolts. The cylinder is mounted 
+behind the front beam on an angle bracket, forked around the steam inlet union, 
+again using small bolts. The crank, pivot and lever connecting to the cock 
+provided some watchmaking experience, the lever being pinned to the cockshaft 
+which is set in tiny bearing bosses on the frames. 
+
+[Back to Contents](#contents)
+## Chapter 15
+*Platework, tanks and bunkers. Tank mock-up. Building the saddle tank. Tank 
+mountings. Weather board / spectacle plate. Scale roof and back. Driving roof 
+and back. Footplates and footplate supports. Ashpan. Cutting, bending and 
+rivetting plates.*
+
+![SaddleTank]
+> Saddle tank cover with access panel on model
+
+### Platework, Tanks And Bunkers
+
+The saddle tank dimensions having been established from the survey of the 
+prototype a start was made by constructing a card and plywood mock-up. Plywood 
+end panels, 3 / 8 inch thick, generated the curves of the platework which in 
+this mock-up was represented by thick cardboard. One of the plywood dummy ends 
+was later used as a template when cutting a piece of 3 / 8 inch mild steel plate 
+to be used as a flanging plate. Provision of the mock-up enabled an early trial 
+fit to be made to confirm that the finished tank constructed to the measurements 
+taken at site would seat properly on the components of the model erected so far.
+
+Blocks of wood set upon the frame angles to simulate the tank-support angle 
+brackets enabled dimensions to be established for the location of angle brackets 
+which would eventually be brazed to the boiler shell. The position of the curved 
+steel angle support connecting the tank to the smokebox could likewise be 
+established. Messrs. Reeves' asbestos-free lagging material was to be used in 
+conjunction with cleading and boiler bands of brass sheet. The mock up confirmed 
+that there was sufficient space between the underside of the tank and the boiler 
+for these items. With key dimensions of the model components established, work 
+could be commenced on the tank proper. 
+
+### Flanging The Plates
+
+It was decided to use mild steel plate for the tank rather than brass sheet 
+which would have been the alternative. By making a few trial sections of flanges 
+which included both convex and concave curves it was established that, with 
+care, 16 gauge mild steel could be flanged cold without loss of flatness of the 
+plane parts of the platework. This could be achieved provided that, whilst 
+flanging, the plate was sandwiched between the 3 / 8 inch template and a stiff 
+piece of plate slightly smaller than the flat part of the template. As the 
+flanges were formed it became necessary to snip out excess material from the 
+flange at the convex corners in order to avoid cockling and to provide a smooth 
+land for the wrapper plate. A touch of weld-metal sealed the flange at these 
+points. With care the metal could be spread sufficiently to accomodate the 
+concave curves where the tank sits over the smokebox and boiler cleading. 
+
+In the prototype, due to the riveted construction and the lapping of plates, it 
+was necessary to form a joggle in the flanges to accommodate the extra layer of 
+plate at the lap joint adjacent to the bottom corner of each side. This was also 
+necessary in the model, it was achieved by setting the plate into the twin vices
+, and using two substantial backing bars together with two offcut pieces of 
+plate of thickness equivalent to that of the tank plating. With the offcut 
+pieces of plate positioned either side of the tank plate, above and below the 
+position of the joggle, the vices were tightened in unison and the offset or 
+joggle in the tank plate thus formed as it would be in a press. A considerable 
+amount of ' presswork ' can be carried out in the vice although of course the 
+bigger the vice, the better for such applications. When folding or pressing, the 
+workpiece should always be supported using quite heavy backing bars, in this way 
+twist and distortion will be avoided. 
+
+### Sandbox Fixings
+
+At this stage fixings for the sandboxes were inserted into the front flanged 
+plate, these consisted of brass bushes of 'top-hat' configuration in which blind 
+holes were tapped to receive bolts which would be passed through the back of 
+the sandbox. These bushes, as well as providing a secure fixing for the 
+sandboxes served to space the sandbox from the front plate. The holes for the 
+fixing sockets were drilled to template, the template then set aside for future 
+use in drilling corresponding holes in the sand boxes, a small note was scribed 
+on the templates as a ' reminder ' to reverse the templates when applied to the 
+back of the boxes ! 
+
+### Wrapper Plates
+
+The tank wrapper plates were formed using suitably sized bars from stock set in 
+the twin vices at the dirty bench. Packings sitting on the bed of the vice 
+located two bars, one the radiussed bar which actually formed the bend, the 
+other a square section bar to maintain the flatness of the plate. Timber drifts 
+used driven by a builders ' lump ' hammer persuaded the plate to take up the 
+right form. The certain way to generate blemishes in folded platework, when not 
+using a folding tool, is to use too light a hammer when bending or flanging. 
+Blemishes are also formed if the face or edge of a hammer is allowed to come 
+into contact with the plate. It is essential that clean barstock, free from 
+blemishes is used for the formers, otherwise blemishes will be transferred into 
+the plate being folded. A hardwood block should always be interposed between the 
+plate and the hammer as the metal plate is bent. The combination of hammer blows 
+and pressure applied to the plate by the free hand ensures the desired curve 
+being generated. With some steels, particularly stainless steel, it will be 
+necessary to over-bend the plate slightly to allow for elastic recovery although 
+care is needed to avoid forming a local kink beyond the freshly formed curve. 
+
+Difficulty can be experienced in correctly gauging the width of plates which are 
+to be folded to fit into, or around, concave or convex flanges. It it is 
+advisable to start with an overwide piece of plate which can be trimmed to size 
+on completion of the folding operation. The approximate width of such plates can 
+be established by bending a piece of fairly stiff wire around the flanged plate, 
+straightening it, then making some small allowance for the effects of the bends 
+to establish the cutting width. With the folding operation completed any excess 
+can be cut away. In the course of forming wrapper plates frequent checking 
+against the flanged plates is necessary to ensure a good fit. It is important to 
+make index marks on the flanged plates and wrapper to ensure that the wrapper is 
+located in the same place each time a trial fit is made. Temporary marks of this 
+nature are best made with a ' Permanent ' grade of pen as used for overhead 
+projectors. The marks can be removed using methylated spirits and a scrap of 
+rag. Trial fits should be made against each end plate as, when using rolls, 
+particularly when using makeshift ' bending rolls ' lacking control of 
+parallelity, there may be some small difference between the two ends of the 
+wrapper plates. 
+
+### Tank Assembly
+
+The tank currently mounted on PIXIE has been fabricated by welding, with dummy 
+rivets, a grand job it is too! However, as locomotive was to be modelled as it 
+was the first time it coasted into Pages Park Station on the Leighton Buzzard 
+Narrow Gauge Railway, it had to be a fully riveted assembly on Pixie! In order 
+that the rivetting process could be carried out on all visible joints it was 
+decided that a closing plate would be introduced into the curved underside of 
+the tank. When all had been riveted up this plate was to be inserted and secured 
+by countersunk screws into tapped holes in butt straps along the joint. Being on 
+the underside of the tank these would not be visible in the finished model. 
+
+Rivetting was carried out commencing with the installation of the tank front. 
+Fortunately, in the prototype the flange on the backplate of the tank is located 
+rearward-looking and these rivets can be inserted and formed last. Soft iron 
+rivets were used, a dolly being set in the vice to enable the innermost rivets 
+to be reached. As with all riveted joints it is essential that the plates being 
+joined are held tightly together to avoid the rivet shanks distorting and 
+actually spacing the plates apart. Rivet holes should be marked by a scribed 
+line and set out along the line using dividers. Apart from satisfying the ' 
+rivet counting brigade ', accuracy of line and spacing have a considerable 
+effect on the appearance of the finished model, and any inaccuracy on the tanks 
+or bunkers which form a prominent feature of many narrow gauge locomotives can 
+detract from otherwise good quality workmanship. Once the holes in the wrapper 
+are drilled the flanged plate can be set into position and two holes 
+transfer-drilled from the wrapper. Two small bolts through these holes will then 
+hold the plates in the correct location whilst the remainder of the drilling is 
+carried out. 
+
+The reconstructed tank on the prototype has an access panel let into the tank 
+top. In the model advantage was taken of this feature to enable access for 
+lining the tank with Fiberglass for durability purposes. When laying up the 
+fibreglass in the tank BONDAGLASS pre-wetted glassfibre tape was used to ensure 
+a good fit into the corners Pre-wetting avoids a problem well known to 
+laminators, that of air becoming trapped between the composite lining and the 
+base material at angles. Entrapped air makes it difficult to fully ' wet out ' 
+the glassfibre. At this stage a baffle was glassed into position across the tank 
+below the filler opening to prevent water in the tank surging backwards and 
+forwards when the model is started and stopped in service. 
+
+### Filler Cap And Pipe Flanges
+
+The tank filler cap flange was turned from gunmetal as was the cover. The cover 
+was made a push-fit on the flange to avoid problems in service. These activities 
+are great fun, especially the reproduction of detail such as the very 
+domesticated knob on the filler cap ! After fixing the filler cap flange by 
+rivetting the underside of the panel was primed and painted. The panel was then 
+secured by screws into flanges fixed to the underside of the tank top. 
+
+Balance pipe and feed pipe connection flanges were fixed into position on the 
+wrapper using countersunk screws into tapped holes, a seal being achieved using 
+Araldite. Once the Araldite had cured, the holes in the flanges guided the 
+drills used to penetrate the tank . Where a mating flange is required, for the 
+feed pipes for example, good matching fits can be achieved if these items are 
+prepared at the same time as those for the tank. Pairs of flanges drilled and, 
+if necessary, tapped at the same time ensure an accurate fit when they are 
+eventually fixed together when the plumbing is installed. Flanges pre-prepared 
+in this fashion should be marked according to location ( and orientation ) and 
+stored safely for later use. 
+
+### Tank Mountings
+
+The tank is located and fixed at the smokebox using a radiussed steel angle, 
+connection being made by bolts passing through the tank front and through the 
+top of the smokebox. Attempts to form this by heating a piece of angle then 
+bending it around a former failed, due to distortion of the section. This 
+problem was solved by producing a simple plaster pattern from which a local 
+foundry produce a suitable casting. This casting was set on the lathe faceplate 
+and turned to finished section and radius. The angle is quite prominent on the 
+model and, whilst this solution amounted to the ' use of a sledge-hammer to 
+crack a nut ', the correctly shaped mounting enhances the overall appearance of 
+this part of the locomotive. An alternative would have been to rough-saw the 
+shape from the solid and then turn it to final form. On the model only two bolts 
+are actually used in fixing the angle to the tank front, the rest are simulated 
+by nuts run onto studs set in the angle. Similarly only two bolts actually 
+penetrate the smokebox, the remainder being dummies. In the case of this fixing, 
+as in many instances encountered in model making, absolute replication of 
+fixings and fastenings is unnecessary for the purposes of strength and may even 
+complicate final assembly and later maintenance. 
+
+The rear of the tank is located and retained by studs set into mounting plates 
+on the underside of the tank, these pass through holes in the brackets on the 
+boiler shell, these holes are slotted to cater for movement as the boiler heats 
+and cools. The plates on the underside of the tank were fixed using countersunk 
+screws into the wrapper plate, the joint being anointed with Araldite before the 
+mounting was fixed. The fixing studs project downwards through hardwood blocks, 
+which exist for insulation purposes. Teak blocks are used on the model and these 
+allow a small amount of adjustment to overcome inaccuracies in the level of the 
+tank assembly measured at the time of erection. 
+
+Two holes were drilled in the upper flanged joint at the rear of the tank. These 
+are required for bolts fixing the stay-rods to the weather board, or as it might 
+be termed on other locomotives, the spectacle plate! These two holes are 
+coincident with the pitch of the rivets at this point. 
+
+### Priming
+
+It is most enjoyable to see a model develop in gleaming raw metal, be it steel, 
+cast iron or gunmetal, and there is always a reluctance to follow what is 
+perhaps the more usual sequence of priming, undercoating and painting parts as 
+the work of production and erection proceeds. It has to be admitted however that 
+there is little worse than entering the workshop and finding that surfaces, 
+which the previous evening had exhibited a satisfying shine, are marred by 
+embryo rusty fingerprints ! It is difficult enough to prepare metal around rows 
+of rivets for priming, without having to remove such evidence. In view of the 
+mild steel construction it was decided to prime the finished tank before 
+storage. Accordingly, the tank was spray coated with a rust preventative paint, 
+' BONDAPRIMER '; this is a resin based paint containing zinc which has good 
+covering powers and dries quickly to a uniform matt finish. This was a drastic 
+step as painting a model is not something to be attempted lightly ! Experience 
+has proved that this was the right course to adopt, the primer warded off the 
+dreaded rust and provided a hard base for subsequent coatings, although they 
+were applied many months later. More about the painting process anon! 
+
+### Coal Bunkers
+
+The coal bunkers presented another folding job. This time a flanging plate was 
+produced to the dimensions of the inside of the main face of the bunker. Two 
+suitably sized pieces of stainless steel plate were prepared to the correct 
+height of the bunker. The plate to be folded was sandwiched between the flanging 
+plate and a substantial piece of plate from stock, this was cut just slightly 
+smaller than the flat on the flanging plate. This ' sandwich ' was then gripped 
+in the vice and force applied via. a hardwood block. Care was taken when 
+applying the force to start close to the stock plate to achieve the necessary 
+tight bend. To overcome difficulty experienced in gripping the small amount of 
+plate projecting from the sandwich this was held between two further pieces of 
+stock held by a ' mole ' wrench which allowed hand pressure to be applied. With 
+the bends completed a check was made on a true surface to ensure that the whole 
+assembly sat flat and that the back and front were perpendicular to the base. 
+Any slight twist in the formed plate was adjusted at this stage before the back 
+and front edges of each bunker was trimmed to the correct length. 
+
+The top edge of each bunker is trimmed by a beading. A length of 5 / 16 inch 
+diameter rod was milled filed to the correct 'D' section ( filing would have 
+sufficed ), bent to match the top edge of each bunker and then riveted into 
+position. The openings at the bottom of each bunker were chain drilled and sawn 
+to shape prior to fitting steel angles at the edges which would abut the back 
+plates. Similar angle was fixed to the bottom edge of each folding and to the 
+back plates for use in fixing the bunkers to the footplates. Before rivetting 
+these joints, plates were cut to the correct profile to fit into the bunkers. It 
+was decided to mount the boiler feedwater pump in the left hand bunker and that 
+plate was slotted accordingly. The left hand bunker was chosen for the pump 
+location as this would free the right hand for the ticklish work of stoking 
+through the dimunitive firehole door ! Later a hole would need to be drilled for 
+the feedwater pipe although at this stage in construction the exact position of 
+the hole was not known. As stainless steel had been used in constructing the 
+bunkers these could be left in their pristine, shiny state until the time came 
+for the final paint job . A word here about working stainless steel. Many are 
+the broken bitts that testify to difficulties encountered in drilling ( not to 
+mention tapping! ) stainless steel. The secret appears to be that any tool used 
+to fashion stainless must be kept cutting at all times it is in contact with the 
+metal. Considerable heat is developed the moment the tool rubs rather than cuts, 
+and the temper is lost or the tool jams with dire results in case of the small 
+drills we use. Hundreds of rivet holes in stainless plate have proved the wisdom 
+of using an anti-scuff paste as a lubricant. This combined with working the tool 
+hard by applying plenty of force to the feed avoids tool wear, heating and 
+damage 
+
+### The Weather Board / Spectacle Plate
+
+The platework forming the front of the rather spartan cab provides some 
+interesting work in shaping the plate itself and fabricating the angle steel 
+supporting frame. This is mostly straightforward, fashioning material prepared 
+according to measurements from the survey into model form. The angle supports 
+presented a problem as far as bending the metal without distorting the section. 
+The difficulty was ovecome in this instance by cutting a disk of plate of the 
+scale thickness of the angle and turning from this a complete circle of material 
+of angle section. Segments of this section were then cut as required to meet the 
+geometry of the support frame. The roof bearer was of sufficiently large radius 
+to be bent cold in the vice. The curved segments, uprights and the roof bearer 
+were clamped to a ply template and silver soldered. After this the plate could 
+be clamped into position and the whole assembly drilled and bolted up. 
+
+### The Scale Roof And The Driving Roof
+
+Two roofs were made, one for exhibition purposes, the other for use when the 
+locomotive is working. the latter has an opening which permits a good view of 
+the 'works', the gauges and access to the firehole door and the regulator. 
+Stainless steel plate was used here, with rectangular section bar stiffeners 
+riveted at all edges, using the right number of rivets ! Correct curvature was 
+achieved using blocks of wood, a clean length of scaffold tube and foot power. 
+The plate was set upon the blocks cut to the correct rise on the chord and the 
+scaffold tube applied ' rolling pin fashion ' by the sole of the shoe. Heath 
+Robinson as this may seem, both roofs fit comfortably onto the roof bearer for 
+bolting into position, and both roofs are completely interchangeable ! Provision 
+was made in each case for the two bolts to which the support plate for the two 
+brass columns of the safety valves was to be attached. 
+
+### The Scale Back And The Driving Back
+
+As with the roofs, two backs were fabricated, one for driving purposes and the 
+other for exhibition. The scale back or rear spectacle plate ( which, due to in 
+service modifications to the locomotive, may not replicate the back currently 
+fitted to the prototype ), was built to the dimensions achieved from the survey 
+soon after I first saw the locomotive. It comprises a framework of angles and a 
+curved roof bearer, silver soldered together and clad with plate. Holes for the 
+glazing were trepanned from the plates whilst they were mounted on the vertical 
+slide, absolute care being taken to ensure that the face of the slide was set 
+dead square to the lathe axis. This was ensured by placing one edge of a steel 
+rule against the chuck face and bringing the face of the vertical slide tight 
+against the other prior to tightening the bolts securing it to the topslide. A 
+suitably shaped tool was ground-up for the fly cutting tool holder providing the 
+nearest radius to the required opening. Bearing in mind the maxim that the tool 
+must be kept cutting at all times the saddle was fed towards the cutter, 
+propelled by the tail stock quill. In such an operation it is advisable to 
+tighten the saddle locking bolt slightly, and essential to interpose a piece of 
+hard plywood between the metal being worked and the topslide. 
+
+The glazing is secured within the platework of the scale back by two turned 
+rings, one pair cut from brass bar and the other from steel. These are of course 
+of such size that when fixed, using small screws, they provide a rebate into 
+which perspex glazing material can be fitted. The driving back is a simple open 
+structure, again silver soldered with just side plating added to aid with 
+rigidity along the main axis of the locomotive. A small angle provides a fixing 
+for the brake standard.
+
+### Footplates
+
+On PIXIE the footplates are quite rudimentary. There is a plate which bears on 
+angle steel brackets attached to the inside of the frames and two outer plates 
+which are supported on brackets on the drag beam and cantilever brackets riveted 
+to the outside of the frames below the bunkers. Stainless steel plate is used on 
+the model, more drilling ! Angle steel stiffeners run around below the edge of 
+the outer plates. The rather tight bend below the front of the bunkers can be 
+formed by cutting a 90 degree ' vee ' from the flange and bending the material 
+cold. Care is required here to ensure that bolting faces of the angle remain 
+flat, this can be checked on a true surface as the bend is formed. The 
+cantilever support brackets may be cut from angle steel or fabricated, I chose 
+the latter course, adding the smaller angle for the footplate connection as on 
+the prototype. 
+
+The plate between the frames has an opening for the damper lever and a small 
+cranked plate that engages with this lever to locate the damper in the required 
+position. It is advisable to leave the cranking process until the correct angle 
+can be be gauged to the slots in the lever. Small checkouts will be required in 
+each of the footplates to accomodate the angle brackets at the junction between 
+the drag beam and the main frame members. In the central plate the drain pipe 
+from the water gauge and fixings for the brake standard have also to be 
+accommodated. 
+
+The ashpan and damper are important parts of the firing system. In Pixie they 
+are constructed of stainless steel sheet and mild steel angle. The angles sit 
+below the foundation ring of the boiler, located by stainless steel dowels set 
+into tapped holes in the ring. The upper edge of the ashpan projects slightly 
+into the firebox and thus provides support for the grate which is cut from a 
+section of proprietary stainless steel grate material supplied by Messrs Spinks. 
+A length of mild steel was milled, drilled and filed to shape and cut into four 
+pieces to provide the hinge blocks into which a stainless steel hingepin is 
+slipped. 
+
+The damper is controlled by a lever projecting through the central footplate and 
+retained by a small, joggled piece of plate. Any of three checkouts in the lever 
+locate on this to provide three settings, one fully closed and two sizes of 
+opening...high tech ! In service the position of the damper does make quite a 
+difference to the state of the fire, closed down it allows the engine to simmer 
+comfortably. 
+
+### A Small Preview !
+
+At this stage a 'mini-erection' can be carried out ! The cantilever brackets 
+supporting the outer footplates can be installed and the outer footplates set 
+into position and bolted into place. Next the bunkers can be positioned and the 
+fixing holes drilled through from the fixing angles. Then the weather board and 
+the backplate can be set up. The weather board bolts to the bunker front and the 
+back to the drag beam. Now the roof can be installed and it is time to step back 
+and admire the fruits of our labours so far! 
+
+[Back to Contents](#contents)
+## Chapter 16
+*Erection, frames and motion, weighshaft and valve gear, reversing lever, valves 
+and setting. A trial run on air. Smokebox, boiler, steam and exhaust pipes and 
+blower, regulator, safety valves, brake gear, ashpan and grate, saddle tank, 
+superstructure, makers plates.*
+
+![PrototypeMotionWork]
+> Motionwork on Prototype
+
+### Note
+
+*As this chapter proceeds the text describes the work in erection. Although this 
+book is not of the ' words and music ' type produced by illustrious writers such 
+as LBSC, Martin Evans, Keith Wilson and other extremely experienced model 
+designers and builders, it is written with an understanding of the problems that 
+face the newcomer. It is hoped that the approach adopted will assist newcomers 
+to model locomotives in their efforts.* 
+
+*Whilst the reader may be building a model of another prototype the principle 
+procedures stand.* 
+
+### Erection
+
+This is perhaps the most enjoyable part of the construction process, when at 
+last the fruits of one's labours take finished form. The work of erection will 
+be eased if the builder has access to both sides of the locomotive. Many 
+builders employ an erection frame at this point in construction and there have 
+been a number of examples in the various model publications. If the modeller 
+intends to go along that route it is worthwhile making a frame that can be 
+adjusted for use in subsequent maintenance operations, and indeed for further 
+locomotive erection. End frames set upon an angle steel base can provide 
+adjustment for length of locomotive, the ends being slid along the angles and 
+clamped into position as required. A frame that permits the locomotive to be 
+rotated and locked in any position is obviously going to be an asset although 
+provided that the end frames are of square form and large enough to clear the 
+projecting part of the locomotive this will permit access to the locomotive 
+whilst the frame is set on its side or inverted. 
+
+Mr J Bowman described a useful building stand in MODEL ENGINEER Vol 159 No 3805, 
+August 1987, this was built using two scrap car jacks obtained from a breakers 
+yard. Pivoted clamps provided attachment to the front and back beams of the 
+locomotive. The jacking screw arrangement can be used to elevate the model to 
+the required working height, as the designer says, opening-up useful bench space 
+beneath the model. 
+
+### Frames And Motion
+
+With the frames inverted the axle sets are be dropped into position, including 
+any springs or rubber parts of the suspension. The hornplates are installed, 
+their bolts being anointed with a spot of fixing fluid. At this stage it is 
+convenient to install an axle pump if one is to be fitted, the bolts connecting 
+the parts of the eccentric strap again being given a touch of securing fluid. 
+The cylinder blocks can be attached to the frames, remembering to insert 
+insulation between the back of the block and the frame, where required. The 
+motion plates are next, the bolts, or dummy rivets in the case of Pixie being 
+inserted and taken up tight. The slide bars can then be installed between the 
+seatings on the piston rod glands and the lug on the motion plate, not 
+forgetting to install the crossheads, the correct way round. At this stage the 
+geometry of the engines should be checked out. Careful measurement of the 
+distances between the piston rod and the slide bar(s) at the extreme ends 
+revealing whether the two are parallel. This adjustment is carried out on a full 
+size locomotive by sighting through the centre-line of the cylinder or 
+establishing the centre line using a taut wire then taking measurements in the 
+same fashion. Any minor adjustments can be made by insertion of shim washers 
+where the slide bars are attached to the motion plates. 
+
+At this stage the cock shaft for the cylinder drain valves can be installed, as 
+can the small steam actuating cylinder and cranks. The cylinder bolts behind the 
+front plate on the right hand side of the locomotive. The straps linking the 
+cocks can be installed. that on the right hand side of the locomotive having an 
+extension for a return spring which is secured to an eye bolt through a plate 
+projecting from below the front beam. 
+
+Coupling rods, with marine bearings in the case of Pixie, are next. Some 
+anti-scuff paste assists in sliding them home onto the crankpins. In the case of 
+crankpins constructed incorporating the retaining flange, scale marine bearings 
+can be split on the centreline of the crankpin and bolted-up. With dummy marine 
+bearings, the leading end of the coupling rod can be secured by a countersunk 
+cap sized to replicate the head of the crankpin. A nice detail in Martin Evans 
+book ' Model steam locomotive construction ' shows the use of either a cap 
+threaded onto the crankpin, or the use of a cap secured by an ' 0 ' BA Allen 
+screw. Whichever is chosen, securing fluid ensures that the caps do not come 
+loose in service. In the marine bearing the upper bolt must be that having the 
+groove for lubricant. Each bolt has a full nut, half nut as a locknut and a 
+split cotter pin for safety. With the rear coupling rod bearing assembly 
+completed, the crossheads can be installed on the slide bars, including slipper 
+plates as appropriate, and the piston rod / crosshead joint made using a cotter 
+or bolts. 
+
+The connecting rods can be positioned and gudgeon pins installed. On Pixie it is 
+possible to drop the connecting rod by rotating the wheels to a position where 
+the crosshead clears the wheel allowing the the gudgeon pin to be withdrawn from 
+the back of the crosshead, this is helpful when it comes to routine maintenance. 
+The gudgeon pins have single large nuts on the threaded portion, again safety 
+split cotterpins are inserted. 
+
+With the coupling rods installed, connecting rods secured within the crossheads 
+and the cylinder drain cocks open and plenty of machine oil on all the moving 
+parts the motion should turn over sweetly. In the event of any binding the 
+bearings can be slackened one by one to find the offender when a touch with a 
+fine file or insertion of a piece of shim stock sorts the problem. 
+
+### Weighshaft And Valve Gear
+
+The weighshaft brackets on PIXIE are fixed by bolts through the stiffening 
+angles on the main frame and through the frames themselves. In the case of 
+Hackworth valve gear the position of the centre of the weighshaft relative to 
+the remainder of the motion is critical to the valve events and these have to be 
+checked out prior to finally fixing the position of the weighshaft brackets. A 
+check was made prior to constructing the valve gear by making a twice scale 
+sized model in card, set up on the drawing board. The location of the brackets 
+on Pixie is exactly as established from the survey and fortunately the positions 
+and sizes of components thus determined provided, in conjunction with scale 
+sized components, sufficient valve travel. 
+
+The return is crank set on the rear crankpin, lined with the axle centre and 
+both the bolts tightened. A spot of securing liquid assists in maintaining the 
+correct position although with a well fitted, reamed hole in the return crank 
+the locking bolts provide a remarkably strong connection. A variety of methods 
+are employed to fix return cranks, ranging from pinned and bolted, slotted and 
+bolted and simply bolted connections, each has its merits. That employed on 
+Pixie is straightforward to make and effective in service. 
+
+With the die blocks installed in their guides the vibrating lever can be set 
+into place, the top secured by the pivot bolt in the die-block and the bottom by 
+a cap with a countersunk screw. Next comes the installation of the valve rod. 
+Here it should be mentioned that wherever a connection is made with a simple 
+pivot pin, the pin should be retained by a split cotterpin. Holes for minute 
+split pins tend to wander in the course of drilling through the fork and the 
+pin, and some time can be expended in attempting to reinsert split pins after a 
+service or routine maintenance. A small punched mark made when holes for such 
+minute split pins are drilled through the forks and pins will identify the 
+resident pins with the forks and also the correct orientation of those pins 
+within the forks. 
+
+### Reversing Lever
+
+On many locomotive the reversing lever and sector plate can be assembled 
+independent of any part of the superstructure. On Pixie this is not the case as 
+the sector plate depends for support at each end from bolts through the inner 
+face of the right hand bunker. To facilitate access and valve setting a 
+temporary bracket was fabricated to provide support at these points and the 
+lever and reach rod installed. The front end of the rod pivots on a stud secured 
+into a lug on the bottom of the slide. The rear end of the rod, forks over the 
+reversing lever which in turn, pivots on a fulcrum bolt on the bunker side, 
+replicated on the the temporary bracket. There are occasions such as this when a 
+temporary arrangement allows access for adjustment which would be difficult to 
+make with everything permanently in place. This time the use of the temporary 
+bracket permitted the notches for the latch to be marked before the stage of 
+final erection. The notches were actually cut after removal of the bracket and 
+final erection of the sector plate and bunker assembly onto the bunker side. 
+
+### Valves And Valve Setting
+
+The slide valves were dropped into place in the valve chest. The gland nuts were 
+threaded onto the valve spindles which were inserted into the glands on the 
+valve chest, not forgetting to insert the ' O ' ring packings. The rod was then 
+passed through the first of the retaining collars, the slot in the valve, the 
+second collar and then into the tail guide. Now the valve rod could be installed 
+and the pins inserted. Valve setting followed the normal procedure of adjusting 
+the position of the slide valve on the valve spindle, locking the collars when 
+the optimum position had been established. 
+
+It has to be remembered that the collars must allow the spindle freedom in the 
+vertical direction such that steam pressure in the valve chest forces the valve 
+onto the port face. Now the weighshaft brackets can be fixed into their final 
+position, also the position of the notches on the sector plate can be marked in 
+full forward and full reverse. 
+
+In the event of a need to modify valve arrangements it is a great help if a set 
+of perspex ' slide valves ' are produced. These can be simply made from 1 / 8" 
+perspex sheet, joined by using plastic solvent. The exhaust recess can be 
+scribed and coloured-in using marking blue. The dummy valves can be threaded 
+onto the valve spindle and the events viewed as the locomotive is moved back and 
+forth along a short length of test track. 
+
+With the valves set the valve chest cover can be installed, it is advisable that 
+all the studs should be inserted and the cover checked for location prior to 
+finally inserting the gasket and tightening down the nuts. This will avoid the 
+situation sometimes encountered where, due to minor inaccuracies in hole 
+location, the cover binds on one of the many studs and fails to seat down 
+properly ! For the cover / valve chest joint, liquid gasket has proved 
+satisfactory in service, and certainly saves a considerable amount of work 
+otherwise required in the manufacture of traditional gaskets. 
+
+### A Trial Run On Air
+
+At this stage it is more than likely that, with the the engines attached to the 
+frame and with the motion work installed, the builder will want to have a trial 
+run. This can be carried out at the bench on compressed air with the frames set 
+upon packing. The writer felt the urge at this stage to prove the work to date. 
+In the absence of a length of track Pixie's first run was on the floor of a 
+local garage. The frames complete with motion and a temporary steam inlet pipe 
+were taken to the garage, the only source at that time of an adequate supply of 
+air. To the amazement of two young mechanics, who whilst having intimate 
+knowledge of the workings of motor car engines were apparently ignorant on the 
+working of steam, the ' mechanism ' shot twenty feet across the workshop floor 
+on the end of the air line, like a scalded cat. Remarkably too, on resetting the 
+reversing lever and opening the regulator it shot back again. The power 
+developed by the small engines had to be seen to be believed. 
+
+Such excitement! After more than seven years and much figuring and speculation 
+as to the effects of scaling down parts of the valve gear, its geometry, the 
+steam chest dimensions and the dozen or so components of each engine, the thing 
+worked, and powerfully too. In retrospect the whole proposition of a concrete 
+engineer manufacturing such a complex mechanism in miniature, and one that 
+worked as intended on first trial, seemed as unlikely as the prospect of the 
+construction industry, as we know it, putting a man into space! 
+
+### Smokebox
+
+The smokebox can be secured onto the saddle, here stainless steel bolts are 
+advisable. These can be turned up from stainless steel hexagon stock of the 
+appropriate size. It is a good thing to hold a stock of the common sizes of 
+hexagon material in stainless for bolts, and brass for unions. When there are a 
+few minutes to spare between other jobs, or when only a limited time can be 
+allocated for the workshop, a few unions can be turned up or the odd bolt 
+prepared without too much upheaval and without too much effort in setting up 
+machinery. 
+
+### Boiler
+
+Boiler installation will render the space between the frames rather less than 
+accessible so that it makes sense to insert any pipe runs and make-up any joints 
+in those pipes before finally locating the boiler into the smokebox ring and 
+seating it onto the bearing brackets on the frames. First attempts at boiler 
+installation onto Pixies frames involved considerable sweat and no little amount 
+of personal injury ! Despite the fact that the boiler matched the dimensions 
+from the survey in every detail, ( indeed the accuracy achieved was a great 
+credit to the builder ), the boiler just would not seat into position...... 
+Enter Giant Despair ! ......Several cups of tea and a breather later however, on 
+resuming what until then had been a struggle, the boiler suddenly slid into 
+position as it has indeed on subsequent occasions. There may have been ' 
+Gremlins ' in the workshop on the occasion of the first attempts at 
+installation, although more likely the interference was caused by some rogue 
+rivet head or overlong bolt, eased-in in the heat of subsequent operations. 
+
+With the boiler installed a check should be made to see that the firebox end is 
+free to move as everything heats up and the boiler expands. Holes in the 
+bearing brackets need to be slotted to allow this movement as will those in 
+brackets providing support for a saddle tank. The level of the boiler, relative 
+to the frames, can also be checked and if necessary packings inserted at the 
+bearing brackets. At this stage also, sufficient clearance can be established 
+around blowdown valve(s) and if necessary any openings in stretchers adjusted 
+as required. 
+
+### Steam Pipe, Exhaust Pipes And Blower
+
+Now the steam and exhaust pipes can be installed,. Some juggling is likely to be 
+necessary to persuade these items into position through scale size apertures in 
+the lower quarters of a smokebox ( Later thought was given to this and perhaps 
+in a subsequent model, where some detail of the prototype is concealed in the 
+model then some licence may be taken with sizes ! ) Eventually with such Chinese 
+puzzles solved, the wet header can be bolted into place on the boiler bush ( not 
+forgetting the 'O' ring seal ). The joints between the steam and exhaust pipe 
+and the cylinder block can then made. Liquid gasket was used to seal these 
+joints on Pixie and has proved perfectly effective in service. 
+
+With the blower ring installed the plumbing can be completed. The parts of the 
+pipes between apertures in the smokebox and the connections with the cylinder 
+blocks are enclosed in a sheet steel cover, secured by tiny screws into tapped 
+holes in the smokebox tube. To render the apertures airtight small quantities of 
+modelling clay can be smoothed around the pipes from inside the smokebox using 
+one of Messrs Proops ' Doofers '. These can be obtained from a MODEL ENGINEER 
+exhibition stand and although they convey a fearsome reminder of time spent in 
+the dentists chair will prove immensely useful about the workshop! 
+
+### Regulator And Regulator Block
+
+The regulator can be mounted within the steam dome, using stainless steel screws 
+into the lugs on the regulator body. A check should be made at this stage to 
+ensure that the screws on the actuating rods are wired to prevent them coming 
+loose in service. Stainless steel wire is a must. 
+
+With the regulator rod inserted into the regulator handle and the rod passed 
+through the gland, the small bush can be set onto and secured to the rod by a 
+stainless steel grub screw. This bears against the back of the body block, 
+retaining the rod in its correct position within the regulator proper. The 
+complete assembly can now be passed through the regulator block bush, the 
+leading end being located in the back of the regulator body within the steam 
+dome. 
+
+### Safety Valves And Header Pipes
+
+In the case of pixie, once the regulator and the regulator block and rod had 
+been installed it was time to install the safety valve block and safety valve 
+bodies. The block is in fact retained by the screwed portions of the valve 
+bodies so that it became necessary to enlist the aid of the plastic gasket 
+material once again. The fulcrum bracket which retains the safety valve balance 
+beam screws into the safety valve block. The beam itself is mounted using a bolt 
+as a pivot, the ends of the safety valve spindles move freely within bushes at 
+the ends of the balance beam. Adjustment of the valves is achieved by screwed 
+bushes set into those at the ends of the balance beam. Assembly of these items 
+takes less time than is needed to write the description, although with such an 
+important part of the ' works ' care has to be taken to ensure freedom of action 
+of the parts. 
+
+### Platework
+
+There are three running plates on PIXIE. The two outer, low level plates take 
+support from brackets rivetted to the main frame members and rails which are 
+bolted to the drag beam. These plates provide seatings for the side bunkers, and 
+importantly, the brake standard. These items are each in turn clamped into 
+position and the location of the fixing screws transferred to the plates using a 
+centre punch. If the platework is of stainless steel the holes for the fixing 
+screws has to be drilled using a freshly sharpened bit with sufficient pressure 
+to ensure that the bitt cuts metal all the time. As has been noted elsewhere, 
+the slightest rubbing action will heat the bitt and spoil its temper. 
+
+Once the lower running plates and the left-hand bunker are erected, the 
+positions of the holes for the feedwater pipes from the hand pump in the left 
+hand bunker can be established. Here pieces of stiff wire to replicate the pipes 
+facilitates the marking process. The holes drilled the the pump can be installed 
+on a mild steel block of sufficient height to bring the operating handle clear 
+of the bunker ends at the extremes of the pump stroke. The brake standard is 
+positioned on the right hand, lower running plate ( where it was located at the 
+time of the survey, although there is evidence in the form of a set of mounting 
+holes, that it has been set on the opposite side at some time in the 
+locomotive's history ) and the fixing holes and the hole for the brake spindle 
+spotted and drilled. 
+
+The middle, upper footplate will require trimming to fit around the frame 
+angles, also slotting for the damper lever. this is another situation where it 
+is advisable to produce a strong card template and carry out a trial fit prior 
+to cutting metal. Clearance for the angles joining the drag beam to the frame 
+members is easy to arrange by pure measurement. To avoid wasteful errors in 
+positioning the slot, the template can be slotted on the known line of the 
+lever. Inserted into position, the card can be marked to indicate the position 
+of the ends of the slot and the footplate marked and cut accordingly. A small 
+metal catch is bolted to the plate to engage in, and retain, the damper lever. 
+This was bolted into position on the footplate and with marking blue and a 
+scriber the correct angle and depth of the three slots in the lever were 
+established. Provision of one last slot for the drain pipe from the water gauge 
+permitted the plate to be dropped into place. 
+
+### Brake Standard, And Brake Gear
+
+The main brake shaft with just the fixing bushes in place, was offered up and 
+clamped into position, square across the frames and level. This allowed the 
+cut-outs necessary to allow the bushes to seat onto the frame members to be 
+determined, marked out, then cut and filed. The brake nut was then threaded onto 
+the brake spindle and the handle rotated until the brake shaft complete with 
+actuating arm, two bushes and two drop arms could be bolted into place. With the 
+hangers and blocks installed by bolting to the frames, the pull rods could be 
+inserted and the rods which serve as brake beams with their retaining bushes 
+threaded into position. With all assembled the holes for the split pins which 
+secure the bushes in place were drilled and the minute split cotterpins set into 
+place. This size of split pin has extremely sharp ends, so beware! 
+
+At the running plate two bolts pass through support angles on the standard 
+downwards into the angles supporting the floor member. The screwed portion of 
+the brake shaft can be engaged in the bush within the brake fork below the 
+running board and the handle turned until the foot of the column contacts the 
+floor when the fixing bolts can be installed. At the top, the brake standard 
+takes support from the cab backplate support angle and is bolted into position 
+using a shaped strap, reminiscent of a gutter bracket. 
+
+### Ashpan And Grate
+
+At the time of final erection the ashpan was set into position, clamped and 
+blocked to prevent movement whilst the holes for retaining pins were drilled. 
+After a lot of careful measurement, small diameter pilot holes were drilled 
+through the mainframes and the ashpan sides. During the drilling of the holes a 
+colleagues assistance was saught to sight the drill and ensure that the holes 
+were put through horizontally. Transverse accuracy was obtained by lining the 
+drill with a try-square set against the frames. The ashpan is located by two 
+stainless pins, cross drilled for tommy bars at one end and tapered at the other 
+to facilitate insertion. The pins themselves are retained by ' O ' Rings slipped 
+into position once the pins are engaged. In the event of an emergency the grate 
+can be dumped by withdrawing the pins when the ashcan will drop as far as the 
+sleepers, spilling the fire. 
+
+### Saddle Tank
+
+With the boiler seated into position and the boiler / smokebox joint made, the 
+fastening angle for the front of the saddle tank can be installed. Although 
+there are a number of bolts through the angle and the smokebox tube, only two of 
+these are in fact bolted connections, the rest are dummies, this to reduce the 
+amount of work when dissembling for maintenance in future. On Pixie, the rear of 
+the saddle tank rests on two brackets supported from the boiler casing and the 
+front takes its support from the aforementioned bracket. Studs projecting from 
+stiffening plates which also serve to reinforce the delivery pipe connection 
+points from the tank, pass through timber blocks into the boiler brackets. the 
+timber blocks are for insulation purposes. again the holes in the mounting 
+brackets have to be slotted to permit expansive movement of the boiler. 
+
+### Superstructure
+
+After the arduous work of boiler and tank installation, the erection of the 
+superstructure affords time to relax and enjoy ! The rather elementary weather 
+plate is supported on angle steels which in their turn take support from the 
+backs of the bunkers. The back of the cab, again platework on angle framing 
+takes support from the drag beam. The weather board and cab back plating support 
+the roof which is bolted to the curved angle steels forming the top of the 
+superstructure framing. 
+
+### Makers Plates
+
+At this stage it was time to mount the makers plates ( which had been prepared 
+earlier ! ) Mounted on each of the bunker sides these proclaim ' Kerr Stuart 
+etc......" Plates such as these are essential in conveying the atmosphere of the 
+model and some thought was given to their production. The method eventually 
+adopted was first to choose a photograph of one plate from the reference shots 
+on transparency film. This slide was then projected onto a sheet of paper set on 
+the workshop wall and the image drawn-over using indian ink to approximately 
+five times the size of the required plates. These were photographed by a friend, 
+to provide the required image size, using a film having high contrast negative 
+emulsion. The negative was then sent to Messrs Reeves for the production of 
+etched plates. The detail was etched onto brass plate of the required thickness. 
+All that was then necessary was to saw and file these to profile, polish the 
+edges and drill for the fixing bolts. A coat of enamel was applied overall, the 
+plate was lightly filed to expose the letters then polished. With the 
+availability of Digital Cameras this process can be simplified, and a dic with 
+the appropriate photograph sent to the engraver the size being simply adjustable 
+as required. 
+
+Ron Acock described the use of brass punched letters, obtainable commercially, 
+for constructing nameplates. His article in MODEL ENGINEER Vol 161 No.3833 
+October 1988 will be found most helpful for the modeller taking that route. 
+
+[Back to Contents](#contents)
+## Chapter 17
+*Painting. Workplace and equipment. Types of paint and preparation. The 
+finishing coats.*
+
+![SprayCabinet1]
+
+![SprayCabinet3]
+> Spray cabinet for small parts from scrap, computer fans and drier hose.
+
+It is quite pleasing to leave the locomotive unpainted as long as possible, the 
+parts that won't rust that is. Unfortunately fingerprints on polished mild steel 
+may rust overnight so that items such as the mild steel platework have to be 
+painted on completion. Otherwise all the stainless, rustless, and gunmetal parts 
+can be left unpainted so that one can enjoy the appearance of the raw metal. 
+Some parts can be decorated, up to the time of painting, using the age-old 
+technique of a split dowel in the lathe or the drill, with a piece of wet and 
+dry paper set into the slotted end. this can be set to revolve at speed and the 
+part then applied systematically to the ' tool ' This imparts a finish akin to 
+that from milling, although on a much finer scale. It looks good in the raw and, 
+according to the strength of paper used, provides a nice key for a priming coat 
+later. 
+
+### Workplace And Equipment
+
+Whatever finish is selected, the results achieved will depend to some extent on 
+the temperature of the workplace. An even temperature and a dust free 
+environment are two key aspects to be considered when painting. Probably the 
+worst place for the operation is the workshop as there is almost always a film 
+of dust from machines and equipment which can easily be disturbed by the 
+smallest draught. Good work can be carried out in in a greenhouse or in a spray 
+booth set up temporarily using polythene dust sheets from the local D.I.Y store. 
+Small parts have been sprayed in a sink in the utility room, the water set 
+running over the back surface of the sink by a piece of card, simulating the wet 
+back in some commercial spray booths. In the writer's early days of modelmaking, 
+a good sized cardboard box for a booth, with a larger box placed overall whilst 
+the paint dried, yielded quite satisfactory results. Latterly a simple ' spray 
+booth ' for small parts has been fabricated from a steel box, using one of 
+Messrs Proops brushless fans and a length of spin-drier hose to take away the 
+overspray. 
+
+Regarding equipment, the range is enormous, from simple spray guns to 
+sophisticated airbrushes. Expensive equipment does not guarantee good results, 
+choice is likely to be based upon one's budget and, provided preparatory work 
+has been carefully carried out, good work can be achieved with simple equipment. 
+With sound preparation a combination of simple tools used skillfully and ongoing 
+care taken in rubbing down and finishing, an excellent paint job will result. 
+
+Spray guns and airbrushes require a satisfactory air supply. Cans of propellant 
+are expensive and are soon used up in the course of coating the many parts of a 
+locomotive. For economy, a small electric tyre pump can be used to provide an 
+air supply via an inner-tube as a reservoir, ( the writer once re-sprayed a 
+motor cycle using only a car footpump ! ). Compressors provide a reliable, 
+consistent source of supply and need not be expensive although a filter must be 
+used to provide a clean supply. There have been several articles in the model 
+engineering press on adapting compressors from refrigerators. One very clear 
+description was that by Steve Ballinger entitled ' An Airbrush Compressor ' in 
+ENGINEERING IN MINIATURE Vol 2, No.5 October 1980. It is important that some 
+form of pressure regulator is used as varying paint consistency calls for a 
+means of controlling the pressure. The simple ' external mix ' gun can, with 
+care, provide a good finish although mix adjustment has to be carried out 
+between actuations. The ' internal mix ' tool is probably more favoured by the 
+professional and expert, providing as it does more immediate control of the air 
+/ paint mix at the touch of the trigger. For occasional use an electric, airless 
+spraygun can provide an economic solution and again, excellent results can be 
+achieved with care. 
+
+Other equipment includes lint-free cloth, wet and dry paper, rubbing compound, 
+metal polish, masking tape and an endless supply of newspaper. Masking film and 
+masking fluid will be useful to protect polished parts and to mask-off in the 
+course of developing a livery. An out-of-date telephone directory will provide a 
+good source of paper for masking purposes and on which to sit small parts for 
+painting and some stiff wire hooks will be useful for handling and ' hanging out 
+' the parts to dry. A turntable such as those used in icing cakes will also 
+prove useful. A good supply of thinners appropriate to the paint system to be 
+used is essential. Where paint and thinners are concerned small tins are 
+wasteful. Both materials will be cheaper if purchased in sensible quantities 
+from a paint supplier. Your local dealer will advise on the type of solvent to 
+be used according to the system selected. Paints will keep in the can for years 
+provided it is properly sealed, the lid firmly replaced and a seal formed by 
+inverting the can before storage. 
+
+Spaying small parts is simplified and can be carried out in the workshop if a 
+suitable facility is provided. The simple cabinet illustrated at the top of this 
+chapter has proved effective and useful. The ply box has two fans from defunct 
+computers mounted high at the back. Extracted air and spray is blown into a 
+cone-shaped funnel, which mounts on the ply back, into a length hose from a 
+tumble drier and out of a window. At the front of the box a strip of perspex 
+prevents overspray from escaping. The whole somewhat ' Sid Carnow ' cabinet can 
+be packed together taking the minimum amount of space in a busy workshop. 
+
+### Types Of Paint
+
+Firstly a decision is required regarding the type of paint to be used. The 
+choices range from cellulose and acrylic car sprays, through enamels, to special 
+heat resistant paints such as those intended for automotive use. The choice 
+rests with the individual, but whatever system is selected it has to be 
+remembered that sound preparation is critical to achieving a good finish. A 
+colleague calls the painting stage ' the spoiling stage ' and this it may well 
+prove to be if the preparatory work is hurried or not carried out 
+systematically. 
+
+Contact with the suppliers of various types of paint systems reveals an 
+interesting fact. On investigation, the majority of complaints regarding 
+substandard finishes achieved across a wide range of materials result from 
+failure on the part of the user to read, or comply with the manufacturers 
+instructions. Whilst it might be argued that the manufacturer is bound to come 
+up with this conclusion, it has been proved time and time again that similar 
+products have produced differing results in the hands of different people. It 
+seems that when all else fails, when the paint fails to dry, or to provide the 
+required surface, the user turns to the instructions, or complains to the 
+makers! 
+
+### Preparation
+
+LBSC used to advise washing parts to be painted in petrol, this seems a risky 
+business and today a thorough wash in detergent, a rinse and then drying in a 
+warm spot is probably more effective. The aim here is to remove all traces of 
+oil, grease and cutting fluid which will otherwise prevent the priming coats 
+bonding to the metal. Failure to remove grease will be evidenced by wrinkling of 
+the early coats of primer. Should this be observed then the best course will be 
+to go back to the bare metal, thoroughly degrease and start again. 
+
+Whatever paint system is to be used, the same steps are required in preparation 
+of the surfaces for paint. Paint will not mask irregularities of surface, it 
+will not fill joints and it certainly won't fill holes in castings! Minor 
+defects in castings can be filled with a polyester or epoxy filler and rubbed 
+down to the required form, a rasp will cut away any overfill and a scraper can 
+be used to take the repair to the stage where wet and dry paper will finish the 
+job. Castings and any nonferrous surfaces should be coated with an etching 
+primer, obtainable from any good automotive paint supplier. This should again be 
+cut down using wet and dry paper, recoating and rubbing as necessary to produce 
+a consistent matt surface to accept the selected paint. Filler is next, this 
+fills any minor defects and can be carefully cut back using wet and dry paper 
+until an allover, dead smooth surface results. The paper should always be 
+supported, using small blocks of wood or a hard rubber block to ensure that the 
+thickness of coating is left consistent throughout, and that corners are not 
+exposed, or rounded out. The surface should now be dried. Wiping with a 
+lint-free cloth helps, as does leaving the coated part on a radiator for an hour 
+or two or spend some time using a hair dryer, the latter technique is good as it 
+dries out all the little nooks and crannies in a complex part. Take time, 
+attempt to speed things up and the painting stage will rapidly transform into my 
+colleagues ' spoiling stage ' ! 
+
+Next is the priming stage, here we are building the surface which will finally 
+be apparent. The smoothness of finish achieved at this stage determines the 
+appearance of the part after the application of the final coats of paint. This 
+is true whatever paint system is adopted. Any small defect after this stage will 
+be magnified by succeeding ' finishing ' coats. The use of materials of 
+differing colours up to this stage assists by indicating depressions and local 
+defect. After each succeeding coat is rubbed down, high spots will be shown up 
+by the previous colour, ' grinning through ' and local depressions retain the 
+colour of the last coat applied. The aim is consistency and a uniform 
+colouration all over the part. Once this stage is reached all is ready for the 
+application of the final finishing coat(s) according to the selected sytem. 
+
+### Enamel
+
+Provided one is satisfied with the available colours, brushing enamel provides a 
+good durable finish. It is always advisable to warm tins of enamel in a bowl of 
+hot water prior to use. Don't shake the tin before use, open it and thoroughly 
+stir the contents. Using enamel, applied by brushing, the finish will depend a 
+great deal to the quality of the brushes used. Only brushes from a well known 
+maker should be used, and they should be washed frequently using thinners and 
+finishing with soap and water, as work on any large parts is carried out. This 
+avoids problems and brush damage caused by enamel drying where the bristles are 
+set into the handle. Carefully dry the brush after this cleaning operation, 
+otherwise any moisture remaining in the brush will upset the paint consistency 
+on restarting brushwork. Enamels can be spray applied although absolute 
+cleanliness of the spray equipment is essential, and defects are not easily 
+corrected. 
+
+Whilst ideally one coat of enamel should provide a good quality finish, it is 
+sometimes necessary to recoat. Previously coated parts should be set aside for 
+the paint to harden before re-coating. A warm, dust-free spot is desirable, a 
+cardboard box on top of the central heating boiler has proved effective in the 
+past. Before re-coating, the surface should be lightly cut back taking care not 
+to remove paint from the corners and edges of the piece. Work painted using 
+enamel generally benefits from rubbing and buffing using automotive rubbing 
+compound prior to finishing with metal polish, these processes should be carried 
+out over a few square inches at a time, first rubbing, then buffing. A soft 
+brush will be needed when polishing rivetted surfaces, care being taken to avoid 
+exposing the metal of the rivet heads by rubbing too hard. 
+
+### Heat Resistant Paints
+
+Heat-curing paints can be used to advantage on the smokebox and chimney. These 
+paints, applied from a spray can, are cured either by the heat of operation, by 
+blowlamp or by baking in the oven. Heating parts coated with this material in a 
+very hot oven ( Regulo No. 9 ) for half an hour proved satisfactory in the case 
+of Pixie. The black finish obtained is midway between eggshell and gloss and can 
+be maintained by a light rub with an oily rag. The black heat resisting paint in 
+spray cans so beloved of motorcycle enthusiasts is great for chimneys, 
+smokeboxes and similar items. Oven or gentle heat from a blowlamp will cure it 
+to a satisfying matt finish. 
+
+### Spray Cans, Guns And Airbrushes
+
+When painting using spray cans, the can must warmed gently before being shaken 
+according to the makers instructions, generally for some minutes after the 
+mixing ball is heard to rattle within the can. The spray should be tested to 
+determine the spray pattern and the distance of the jet from the work by trials 
+on a piece of scrap. With both cans and guns the spray should be started away to 
+one side of the part being coated and carried across the part several times 
+before moving away from the workpiece to stop the spray. In this way the finish 
+will not be marred by blobs of paint which often occur when starting and 
+stopping the paint flow. Before succeeding coats are applied, (some instructions 
+say that the succeeding coats should be applied quite soon, whilst the previous 
+coat is tacky even, others require a dry finish before recoating) the parts 
+should be turned to ensure that all edges are coated. The temptation to build 
+with one coat of spray has to be resisted. A series of thin coats always gives 
+the best results. Building should be done in the course of a series of coats, 
+rubbing down between each coat. 
+
+When using an airbrush much better control of the paint and thus regulation of 
+the coating is possible, the most critical aspect here being the cleanliness of 
+the equipment. Paint consistency is important and it is advisable to strain all 
+but the freshest paints. Mix the paint by stirring, not by shaking the can. 
+Always test the consistency of the paint on a piece of scrap before coating any 
+model parts. Most paints also benefit from straining after mixing, strainer 
+material can be obtained from model or automotive spares suppliers. When 
+deciding on the correct mix of thinner and paint, start on a piece of scrap with 
+a 30 - 50 percent thinner content, adding more until the flow is correct. A 
+short blow of air alone will clear the brush if it clogs. Always clean the 
+airbrush using thinners immediately on finishing painting, any minute flake of 
+paint that dries on the tool could spoil the next job to be tackled. 
+
+During the coating process the air brush should be kept on the move, using a 
+motion of the hand and arm which maintains the head at a constant distance from 
+the surface and sweeps the piece with spray. Movement of the wrist varies this 
+distance and prevents even coating. Spraying should be started and stopped away 
+from the piece being coated. Runs and pools of paint result when the brush is 
+stationary for even a second. When paint dries too quickly, before reaching the 
+part being coated, a rough texture develops. Ideally the coat should appear to 
+shine as it is applied, rapidly drying as the spray is moved on. 
+
+### Dealing With Defects
+
+Whatever tools are being used in the painting process, should there be the 
+slightest evidence of a run or ' orange peel ' surface developing *no attempt 
+should be made to rectify things by wiping with a cloth*. This action can result 
+in the removal of the current coat of paint and parts of the previous coats 
+which have become softened by the spray. The components should be set aside for 
+the paint to harden completely then the surface can be cut back with successive 
+strengths of wet and dry paper, care being taken not to expose primer at edges 
+and corners. Once a uniform, matt finish is achieved overall, then priming, 
+rubbing down then re-coating can commence. 
+
+[Back to Contents](#contents)
+## Chapter 18
+*Test track and a simple driving trolley. Driving position and access to 
+controls. Braking.*
+
+![PixieAndDrivingTrolley]
+> Pixie with driving roof and back. The driving trolley footrest is stowed.
+
 80
 
 To return to main page [click here][Home].
