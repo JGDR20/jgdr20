@@ -56,7 +56,7 @@ As part of their support contracts I have been security cleared by 2 previous cl
 
 ## Employment History:
 
-### Product Specialist<br>[Charles River Development](https://crd.com) | July '18 -
+### Product Specialist<br>[Charles River Development _(bought by State Street)_](https://crd.com) | July '18 -
 
 As a member of the EMEA Support team I provide application and business support for all segments of the main CR IMS product:
 
