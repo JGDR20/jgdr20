@@ -4,8 +4,8 @@ title: Book On Building
 subtitle: Building A Narrow Gauge Locomotive On 5" Gauge.....2 1/2" Scale
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-02-25
-last_updated_format: "now"
-wip: true
+last_updated_format: 2020-05-03
+wip: false
 ---
 *Content Updated {{ page.last_updated_content | date: "%a, %d %b %Y" }} by {{ page.author }}*  
 *Formatting Updated {{ page.last_updated_format | date: "%a, %d %b %Y" }} by Joe Richardson*
@@ -48,7 +48,7 @@ The attractions of model engineering, locomotives and narrow-gauge in particular
 * [Chapter 18](#chapter-18): Test track and a simple driving trolley. Materials. Driving position and access to controls. Braking.
 * [Chapter 19](#chapter-19): Steaming the locomotive. A simple blower. Raising steam and driving. Safety aspects.
 * [Chapter 20](#chapter-20): Some useful tools and attachments from materials in the scrapbox.
-* [Chapter 21](#chapter-21): Conclusion and model engineers nostrums (? nostra)
+* [Conclusion][ModelEngineersNostrums]: Conclusion and model engineers nostrums (? nostra)
 
 ## Foreword
 ( This was written when the book was first published on 2 Floppy 
@@ -942,9 +942,9 @@ open ended, or socket spanners are used. Messrs Proop's ' Doofers ' come in
 useful at many stages. 
 
 Drill bitts have been purchased over the years to the stage where number sizes 
-are supported as are Imperial and letter sizes to about 1 / 2" diameter maximum. 
+are supported as are Imperial and letter sizes to about 1/2" diameter maximum. 
 Taps and dies have been purchased as the need has arisen and most sizes from 9 
-BA to 1 / 2" are held, together with the necessary stocks and tapholders. 
+BA to 1/2" are held, together with the necessary stocks and tapholders. 
 
 ### Tool Storage
 
@@ -968,7 +968,7 @@ vices.
 
 Within the workshop it seems that one can never have enough benches or worktops. 
 Just as it is sometimes said that ' work expands to fill time ', so things 
-multiply to fill workspace ! Nearly 2 / 3 rds of the perimeter of the workshop 
+multiply to fill workspace ! Nearly 2/3 rds of the perimeter of the workshop 
 is allocated to worktops or benches. Some discipline has to be maintained here, 
 one bench is the ' dirty bench ', one the ' clean bench ' and the other the 
 light, mobile bench. The first two speak for themselves, although there is a 
@@ -1017,7 +1017,7 @@ The King of the workshop in these scales is without doubt the Myford 7 series
 lathe. We graduated to this from a Unimat via a very ancient but extremely 
 trusty Zyto lathe, purchased second-hand which was used in building a series of 
 Stuart Turner stationary engines. The Myford is equipped with 3 and 4 jaw 
-chucks, faceplate, and a swiveling vertical table. Drill chucks to 1 / 2" and a 
+chucks, faceplate, and a swiveling vertical table. Drill chucks to 1/2" and a 
 home- built die holder for the tailstock complete the lathe equipment proper 
 although a number of accessories have been built including boring and knurling 
 tools, wobblers, height gauges and so on from descriptions in MODEL ENGINEER 
@@ -1141,7 +1141,7 @@ take many years to build and a lot of detail becomes buried as work proceeds. As
 an example, recently, due to some corrosion around the regulator gland it was 
 decided that the mild steel studs and nuts be replaced by new ones from 
 stainless steel. A few moments spent with the logbook confirmed that 5BA studs 
-and nuts had been used, and not 1 / 8 inch M.E. as they appeared on first 
+and nuts had been used, and not 1/8 inch M.E. as they appeared on first 
 inspection. So, as the result of a few jottings some years ago, as well as 
 valuable time being saved the likelihood of a damaged regulator body was 
 avoided. Other notes made include references to articles in MODEL ENGINEER and 
@@ -1510,7 +1510,7 @@ rebuild would include a split smokebox !
 As our working sketches develop we will be better placed to visualise the 
 finished part in model form. as our prototype is a narrow gauge locomotive if we 
 are working in 2 1/2" to the foot scale we are drawing components which are, 
-linearly speaking, approximately 1 / 6th full size. The finished model parts 
+linearly speaking, approximately 1/6th full size. The finished model parts 
 will be quite substantial and correspondingly weighty. It may well be that if we 
 are constructing a model of an unusual prototype, and one for which there are 
 few commercially available part, we may choose to fabricate components rather 
@@ -1660,7 +1660,7 @@ a great deal.
 
 Regarding thickness of frame material, whilst this may be accurately scaled from 
 the prototype it may prove advantagous to beef-up the frames somewhat. Those on 
-Pixie are from material which after surface grinding worked up to just over 5 / 
+Pixie are from material which after surface grinding worked up to just over 5/
 32 inch thick which is in line with Martin Evan's recommendations for 5 inch 
 gauge locomotives in his ' Manual of Model Steam Locomotive Construction' 
 
@@ -2530,8 +2530,8 @@ with the narrow gauge image !
 ### Pistons And Rods
 
 Pistons are turned from gunmetal, the piston blanks being mounted in the three 
-jaw, the holes for the rods drilled and tapped with a 1 / 4 in M.E Thread. The 
-thread was cut away using a 1 / 4 inch diameter D-bitt for half of the piston 
+jaw, the holes for the rods drilled and tapped with a 1/4" M.E Thread. The 
+thread was cut away using a 1/4" diameter D-bitt for half of the piston 
 thickness to allow the piston rod to be drawn into position by its thread in the 
 later operation of uniting the two parts. 
 
@@ -2830,7 +2830,7 @@ secured by the other fixing screw.
 
 As an aid to determining slide valve dimensions, valve setting and visualising 
 the events of the slide valve assembly the modeller may care to make a pair of 
-dummy slide valves. These can be simply prepared using 1 / 8 inch perspex sheet. 
+dummy slide valves. These can be simply prepared using 1/8" perspex sheet. 
 The exhaust cavity position can be scribed on the base and further piece of 
 perspex cemented vertically onto the ' valve '. The upright can be drilled for 
 the valve rod and the valve spindle installed in the usual fashion, using grub 
@@ -3088,7 +3088,7 @@ flanges to suit the location of the fixing studs in the cylinder block. The
 upper ends were then soldered into the wet header during the same heating as the 
 lubricator pipe. 
 
-Exhaust steam pipes were formed from 1 / 2 inch diameter copper pipe which had 
+Exhaust steam pipes were formed from 1/2" diameter copper pipe which had 
 to be annealed frequently in the course of producing the reverse bends between 
 the cylinder block and the connection for the blower ring. A jig was prepared 
 replicating the actual position of the holes in the cylinder casting for the 
@@ -3262,7 +3262,7 @@ On the matter of soldering one can do no better than to read ( and view in the
 series of more than 300 photographs ) the advice of Alec F. Farmer. Not the 
 least of the tips passed on in this treatise, 'Model Locomotive Boiler Making' 
 is the mixture that Alec uses when making up flux. He uses 2 heaped 
-TABLESPOONFULS of flux powder, a 1 / 4 TEASPOONFUL of household detergent and 
+TABLESPOONFULS of flux powder, a 1/4 TEASPOONFUL of household detergent and 
 mixes these to a creamy consistency with water. Using this mixture we are told 
 that the detergent breaks down the surface tension of the liquid, ensuring 
 penetration into the joint as well as degreasing the components being soldered, 
@@ -3277,7 +3277,7 @@ angle at the end. The solder will flow to the hottest parts of the joint and can
 be drawn along by judicious heating. Once a bright line of solder is apparent 
 along or around the joint the parts can be allowed to cool before immersion in 
 pickle. Final cleaning of soldered joints is best carried out using steel wool 
-or scouring powder, after 1 / 2 an hour or so in pickle. 
+or scouring powder, after 1/2 an hour or so in pickle. 
 
 Firebricks as a wall around the hearth which is banked up with crushed firebrick 
 maintain all available heat in the soldering process around the parts being 
@@ -4001,9 +4001,9 @@ rivetting plates.*
 
 The saddle tank dimensions having been established from the survey of the 
 prototype a start was made by constructing a card and plywood mock-up. Plywood 
-end panels, 3 / 8 inch thick, generated the curves of the platework which in 
+end panels, 3/8" thick, generated the curves of the platework which in 
 this mock-up was represented by thick cardboard. One of the plywood dummy ends 
-was later used as a template when cutting a piece of 3 / 8 inch mild steel plate 
+was later used as a template when cutting a piece of 3/8" mild steel plate 
 to be used as a flanging plate. Provision of the mock-up enabled an early trial 
 fit to be made to confirm that the finished tank constructed to the measurements 
 taken at site would seat properly on the components of the model erected so far.
@@ -4025,7 +4025,7 @@ which would have been the alternative. By making a few trial sections of flanges
 which included both convex and concave curves it was established that, with 
 care, 16 gauge mild steel could be flanged cold without loss of flatness of the 
 plane parts of the platework. This could be achieved provided that, whilst 
-flanging, the plate was sandwiched between the 3 / 8 inch template and a stiff 
+flanging, the plate was sandwiched between the 3/8" template and a stiff 
 piece of plate slightly smaller than the flat part of the template. As the 
 flanges were formed it became necessary to snip out excess material from the 
 flange at the convex corners in order to avoid cockling and to provide a smooth 
@@ -4228,7 +4228,7 @@ assembly sat flat and that the back and front were perpendicular to the base.
 Any slight twist in the formed plate was adjusted at this stage before the back 
 and front edges of each bunker was trimmed to the correct length. 
 
-The top edge of each bunker is trimmed by a beading. A length of 5 / 16 inch 
+The top edge of each bunker is trimmed by a beading. A length of 5/16" 
 diameter rod was milled filed to the correct 'D' section ( filing would have 
 sufficed ), bent to match the top edge of each bunker and then riveted into 
 position. The openings at the bottom of each bunker were chain drilled and sawn 
@@ -4534,7 +4534,7 @@ position, also the position of the notches on the sector plate can be marked in
 full forward and full reverse. 
 
 In the event of a need to modify valve arrangements it is a great help if a set 
-of perspex ' slide valves ' are produced. These can be simply made from 1 / 8" 
+of perspex ' slide valves ' are produced. These can be simply made from 1/8" 
 perspex sheet, joined by using plastic solvent. The exhaust recess can be 
 scribed and coloured-in using marking blue. The dummy valves can be threaded 
 onto the valve spindle and the events viewed as the locomotive is moved back and 
@@ -5040,7 +5040,733 @@ controls. Braking.*
 ![PixieAndDrivingTrolley]
 > Pixie with driving roof and back. The driving trolley footrest is stowed.
 
-80
+### Test Track
+
+As this was the first 5" gauge locomotive built by the author it became 
+necessary to build a test track. This would later be extended to provide a 
+running facility. Material costs were of course a major consideration and the 
+search began for scrap material which could be recycled ! The track would prove 
+expensive if an attempt were made to replicate narrow gauge practice, for 
+example using 4' 6" Sleepers of 9" x 4" section at 3' 0" centres as described on 
+the Ffestiniog Railway of yore. Some more simple trackage was envisaged, 
+probably having randomly spaced sleepers as are sometimes encountered. The 
+solution came in the form of discarded pallets which are fabricated from 
+anonymous timbers and occasionally hardwoods. A kind friend, who is keen on 
+woodworking, ripped down enough of the pallet staves to the appropriate section 
+which were cut to length prior to slotting. The 1" x 3/8" mild steel section 
+used for rails was purchased from a commercial supplier in 6' 0" lengths. Joints 
+at 6' centres have not proved to present a running problem provided that they 
+are properly aligned at the time of tightening the fishplate bolts. 
+
+The three pieces of equipment on the side of the workshop allocated to drilling 
+and milling operations provide a useful bed for supporting lengthy stock. The 
+drilling machine tables can be set level with that of the milling machine and 
+long stock thus supported at three points in its length. After being brought to 
+a nett 6' length, the rails were drilled for fishplate bolts in a jig set on the 
+table of the drilling machine. . The jig consisted of a pre-prepared fishplate 
+of 1" x 1/4" material fitted with a stop to accurately position the rail end, 
+holes were positioned to establish the location of a pilot hole drilled using a 
+centre bitt. Clearances were kept to a minimum for 2 B.A. bolts, this resulted 
+in a tight joint. With holes centrally positioned in the height of the rail the 
+heads of the bolts do not interfere with the wheel flanges in service. 
+
+Initially a few trial sleepers were slotted on the milling machine to establish 
+the correct depth of slot and to prove the rigidity of the simple sleepering 
+arrangement. Araldite was employed to bond the sleepers and rail and it was 
+found that sleepers spaced at a maximum of 8" centres provided a suitably 
+rigid assembly. Latterly the sleepers have been secured in place by self-tapping 
+screws from below a somwhat tedious job but aided by fences to position the 
+drill in the press central in the rail. the sleeers being positioned laterally 
+by eye.The remainder of the sleepers were slotted in a jig set up on a sawbench, 
+the cut being made with a wobble saw. This was to be a simple straight track and 
+eight 6' 0" lengths were fabricated and used in the early stages of testing. 
+Subsequently a curved section of track has been built using the same techniques 
+and has performed satisfactorily. For this the rail section was taken to a local 
+works and put through their rolls. When not in use the track is stored on top of 
+a cupboard in the utility room and causes no offence to the domestic authority . 
+The track described can be laid onto a flat path, or onto gravel along a level 
+patch or trench in the garden. Should the powers-that-be demand that the track 
+be removed and stored between uses this can be simply accomplished by means of 
+simple trestles, ladder type arrangements of 75 x 50mm timbers which form the 
+supports for the sleepers. In their turn, short lengths of fence post set into 
+the metal brackets supplied for fencing purposes can be cut and provided with 
+cross members to support the ladder frames. When the track and ladder frames are 
+stored, along the wall inside the garage, hung under the eaves of the garage or 
+in a convenient shed the posts can be removed and, provided the tops of the 
+sockets are set below ground level the grass can be mowed as if the railway line 
+never existed. Such an arrangement would surely satisfy the most demanding 
+indoor authority! 
+
+### A Simple Driving Trolley
+
+Most of us, with the exception of the ride-on 7 1/4" brigade, will at some 
+time have to build a driving truck. Clubmen have access to club vehicles, but 
+the lone model engineer with a few yards of track in the garden has to have a 
+vehicle from which to drive his pride and joy. Having completed Pixie and run it 
+on air on a short length of track a few times the writer looked around for 
+inspiration. Whilst it was intended that the chosen vehicle should convey the 
+spirit of narrow gauge working, what was needed was something simple and 
+relatively quick to build, ( this a major consideration in view of the length of 
+Pixies gestation period ). 
+
+The vehicle which became the final choice was found in one of two volumes of a 
+book on the bookshelf, the excellent history, ' The Festiniog Railway ' by J. I. 
+C. Boyd, published by The Oakwood Press. The open mineral wagon illustrated 
+therein would be straightforward to build, the wheelbase being such as to 
+permit, with a little licence, manufacture of a near scale vehicle which, whilst 
+not looking out of place behind Pixie, would offer a comfortable driving 
+position. 
+
+At the time of completing the locomotive, with driving in mind, a special 
+driving back and roof were built with openings to improve the view of the gauges 
+and allow access to the regulator and brake, Between steamings, when the loco is 
+on show these are replaced by nearer scale components. 
+
+### Driving Position And Access To Controls
+
+On commencing design of the truck, a mock-up was built in Dexion angle, this was 
+perched on wooden blocks representing the wheels. Set-up behind the locomotive 
+this proved the projected sitting position to be comfortable. It established 
+that the intended design would be stable axially, with drivers ' mass ' imposed 
+upon the driving seat positioned relative to the proposed wheel centres. 
+Transverse stability was also checked to avoid sideways rock on the proposed 
+track. The mock-up also avoided what would have been a major blunder, production 
+of a vehicle which, whilst looking right would, due to its height, have allowed 
+only limited access for driving and firing the little locomotive. A reduction in 
+the height of just the front of the wagon was found to be necessary to permit 
+good access to the firehole door. The space in front of the drivers seat 
+provides useful storage for spare coal, tools and so on. 
+
+### Construction Materials
+
+Construction, apart from the wheel blanks bought at Kennions, Hertford, now 
+defunct but who provided excellent service over the past 20 years, is from scrap 
+materials gleaned from rubbish skips. The main frame materials were part of a 
+discarded steel door form, the roller bearings came from worn-out washing 
+machines, courtesy of the service engineer. Whilst these bearings are not in 
+good enough condition for the high speed, arduous requirements of washing 
+machine at ' full chat ' they are quite satisfactory at the speeds encountered 
+in the model application. The footrest is from gas barrel. Plywood and framing 
+timber are from kitchen cabinets which were replaced and dismantled 20 years 
+ago! The timber is superb, clear pine, the likes of which one would be hard 
+pressed to find even in specialist timber yards today, let alone todays 
+ridiculously pricey Do-It-Yourself stores. A weather eye maintained on rubbish 
+skips about the town, such a source, particularly where shopfitters are working 
+is likely to yield just the stuff our hobby calls for ! Rexine and foam for the 
+luxurious upholstered seat are from a dearly departed lounge suite. 
+
+### Building The Truck
+
+The frames which are over-scale and extremely robust are constructed as are 
+frames for most locomotives. They are joined using mild steel angle and bolts, 
+great care being taken to maintain the whole assembly in truth. Slots were 
+provided in the frames for the substantial axle assemblies. This allows the 
+complete assembly of bearings, bearing housings and wheels, whilst bonded up 
+solid onto the axles, to be dropped out in the event of a need for maintenance 
+at a later date. In service the absence of any form of springing has been found 
+acceptable and the vehicle runs freely, reducing the work that the locomotive 
+has to do to a minimum. 
+
+The wheel blanks were turned on the mandrel previously used in producing the 
+locomotive wheels. Axles were turned between centres to ensure concentricity, a 
+separate bearing being set into the back of one of each pair of wheels to 
+overcome differential rates of rotation on tight curves. We are talking narrow 
+gauge here! A variety of bushes were needed to allow for the assortment of sizes 
+of available, ( inexpensive! ) bearings, four of which were built into simple, 
+turned housings bolted into the slots in the frames. Bonding fluid is used 
+throughout to secure axles, bushes and bearings. 
+
+The bodywork was mounted onto timber bearers bolted to the main frames, the 
+edges of the 5/16" plywood being built-up to the scale thickness of the 
+timbers of the prototype. The lines of individual planks were scribed into the 
+ply in accordance with the drawings thoughtfully included in the history book. 
+
+1 1/4" and 1/2" x 1/8" strapping was applied to the sides and one end. 
+Whilst these items are somewhat overscale, the extra thickness seems to add 
+character. For the same reason dummy coach-screw heads turned from 3/16" 
+square bar were Araldited to the strapping, square heads were chosen as looking 
+' more interesting ' than would the bolt heads of the original. A ' liberty ' 
+perhaps, but one of those little bits of licence that the near-scale modeller 
+can allow himself from time to time ! Rudimentary strapping is included at the 
+back end to convey the ' atmosphere ' of the hinged parts of original vehicle. 
+
+Painting was carried out using automotive paint in ozone friendly dispensers, 
+expensive in themselves but economic in view of the availability of appropriate 
+colours in the small quantities required. An added bonus obtained by using 
+spray-cans is the reduction in clean-up time after the painting operation. 
+
+Coupling to the locomotive is by rigid bar using the scale coupling block on the 
+loco and a fabricated coupler on the trolley. A heavy duty spring slipped over 
+the coupling bar prevents snatch due to take-up in the clearance holes in 
+couplings and coupling bar as the locomotive moves away, reduces rattle and acts 
+as a buffer when the amachine is brought to a halt. 
+
+### Braking
+
+Driving truck braking, should it prove necessary, will be achieved by disc 
+braking, not the complex automotive type of disc brake but a simple lever 
+operated vee-d block working upon a tapered disc or discs, clamped round and 
+pinned to the axles, between the frames. These discs can be retrofitted using 
+the technique employed in installing the axle pump onto Pixies front axle. 
+
+### The Finished Truck
+
+The finished result is quite pleasing in appearance, comfortable to ride and 
+economic to produce. Nett cost was in the region of about Fifteen Pounds thanks 
+to the recovered and re-cycled materials employed! The 18 hours of construction 
+time provided a pleasant change from the more exacting work of modelling the 
+locomotive. The next project is the construction of ride-in wagons for 
+passengers, these will be based upon other prototypes as illustrated in 'The 
+Festiniog Railway'. The search for materials has begun ! 
+
+### Handling Equipment
+
+Even a small, narrow gauge locomotive on 5 1/2" gauge track will prove to be 
+quite weighty. Pixie weighs some 120 lbs dry, that is with the boiler empty and 
+without coal in the bunkers. A model of this weight and proportions is literally 
+' quite a handful '. Thought has to be applied to handling the locomotive in the 
+workshop and at the track. For the workshop where routine servicing is carried 
+on, a hoist was built from standard box-section steel, the material came 
+from...yes, a skip! A local builders merchants was discarding racking and 
+enquiries of the manager brought forth permission to acquire the material. 
+Whilst this was a stroke of luck, similar section can often be found at the 
+local scrapyard or, as a last resort, at a steel stockists. The material has 
+good mechanical properties and can be simply sawn and bolted or welded. Where 
+bolting is employed care must be taken to sleeve bolts within the section using 
+fitted lengths of thickwall tube to ensure that they can be properly tightened 
+without the section becoming distorted. 
+
+The proportions of the hoist frame to the base were decided by the requirements 
+of stability, also the fact that the equipment was to be used on ground which 
+whilst paved was not level throughout. 
+
+The hoist for Pixie is of welded construction, gussets being placed to stiffen 
+the whole assembly, although with a good fillet of weld the whole frame works up 
+sufficiently rigidly to provide a safe lift. The lifting tackle is typical of 
+that available from the local automotive parts stockist being intended for 
+handling car parts, and is fitted with a positive ratchet control over the 
+lifting and the lowering actions. Heavy duty castors were bolted to the bottom 
+fork frame which is of such width that it can be rolled through a 2' 6" door 
+opening. Where castors are used it has to be remembered that with the wheels 
+swivelled towards each other, inwards, the true base width of the assembly can 
+be very much reduced. In the case of large wheels on a narrow base this may 
+reduce the actual base size to the point of instability 
+
+The hoist is used to transfer the loco from the bench to a trolley and vice 
+versa, the trolley is constructed from Dexion angle and has two wheels on an 
+axle placed centrally on the frame also a single fixed trailing wheel, actually 
+a bearing from some long departed piece of machinery. The assembly is similar to 
+that of the trolley used to move upright pianos. Pixie is immobilised upon the 
+length of track secured to this trolley by some removable chocks sitting on the 
+rails. The wheel configuration of the trolley provides absolute maneuverability 
+through doorways and up and down some portable ramps constructed from plywood 
+and the trolley can be turned in its own length. 
+
+### Spreader Bar
+
+As in full size practice the lifting connection between locomotive and hoist is 
+by spreader bar. This is fabricated from box section with lifting points welded 
+into position. These ensure that the locomotive is correctly balanced in the 
+course of a lift. Where more that one locomotive is to be handled using the same 
+equipment the lifting loop positions can be made adjustable as long as positive 
+location is provided against longitudinal movement. Only good quality slings are 
+used, these are made from climbing rope of guaranteed tensile strength, 
+purchased from the local yacht chandlers. In the short lengths required this 
+rope offers very good value. The knotted ends of the slings are prevented from 
+unraveling by a touch of the blowlamp, not sufficient to burn, but sufficient to 
+melt the rope and allow it to be rolled to a smooth finish. 
+
+### Testing The Equipment
+
+Although such equipment may be intended for the sole use of the owner, and 
+probably will only be used in the workshop and on private ground away from the 
+public, it is recommended that the equipment is tested. A test should be carried 
+out by a full lift, throughout the range of the gear, of twice the maximum 
+weight intended to be lifted in practice. Bags of cement or shingle provide 
+suitable loads of known weight for the test. The safe working load ( SWL ) thus 
+established should be indicated on the frame and the spreader bar. At no time 
+should anyone be allowed under a suspended load, except where some trestle or 
+benchwork is arranged in such a manner as to prevent the load from dropping in 
+the event of failure. It is unwise and dangerous to attempt to move such a frame 
+under load on bad or uneven ground. 
+
+[Back to Contents](#contents)
+## Chapter 19
+*Steaming the locomotive. Simple blowers. Raising steam and driving. Safety 
+aspects.*
+
+![SmokeboxFS]
+> Blast pipes on prototype 
+
+### Equipment For Firing The Loco
+
+A supply of soft water heads the list of needs, water from a rainwater butt, 
+filtered through an old stocking is ideal. Distilled water is also ideal for the 
+job, although a costly item. Whichever is used, have plenty of water available. 
+The plastic bottles that mineral water comes in are ideal storage containers / 
+dispensers. Coal of the type favoured by your local club will be the best bet. 
+It is not desirable to experiment at this stage ! A quantity of small paraffin 
+soaked sticks will be used to light-up, these are best kept in a plastic box of 
+the ice-cream container type ( LBSC favoured charcoal soaked in paraffin ). A 
+cheap cigarette lighter will save matches. Impatient types may wish to use a gas 
+torch although with care this may prove unnecessary. 
+
+For lubricating oil, light standard motor oil will suffice for oiling-round, a 
+good pump-type oil can will ease the application of the lubricant to the 
+motion, eccentrics and so on. 
+
+Shell 'Valvata' or similar, a sticky steam oil is required for lubrication. The 
+lubricator being filled 3/4 full prior to a run. 
+
+A pricker / rake and a firing shovel complete the inventory, except perhaps for 
+a pair of industrial gloves, the small wheels on valves can get quite warm after 
+a time in steam. My pricker is of bent wire pointed at the end and with a loop 
+handle, the rake similar but having a blade in place of the point. My firing 
+shovel is fashioned from a serving spoon, part of the ' family silver' , with 
+the end ground square and the sides turned up. It just enters the firehole door 
+and the handle is just long enough to stay cool. One day it will be treated to a 
+wooden handle ! 
+
+### Two Simple Blowers
+
+When it comes to steaming the loco almost as essential as the supply of coal and 
+water, is a blower. Having a small compressor in the workshop it seemed sense to 
+make up an air powered blower. The principal is described in LBSC's book on ' 
+Tich '. A small tube blows air up a larger diameter tube which fits into the 
+locomotive chimney causing the vacuum necessary to draw the fire. The outer tube 
+in the assembly devised for Pixie comprises a length of large diameter copper 
+water pipe and a parallel union. The union has a groove turned around the 
+periphery into which is fitted an ' O ' ring to ensure a push fit in the chimney 
+and importantly an airtight joint. The small angled tube, which is 
+silver-soldered into the main body about 1" above the level of the chimney 
+cap, is swaged to a point then drilled using a No 70 bitt. The supply end of the 
+small tube is fitted with a Schraeder valve, acquired from a local tyre fitting 
+shop ( collect a handful whilst you are there, they come in for lots of things 
+about the workshop ). The valve permits coupling to the inflator accessory of 
+the compressor. 
+
+In use the main tube is inserted into the chimney where it stands firmly fixed 
+by the friction provided by the ' O ' ring. The tyre inflator is attached to the 
+schraeder valve and the blower is ready for action. An advantage of the air 
+powered blower is that the draught obtained is infinitely variable according to 
+the amount of air allowed to flow through the inflator valve. In practice only a 
+very small blast is required. Too strong a blast makes a hole in the fire and 
+causes embers to clog the tubes. Once the correct draught has been established, 
+a small block of wood wired to the handle of the inflator helps maintain the 
+setting by limiting the trigger travel. 
+
+A novel blower for use whether or not a power source is available was 
+illustrated in MODEL ENGINEER Vol 156, No. 3778. 6-19 June 1986. The blower 
+built by Maurice Simmons was based upon a traditional bicycle lamp case. A disc 
+of metal replaced the glass and provided support for a low voltage motor and 
+three small diameter struts supporting a further plate which served as a bearing 
+for the impeller fan. In use, a tube mounted on a further plate below the fan, 
+fitted into the chimney of the locomotive. Mr Simmons replaced the battery in 
+the body of the lamp with a pack containing two re-chargeable batteries for 
+economy. Any model engineer worth his salt would be able to build a similar 
+device quickly and cheaply. 
+
+### Oiling Round And Filling Up
+
+Check that the mechanical lubricator is filled, work the manual wheel or lever a 
+few times to free the clack, go right round the locomotive with the oil can, 
+oiling bearings, rods, eccentrics and so on, plus fill all oil cups. 
+
+Check that the blowndown valve(s) are closed, then open the whistle valve or 
+some other vent to allow air to escape as the boiler is filled with water. Water 
+can be introduced either through the safety valve bush from an external supply, 
+a bottle or can, or from the tank using the hand pump. The latter method will be 
+quite a slow job although it will prove the efficiency of the pump, and the 
+tightness of the unions in the feedwater system. Filling through the safety 
+valve bush, or better still through a bush provided for the purpose on the steam 
+dome, can be speeded-up using a plastic bottle fitted with a small diameter 
+plastic tube, the plastic bottle being squeezed to introduce an element of force 
+feeding! For the more ' laid back ' a can of water set on top of the cab can be 
+used to feed water siphoned through a small bore tube. 
+
+The water level should be checked in the gauge glass. You are aiming for about 
+3/4 of a glass. It makes sense at this stage to open the water gauge drain 
+valve. As the drain tube is of small diameter the water rises slowly in the 
+glass despite the small quantity draining away. Once the correct level shows in 
+the glass the valve can be closed, the safety valve or the filler plug inserted, 
+and whatever is used as a vent, closed. The saddle tank can next be filled. With 
+both the boiler and the water tank filled, refill the water containers, this 
+will avoid a panic situation when the onboard water supply gets low after some 
+time in steam ! 
+
+### Lighting-Up
+
+Check that the regulator is closed and that the reversing lever is set in 
+mid-gear ! With sufficient of the paraffin soaked sticks in the firebox to cover 
+the grate area ' light the blue touch-paper ' With care, a breath of blower will 
+fan the sticks into flame. After a while, when they settle to a red glow, put in 
+a few shovel fulls of coal. Close the door and after a few minutes further 
+blowing when the whole fire will be glowing red, add more coal. Soon the air 
+blower can be removed and the locomotives own blower set to work. The pressure 
+gauge will start to register and continued firing will bring the pressure to 
+working level and the safety valves will start to lift. Watch the water level, 
+pumping by hand as required, not too much however. 
+
+### Getting Under Way
+
+Having built the fire to an all-over incandescence, and topped up with a layer 
+of fresh coal. it is time to start! With the reversing lever in full forward 
+gear and with cylinder drain valves open, open the regulator slightly whilst 
+easing the loco forward a few feet. Steam will drive out any water from the 
+cylinders as well as beginning to heat the pistons and cylinders. During this 
+process the locomotive will be blowing off and using steam so it is essential to 
+watch the gauge glass and pump up as necessary. 
+
+There may be a shower of water from the chimney at this stage as the condensate 
+is blown past the slide valve, this will soon cease however and the whole show 
+will settle down ! Close the the drain valves soon as the cylinders are clear 
+and steam alone is issuing from them. 
+
+The setting of the safety valves should be checked against the pressure gauge 
+which will have been calibrated against a full size gauge in the workshop. Have 
+the necessary tools to hand at firing-up time. In the case of there being two 
+valves fitted, they both should be set to blow at the same pressure. 
+
+Now is the time to set the reversing lever to full forward gear, open the 
+regulator gently, avoiding wheel slip, close the blower down and feel the 
+locomotive surge forward, as surely it will. 
+
+Once under way adjust the gear back a notch or so, and enjoy! 
+
+### Driving
+
+As the beginner soon finds out, firing and driving a locomotive, albeit a model 
+locomotive does not come easy. One has to learn how to best use the controls to 
+maintain a head of steam, and more importantly what to do if the pressure falls 
+off. It is exciting, and even though the first few firings may prove 
+disappointing as far as performance is concerned a lot will be learned and a 
+great sympathy develops for the engine men of the steam era who drove through 
+whatever weather and conditions prevailed, rain, snow, ice and sometimes even, 
+flood. These men ( heros ) took great pride in their work and in their time 
+keeping. 
+
+Spare a thought for the engine men of the Ffestiniog Railway of 1876. The Railway 
+Regulations of the day set out a series of fines which were to be levied on 
+unfortunate workers as follows:- 
+
+> Engine driver for having used greater quantity of Coal or Oil than the fixed 
+> lb. per mile Coal 2s 6d. Oil 1s 0d. 
+> 
+> Fireman ditto. Coal 6d. Oil 3d. 
+> 
+> If reported to have used more than the stipulated quantity, more than three 
+> times in six months is liable to dismissal. 
+> 
+> THESE RULES to be strictly enforced: none but the most tangible excuse will be 
+> accepted in favor of not imposing the fine 
+
+We shall have to watch our fuel consumption! 
+
+Whilst driving there a lot of things to be remembered :- 
+
+* Two of the driver / fireman's actions result in loss of boiler pressure, those 
+of adding coal to the fire, and adding water to the boiler. These actions should 
+be carried out when the safety valves are blowing.
+
+* Always shut the blower down after opening the regulator. In motion the exhaust 
+is sufficiently strong to draw the fire. Open the blower valve before closing 
+the regulator in order to maintain the draught. 
+
+* Adjust the by-pass valve to maintain the water level in the gauge glass, 
+remember that the axle driven pump works flat-out all the time, and with both 
+pumps working one can soon be in for a shower! 
+
+* Fire little and often to maintain an incandescent fire whilst avoiding a drop 
+in steam pressure. 
+
+* A few droplets of oil around the chimney top are a good sign that oil is 
+getting through the system. 
+
+* Make sure to add coal to the front of the fire, use a pricker if necessary to 
+distribute the coal and avoid a choked grate. 
+
+* On an ' out and back track ' add coal when the locomotive is stationary and 
+when the safety valves blow, it's too late when the fire blackens. 
+
+* A layer of coal on an incandescent fire will light and burn, on a black or 
+holey fire it will not. 
+
+* It is not necessary to keep the fire up to the level of the firehole door, 
+this is wasteful and leads to a choked fire. 
+
+* If the fire does die down, avoid pumping cold water into the boiler, using the 
+blower in short bursts or making the loco work harder, by putting the reversing 
+lever into full forward gear, until the fire comes back. 
+
+* In the event that the pressure continues to fall off it will be necessary to 
+open the blower to increase the draught and draw the fire, this is also 
+necessary at the stops and at the end of an out and back track. In the latter 
+circumstances it is all too easy to forget to close the blower valve so be alert 
+and avoid a holey fire! 
+
+* Notching-up, shortening the cut-off by moving the reversing lever nearer to 
+mid-gear, saves steam and thus coal and water. 
+
+* If on any of the first few runs things appear to be ' getting ' out of hand, do 
+not hesitate to pull the pins and drop the fire. Better safe than sorry is a 
+good motto where the pressures encountered with model locomotives are concerned. 
+
+### Shutting Down
+
+The sequence of shutting down after steaming is equally important as that of 
+firing up the loco. The fire should be allowed to burn right down as far as 
+possible whilst retaining sufficient pressure to permit a blowing down. The 
+blowdown valve(s) should be fully opened to permit the sediment that collects 
+about the foundation ring to be ejected. 
+
+The firegrate and ashpan can be dropped, and the firebox brushed out. With the 
+smokebox door open and the ash cleared, a blowthrough with compressed air will 
+clear away any debris from the tubes. Later tube brushes will finish of the 
+task. 
+
+All valves should be left open and the warmth of the boiler will dry all out. It 
+is best to leave the valves open whilst the locomotive is in store, particularly 
+the regulator. Martin Evans, in ' Rob Roy, Building a Caledonian 0 - 6 - 0 Tank 
+locomotive ' Argus Books Limited., passes on the helpful tip that ' should a 
+regulator or blower valves stick in storage, rather than attempt to force them 
+open, it is better to raise steam when they will almost certainly free 
+themselves with very little persuasion ' 
+
+At this stage the engine drivers friend, the oily rag passed over the paint work 
+will promote that silky, satiny finish so beloved of the railway enthusiast. WD 
+40 or similar lubricant in suspension will protect the working parts and can be 
+cleaned off using a rag dipped in methylated spirit prior to the next run. 
+
+This is a good time to check the locomotive over, tightening any loosened 
+fastenings, replacing lost pins, caps or corks and generally putting things in 
+order so that the next steam-up can be started without hold-ups. 
+
+[Back to Contents](#contents)
+## Chapter 20
+
+Some Useful Tools And Equipment From Scrap
+
+These are illustrated elsewhere on my site. To view click 
+[here][workshoptoolsetc] 
+
+Although excellent models can be produced with the bare minimum of equipment 
+there are certain tools and attachments that can be readily fabricated from 
+scrap. The following have proved useful in general model engineering work in 
+fact, without them some parts would have been difficult to produce. The 
+attachments for the Myford noted here can be made from offcuts, or at least from 
+relatively cheap materials found in the odds-and-ends bin at the material 
+suppliers. Whilst the time expended in making them has to be set aside from 
+model making the results will prove useful in constructing the present and many 
+future models. 
+
+### Rear Tool Holder
+
+The most useful attachment made to date is the rear toolpost used for 
+parting-off. This was machined from two blocks of mild steel, fixed together 
+using socket-head screws. This assembly was then drilled and bored for a 
+clamping bolt passed from the top through into a length of tee nut which fits 
+into any of the slots in the topslide. The clamping bolt is fitted with a lever 
+terminating in a ball handle. The parting tool holder is located, upside down of 
+course, within the toolpost using two further socket head screws. Use of the 
+rear tool post removes the possibility of dig-ins and jamming. This attachment 
+has transformed parting-off from a chore to a pleasure, and all for minimal 
+cost. Used on the front of the top slide it can be used for holding the more 
+substantial boring tools although due to the constant need for a parting-off 
+tool in practice, a further similar tool holder has been produced for this 
+purpose. 
+
+### Fly Cutting Attachments
+
+A very simple device for use in fly cutting can be made from a length of bar 
+drilled to accept cutters, secured by grub screws. This can be set in the 
+four-jaw chuck and adjusted as necessary by moving the bar within the jaws. 
+Material to be machined is clamped on the saddle or mounted on the vertical 
+slide. For the milling machine a tool holder has been fabricated from a billet 
+of steel obtained from the local scrap yard. This is turned to register with the 
+backplate on the quill of the milling machine and is secured by Allen cap head 
+screws in counterbored holes. The cutters, from silver steel rod, are adjusted 
+and secured by grubscrews. In service, in the light milling machine, the mass of 
+the block provides a ' flywheel ' effect and also reduces vibration when 
+intermittent cuts are made. 
+
+### A Boring Tool Holder And Arbour
+
+Boring small and deep holes can be carried out using a simple attachment based 
+upon a design illustrated in MODEL ENGINEER. The body of the attachment is a 
+block of mild steel, cleaned up all round and trued on top and bottom faces by 
+turning in the four jaw chuck. The block is drilled and reamed to match the tool 
+clamp stud on the topslide of the lathe. This completed the block is secured on 
+the topslide in place of the tool clamp assembly ready for drilling and boring 
+for a silver steel bar of 1/2" diameter which forms the tool holder. The 
+hole for the tool arbour is drilled and reamed from the headstock drill chuck, 
+feed being achieved by advancing the saddle. If required, the tailstock can be 
+brought up to the back of the block to provide additional support during these 
+operations. With the hole completed the block is drilled and tapped for two 
+socket headed screws then slotted to form a clamp which secures the tool arbour 
+in service. The arbour is turned down and threaded with a fine thread to accept 
+the coned cap. The cap is cross drilled for the tool, coned, then tapped to suit 
+the thread on the bar, it is provided with a knurled grip for first adjustment 
+and two flats which permit the use of spanners in tightening the the thread to 
+grip the tool. A small slug of phosphor bronze acts as a bearing between the 
+thread end and the tool. Suitable cutters may be ground from circular tool steel 
+(a broken centre bitt will suffice ). 
+
+In use, with block set up on the topslide clamp stud and the arbour gripped in 
+the block, the toolsteel is set into the coned head and a spanner used to 
+tighten the grip. With the clamp eased, the arbour can then be rotated to bring 
+the cutting tool to true centre height. The clamping screws are then tightened. 
+The bar can now lined up in the hole to be bored and the lathe clamping stud 
+tightened. Depth of cut within the bore is adjusted by the cross slide feed 
+screw. 
+
+### Clamping Bolts
+
+Several clamping bolts have been made up. These are from silver steel and match 
+the threads in the Myford tee-slot nuts and also the closer disk for the 
+crosslide anchor plate. Apart from normal duty retaining the various tool 
+holders and the Verdict gauge stand, they can be used, in conjunction with 
+suitable drilled and slotted plates to secure work in course of milling, 
+fly-cutting and so on. 
+
+### A Simple Dividing Attachment
+
+A lathe attachment which is very simple to construct is a dividing attachment to 
+engage in the bull ring. This is in constant use, in preparation of bolts, nuts, 
+in setting out holes on cylinder covers and operations such as filing carried 
+out in the lathe. The attachment comprises a plate bracket which, attached to 
+the headstock casing using a bolt through the existing hole, supports a 
+spring-loaded plunger engaging in the bullwheel of the backgear assembly. Using 
+the attachment the headstock spindle can be locked in any one of 60 positions 
+and of course multiples of those positions, providing divisions of 60, 30, 20, 
+15, 10, 6, 4, 3, and 2. 
+
+A simple modification, cutting the detent tongue to match the profile of the 
+bull ring teeth increases the divisions that can be achieved. In this role the 
+detent tongue is rotated through 90 degrees to pick up a further 60 positions. 
+
+### Gauge Blocks
+
+Over the years, whenever offcuts of steel have come to hand, these have been 
+checked out for size, marked accordingly and set aside for use as gauge pieces. 
+One straightforward use for such pieces is in setting the saddle from a saddle 
+stop. 
+
+### Saddle Stop
+
+This comprises a length of 1/4" diameter bar sliding within two lugs. The 
+lugs are secured to a backplate attached to the headstock of the lathe, using 
+bolts into the tapped holes provided for gearbox fixing. Length of travel is 
+limited using a bolt through a small collar sliding within the lugs. In use the 
+tool is run to its intended eventual position relative to the headstock, a 
+shoulder or thread end. the rod is brought up to contact the edge of the lathe 
+carriage, the collar is slid to contact the rearmost lug, that furthest from the 
+tailstock end, and locked into position. The projecting rod thus governs the 
+travel of the saddle. To set a specific length of cut the cutting edge of the 
+tool is brought to the end of the workpiece, one of the gauge pieces, or a drill 
+shank matching the required length of cut is placed between the stop and the 
+saddle and the bush secured against the backstop. Turning can then commence 
+confident in the knowledge that the saddle stop will determine the correct 
+length of cut. If auto feed is engaged the leadscrew nut should be disengaged a 
+short distance from the stop and the cut completed manually. The little gadget 
+is invaluable when turning to a shoulder and where putting a set length of 
+thread onto a rod held in the chuck. 
+
+### A Four-Way Toolpost
+
+A four-way toolpost was constructed completely from scrap. A piece of round mild 
+steel was turned to replicate the Myford closer disk for the topslide anchor 
+plate and provide the fixing to the lathe carriage. Three blanks of mild steel 
+were cut to size and squared-up in the four jaw chuck to form the main body of 
+the attachment. The height of the lower block of the three is sized, relative to 
+the centre height of the lathe, to permit either square shank tools or tools set 
+in the Myford tool boat to be used. The three pieces of the body were welded 
+together ( socket headed cap screws could have been used ) and the whole 
+assembly cleaned-up. The upper plate was drilled and tapped for the tool 
+retaining bolts. The Myford closer disk and the circular base of the toolpost 
+were joined using 1/4" B.S.F. Cap screws and the central hole tapped for 
+the clamping bolt. The clamping bolt is a length of 3/8" silver steel 
+threaded each end with a B.S.F thread, the bottom engaging in the base plate, 
+the top terminating in a a length of 1 1/4" diameter mild steel into which 
+the spindle for the ball handle is inserted. A simple detent comprising an 
+externally threaded bush with a plunger actuated by a spring was fabricated, 
+again from offcuts of mild steel rod ready for insertion into a 1/4" 
+reamed hole in the body. With the body, the base and the clamping screw 
+completed the blind holes in the base were drilled by spotting through the 1/4" 
+hole in the body with the toolholder locked in the four required positions. 
+The body was then removed from the base and the spotted holes were completed in 
+the pillar drill with the stop set to avoid breaking-through the plate. 
+
+### A Knurling Tool
+
+A knurling tool was fabricated to details published in Ian Bradleys book 'The 
+amateurs workshop'. This is a tool described as a straddle turning tool, 
+comprising a body supporting a yoke retaining two arms, each fitted with a 
+commercially obtainable knurling wheel. The advantage of straddle knurling is 
+that, provided the wheels are adjusted to be diametrically opposite each other 
+when forming the knurl, the forces are contained within the tool and not 
+transmitted to the headstock bearings. 
+
+### A Tapping Guide
+
+There are a large number of tapped holes in the parts of the average locomotive, 
+many of which are of the smaller sizes, 7 BA, 8 BA and beyond. To ensure the 
+accuracy of the threads and avoid tap breakage, time spent in making a small 
+tapping tool will be amply rewarded. Any flat piece of plate can be used for the 
+baseplate, careful filing will provide the necessary accuracy. The head can be 
+arranged to slide on pillar, a stock length of silver steel of about 1" 
+diameter, secured into the base with retaining fluid. The head, a block of mild 
+steel has two holes which have been drilled and bored in the same set-up on the 
+lathe cross slide. One hole is a nice slide fit on the pillar, a slot enables 
+this to be locked into position by two cap screws. A length of 1/2" 
+diameter bar is set into the other hole, one end prepared to accept whatever 
+chuck is available, the other a knurled head. In service it is helpful if the 
+head is cross-drilled for a tommy-bar. It is advisable that if a thread is used 
+for mounting the chuck it is screwcut on the lathe to ensure concentricity. 
+
+### A Universal Chuck Mount
+
+A chuck mount is a useful attachment which permits work to be set up away from 
+the lathe. Some second operations can also be carried out on, for example, the 
+milling or drilling machine. Either the four jaw, or the three jaw chuck can be 
+accomodated and mounted on ancilliary equipment such as the vertical table or a 
+rotary table. The basis of the attachment is a standard accessory, a Number 2 
+Morse taper spindle. this is mounted in the three jaw and the tapered spindle 
+parted off just behind the register. for the chuck. The back of this piece 
+should be lightly relieved to ensure that it beds down fully on the baseplate at 
+the time of assembly. These operations are easy as the material used is 
+extremely free cutting. ( The tapered spindle can be set aside and used for 
+another purpose such as a screw support for use when working on slender discs in 
+either type of chuck ). The threaded portion is then drilled and tapped for two 
+1/4" cap screws which will be used to secure it to a base plate. 
+
+The base plate can be from any piece of plate of reasonable thickness. Ideally 
+it should be of sufficient size to permit of picking up the tee slots in the 
+equipment to which it will be attached, yet small enough to be used on the 
+available surface plate whilst leaving room for the base of a height gauge to be 
+moved about whilst marking out. The plate should be squared-up and turned, or 
+fly cut, to uniform thickness throughout before drilling for the tee bolts and 
+the two cap screws for fixing the nose piece. The holes for the cap screws 
+should be counterbored and the attachment can then be assembled. 
+
+Whilst lathe chucks can be mounted on the finished attachment for a variety of 
+operations, heavy milling cuts should be avoided as they could loosen the chuck 
+on the mounting with dire results! It is also essential to remember when using 
+the mount to cut in such a direction that the tool attempts to ' climb ' 
+
+### A Simple 'Wobbler'
+
+This device is based upon an article in MODEL ENGINEER Vol 159, No 3811 October 
+1987 by Mr Cruikshank. The wobbler comprises a length of 2mm diameter rod with 
+pointed ends, floating in a rubber bearing (cut from a car tyre tread), 
+projecting through a 1/8" hole at centre height within a short length of 
+mild steel bar. Any small eccentricity at the pointed end in contact with the 
+part to be set is reflected by a greater movement at the free end. The ratio of 
+the lengths of the two arms of the rod about the bush determine the amount of 
+movement of the indicator end and a ratio of 6:1 seems to be about right for 
+most purposes. In use the pointed end of the rod is located into a centre pop 
+mark on the piece to be set and the chuck jaws are adjusted until the movement 
+of the free end is minimised. When this stage is reached the piece is properly 
+centred. 
 
 To return to main page [click here][Home].
 

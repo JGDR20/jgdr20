@@ -1,5 +1,19 @@
 <!-- Models -->
 [Models]: models
+[Vespa]: /jgdr20/assets/jmm/vespa.jpg
+[VespaArticle]: /jgdr20/assets/jmm/vespart.jpg
+[Sailing2]: /jgdr20/assets/jmm/sailing2.jpg
+[CrewDownstream]: /jgdr20/assets/jmm/crewdownstream.jpg
+[CrewDownstream2]: /jgdr20/assets/jmm/aaboatsgonemissing.jpg
+[ManOverboard]: /jgdr20/assets/jmm/aaamanoverboard.jpg
+[StayInTheShallowEnd]: /jgdr20/assets/jmm/stayintheshallowend.jpg
+[BoysLaunch]: /jgdr20/assets/jmm/aaaaboyslaunch.jpg
+[ClydePufferKit]: /jgdr20/assets/jmm/puffer2a.jpg
+[Laser]: /jgdr20/assets/jmm/aaaaam%20mylaser.jpg
+[Stuart1]: /jgdr20/assets/jmm/stuart1.jpg
+[Stuart2]: /jgdr20/assets/jmm/stuart2.jpg
+[Stuart3]: /jgdr20/assets/jmm/stuart3.jpg
+
 <!-- Engines -->
 <!-- Allchin -->
 [BuildAllchin]: buildallchin
@@ -73,6 +87,7 @@
 [Gland]: /jgdr20/assets/jmm/gland.jpg
 [MarineBearings]: /jgdr20/assets/jmm/marinebearingsjpg.jpg
 [SmokeboxDoor]: /jgdr20/assets/jmm/smokeboxdoorpixie.jpg
+[SmokeboxFS]: /jgdr20/assets/jmm/smokebox%20fs.jpg
 
 <!-- Tich -->
 [TichsPedigree]: tichspedigree
@@ -136,7 +151,6 @@
 [PushPostStart]: /jgdr20/assets/jmm/pushpoststart.jpg
 [TestPieces]: /jgdr20/assets/jmm/testpieces.jpg
 [Bridge]: /jgdr20/assets/jmm/bridge.jpg
-[StayInTheShallowEnd]: /jgdr20/assets/jmm/stayintheshallowend.jpg
 [BulwarksForFinishing]: /jgdr20/assets/jmm/bulwarksforfinishing.jpg
 [Funnels]: /jgdr20/assets/jmm/funnels.jpg
 [FreeingPortsPortholesAndBalwarkStays]: /jgdr20/assets/jmm/freeingportsportholesandbulwarkstays.jpg
@@ -150,7 +164,6 @@
 [SternDeck]: /jgdr20/assets/jmm/sterndeck.jpg
 [Crane2]: /jgdr20/assets/jmm/crane2.jpg
 [Crane3]: /jgdr20/assets/jmm/crane3.jpg
-[Sailing2]: /jgdr20/assets/jmm/sailing2.jpg
 [EngineRoom]: /jgdr20/assets/jmm/engineroom.jpg
 [SternWorks2]: /jgdr20/assets/jmm/sternworks2.jpg
 [FullFrontal]: /jgdr20/assets/jmm/fullfrontal.jpg
