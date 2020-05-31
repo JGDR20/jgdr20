@@ -20,10 +20,10 @@ group :jekyll_plugins do
   gem "jekyll-paginate", "~> 1.1.0"
 end
 
-# S3 gems
-group :s3_plugins do
-  gem "s3_website"
-end
+## S3 gems
+#group :s3_plugins do
+#  gem "s3_website"
+#end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
