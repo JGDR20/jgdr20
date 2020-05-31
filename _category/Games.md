@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Games
-permalink: /category/games/
+permalink: /category/games/index.html
 category: Games
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Wildemount
-permalink: /category/wildemount/
+permalink: /category/wildemount/index.html
 category: Wildemount
 ---

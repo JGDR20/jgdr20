@@ -43,7 +43,7 @@ header_pages:
   - index.md
   - Resume.md
   - jmm.md
-  - /blog/blog.md
+  - /blog
   - ToDo.md
 
 # Collections
@@ -54,7 +54,7 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "/category"
       type: category
     values:
       layout: "category"
