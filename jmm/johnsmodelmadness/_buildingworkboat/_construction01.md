@@ -8,7 +8,7 @@
 				<p>Simple keel, bulwark and chine formers have been laminated from ply and timber and set-up using suitably sized spacers to provide the hull form.</p>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/earlysetup.jpg">
+				<img src="/assets/jmm/earlysetup.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -23,7 +23,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/giftwrappedfortest3.jpg">
+				<img src="/assets/jmm/giftwrappedfortest3.jpg">
 			</td>
 			<td>
 				<p>' Gift wrapped ' for the first flotaion test. The polythene sheet replicates the hull sheathing !</p>
@@ -39,7 +39,7 @@
 				<p>To establish this the hull was ' Gift-wrapped ' in stout plastic sheeting and given a ' Bath test ', weights being added to simulate that of the superstructure, motors etc.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/bathtest.jpg">
+				<img src="/assets/jmm/bathtest.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -54,7 +54,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/sternsheeting5.jpg">
+				<img src="/assets/jmm/sternsheeting5.jpg">
 			</td>
 			<td>
 				<p>Whilst 4mm ply was used for the under-stern sheeting which is to support rudder posts and propeller shafts 1.5mm ply proved sufficiently rigid for the hull in general when supported at the bulwark and chine profiles, even where there is a lack of curvature to stiffen it.</p>
@@ -70,7 +70,7 @@
 				<p>Not a lot to be said about the hull side sheeting, although, it has to be said that the process was started, <strong>not</strong> at the stern <strong>but</strong> about 60mm for’ard of the curved stern-quarter formers.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/undersideofhullsheeted.jpg">
+				<img src="/assets/jmm/undersideofhullsheeted.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -86,7 +86,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/aftportquarter.jpg">
+				<img src="/assets/jmm/aftportquarter.jpg">
 			</td>
 			<td>
 				<p>It is not a good plan to attempt to lay on curved sheeting starting at the tangent point...better to first lay some flat sheeting then pull the ply around the curve pinning or clamping as one goes. This ensures a smooth transition from flat to radiussed form. The sheeting should continue on past the curve for the same reason.</p>
@@ -103,7 +103,7 @@
 				<p>The bow and stern bulwarks on most boats of this type have pronounced tumblehome at bow and stern. The means of supporting these items on "Freelance'', as the boat is to be named, is illustrated in the sketch herewith. Of course the joint will be planed later to provide a seating for fender strips.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/fairing.jpg">
+				<img src="/assets/jmm/fairing.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -113,7 +113,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/nozzlesbeforecleanup.jpg">
+				<img src="/assets/jmm/nozzlesbeforecleanup.jpg">
 			</td>
 			<td>
 				<p>At this stage it was time for some small engineering works. The rudders and nozzles on my Rhine ' Pusher ' give excellent steering control and considering that the materials came from the scrapbox, cost little besides my time ( At my age, unfortunately a diminishing asset ! )</p>
@@ -129,7 +129,7 @@
 				<p>The propeller shafts, universals and propellers are commercial products purchased from my local friendly model shop ' Wycombe Models '. The temporary fixing is unorthodox; hose clips secure the tubes to posts which run each side of the eventual battery position. These allow for easy adjustment until all is lined up correctly and permanent fixing blocks installed when a dose of Cyano will ensure that nothing moves ( ever again ! )</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/workboat1.jpg">
+				<img src="/assets/jmm/workboat1.jpg">
 			</td>
 		</tr>
 	</table>

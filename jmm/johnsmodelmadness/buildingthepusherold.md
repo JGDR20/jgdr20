@@ -25,7 +25,7 @@ Last year thoughts returned to building the ' Egrete ', a Rhine pusher which I b
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/cover%20pic.jpg">
+				<img src="/assets/jmm/cover%20pic.jpg">
 			</td>
 			<td class="col2">
 				<p>The illustration caught my eye, and my imagination. In need of a change from model engineering projects I decided to build the model ' Egrete ' but in a more permanent material than Plasticard.</p>
@@ -41,7 +41,7 @@ and queried with him his thoughts on constructing the model in wood and ply, he 
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/egrete1.jpg">
+				<img src="/assets/jmm/egrete1.jpg">
 			</td>
 			<td class="col2">
 				<p>So here is the result constructed in wood and ply, happily after all the time employed, a successful result too !</p>
@@ -69,7 +69,7 @@ And having purchased a mint set of drawings, battle commenced.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/fairedoff.jpg">
+				<img src="/assets/jmm/fairedoff.jpg">
 			</td>
 			<td class="col2">
 				<p>The sections on the drawing were developed with the vertical members of the frames extended to a common level to allow inverted construction of the hull.</p>
@@ -92,7 +92,7 @@ The hull is of rectangular section throughout with only a small amount of strake
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/motorbases.jpg">
+				<img src="/assets/jmm/motorbases.jpg">
 			</td>
 			<td class="col2">
 				<p>As soon as frames and strakes were completed hardwood blocks were installed as the bases for the motor mounts, also ply gussets in the sloping section where the propeller shafts were to pass through the hull.</p>
@@ -116,7 +116,7 @@ and with the hull in the position best suited to the work.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/motorsandsterntubes.jpg">
+				<img src="/assets/jmm/motorsandsterntubes.jpg">
 			</td>
 			<td class="col2">
 				<p>Vertical alignment of the motors and shafts was simple as it was possible to sight the alignment through the unsheeted sides of the hull.</p>
@@ -141,7 +141,7 @@ Painting included shellac sealer, primer, undercoat and two coats of Dulux!
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/bridgedeckraised.jpg">
+				<img src="/assets/jmm/bridgedeckraised.jpg">
 			</td>
 			<td class="col2">
 				<p>The bridge deck, on ' Scissor ' supports to allow it to be lowered to pass beneath bridge arches, is an important feature of the craft and the complicated form calls for a lot of fretwork to achieve the many openings and complicated form.</p>
@@ -167,7 +167,7 @@ has proved to be a wise step in view of the water that washes up the square bows
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/upperdeck.jpg">
+				<img src="/assets/jmm/upperdeck.jpg">
 			</td>
 			<td class="col2">
 				<p>Stacks are from ply. The companionway which accommodates the rise and fall of the bridge deck from brass strip and rod, and the railings from brass rod too.</p>
@@ -184,7 +184,7 @@ The styrene sheet used for the dory was recovered from the bottom of an ice crea
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/nozzlesbeforecleanup.jpg">
+				<img src="/assets/jmm/nozzlesbeforecleanup.jpg">
 				<blockquote>Editor's Note: This image is from <a href="buildingworkboat">Free Lancer 1</a></blockquote>
 			</td>
 			<td class="col2">
@@ -201,7 +201,7 @@ The shafts of the anchors are within tubes supported from the hull by bolted bra
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/anchors.jpg">
+				<img src="/assets/jmm/anchors.jpg">
 			</td>
 			<td class="col2">
 				<p>The anchors are again soldered from tube and plate. In practice they are extremely important as they are used to anchor the vessel against the effort applied by the winches in the winch house at the bow.</p>
@@ -218,7 +218,7 @@ The pusher was completed by the addition of restraints for the 6V 12Ah battery, 
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/carrielrlauncher.jpg">
+				<img src="/assets/jmm/carrielrlauncher.jpg">
 			</td>
 			<td class="col2">
 				<p>Here is a carrier/launcher which is built of copper pipe, plumbing fittings and scrap ply.</p>
@@ -234,7 +234,7 @@ On the water the model is great to operate; steering is precise and immediate, t
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/onthewater.jpg">
+				<img src="/assets/jmm/onthewater.jpg">
 			</td>
 			<td class="col2">
 				<p>Two of my models on the local water.</p>

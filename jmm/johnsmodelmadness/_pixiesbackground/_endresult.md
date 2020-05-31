@@ -10,7 +10,7 @@ Memories of the building process which involved a whole new learning process for
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/pixie2.jpg">
+				<img src="/assets/jmm/pixie2.jpg">
 			</td>
 			<td class="col2">
 				<p>Pixie completed, gleaming in a generic paint job. It has been steamed and then cleaned-up. Here the loco has the ' Show ' cab installed. The alternative is a ' Driving ' cab which has openings for access when firing and to enable a view of the gauges.</p>

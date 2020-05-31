@@ -6,7 +6,7 @@ A first reading of the book and some hours spent with the drawings set the scene
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/tichssmokebox.jpg">
+				<img src="/assets/jmm/tichssmokebox.jpg">
 			</td>
 			<td class="col2">
 				<p>I guess that after the frames the first components that many builders construct is the saddle, then probably the smokebox and chimney, here is my first effort at locomotive construction.</p>
@@ -17,12 +17,12 @@ A first reading of the book and some hours spent with the drawings set the scene
 				<p>Installing the axle driven pump was a fiddly job, as was much of the installation work, not rocket science however !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/dscf0030.jpg">
+				<img src="/assets/jmm/dscf0030.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/dscf0035.jpg">
+				<img src="/assets/jmm/dscf0035.jpg">
 			</td>
 			<td>
 				<p>The pump installed, it is great to make one's first sprung buffers, whatever the scale! Quite a lot of work in each though.</p>
@@ -33,12 +33,12 @@ A first reading of the book and some hours spent with the drawings set the scene
 				<p>Space is at a premium below footplate level; here is the brake yoke and the connections to the individual brakes.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/dscf0033.jpg">
+				<img src="/assets/jmm/dscf0033.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/tichsfootplate.jpg">
+				<img src="/assets/jmm/tichsfootplate.jpg">
 			</td>
 			<td>
 				<p>Tich's fooplate, excuse the ash, you see it with the rear plate which has to be removed for firing. The stokehole door is extremely small in this scale however a ' reformed ' spoon works fine.</p>

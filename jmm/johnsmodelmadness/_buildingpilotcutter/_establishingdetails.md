@@ -9,7 +9,7 @@ also what I have deciphered from the various lines drawings, the model should co
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/pilotlines1.jpg">
+				<img src="/assets/jmm/pilotlines1.jpg">
 			</td>
 			<td class="col2">
 				<p>A rough drawing of the lines of a typical boat were set out on detail paper.</p>
@@ -30,7 +30,7 @@ also what I have deciphered from the various lines drawings, the model should co
 				check of the profile at the chosen station points.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilottemplates.jpg">
+				<img src="/assets/jmm/pilottemplates.jpg">
 			</td>
 		</tr>
 	</table>

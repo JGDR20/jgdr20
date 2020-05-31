@@ -11,7 +11,7 @@ The mast has taken shape, it sits on a wooden post and can be removed and replac
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/mast6a.jpg">
+				<img src="/assets/jmm/mast6a.jpg">
 			</td>
 			<td class="col2">
 				<p>The mast, the lamps have yet to have the glasses painted on.</p>
@@ -33,7 +33,7 @@ November 16th ( 260 Construction hours to date ) and still adding detail.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/fleetdeck.jpg">
+				<img src="/assets/jmm/fleetdeck.jpg">
 			</td>
 			<td class="col2">
 				<p>I have installed a demountable structure on the stern deck, I believe it is similar to a fleetdeck and adds a facility for load carrying in the service role.</p>
@@ -50,7 +50,7 @@ The latter to prevent taking in water in bad weather.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/finished.jpg">
+				<img src="/assets/jmm/finished.jpg">
 			</td>
 			<td class="col2">
 				<p>Here's the boat on the only water it will see before next spring, although having been to see the Black Park Boating folk in action we might brave the elements earlier than that ! The boat manouvres well even on our 10' x 10' garden pond and, with the mast installed, still ' Self rights ' from 30 degrees of heel.</p>
@@ -61,7 +61,7 @@ The latter to prevent taking in water in bad weather.
 				<p>To add a bit of interest for the kids at the pondside (and for fun) I have added a ' Dory ' out of Walls icecream lid material, cheap and easy to work........ just the way I like it !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/doryadded.jpg">
+				<img src="/assets/jmm/doryadded.jpg">
 			</td>
 		</tr>
 	</table>

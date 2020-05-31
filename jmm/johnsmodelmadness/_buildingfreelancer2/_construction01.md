@@ -2,7 +2,7 @@
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/framing5%20.jpg">
+				<img src="/assets/jmm/framing5%20.jpg">
 			</td>
 			<td class="col2">
 				<p>Here is the start of Free Lancer 2 - early set up of the basic frame members.</p>
@@ -19,12 +19,12 @@
 				<p>This illustration was taken just prior to fairing all off using a power planer. The planer running on the bulwarks, keel and chines generates the correct angles for the sheeting providing total contact for glueing purposes.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/05050103.jpg">
+				<img src="/assets/jmm/05050103.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/05050106.jpg">
+				<img src="/assets/jmm/05050106.jpg">
 			</td>
 			<td>
 				<p>The foredeck rears its head ! Most of the blocks are sawn from odd pieces of timber laying around the workshop.</p>
@@ -40,7 +40,7 @@
 				<p>With the frames faired off and the first deck beams installed a start is made on fitting the skin. A damp cloth applied to the ply for the curve at the stern quarters ensured that it could be ' persuaded ' into place.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/05050602.jpg">
+				<img src="/assets/jmm/05050602.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/ruddertubes.jpg">
+				<img src="/assets/jmm/ruddertubes.jpg">
 			</td>
 			<td>
 				<p>The rudder tubes are turned from Hex. P/bronze, bored 7/32" for S/steel posts. Expensive materials but offcuts left from the earlier <a href="buildallchin">'Allchin' traction engine build</a>.</p>
@@ -66,12 +66,12 @@
 				<p>Rudder tubes set temporarily into place. They will be 'Araldited' into the stern block. For the moment they are there to check the propshaft position and inclination.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/ruddertubesinstalled.jpg">
+				<img src="/assets/jmm/ruddertubesinstalled.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/propshafttemplate.jpg">
+				<img src="/assets/jmm/propshafttemplate.jpg">
 			</td>
 			<td>
 				<p>The propshaft template used to ensure correct inclination now determines the length of projection to coincide with the centre line of the rudder post and steering nozzle.</p>

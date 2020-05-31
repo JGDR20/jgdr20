@@ -9,7 +9,7 @@
 		</tr>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/underhatch.jpg">
+				<img src="/assets/jmm/underhatch.jpg">
 			</td>
 			<td class="col2">
 				<p>The large hatch in the aft deck removed to reveal the supports for radio, rudder servo and speed controller. The servo space on the port side is such as to allow removal at a later date if necessary. The waterline has yet to be determined and painted !</p>
@@ -30,7 +30,7 @@
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/readyforhandrailsjpg.jpg">
+				<img src="/assets/jmm/readyforhandrailsjpg.jpg">
 			</td>
 			<td class="col2">
 				<p>Portholes for the engine room and accomodation turned, painted and installed. Bollards installed. Hawseholes cut and lined. So we are now ready for handrail installation.</p>
@@ -41,7 +41,7 @@
 				<p>Cut handrail stanchions from sheet brass. Made a simple jig and drilled for the rails. The stanchions had a baseplate soldered on and with the rails inserted given a couple of coats of paint.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/handrailsinraw.jpg">
+				<img src="/assets/jmm/handrailsinraw.jpg">
 			</td>
 		</tr>
 	</table>
@@ -62,7 +62,7 @@ and where Martin kindly exhibits models made by many people
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/access.jpg">
+				<img src="/assets/jmm/access.jpg">
 				<blockquote>Sorry about the flash corona !</blockquote>
 			</td>
 			<td class="col2">
@@ -80,12 +80,12 @@ and where Martin kindly exhibits models made by many people
 				<p>The plastic sheet of course is from my local friendly model shop, the winch drums and brake drums from various drainage fittings left over from the last foray into drainage ! They look sufficiently convincing to me ! And look well set up on the boat. I am still debating whether to leave the boat ' As new ' or to weather it to present an in-service appearance.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/winches.jpg">
+				<img src="/assets/jmm/winches.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/sterndeck.jpg">
+				<img src="/assets/jmm/sterndeck.jpg">
 			</td>
 			<td>
 				<p>Here is the stern winch temporarily placed on the stern deck............and yet to have holding down bolts installed.</p>

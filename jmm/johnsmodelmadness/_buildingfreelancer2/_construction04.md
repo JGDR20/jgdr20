@@ -16,7 +16,7 @@ The boat being larger, though still at 1/24th scale, an additional deck ( chartr
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/upperworks2.jpg">
+				<img src="/assets/jmm/upperworks2.jpg">
 			</td>
 			<td class="col2">
 				<p>The upperworks take shape.</p>
@@ -34,7 +34,7 @@ The boat being larger, though still at 1/24th scale, an additional deck ( chartr
 				<p>The stern view at this stage, priming and access stairs are next.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/upperworks1.jpg">
+				<img src="/assets/jmm/upperworks1.jpg">
 			</td>
 		</tr>
 	</table>
@@ -62,7 +62,7 @@ the engine room wheelhouse etc. have had a coat or two of Dulux, left from the l
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/inforadip2.jpg">
+				<img src="/assets/jmm/inforadip2.jpg">
 			</td>
 			<td class="col2">
 				<p>It floats !</p>
@@ -86,7 +86,7 @@ I am still open to suggestions regarding suitable motors ( see my question ' Sui
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/simplestand.jpg">
+				<img src="/assets/jmm/simplestand.jpg">
 			</td>
 			<td class="col2">
 				<p>A simple stand has been constructed from 5/16" studding, 8 nuts and washers and two offcuts of 1/2" ply of the resin-bonded variety.</p>
@@ -98,7 +98,7 @@ I am still open to suggestions regarding suitable motors ( see my question ' Sui
 				<p>The nozzles and rudder plates have been cut and bent from 40 thou brass sheet, riveted and soldered then attached to the rudder posts.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/fl2nozzles.jpg">
+				<img src="/assets/jmm/fl2nozzles.jpg">
 			</td>
 		</tr>
 	</table>
@@ -111,10 +111,10 @@ So here they are, side-by-side - both to 1/24th scale.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/largeandsmall2.jpg">
+				<img src="/assets/jmm/largeandsmall2.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/largeandsmall.jpg">
+				<img src="/assets/jmm/largeandsmall.jpg">
 			</td>
 		</tr>
 	</table>
@@ -131,7 +131,7 @@ life rafts are from plastic electric conduit and 2mm plastic card, the stiffener
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/bow%20view%20part%208.jpg">
+				<img src="/assets/jmm/bow%20view%20part%208.jpg">
 			</td>
 			<td class="col2">
 				<p>The camera lies!</p>
@@ -144,12 +144,12 @@ life rafts are from plastic electric conduit and 2mm plastic card, the stiffener
 				<p>I made the flights and the handrails from the stern deck 3 times before I was satisfied with them !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/stern%20view%20part%208.jpg">
+				<img src="/assets/jmm/stern%20view%20part%208.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/stern%20view%202%20part%208.jpg">
+				<img src="/assets/jmm/stern%20view%202%20part%208.jpg">
 			</td>
 			<td>
 				<p>The large large winch will be sited between these two flights. The vents will have fans from ex-scrap computers installed.</p>
@@ -174,7 +174,7 @@ The anchor winch on the photographs of the full size tug, from which I have take
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/anchorwinch2.jpg">
+				<img src="/assets/jmm/anchorwinch2.jpg">
 			</td>
 			<td class="col2">
 				<p>The chain is not quite correct but serves to present the picture.</p>
@@ -200,7 +200,7 @@ where details of the type 20 Harbour Tug show a similar arrangement.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/anchorwellsandanchors.jpg">
+				<img src="/assets/jmm/anchorwellsandanchors.jpg">
 			</td>
 			<td class="col2">
 				<p>Sure, the wells are right on the waterline so we have taken great care to ensure that they are watertight...............time will tell !</p>
@@ -225,7 +225,7 @@ Anyway I have added the main cable guide and have sprayed up the winches so the 
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/sterndeck%203.jpg">
+				<img src="/assets/jmm/sterndeck%203.jpg">
 			</td>
 			<td class="col2">
 				<p>Plenty of atmosphere on the sterndeck now. Still to add a crane, lots of cables and odd bits of gear...</p>
@@ -243,7 +243,7 @@ I dyed the nylon with water colour and touched in the brass with acrylic paint t
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/warps.jpg">
+				<img src="/assets/jmm/warps.jpg">
 			</td>
 			<td class="col2">
 				<p>A little colour makes a lot of difference</p>
@@ -265,7 +265,7 @@ There will not be much room for adjustment now that the anchor wells have been i
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/wehavemast.jpg">
+				<img src="/assets/jmm/wehavemast.jpg">
 			</td>
 			<td class="col2">
 				<p>The mast steps onto a tapered plug bolted to the top deck..... and thus is easily removable for transport in the boot of the car.</p>

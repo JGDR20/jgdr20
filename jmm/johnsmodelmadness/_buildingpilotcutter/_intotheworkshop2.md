@@ -10,7 +10,7 @@ I decided to combine several stern details.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/pilotbwurkstart.jpg">
+				<img src="/assets/jmm/pilotbwurkstart.jpg">
 			</td>
 			<td class="col2">
 				<p>At this stage all this looks a bit messy but to retain verticality where the
@@ -28,12 +28,12 @@ I decided to combine several stern details.
 				bulwark, the whole will be stiffened by addition of a hardwood capping later.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotbuwk2.jpg">
+				<img src="/assets/jmm/pilotbuwk2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotblwkfotrim.jpg">
+				<img src="/assets/jmm/pilotblwkfotrim.jpg">
 			</td>
 			<td>
 				<p>The final bulwark section installed.
@@ -48,7 +48,7 @@ I decided to combine several stern details.
 				The small clamps are cheapos from the pound shop, and perfectly adequate.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/piltrimbul2.jpg">
+				<img src="/assets/jmm/piltrimbul2.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -61,7 +61,7 @@ I decided to combine several stern details.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilprefab4.jpg">
+				<img src="/assets/jmm/pilprefab4.jpg">
 			</td>
 			<td>
 				<p>This is a very foreshortend view ( the camera does lie ! ).</p>
@@ -87,7 +87,7 @@ I decided to combine several stern details.
 				glazed with obscured plastic.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pildechouse2.jpg">
+				<img src="/assets/jmm/pildechouse2.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -105,7 +105,7 @@ I decided to combine several stern details.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/plidechglufit2.jpg">
+				<img src="/assets/jmm/plidechglufit2.jpg">
 			</td>
 			<td>
 				<p>The ' overbent ' roof has been set on two tapered sections of scrap and a slip
@@ -133,12 +133,12 @@ I decided to combine several stern details.
 				and stern, to facilitate the tighter bend.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotrubstrake.jpg">
+				<img src="/assets/jmm/pilotrubstrake.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilofreeports1.jpg">
+				<img src="/assets/jmm/pilofreeports1.jpg">
 			</td>
 			<td>
 				<p>Starboard freeing ports are next on the menu, after a long break from the
@@ -162,12 +162,12 @@ I decided to combine several stern details.
 				finished width of the capping.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilcappingrail2.jpg.jpg">
+				<img src="/assets/jmm/pilcappingrail2.jpg.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilcappingrail.jpg.jpg">
+				<img src="/assets/jmm/pilcappingrail.jpg.jpg">
 			</td>
 			<td>
 				<p>The ends of sections of capping rail had been trimmed to match those previously
@@ -189,12 +189,12 @@ I decided to combine several stern details.
 				offcuts and weights ensuring they were snug on the ply cabin top.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilbulcap1.jpg">
+				<img src="/assets/jmm/pilbulcap1.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilcabtopplank.jpg">
+				<img src="/assets/jmm/pilcabtopplank.jpg">
 			</td>
 			<td>
 				<p>The finished planking with edging fillets installed.
@@ -214,12 +214,12 @@ I decided to combine several stern details.
 				Here the glueing is in progress.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilcutwellsidejig.jpg">
+				<img src="/assets/jmm/pilcutwellsidejig.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pildeckl8thnov14.jpg">
+				<img src="/assets/jmm/pildeckl8thnov14.jpg">
 			</td>
 			<td>
 				<p>The washboards have been installed, attached to rebates in the cabin sides.

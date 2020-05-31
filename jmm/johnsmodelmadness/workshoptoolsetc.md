@@ -24,10 +24,10 @@ The following images show several such attachments largely prduced from scrap an
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/4tool5.jpg">
+				<img src="/assets/jmm/4tool5.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/4tool1.jpg">
+				<img src="/assets/jmm/4tool1.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -38,7 +38,7 @@ The following images show several such attachments largely prduced from scrap an
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/dividattach1.jpg">
+				<img src="/assets/jmm/dividattach1.jpg">
 			</td>
 			<td>
 				<p>This simply-made attachment permits indexing using the lathe bullwheel. It is attached inside the headstock using a tapped hole thoughtfully provided by Messrs Myford, the plunger engages with the bull wheel.</p>
@@ -50,12 +50,12 @@ The following images show several such attachments largely prduced from scrap an
 				<p>Scrap steel was used in both cases.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/facingtool1.jpg">
+				<img src="/assets/jmm/facingtool1.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/smallbore.jpg">
+				<img src="/assets/jmm/smallbore.jpg">
 			</td>
 			<td>
 				<p>This small block of metal - twice slotted, thrice drilled, twice tapped and once bored - holds a boring bar which accommodates short cutters made from tool steel.</p>
@@ -68,12 +68,12 @@ The following images show several such attachments largely prduced from scrap an
 				<p>Both items were made for the cost of the knobs, cap screws and some more sweat !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/reartool1.jpg">
+				<img src="/assets/jmm/reartool1.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/knurlingtool3.jpg">
+				<img src="/assets/jmm/knurlingtool3.jpg">
 			</td>
 			<td>
 				<p>Knurling tool set up in the rear tool post cost the price of the knurls and is kinder on the lathe than the single knurl model.</p>
@@ -85,15 +85,15 @@ The following images show several such attachments largely prduced from scrap an
 				<p>With the fine point in a deep ' pop ' on the workpiece the long end of the pointer magnifies any degree of eccentricity.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/wobbler1.jpg">
+				<img src="/assets/jmm/wobbler1.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/minimulti1.jpg">
+				<img src="/assets/jmm/minimulti1.jpg">
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/minimulti2.jpg">
+				<img src="/assets/jmm/minimulti2.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -105,10 +105,10 @@ The following images show several such attachments largely prduced from scrap an
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/fixedsteady3.jpg">
+				<img src="/assets/jmm/fixedsteady3.jpg">
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/fixedsteady4.jpg">
+				<img src="/assets/jmm/fixedsteady4.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -121,15 +121,15 @@ The following images show several such attachments largely prduced from scrap an
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/hoist1.jpg">
+				<img src="/assets/jmm/hoist1.jpg">
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/hoist2.jpg">
+				<img src="/assets/jmm/hoist2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2">
-				<img src="/jgdr20/assets/jmm/hoist3.jpg">
+				<img src="/assets/jmm/hoist3.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -152,17 +152,17 @@ The following images show several such attachments largely prduced from scrap an
 		</tr>
 		<tr>
 			<td colspan="2">
-				<img src="/jgdr20/assets/jmm/spraycabinet1.jpg">
+				<img src="/assets/jmm/spraycabinet1.jpg">
 				<blockquote>The cabinet in use</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/spraycabinet2.jpg">
+				<img src="/assets/jmm/spraycabinet2.jpg">
 				<blockquote>Rear view showing fans and hose</blockquote>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/spraycabinet3.jpg">
+				<img src="/assets/jmm/spraycabinet3.jpg">
 				<blockquote>Packed for stowage</blockquote>
 			</td>
 		</tr>

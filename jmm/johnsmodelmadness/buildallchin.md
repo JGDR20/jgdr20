@@ -26,7 +26,7 @@ The interest and memories persist.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/theprototype.jpg">
+				<img src="/assets/jmm/theprototype.jpg">
 				<blockquote>Prototype</blockquote>
 			</td>
 			<td class="col2">
@@ -44,12 +44,12 @@ The interest and memories persist.
 				particularly for a concrete engineer with self-taught metalworking skills !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/muchthumbed.jpg">
+				<img src="/assets/jmm/muchthumbed.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/forsale.jpg">
+				<img src="/assets/jmm/forsale.jpg">
 				<blockquote>On the shelf, part built, for sale</blockquote>
 			</td>
 			<td>
@@ -80,7 +80,7 @@ At a recent exhibition I watched a fellow visitor purchase the book and took the
 				' when finished, however long it takes, will it work ? '</p>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/gearboxdownlh.jpg">
+				<img src="/assets/jmm/gearboxdownlh.jpg">
 				<blockquote>Ready to go</blockquote>
 			</td>
 		</tr>
@@ -102,7 +102,7 @@ Of course the overall period included making the various jigs and fittings to co
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/boiler.jpg">
+				<img src="/assets/jmm/boiler.jpg">
 				<blockquote>Gleaming new boiler</blockquote>
 			</td>
 			<td class="col2">
@@ -125,12 +125,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<p>It was remarkable that the supplier having produced capping castings for many years had not been made aware of the failings of this product. Their new pattern avoids the problem for future builders.</p>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/chimney.jpg">
+				<img src="/assets/jmm/chimney.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/spudpan.jpg">
+				<img src="/assets/jmm/spudpan.jpg">
 				<blockquote>Here the spuds (wheel attachments!) were kept.</blockquote>
 			</td>
 			<td>
@@ -142,12 +142,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The smokebox and smokebox door</strong> next on the list. The weld in the rolled tube for the smokebox called for a tungsten tipped tool to be employed in turning the outside diameter, otherwise no problems. The smokebox angle demands careful turning for fit and the rivetting is awkward, calling for an angled snap. The door casting needed only light turning to preserve the cast-in makers name. The hinge plate called for care in turning and fitting to the door section. Hinging and pinning is tricky for a novice although a final pass using a reamer with the door clamped into place overcomes any initial small innaccuracy .
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/smokebox.jpg">
+				<img src="/assets/jmm/smokebox.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/smokeboxonstand.jpg">
+				<img src="/assets/jmm/smokeboxonstand.jpg">
 			</td>
 			<td>
 				Being fairly pleased with progress and product at this stage I mounted it on a stand.....in order to provide motivation !
@@ -160,13 +160,13 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<p>Turning the rim 'tee' sections called for care to ensure matching pairs for later combination by the application of the strakes.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/hubcrop3.jpg">
+				<img src="/assets/jmm/hubcrop3.jpg">
 				<blockquote>Hind wheel hub</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/hindwheel.jpg">
+				<img src="/assets/jmm/hindwheel.jpg">
 			</td>
 			<td>
 				<p><strong>Completed hind wheel</strong></p>
@@ -184,13 +184,13 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The hornplates</strong> were set out and the many holes drilled in accordance with the, now,much thumbed drawing. At this stage the relative positions of the holes for bearings to the three shafts and the hind axle are critical and need checking and rechecking prior to setting-up in the lathe for boring. Many of the rivets are dummy rivets, and the legend at the bottom of the detail identifies various hole sizes which serve different purposes in final assembly.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/hornplatedrg4.jpg">
+				<img src="/assets/jmm/hornplatedrg4.jpg">
 				<blockquote>Shot of drawing courtesy of Nexus Publications</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/bearings.jpg">
+				<img src="/assets/jmm/bearings.jpg">
 			</td>
 			<td>
 				<strong>The bearings</strong> in general are rather complicated in form and again the drawings need careful interpretation when setting out, The location of the various bearings on the hornplates being governed by the diameter of the gear wheels and critical to final engagement ( Mesh ) of the gears, no room for error here!
@@ -211,12 +211,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The crankshaft</strong> provides considerable excitement. Setting out for, and maintaining accuracy when using two centres to achieve the throw is, for the novice, a demanding process, only matched by work on the ........
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/crankshaft.jpg">
+				<img src="/assets/jmm/crankshaft.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/secondshaft.jpg">
+				<img src="/assets/jmm/secondshaft.jpg">
 			</td>
 			<td>
 				<strong>The second shaft</strong> with intensive work in machining the splines to allow the gears driving the third shaft for gear changes to be shifted. We have to admit to hand-finishing the splines on the milled shaft to match the keyways in the change speed spurwheel centre.I have to add that although I had built the boiler for ' Tich ' it was apparent that as was the case in building the 2 1/2" scale model locomotive ' Pixie ',the mass of copper in the Allchin boiler would demand greater heat input than I could achieve with my equipment. The ' Allchin ' boiler was thus sublet, more detail later....
@@ -227,12 +227,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The third shaft</strong> is the tranfer shaft, carrying the drive to the compensating centre. Mounted at one end is the band brake drum. Braking is by winding-on a steel belt with wooden brake shoes. The brake shoes are turned on a faceplate and subsequently cut into individual pads.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/thirdshaftbrakedrum.jpg">
+				<img src="/assets/jmm/thirdshaftbrakedrum.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/winchdrum.jpg">
+				<img src="/assets/jmm/winchdrum.jpg">
 			</td>
 			<td>
 				<strong>The compensating centre and spur ring</strong> assemblies are for the amateur, probably the most demanding of all the parts to construct. They provide the basis for the differential action and for the winch winding drum. The pinions have to be absolutely correctly positioned and the drillings for the driving pins and differential locking pins must provide for alternate insertion according to the driving conditions. Accurate jigs are essential to success here.
@@ -243,12 +243,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The cylinder block</strong> is a major item of construction, the drawing needs careful attention and it is worthwhile spending time on preparing a method statement. This will ensure that datum chucking and jigging points are maintained, The cylinder and liner turning and boring then insertion of the liner are probably the most demanding and critical items in the whole build!
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/boringcylinder.jpg">
+				<img src="/assets/jmm/boringcylinder.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/lineronmandrel.jpg">
+				<img src="/assets/jmm/lineronmandrel.jpg">
 			</td>
 			<td>
 				<strong>The Cylinder Liner</strong> requires to be set into the cylinder block to form an annulus round which steam from the boiler passes to enter the regulater. Freezing permits its introduction into a warmed block. Return to normal temperature ensures a seal. Here the ready bored liner is held on a mandrel for the external diameter to be sized.
@@ -259,12 +259,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>Trunk guide</strong> construction provides interesting turning practice! Its function is to translate, via the crosshed, the linear action of the piston into radial action at the crankshaft. Here a check is made that the valve rod will line correctly with entry to the valve chest which has yet to be finally seated on cylinder block.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/guide.jpg">
+				<img src="/assets/jmm/guide.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/cylinderfixig.jpg">
+				<img src="/assets/jmm/cylinderfixig.jpg">
 			</td>
 			<td>
 				<strong>Cylinder fixing hole</strong> angles are difficult to establish. A wooden model of the boiler, (then yet to be received from the maker) was made. The cylinder block set on this in the drilling machine was rotated and the previously marked holes were thus drilled axially to the boiler. The dummy boiler was useful in other operations and in an early mock-up with tender and smokebox.
@@ -275,12 +275,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The cylinder block and trunk guide</strong> are fixed to the boiler by 5BA stainless steel bolts into tapped holes in the boiler. Tapping copper can be tricky and one bolt sheared! Fotunately the stub could be drilled and driven through into the boiler, then recovered via a bush...phew. Drilling and tapping a £600 boiler can be traumatic.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/sitingthecylinderblock2.jpg">
+				<img src="/assets/jmm/sitingthecylinderblock2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/eccentrics.jpg">
+				<img src="/assets/jmm/eccentrics.jpg">
 			</td>
 			<td>
 				<strong>Eccentrics and valve gear</strong> are critical elements in the operation of the engine ( The ' engine ' in this case is the cylinder block etc. which sits on top of the boiler ) the shells are bored and set on a mandrel offset in the chuck for finishing the periphery. The outer member is split into two halves and soldered back as one piece. After drilling for connecting bolts it is bored to match the eccentric then unsoldered.
@@ -291,12 +291,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The governer</strong> with it's <em>26</em> individual pieces approached watchmaking as far as this ham-fisted concrete engineer is concerned ! Fortunately a friendly musical instrument maker kindly made a jig for sizing and drilling the spring steel, a task which had seemed formidable thus simplified!
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/governer.jpg">
+				<img src="/assets/jmm/governer.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/waterpump.jpg">
+				<img src="/assets/jmm/waterpump.jpg">
 			</td>
 			<td>
 				<strong>Water pump components</strong> require machining to very close tolerances. Construction is almost a seperate project; the casting has to be fettled, the various waterways bored and valve seatings machined. The cylinder and piston produce with a good fit and the eccentric providing drive from the crankshaft prepared. Just as in modern automotive practice, the traction engine manufacturer employed the crankshaft to provide drives for pump and valving.
@@ -307,12 +307,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The manstand</strong> is quite a congested spot.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/manstand1.jpg">
+				<img src="/assets/jmm/manstand1.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/toolbox.jpg">
+				<img src="/assets/jmm/toolbox.jpg">
 			</td>
 			<td>
 				<strong>The toolbox and running board</strong> provide a welcome opportunity for some woodworking practice. The local saw mill ripped me out a piece of prime beech from a huge plank ( For just One Pound ! ) People have suggested that my effort here, particularly the brass fittings. may qualify me as a coffin maker !
@@ -323,12 +323,12 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>Steering gear</strong> comprises, wheel, shafts, gears then more bearings and a shaft with chains connecting to and rotating the front wheel assembly via attachments to the spud pan ring.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/damper2.jpg">
+				<img src="/assets/jmm/damper2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/rampantallchin.jpg">
+				<img src="/assets/jmm/rampantallchin.jpg">
 			</td>
 			<td>
 				<strong>The ashpan</strong> could be glimpsed in the previous image. This I constructed in brass. It supports the firegrate and in the bottom is a non-scale opening ' trap ' arranged such that it can be rapidly opened in an emergency as well as in normal use where it would be used for dropping the fire at the end of a run.
@@ -339,7 +339,7 @@ I started with the smokebox end, and the chimney in particular, as a discrete pa
 				<strong>The parts</strong> shown here finally assembled.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/allchintoprh.jpg">
+				<img src="/assets/jmm/allchintoprh.jpg">
 			</td>
 		</tr>
 		<tr>

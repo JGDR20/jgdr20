@@ -4,7 +4,7 @@
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/tichrejuvenated1.jpg">
+				<img src="/assets/jmm/tichrejuvenated1.jpg">
 			</td>
 			<td class="col2">
 				3/4" scale ' Tich ' for 3 1/2 gauge track (to LBSC drawings).<br>
@@ -17,7 +17,7 @@
 				<a href="pixiesbackground">Click here !</a> for Pixie's background, survey and construction.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pixie2.jpg">
+				<img src="/assets/jmm/pixie2.jpg">
 			</td>
 		</tr>
 	</table>

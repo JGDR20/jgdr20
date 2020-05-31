@@ -6,7 +6,7 @@ Currently activities are focussed on building model boats........so a page on th
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/egrete.jpg">
+				<img src="/assets/jmm/egrete.jpg">
 			</td>
 			<td class="col2">
 				' Egrete ' A Rhine ' Pusher tug ' in 1/2" scale from free drawings published in Model Boats Magazine.<br>
@@ -19,7 +19,7 @@ Currently activities are focussed on building model boats........so a page on th
 				The wheelhouse is raised and lowered to clear the bridges along the river.
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/deckhouse1.jpg">
+				<img src="/assets/jmm/deckhouse1.jpg">
 			</td>
 		</tr>
 	</table>
@@ -36,7 +36,7 @@ The step- by- step build is illustrated here: [Click here][BuildingWorkBoat]
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/nearlyfinished1.jpg">
+				<img src="/assets/jmm/nearlyfinished1.jpg">
 			</td>
 			<td class="col2">
 				' Free Lancer ' a 1/24" scale, scratchbuilt workboat ' .....own design based on details of boats taken from the 'web'.<br>
@@ -49,7 +49,7 @@ The step- by- step build is illustrated here: [Click here][BuildingWorkBoat]
 				To see the construction <a href="buildingfreelancer2">Click here</a>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/freelancer2afloat1sttime2.jpg">
+				<img src="/assets/jmm/freelancer2afloat1sttime2.jpg">
 			</td>
 		</tr>
 	</table>
@@ -63,7 +63,7 @@ A Recently added page describing two successful radio controlled model sailing b
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/littleandlarge.jpg">
+				<img src="/assets/jmm/littleandlarge.jpg">
 			</td>
 			<td class="col2">
 				Both are built mainly from scrap and reclaimed materials.<br>
@@ -81,7 +81,7 @@ This page describes construction of a small trailer sailer / cruiser which I use
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silhouette_1.jpg">
+				<img src="/assets/jmm/silhouette_1.jpg">
 			</td>
 			<td>
 				To see the construction <a href="buildingthesilhouette">Click here</a>
@@ -98,7 +98,7 @@ This page describes the construction of a small pusher based on the Springer cla
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/smpushsternview3.jpg">
+				<img src="/assets/jmm/smpushsternview3.jpg">
 			</td>
 			<td>
 				To see the construction <a href="buildingsmallpusher">Click here</a>

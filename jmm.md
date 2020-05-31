@@ -86,6 +86,6 @@ used in Continuing Professional Education.
 
 
 [original]: http://www.johnsmodelmadness.co.uk/
-[archive]: /jgdr20/jmm/archive/index.htm
-[reformatted]: /jgdr20/jmm/johnsmodelmadness/
+[archive]: /jmm/archive/index.htm
+[reformatted]: /jmm/johnsmodelmadness/
 [JohnModelBoatMayhem]: https://www.modelboatmayhem.co.uk/Modellers/John_Richardson/1ndex.htm

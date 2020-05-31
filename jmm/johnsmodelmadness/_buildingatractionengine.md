@@ -5,7 +5,7 @@
 		<tr>
 			<td class="col2">
 				<a href="buildallchin">
-					<img src="/jgdr20/assets/jmm/afinishedallchin.jpg">
+					<img src="/assets/jmm/afinishedallchin.jpg">
 				</a>
 			</td>
 			<td class="col2">
@@ -17,7 +17,7 @@
 				An earlier ( 1910 ) prototype
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/earlierfullsize.jpg">
+				<img src="/assets/jmm/earlierfullsize.jpg">
 			</td>
 		</tr>
 	</table>

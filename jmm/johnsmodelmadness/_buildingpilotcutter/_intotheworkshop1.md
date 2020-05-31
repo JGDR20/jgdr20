@@ -13,7 +13,7 @@ when carving to hull profile.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/pilotassembly1.jpg">
+				<img src="/assets/jmm/pilotassembly1.jpg">
 			</td>
 			<td class="col2">
 				<p>Prior to glueing, the rough sawn layers are setup for checking.
@@ -36,7 +36,7 @@ when carving to hull profile.
 				bulk purchase of 10 years ago. Barely visible are removable dowels to maintain alignment.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilottemplates.jpg">
+				<img src="/assets/jmm/pilottemplates.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -48,7 +48,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcutterlastlayer.jpg">
+				<img src="/assets/jmm/pilotcutterlastlayer.jpg">
 			</td>
 			<td>
 				<p>Temporary screws have been inserted for later removal.
@@ -70,7 +70,7 @@ when carving to hull profile.
 				sanded out using very coarse grades of glasspaper in a power sander.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilottrialcut1.jpg">
+				<img src="/assets/jmm/pilottrialcut1.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -83,7 +83,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/additiontopilotcutter.jpg">
+				<img src="/assets/jmm/additiontopilotcutter.jpg">
 			</td>
 			<td>
 				<p>To bring the halves up to deck level extra sections from scrap wood are being
@@ -107,7 +107,7 @@ when carving to hull profile.
 				Waterproofing is not required. This model won't be going on the water !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcutterprimercoat.jpg">
+				<img src="/assets/jmm/pilotcutterprimercoat.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -125,7 +125,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcutter14%20jun1.jpg">
+				<img src="/assets/jmm/pilotcutter14%20jun1.jpg">
 			</td>
 			<td>
 				<p>Time to start fine grain filling and sanding, prior to several coats of paint.
@@ -140,7 +140,7 @@ when carving to hull profile.
 				it will be reduced in section prior to the planking process.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcutter14thjun%202.jpg">
+				<img src="/assets/jmm/pilotcutter14thjun%202.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -153,7 +153,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/sternblockwithin2.jpg">
+				<img src="/assets/jmm/sternblockwithin2.jpg">
 			</td>
 			<td>
 				<p>I am using odd scraps from the waste box to build up the stern block,
@@ -172,7 +172,7 @@ when carving to hull profile.
 				hull are similar.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcuttercheckheights.jpg">
+				<img src="/assets/jmm/pilotcuttercheckheights.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -183,7 +183,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotdecbeams_installed.jpg">
+				<img src="/assets/jmm/pilotdecbeams_installed.jpg">
 			</td>
 			<td>
 				<p>Still in the ' Coarse construction stage ' the deck beams installed ready
@@ -200,7 +200,7 @@ when carving to hull profile.
 				stub beams each side is the position of the well and cabin hatch.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcutterreadyforfalsedeck.jpg">
+				<img src="/assets/jmm/pilotcutterreadyforfalsedeck.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -215,7 +215,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcutterlayingfalsedeck.jpg">
+				<img src="/assets/jmm/pilotcutterlayingfalsedeck.jpg">
 			</td>
 			<td>
 				<p>Still in the ' coarse boatbuilding phase ' the sub-deck panels are
@@ -237,7 +237,7 @@ when carving to hull profile.
 				The keel post is yet to be trimmed to shape.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/cutterreadyfordecklaying.jpg">
+				<img src="/assets/jmm/cutterreadyfordecklaying.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -260,7 +260,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotjurysaw.jpg">
+				<img src="/assets/jmm/pilotjurysaw.jpg">
 			</td>
 			<td>
 				<p>A ' Jury ' saw set up on the Myford using the crosslide tool clamp,
@@ -285,7 +285,7 @@ when carving to hull profile.
 				planks !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotcutterplanking.jpg">
+				<img src="/assets/jmm/pilotcutterplanking.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -297,7 +297,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotdecklaying2.jpg">
+				<img src="/assets/jmm/pilotdecklaying2.jpg">
 			</td>
 			<td>
 				<p>Initially the planks have been laid to the line of the rear of the cabin and to
@@ -339,12 +339,12 @@ when carving to hull profile.
 				hull is turned over for rudder fixing.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pildeckcomplete.jpg">
+				<img src="/assets/jmm/pildeckcomplete.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/rudder3.jpg">
+				<img src="/assets/jmm/rudder3.jpg">
 			</td>
 			<td>
 				<p>To hold the rudder in its housing whilst forming the opening, in the vice I
@@ -371,7 +371,7 @@ when carving to hull profile.
 				being applied to the front of the finished rudder.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/rudder6.jpg">
+				<img src="/assets/jmm/rudder6.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -385,7 +385,7 @@ when carving to hull profile.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotrudandprop.jpg">
+				<img src="/assets/jmm/pilotrudandprop.jpg">
 			</td>
 			<td>
 				<p>The rudder and prop installed, the bottom rudder bearing is bent up from thin
@@ -413,7 +413,7 @@ when carving to hull profile.
 				workshop equipment !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pilotmastdowel.jpg">
+				<img src="/assets/jmm/pilotmastdowel.jpg">
 			</td>
 		</tr>
 	</table>

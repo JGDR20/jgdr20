@@ -8,7 +8,7 @@ OK so I know where are the defects in this latest addition to the boat, but I ca
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/crane2.jpg">
+				<img src="/assets/jmm/crane2.jpg">
 			</td>
 			<td class="col2">
 				<p>I trolled the web and found illustrations of a number of hydraulic cranes, sketched a simplified version and, having bought 2 sheets of plasticard and some valve rubber........ set to.</p>
@@ -25,7 +25,7 @@ OK so I know where are the defects in this latest addition to the boat, but I ca
 				<p>The result is an articulated but un-motorised assembly.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/crane3.jpg">
+				<img src="/assets/jmm/crane3.jpg">
 			</td>
 		</tr>
 	</table>
@@ -39,7 +39,7 @@ I found consolation in the saying ' You're an ugly little devil but you're mine,
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/sailing2.jpg">
+				<img src="/assets/jmm/sailing2.jpg">
 			</td>
 			<td class="col2">
 				<p>Another pond test to determine any additional ballast required to trim the boat brought to mind another ' Solid ' cartoon, It looks as though this chap chose the wrong make of life jacket, and lost his concentration. Meanwhile his remainig crew is doing his best to ' Maintain position ' because.......</p>
@@ -50,7 +50,7 @@ I found consolation in the saying ' You're an ugly little devil but you're mine,
 				<p>	.......the other member of his crew is unable to assist. He is off downstream with a valuable bit of gear !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/crewdownstream.jpg">
+				<img src="/assets/jmm/crewdownstream.jpg">
 			</td>
 		</tr>
 	</table>

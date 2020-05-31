@@ -28,7 +28,7 @@ sister boat which I sail on my ' Home ' water, and some great sailing some time 
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/carcass2.jpg">
+				<img src="/assets/jmm/carcass2.jpg">
 			</td>
 			<td class="col2">
 				<p>The first essentials are a flat building board and a set of frames drawn up from the lines drawing.</p>
@@ -59,7 +59,7 @@ not bad for hours of pleasure.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/sideskin.jpg">
+				<img src="/assets/jmm/sideskin.jpg">
 			</td>
 			<td class="col2">
 				<p>The chine and sheer stringers have been fixed and the whole hull frame, including the keelson, faired-off using a block plane spanning the spaces.</p>
@@ -72,7 +72,7 @@ not bad for hours of pleasure.
 				<p>A good supply of clamps is essential to act as spare hands. Mine were purchased in a ' Cheapo ' shop. Various sizes are available and the most useful are those that can be used with one hand.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/itsastickup2.jpg">
+				<img src="/assets/jmm/itsastickup2.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -82,7 +82,7 @@ not bad for hours of pleasure.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/keelfix2.jpg">
+				<img src="/assets/jmm/keelfix2.jpg">
 			</td>
 			<td>
 				<p>The keel fin is attached using stainless steel studs, Araldited into the keel and passed through the keelson and an extra horizontal member to deal with torsion.</p>
@@ -101,12 +101,12 @@ not bad for hours of pleasure.
 				<p>Here the bow block is visible. The fairing-in of the fin to the keelson has yet to be applied.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/noseblocks1.jpg">
+				<img src="/assets/jmm/noseblocks1.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/inevitabletest2.jpg">
+				<img src="/assets/jmm/inevitabletest2.jpg">
 			</td>
 			<td>
 				<p>With deck installed onto deck beams and a coat of Dulux wood primer added, the hull is dunked in the bath to establish the keel weights necessary to bring the boat down to the ' Designed ' waterline, and to control heeling due to the wind pressure on the sails.</p>
@@ -117,7 +117,7 @@ not bad for hours of pleasure.
 				<p>Deck and rigging fittings are fabricated from scrap and ' Monkey ' brass from curtain rail. The mast is of prime timber from a broomstick ( the best knot free material avalable! ). It was sawn in half and the sail track milled out before reglueing and shaping whilst avoiding adhesive in the track.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/fittingsfromsrap.jpg">
+				<img src="/assets/jmm/fittingsfromsrap.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -127,7 +127,7 @@ not bad for hours of pleasure.
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/radiobox.jpg">
+				<img src="/assets/jmm/radiobox.jpg">
 			</td>
 			<td>
 				<p>The radio receiver, servo and batteries are housed in this case, set into a well. This is removable and can be used in either boat. The red tapes cover two terminals which allow a battery check without dismantling the case. ' Green ' identifies the crystal installed.</p>
@@ -145,12 +145,12 @@ not bad for hours of pleasure.
 				<p>My sails I cut out to be completed by a friend with a sewing machine; perhaps one day I might buy some commercially produced sails, they are costly hoever and there are other models planned !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/largeyachtrefit.jpg">
+				<img src="/assets/jmm/largeyachtrefit.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/nearlythere2.jpg">
+				<img src="/assets/jmm/nearlythere2.jpg">
 			</td>
 			<td>
 				<p>Here the boat and mast were united fror the first time, courtesy of the lady of the house. The now completed boats rest, one in the workshop and the larger model as a decoration in our sunroom.</p>
@@ -163,12 +163,12 @@ not bad for hours of pleasure.
 				<p>Snag! The larger boat has to be de-rigged to fit into the present car... I should have thought of that at the time of purchase...... of the car that is !</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/littleandlarge.jpg">
+				<img src="/assets/jmm/littleandlarge.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/lightbreeze2.jpg">
+				<img src="/assets/jmm/lightbreeze2.jpg">
 			</td>
 			<td>
 				<p>The first model running before a light breeze.</p>

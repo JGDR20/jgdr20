@@ -15,11 +15,11 @@ However having designed the thing I was at liberty to redesign it !
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/superstructureinplace2.jpg">
+				<img src="/assets/jmm/superstructureinplace2.jpg">
 				<blockquote>The boat as originally designed</blockquote>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/superstructureremoved.jpg">
+				<img src="/assets/jmm/superstructureremoved.jpg">
 				<blockquote>The boat after radical surgery, with a panel plane !</blockquote>
 			</td>
 		</tr>

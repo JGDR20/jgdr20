@@ -12,7 +12,7 @@ Length | Width | Height
 				<p>Further illustrations follow:-</p>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/astart.jpg">
+				<img src="/assets/jmm/astart.jpg">
 			</td>
 		</tr>
 	</table>
@@ -40,7 +40,7 @@ platework, shafts etc., otherwise sawing, milling, turning, filing and polishing
 				<p>At this stage the engines on each side can be tested using compressed air.</p>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/framespixie.jpg">
+				<img src="/assets/jmm/framespixie.jpg">
 			</td>
 		</tr>
 	</table>

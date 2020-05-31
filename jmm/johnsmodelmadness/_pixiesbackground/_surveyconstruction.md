@@ -8,7 +8,7 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/pixiepic9.jpg">
+				<img src="/assets/jmm/pixiepic9.jpg">
 			</td>
 			<td class="col2">
 				<p>From the dimensional drawings made at Pages Park, sketches were made of the key compnents, these would provide an overall picture of the parts to be made and prove useful in esatablishing the sequence of fabrication and machining operations.</p>
@@ -27,12 +27,12 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 				<p>The sheets alongside Pixie area few of the many ( 150 ) dimensioned sketches prepared at site</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/awaitingboiler.jpg">
+				<img src="/assets/jmm/awaitingboiler.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/readyforboiler.jpg">
+				<img src="/assets/jmm/readyforboiler.jpg">
 			</td>
 			<td>
 				<p>Now the locomotive is really taking shape. The major components are assembled, mainly constructed using stainless steel. The saddle tank is of mild steel for flanging purposes, lined with fibreglass.</p>
@@ -46,7 +46,7 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 				<p>The accuracy of the work in dieblock illustrated is critical to the performance of the locomotive.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/weighshaft.jpg">
+				<img src="/assets/jmm/weighshaft.jpg">
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/paintingunderway1.jpg">
+				<img src="/assets/jmm/paintingunderway1.jpg">
 			</td>
 			<td>
 				<p>With the boiler and all plumbing installed a start could be made on painting. This necessitated complete dismantling, degreasing and removal to a dust free environment ( the greenhouse ).</p>
@@ -75,7 +75,7 @@ Many hours were spent in the engine shed and along the line sketching, measuring
 				<p>P.S. The sleeper spacing is typical of certain Narrow Gauge Railways ! No names no packdrill.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/pixieanddrivingtrolley.jpg">
+				<img src="/assets/jmm/pixieanddrivingtrolley.jpg">
 			</td>
 		</tr>
 	</table>

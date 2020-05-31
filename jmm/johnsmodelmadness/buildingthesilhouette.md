@@ -38,11 +38,11 @@ PVA adhesive is used throughout as, when the model is completed, several coats o
 	<table>
 		<tr>
 			<td style="word-break:break-all;" class="col2">
-				<img src="/jgdr20/assets/jmm/glasssilhouette.jpg">
+				<img src="/assets/jmm/glasssilhouette.jpg">
 				<blockquote>Image from <a href="https://www.boatsandoutboards.co.uk">www.boatsandoutboards.co.uk</a> *</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/startingwithkellogscard.jpg">
+				<img src="/assets/jmm/startingwithkellogscard.jpg">
 				<blockquote>Sketches and half section template</blockquote>
 			</td>
 		</tr>
@@ -72,21 +72,21 @@ In this way an approximation of the plan curve was achieved although some force 
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/translatedfrom%20card.jpg">
+				<img src="/assets/jmm/translatedfrom%20card.jpg">
 				<blockquote>Translated from card</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/shearandbilgestringers3.jpg">
+				<img src="/assets/jmm/shearandbilgestringers3.jpg">
 				<blockquote>Keelson and strakes added</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/sternblockadded.jpg">
+				<img src="/assets/jmm/sternblockadded.jpg">
 				<blockquote>Stern block has been installed for preliminary shaping</blockquote>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/plysidesandtemplates.jpg">
+				<img src="/assets/jmm/plysidesandtemplates.jpg">
 				<blockquote>Sheathing in progress</blockquote>
 			</td>
 		</tr>
@@ -114,7 +114,7 @@ allowing the sides to be placed first thus providing a greater ' Land ' or beari
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silend%20bulkheds1.jpg">
+				<img src="/assets/jmm/silend%20bulkheds1.jpg">
 			</td>
 			<td class="col2">
 				<p>The side sheathing installed and the ply trimmed at bow and stern.</p>
@@ -136,7 +136,7 @@ guided by the top of the side sheathing.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silstartdecks.jpg">
+				<img src="/assets/jmm/silstartdecks.jpg">
 			</td>
 			<td class="col2">
 				<p>Extending the foredeck to the Cabin from bulkhead and starting side deck supports.</p>
@@ -157,21 +157,21 @@ The ply was glued and pinned into place and once the temporary pins were removed
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silhedghog.jpg">
+				<img src="/assets/jmm/silhedghog.jpg">
 				<blockquote>Looking lke a hedgehog! The first side deck installed... the pins will be recovered for re-use !</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/sildecklaid.jpg">
+				<img src="/assets/jmm/sildecklaid.jpg">
 				<blockquote>Starboard deck laid, the cabin roof trimed for lipping with 1/8" dowel prior to adding 1/16" ply overlay</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/sillippingfix.jpg">
+				<img src="/assets/jmm/sillippingfix.jpg">
 				<blockquote>Fitting the lipping, the clingfilm ensures that the roof doesn't get permanently fixed in place !</blockquote>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/siledgeandply.jpg">
+				<img src="/assets/jmm/siledgeandply.jpg">
 				<blockquote>The finished roof with 1/15" ply bonded into position.</blockquote>
 			</td>
 		</tr>
@@ -186,21 +186,21 @@ The same measurements could be made using a large inside caliper or even two pie
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silhatchcut2.jpg">
+				<img src="/assets/jmm/silhatchcut2.jpg">
 				<blockquote>With lockers and bunks installed the opening in the end of cabin bulhead was opened up for access.</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silhatchcut.jpg">
+				<img src="/assets/jmm/silhatchcut.jpg">
 				<blockquote>That completed it was time to ' near demolish ' the cabin roof by sawing the access hatch opening.</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/silhatche2.jpg">
+				<img src="/assets/jmm/silhatche2.jpg">
 				<blockquote>The main hatch opening trimmed and runners installed. All the pin holes have been filled ready for sanding.</blockquote>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/silhatches1.jpg">
+				<img src="/assets/jmm/silhatches1.jpg">
 				<blockquote>The fore hatch in place. In each case the hatches were 4 pieces of 1/32" ply laminated over a former.</blockquote>
 			</td>
 		</tr>
@@ -215,17 +215,17 @@ Not always the case at low water when a sandbank could provide an angled berth a
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silkeelsandfinfix.jpg">
+				<img src="/assets/jmm/silkeelsandfinfix.jpg">
 				<blockquote>The main keel and bilge keels have been installed, also the fin which provides for rudder stability.</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silonownfeet.jpg">
+				<img src="/assets/jmm/silonownfeet.jpg">
 				<blockquote>The boat will now ' sit on its own four feet ' as we might say.</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2">
-				<img src="/jgdr20/assets/jmm/silruddertry.jpg">
+				<img src="/assets/jmm/silruddertry.jpg">
 				<blockquote>Trial installation of the rudder on the rudder post.</blockquote>
 			</td>
 		</tr>
@@ -243,11 +243,11 @@ Of course for exhibition models with fine detail any of the paint systems are ad
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/sildeckpainted.jpg">
+				<img src="/assets/jmm/sildeckpainted.jpg">
 				<blockquote>Here the side decks have been painted and the coaming is pre-bent and ready for fixing.</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silcoamingfixed.jpg">
+				<img src="/assets/jmm/silcoamingfixed.jpg">
 				<blockquote>The coamings are fixed and ready for trimming.</blockquote>
 			</td>
 		</tr>
@@ -265,11 +265,11 @@ Pinning and springing into the sheer profile followed.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silowfiitings.jpg">
+				<img src="/assets/jmm/silowfiitings.jpg">
 				<blockquote>Fairleads and bow fitting intalled plus the eye bolt for the forestay.</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silsternfittings.jpg">
+				<img src="/assets/jmm/silsternfittings.jpg">
 				<blockquote>The mainsheet fairleads and the stern cleats set in palace.</blockquote>
 			</td>
 		</tr>
@@ -327,17 +327,17 @@ The sheets are of parachute cord - the fairleads have the plastic inserts requir
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silhoetteohead1.jpg">
+				<img src="/assets/jmm/silhoetteohead1.jpg">
 				<blockquote>Overhead view starboard side, completed model.</blockquote>
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/silhouetteohead2.jpg">
+				<img src="/assets/jmm/silhouetteohead2.jpg">
 				<blockquote>Overhead view port side.</blockquote>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2">
-				<img src="/jgdr20/assets/jmm/silouetteohead4.jpg">
+				<img src="/assets/jmm/silouetteohead4.jpg">
 				<blockquote>Stern view.</blockquote>
 			</td>
 		</tr>

@@ -34,10 +34,10 @@ He found himself in many demanding situations
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/a5.jpg">
+				<img src="/assets/jmm/a5.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/crtoon03.jpg">
+				<img src="/assets/jmm/crtoon03.jpg">
 			</td>
 		</tr>
 	</table>
@@ -51,10 +51,10 @@ His was a very extended learning curve..........................................
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/compilation5.jpg">
+				<img src="/assets/jmm/compilation5.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/compilation6.jpg">
+				<img src="/assets/jmm/compilation6.jpg">
 			</td>
 		</tr>
 		<tr>

@@ -7,7 +7,7 @@ complete with the exhaust casings to provide adequate access to the motors, spee
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/engineroom2.jpg">
+				<img src="/assets/jmm/engineroom2.jpg">
 			</td>
 			<td class="col2">
 				<p>The engine room sides, and fore and aft bulkheads are positioned and glued.</p>
@@ -31,7 +31,7 @@ the bottom edge of the bulwark was trimmed to line. A trial fit allowed holes to
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/sternbulwark1.jpg">
+				<img src="/assets/jmm/sternbulwark1.jpg">
 			</td>
 			<td class="col2">
 				<p>	The outer veneer of the ply was dampened and the ply progressively pinned into place.</p>
@@ -56,7 +56,7 @@ Fortunately the 3/32" ply becomes immensely strong when curved to any degree and
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/05052807.jpg">
+				<img src="/assets/jmm/05052807.jpg">
 			</td>
 			<td class="col2">
 				<p>The bulwarks trimmed to the correct height are ready for the supports to be installed. This takes time as very few are similar, especially at the bow and stern.</p>
@@ -72,7 +72,7 @@ Fortunately the 3/32" ply becomes immensely strong when curved to any degree and
 				<p>It is apparent that we missed a bit of primer from the main hull members. But the hull sure is roomy.</p>
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/05052812.jpg">
+				<img src="/assets/jmm/05052812.jpg">
 			</td>
 		</tr>
 	</table>
@@ -90,7 +90,7 @@ although I seem to have been making more visits to the modelshop of late !
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/mockup.jpg">
+				<img src="/assets/jmm/mockup.jpg">
 			</td>
 			<td class="col2">
 				<p>This is a preliminary mock up of what the superstructure may look like. Contingencies do, however, change plans radically but it will look someting like this.</p>
@@ -106,7 +106,7 @@ can be included, and as long as the scale is appropriate one can shrug-off the '
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/onwardsandupwards.jpg">
+				<img src="/assets/jmm/onwardsandupwards.jpg">
 			</td>
 			<td class="col2">
 				<p>The superstructure is taking shape.</p>
@@ -131,7 +131,7 @@ made from pipe and plumbing fittings; there are accessories to enable me to cart
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/carrielrlauncher.jpg">
+				<img src="/assets/jmm/carrielrlauncher.jpg">
 			</td>
 			<td class="col2">
 				<p>Carrier/launcher and attachment for use with Free Lancer.</p>

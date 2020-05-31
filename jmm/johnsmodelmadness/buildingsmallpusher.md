@@ -51,18 +51,18 @@ As can be seen from images throughout my pages, the plastic clips, available fro
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/spsupstart.jpg">
+				<img src="/assets/jmm/spsupstart.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/spfunnel3.jpg">
+				<img src="/assets/jmm/spfunnel3.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/spfunnel4.jpg">
+				<img src="/assets/jmm/spfunnel4.jpg">
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/spstiffeners.jpg">
+				<img src="/assets/jmm/spstiffeners.jpg">
 			</td>
 		</tr>
 	</table>
@@ -94,18 +94,18 @@ I find it useful to have the most frequently used tools handy in a tray, in this
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/smlpushbulwks.jpg">
+				<img src="/assets/jmm/smlpushbulwks.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/smlpushbulwks2.jpg">
+				<img src="/assets/jmm/smlpushbulwks2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/smpushstern%20bul.jpg">
+				<img src="/assets/jmm/smpushstern%20bul.jpg">
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/smpushtoolsoftrade.jpg">
+				<img src="/assets/jmm/smpushtoolsoftrade.jpg">
 			</td>
 		</tr>
 	</table>
@@ -139,18 +139,18 @@ and provides space for fing fuse, switch, ESC. etc.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/springhanrails.jpg">
+				<img src="/assets/jmm/springhanrails.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/spricontroldept.jpg">
+				<img src="/assets/jmm/spricontroldept.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/jgdr20/assets/jmm/springfloattest.jpg">
+				<img src="/assets/jmm/springfloattest.jpg">
 			</td>
 			<td>
-				<img src="/jgdr20/assets/jmm/springcrane2.jpg">
+				<img src="/assets/jmm/springcrane2.jpg">
 			</td>
 		</tr>
 	</table>
@@ -163,15 +163,15 @@ This ensured that the joint was ' Tight ' and the join invisible.
 	<table>
 		<tr>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/spricraneinconstruction.jpg">
+				<img src="/assets/jmm/spricraneinconstruction.jpg">
 			</td>
 			<td class="col2">
-				<img src="/jgdr20/assets/jmm/spristernwinch2.jpg">
+				<img src="/assets/jmm/spristernwinch2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2">
-				<img src="/jgdr20/assets/jmm/sprifngerafloat.jpg">
+				<img src="/assets/jmm/sprifngerafloat.jpg">
 			</td>
 		</tr>
 	</table>

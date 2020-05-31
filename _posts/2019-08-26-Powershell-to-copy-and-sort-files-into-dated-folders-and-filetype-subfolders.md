@@ -54,4 +54,4 @@ Updated 2019-08-21 to fix issue with -Include filter (use the arrays, Luke) and 
 Updated 2019-08-26 to remove vestigial Get-ScriptDirectory() function, moved daterange and directory validation to parameters, added # of copied and skipped files processed to output, cleaned inappropriate quotation marks
 
 [Repo]: https://github.com/JGDR20/Dated-and-extension-file-sort
-[screenshot]: /jgdr20/assets/2019-08-26-PS_folder_screenshot.png
+[screenshot]: /assets/2019-08-26-PS_folder_screenshot.png
