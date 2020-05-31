@@ -2,7 +2,7 @@
 layout: page
 title: John's Model Madness
 alt_title: JMM
-permalink: /jmm
+permalink: /jmm/index.html
 ---
 My Grandad, John G. Richardson, passed away in March '20. He goes to join his wife Francis 'Nana' Olwen and is survived by two sons and several grandchildren.
 

@@ -3,7 +3,9 @@ language: ruby
 rvm:
   - 2.6
 script: bundle exec jekyll build
-install: bundle install
+install:
+  - bundle install
+  - pip install --user awscli
 deploy:
   - provider: s3
     on:
