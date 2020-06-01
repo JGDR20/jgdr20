@@ -2,6 +2,7 @@
 layout: page
 title: Building The Small Sailor/Cruiser Silhouette
 subtitle: A Model Of An ' Old Friend '
+permalink: /jmm/johnsmodelmadness/buildingthesilhouette/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-11-20
 last_updated_format: 2020-04-25

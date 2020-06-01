@@ -2,6 +2,7 @@
 layout: page
 title: Book On Building
 subtitle: Building A Narrow Gauge Locomotive On 5" Gauge.....2 1/2" Scale
+permalink: /jmm/johnsmodelmadness/bookonbuilding/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-02-25
 last_updated_format: 2020-05-03

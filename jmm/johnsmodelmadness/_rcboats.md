@@ -11,7 +11,7 @@ Currently activities are focussed on building model boats........so a page on th
 			<td class="col2">
 				' Egrete ' A Rhine ' Pusher tug ' in 1/2" scale from free drawings published in Model Boats Magazine.<br>
 				To view construction click here:<br>
-				<a href="buildingthepusherold">Building the Rhine pusher</a>
+				<a href="buildingthepusherold/index.html">Building the Rhine pusher</a>
 			</td>
 		</tr>
 		<tr>
@@ -40,13 +40,13 @@ The step- by- step build is illustrated here: [Click here][BuildingWorkBoat]
 			</td>
 			<td class="col2">
 				' Free Lancer ' a 1/24" scale, scratchbuilt workboat ' .....own design based on details of boats taken from the 'web'.<br>
-				To see the construction <a href="buildingworkboat">Click here</a>
+				To see the construction <a href="buildingworkboat/index.html">Click here</a>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				This is ' Freelancer 2 ' based upon lessons learned from the earlier build.<br>
-				To see the construction <a href="buildingfreelancer2">Click here</a>
+				To see the construction <a href="buildingfreelancer2/index.html">Click here</a>
 			</td>
 			<td>
 				<img src="/assets/jmm/freelancer2afloat1sttime2.jpg">
@@ -67,7 +67,7 @@ A Recently added page describing two successful radio controlled model sailing b
 			</td>
 			<td class="col2">
 				Both are built mainly from scrap and reclaimed materials.<br>
-				To see the construction <a href="yacht">Click here</a>
+				To see the construction <a href="yacht/index.html">Click here</a>
 			</td>
 		</tr>
 	</table>
@@ -84,7 +84,7 @@ This page describes construction of a small trailer sailer / cruiser which I use
 				<img src="/assets/jmm/silhouette_1.jpg">
 			</td>
 			<td>
-				To see the construction <a href="buildingthesilhouette">Click here</a>
+				To see the construction <a href="buildingthesilhouette/index.html">Click here</a>
 			</td>
 		</tr>
 	</table>
@@ -101,7 +101,7 @@ This page describes the construction of a small pusher based on the Springer cla
 				<img src="/assets/jmm/smpushsternview3.jpg">
 			</td>
 			<td>
-				To see the construction <a href="buildingsmallpusher">Click here</a>
+				To see the construction <a href="buildingsmallpusher/index.html">Click here</a>
 			</td>
 		</tr>
 	</table>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Building Free Lancer 2
+permalink: /jmm/johnsmodelmadness/buildingfreelancer2/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-03-11
 last_updated_format: 2020-04-22

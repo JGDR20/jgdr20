@@ -2,6 +2,7 @@
 layout: page
 title: The Clyde Puffer
 subtitle: and others
+permalink: /jmm/johnsmodelmadness/theclydepuffer/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-11-20
 last_updated_format: "now"

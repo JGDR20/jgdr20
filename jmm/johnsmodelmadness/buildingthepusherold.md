@@ -2,6 +2,7 @@
 layout: page
 title: Building the Rhine Pusher 'Egrete'
 subtitle: 
+permalink: /jmm/johnsmodelmadness/buildingthepusherold/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2012-03-17
 last_updated_format: 2020-04-25
@@ -185,7 +186,7 @@ The styrene sheet used for the dory was recovered from the bottom of an ice crea
 		<tr>
 			<td class="col2">
 				<img src="/assets/jmm/nozzlesbeforecleanup.jpg">
-				<blockquote>Editor's Note: This image is from <a href="buildingworkboat">Free Lancer 1</a></blockquote>
+				<blockquote>Editor's Note: This image is from <a href="buildingworkboat/index.html">Free Lancer 1</a></blockquote>
 			</td>
 			<td class="col2">
 				<p>Brass sheet was bent around a coke bottle used as a former and soldered up to make steerable 'Kort ' type nozzles around the fixed propellers. These are similar to those for Egrete although actually for the current project, the workboat.</p>

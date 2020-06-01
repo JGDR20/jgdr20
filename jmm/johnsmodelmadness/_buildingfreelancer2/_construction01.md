@@ -58,7 +58,7 @@
 				<img src="/assets/jmm/ruddertubes.jpg">
 			</td>
 			<td>
-				<p>The rudder tubes are turned from Hex. P/bronze, bored 7/32" for S/steel posts. Expensive materials but offcuts left from the earlier <a href="buildallchin">'Allchin' traction engine build</a>.</p>
+				<p>The rudder tubes are turned from Hex. P/bronze, bored 7/32" for S/steel posts. Expensive materials but offcuts left from the earlier <a href="buildallchin/index.html">'Allchin' traction engine build</a>.</p>
 			</td>
 		</tr>
 		<tr>

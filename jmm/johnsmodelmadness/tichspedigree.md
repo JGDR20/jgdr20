@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tich's Pedigree
+permalink: /jmm/johnsmodelmadness/tichspedigree/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-03-18
 last_updated_format: 2020-04-19

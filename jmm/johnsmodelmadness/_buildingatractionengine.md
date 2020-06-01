@@ -4,7 +4,7 @@
 	<table>
 		<tr>
 			<td class="col2">
-				<a href="buildallchin">
+				<a href="buildallchin/index.html">
 					<img src="/assets/jmm/afinishedallchin.jpg">
 				</a>
 			</td>

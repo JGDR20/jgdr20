@@ -4,19 +4,19 @@ Click on the images below to go to the relevant pages and descriptions of their 
 	<table>
 		<tr>
 			<td class="col3">
-				<a href="buildallchin">
+				<a href="buildallchin/index.html">
 					<img src="/assets/jmm/afinishedallchin.jpg">
 				<blockquote>Allchin</blockquote>
 				</a>
 			</td>
 			<td class="col3">
-				<a href="pixiesbackground">
+				<a href="pixiesbackground/index.html">
 					<img src="/assets/jmm/pixie2.jpg">
 				<blockquote>Pixie</blockquote>
 				</a>
 			</td>
 			<td class="col3">
-				<a href="tichspedigree">
+				<a href="tichspedigree/index.html">
 					<img src="/assets/jmm/tichrejuvenated1.jpg">
 					<blockquote>Tich</blockquote>
 				</a>
@@ -24,19 +24,19 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		</tr>
 		<tr>
 			<td>
-				<a href="buildingworkboat">
+				<a href="buildingworkboat/index.html">
 					<img src="/assets/jmm/finished.jpg">
 					<blockquote>Free Lancer</blockquote>
 				</a>
 			</td>
 			<td>
-				<a href="buildingfreelancer2">
+				<a href="buildingfreelancer2/index.html">
 					<img src="/assets/jmm/lancer2afloat.jpg">
 					<blockquote>Free Lancer 2</blockquote>
 				</a>
 			</td>
 			<td>
-				<a href="yacht">
+				<a href="yacht/index.html">
 					<img src="/assets/jmm/littleandlarge.jpg">
 					<blockquote>Yachts</blockquote>
 				</a>
@@ -44,19 +44,19 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		</tr>
 		<tr>
 			<td>
-				<a href="buildingthepusherold">
+				<a href="buildingthepusherold/index.html">
 					<img src="/assets/jmm/egrete1.jpg">
 				<blockquote>Egrete</blockquote>
 				</a>
 			</td>
 			<td>
-				<a href="buildingthesilhouette">
+				<a href="buildingthesilhouette/index.html">
 					<img src="/assets/jmm/silbow2.jpg">
 				<blockquote>Sillhouette</blockquote>
 				</a>
 			</td>
 			<td>
-				<a href="buildingsmallpusher">
+				<a href="buildingsmallpusher/index.html">
 					<img src="/assets/jmm/smpushsternview3.jpg">
 				<blockquote>Small Pusher</blockquote>
 				</a>
@@ -64,19 +64,19 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		</tr>
 		<tr>
 			<td>
-				<a href="workshops">
+				<a href="workshops/index.html">
 					<img src="/assets/jmm/workshop222.jpg">
 				<blockquote>Workshops</blockquote>
 				</a>
 			</td>
 			<td>
-				<a href="workshoptoolsetc">
+				<a href="workshoptoolsetc/index.html">
 					<img src="/assets/jmm/4tool5.jpg">
 				<blockquote>Tool Sets</blockquote>
 				</a>
 			</td>
 			<td>
-				<a href="buildingpilotcutter">
+				<a href="buildingpilotcutter/index.html">
 					<img src="/assets/jmm/pilotdecbeams_installed.jpg">
 				<blockquote>Pilot Cutter</blockquote>
 				</a>
@@ -85,7 +85,7 @@ Click on the images below to go to the relevant pages and descriptions of their 
 		<tr>
 			<td class="empty"></td>
 			<td>
-				<a href="oogauge">
+				<a href="oogauge/index.html">
 					<img src="/assets/jmm/the16x10lookingnorth.jpg">
 				<blockquote>OO Gauge</blockquote>
 				</a>

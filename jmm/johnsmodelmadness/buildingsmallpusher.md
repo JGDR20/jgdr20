@@ -2,6 +2,7 @@
 layout: page
 title: Building A Small Pusher Tug
 subtitle:
+permalink: /jmm/johnsmodelmadness/buildingsmallpusher/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-03-02
 last_updated_format: 2020-04-25

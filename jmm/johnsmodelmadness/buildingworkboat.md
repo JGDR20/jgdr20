@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Building A Workboat - 'Free Lancer'
+permalink: /jmm/johnsmodelmadness/buildingworkboat/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2004-11-16
 last_updated_format: 2020-04-20

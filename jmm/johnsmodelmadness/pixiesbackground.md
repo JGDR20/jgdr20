@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pixie's Background and Build
+permalink: /jmm/johnsmodelmadness/pixiesbackground/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2006-06-23
 last_updated_format: 2020-04-20

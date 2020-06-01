@@ -2,6 +2,7 @@
 layout: page
 title: OO Gauge Model Railways
 subtitle: Many Years Of A Fun Railway Modelling
+permalink: /jmm/johnsmodelmadness/oogauge/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-02-25
 last_updated_format: 2020-04-26

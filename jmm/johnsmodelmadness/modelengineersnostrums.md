@@ -2,6 +2,7 @@
 layout: page
 title: Model Engineer's Nostrums
 subtitle: By John, with apologies to an anonymous Greek philosopher!
+permalink: /jmm/johnsmodelmadness/modelengineersnostrums/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-02-25
 last_updated_format: 2020-05-03

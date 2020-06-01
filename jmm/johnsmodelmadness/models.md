@@ -2,6 +2,7 @@
 layout: page
 title: A Few Assorted Models
 subtitle: 
+permalink: /jmm/johnsmodelmadness/models/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-02-25
 last_updated_format: "now"

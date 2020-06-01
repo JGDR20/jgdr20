@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Building the Allchin traction engine
+permalink: /jmm/johnsmodelmadness/buildallchin/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-03-14
 last_updated_format: 2020-04-20

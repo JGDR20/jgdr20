@@ -2,6 +2,7 @@
 layout: page
 title: My Workshops
 subtitle:
+permalink: /jmm/johnsmodelmadness/workshops/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2009-10-26
 last_updated_format: 2020-04-25

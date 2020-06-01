@@ -2,6 +2,7 @@
 layout: page
 title: Large Yacht Dimensions
 subtitle: 
+permalink: /jmm/johnsmodelmadness/largeyachtdims/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-11-20
 last_updated_format: 2020-04-24

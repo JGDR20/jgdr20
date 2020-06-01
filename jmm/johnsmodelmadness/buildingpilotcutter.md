@@ -2,6 +2,7 @@
 layout: page
 title: Building A Static Model Pilot Cutter
 subtitle:
+permalink: /jmm/johnsmodelmadness/buildingpilotcutter/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2015-01-21
 last_updated_format: 2020-04-26

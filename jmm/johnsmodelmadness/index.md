@@ -1,7 +1,7 @@
 ---
 layout: page
 title: John's Model Madness - reformatted
-permalink: /jmm/johnsmodelmadness/
+permalink: /jmm/johnsmodelmadness/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2015-02-31
 last_updated_format: 2020-04-20

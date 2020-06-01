@@ -2,6 +2,7 @@
 layout: page
 title: Workshop Toolsets
 subtitle: Tools and things... largely from scrap!
+permalink: /jmm/johnsmodelmadness/workshoptoolsetc/index.html
 author: John G. Richardson 'Cubcoman'
 last_updated_content: 2011-09-19
 last_updated_format: 2020-04-25
@@ -59,7 +60,7 @@ The following images show several such attachments largely prduced from scrap an
 			</td>
 			<td>
 				<p>This small block of metal - twice slotted, thrice drilled, twice tapped and once bored - holds a boring bar which accommodates short cutters made from tool steel.</p>
-				<p>It proved useful a number of times in constructing both <em><a href="pixiesbackground">Pixie</a></em> and the <em><a href="buildallchin">Allchin</a></em>.</p>
+				<p>It proved useful a number of times in constructing both <em><a href="pixiesbackground/index.html">Pixie</a></em> and the <em><a href="buildallchin/index.html">Allchin</a></em>.</p>
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +135,7 @@ The following images show several such attachments largely prduced from scrap an
 		</tr>
 		<tr>
 			<td colspan="2">
-				<p>I found it necessary to build a hoist to handle the ' <em><a href="buildallchin">Allchin</a></em> ' about the workshop and ' <em><a href="pixiesbackground">Pixie</a></em> ' onto the track and the bench.
+				<p>I found it necessary to build a hoist to handle the ' <em><a href="buildallchin/index.html">Allchin</a></em> ' about the workshop and ' <em><a href="pixiesbackground/index.html">Pixie</a></em> ' onto the track and the bench.
 				I thought of buying an engine hoist as is used in garages but as it would only be used occasionally the cost ruled that out.
 				Then I decided to design and build my own ' Bespoke ' hoist.</p>
 				<p>The search through a few skips for suitable materials unearthed some heavy-duty warehouse racking ( why on earth do people scrap such useful gear ? ).
