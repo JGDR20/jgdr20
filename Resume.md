@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resumé
-permalink: /resume/index.html
+# permalink: /resume/index.html
 ---
 ## Headline Skills:
 

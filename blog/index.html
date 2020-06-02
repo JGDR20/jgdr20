@@ -2,7 +2,9 @@
 layout: page
 title: Blog
 alt_title: Blog
-# permalink: /blog/index.html
+pagination: 
+  enabled: true
+  category: posts
 ---
 
 <div class="home">
@@ -43,7 +45,7 @@ alt_title: Blog
 
 	<div class="pagination">
 	  {% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | relative_url | append: "index.html" }}" class="previous">
+		<a href="{{ paginator.previous_page_path | relative_url }}" class="previous">
 		  Previous
 		</a>
 	  {% else %}
@@ -53,13 +55,13 @@ alt_title: Blog
 		Page: {{ paginator.page }} of {{ paginator.total_pages }}
 	  </span>
 	  {% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | relative_url | append: "index.html" }}" class="next">Next</a>
+		<a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
 	  {% else %}
 		<span class="next ">Next</span>
 	  {% endif %}
 	</div>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
 
 </div>

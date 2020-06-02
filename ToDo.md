@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ToDo
-permalink: /todo/index.html
+# permalink: /todo/index.html
 ---
 * [x] Create Category landing pages with filtering
 * [x] Add Grandad's site
