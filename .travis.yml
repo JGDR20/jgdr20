@@ -17,9 +17,11 @@ deploy:
     # local_dir: _site
     # region: eu-west-1
   - provider: script
-    script:
-      - aws s3 sync _site s3://jgdr20 --region: eu-west-1 --delete
+    on:
+      branch: master
     skip_cleanup: true
+    script: 
+      - aws s3 sync _site s3://jgdr20 --region: eu-west-1
   - provider: script
     on:
       branch: master
