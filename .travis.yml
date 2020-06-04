@@ -28,3 +28,9 @@ deploy:
     skip_cleanup: true
     script: 
       - aws cloudfront create-invalidation --distribution-id E32SB4NXD0EYKP --paths '/*'
+notifications:
+  email:
+    recipients:
+      - admin@jgdr20.com
+    on_success: always # default: change
+    on_failure: always # default: always
