@@ -8,7 +8,9 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-		{%- include sidebar-right.html -%}
+		{%- unless page.sidebar == false -%}
+			{%- include sidebar-right.html -%}
+		{%- endunless -%}
         {{ content }}
       </div>
     </main>
