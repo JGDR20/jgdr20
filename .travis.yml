@@ -7,15 +7,19 @@ install:
   - bundle install
   - pip install --user awscli
 deploy:
-  - provider: s3
-    on:
-      branch: master
-    access_key_id: $AWS_ACCESS_KEY_ID
-    secret_access_key: $AWS_SECRET_ACCESS_KEY
-    bucket: jgdr20
+  # - provider: s3
+    # on:
+      # branch: master
+    # access_key_id: $AWS_ACCESS_KEY_ID
+    # secret_access_key: $AWS_SECRET_ACCESS_KEY
+    # bucket: jgdr20
+    # skip_cleanup: true
+    # local_dir: _site
+    # region: eu-west-1
+  - provider: script
+    script:
+      - aws s3 sync _site s3://jgdr20 --region: eu-west-1 --delete
     skip_cleanup: true
-    local_dir: _site
-    region: eu-west-1
   - provider: script
     on:
       branch: master
