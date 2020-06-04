@@ -1,0 +1,19 @@
+---
+layout: page
+asset: "/assets/Portfolios/"
+---
+<article class="post">
+
+<a href="/Portfolios.html"><h3>Back to Portfolio list</h3></a>
+
+<div>
+{%- assign photos = site.data.Portfolios.photos | where: "portfolio", page.title -%}
+{%- for photo in photos -%}
+	{%- assign rel_url = layout.asset | append: photo.image -%}
+	<!-- {{ rel_url }} -->
+	<!-- {{ photo | inspect }} -->
+	  {%- include image.html title=photo.title url=rel_url description=photo.description file=photo.image -%}
+{%- endfor -%}
+</div>
+
+</article>

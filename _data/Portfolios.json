@@ -1,0 +1,141 @@
+{
+	"portfolios": [
+		{
+			"title": "B&W",
+			"description": "B&W stuff",
+			"image": "20190905-London Lunchtimers-IMG_6820.JPG",
+			"page": "/portfolios/BW.html"
+		},
+		{
+			"title": "People",
+			"description": "People doing things",
+			"image": "IMG_5364.JPG",
+			"page": "/portfolios/People.html"
+		},
+		{
+			"title": "Street",
+			"description": "Odd things seen while walking",
+			"image": "20190811-Whitechapel-_MG_6619.JPG",
+			"page": "/portfolios/Street.html"
+		},
+		{
+			"title": "Objects",
+			"description": "Things",
+			"image": "20170929-Dado54-IMG_3326-007.JPG",
+			"page": "/portfolios/Objects.html"
+		}
+	],
+	"photos": [
+		{
+			"title": "Hang Loose",
+			"description": "Taken somewhere in Boston, MA.",
+			"image": "IMG_5033.JPG",
+			"portfolio": [
+				"People"
+				]
+		},
+		{
+			"title": "Rugged",
+			"description": "Taken somewhere in Boston, MA.",
+			"image": "IMG_5067 (4).JPG",
+			"portfolio": [
+				"People"
+				,"B&W"
+				]
+		},
+		{
+			"title": "Hearty Laugh",
+			"description": "Taken in a bar. It was a proper laugh.",
+			"image": "20170929-Dado54-IMG_3331-010.JPG",
+			"portfolio": [
+				"People"
+				]
+		},
+		{
+			"title": "Martini Glass",
+			"description": "Underexposed.",
+			"image": "20170929-Dado54-IMG_3326-007.JPG",
+			"portfolio": [
+				"Objects"
+				]
+		},
+		{
+			"title": "Strangley Peckish",
+			"description": "London Film and Comic Con, Stranger Things cosplay (rudely interrupted while taking a break)",
+			"image": "20190727-LFCC-IMG_6360.JPG",
+			"portfolio": [
+				"People"
+				]
+		},
+		{
+			"title": "Boat Watching",
+			"description": "A couple watching the boats go by in Cambridge",
+			"image": "20190804-Cambridge - James' - Leaving - Do-_MG_6464.JPG",
+			"portfolio": [
+				"People"
+				]
+		},
+		{
+			"title": "RATE",
+			"description": "Funky van in Whitechapel",
+			"image": "20190811-Whitechapel-_MG_6619.JPG",
+			"portfolio": [
+				"Street"
+				]
+		},
+		{
+			"title": "Taking Care",
+			"description": "Got absolutely rinsed by this couple; they had a very practiced pitch only slightly ruined by the offer of sexual favours. Good story though.",
+			"image": "IMG_5364.JPG",
+			"portfolio": [
+				"Street",
+				"People"
+				]
+		},
+		{
+			"title": "Headshot",
+			"description": "Headshot taken in the living room with a tree behind. Over-exposed backlight.",
+			"image": "20200530-Headshots-_MG_7863.JPG",
+			"portfolio": [
+				"B&W",
+				"People"
+				]
+		},
+		{
+			"title": "Brick, Paint & Glass",
+			"description": "Could've lined up the shot better. Taken in or near Whitechapel.",
+			"image": "20190811-Whitechapel-_MG_6654.JPG",
+			"portfolio": [
+				"Street"
+				]
+		},
+		{
+			"title": "Nervous",
+			"description": "Possibly trying to work out their stop.",
+			"image": "20190905-London Lunchtimers-IMG_6820.JPG",
+			"portfolio": [
+				"Street",
+				"People",
+				"B&W"
+				]
+		},
+		{
+			"title": "Long Distance Call",
+			"description": "I like to think they're French. Probably not, but it feels right.",
+			"image": "20190925-Drinks with Ex-RITEQ-_MG_6946.JPG",
+			"portfolio": [
+				"Street",
+				"People",
+				"B&W"
+				]
+		},
+		{
+			"title": "Long Drag",
+			"description": "Bar owner taking a break",
+			"image": "IMG_3173_colour-spot.JPG",
+			"portfolio": [
+				"People"
+				]
+		}
+	]
+}
