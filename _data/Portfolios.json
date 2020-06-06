@@ -14,14 +14,14 @@
 		},
 		{
 			"title": "Street",
-			"description": "Odd things seen while walking",
+			"description": "Seen while walking",
 			"image": "20190811-Whitechapel-_MG_6619.JPG",
 			"page": "/portfolios/Street.html"
 		},
 		{
 			"title": "Objects",
 			"description": "Things",
-			"image": "20170929-Dado54-IMG_3326-007.JPG",
+			"image": "IMG_5339.JPG",
 			"page": "/portfolios/Objects.html"
 		}
 	],
@@ -133,6 +133,74 @@
 			"title": "Long Drag",
 			"description": "Bar owner taking a break",
 			"image": "IMG_3173_colour-spot.JPG",
+			"portfolio": [
+				"People"
+				]
+		},
+		{
+			"title": "Grattitude",
+			"description": "This man got me quite drunk on my first day.",
+			"image": "20190925-Drinks with Ex-RITEQ-_MG_6919-Edit.JPG",
+			"portfolio": [
+				"People",
+				"B&W"
+				]
+		},
+		{
+			"title": "Three Drinks",
+			"description": "Winner stays on.",
+			"image": "20191031-CRD Social-IMG_7117.JPG",
+			"portfolio": [
+				"People",
+				"B&W"
+				]
+		},
+		{
+			"title": "Graffiti Alley",
+			"description": "Boston, MA",
+			"image": "IMG_5443 (2).JPG",
+			"portfolio": [
+				"Street"
+				]
+		},
+		{
+			"title": "Standing Stones",
+			"description": "Taken somewhere in Halibut Point State Park, Massachusetts.",
+			"image": "IMG_5339.JPG",
+			"portfolio": [
+				"Objects"
+				]
+		},
+		{
+			"title": "Florist",
+			"description": "Florist in Boston, MA.",
+			"image": "IMG_5170.JPG",
+			"portfolio": [
+				"Street",
+				"Objects"
+				]
+		},
+		{
+			"title": "Breakfast",
+			"description": "Pitstop on a road trip in Massachusetts.",
+			"image": "IMG_5260.JPG",
+			"portfolio": [
+				"People"
+				]
+		},
+		{
+			"title": "Morning Glory",
+			"description": "Couldn't resist.",
+			"image": "IMG_5263.JPG",
+			"portfolio": [
+				"Street",
+				"Objects"
+				]
+		},
+		{
+			"title": "No Swimming",
+			"description": "... but the temptation was definitely there.",
+			"image": "IMG_5324.JPG",
 			"portfolio": [
 				"People"
 				]
