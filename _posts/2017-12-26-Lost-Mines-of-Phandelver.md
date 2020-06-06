@@ -2,7 +2,7 @@
 layout: post
 title:  "Lost Mines of Phandelver"
 date:   2017-12-26 00:00:00 +0000
-categories: [D&D, Games, Lost Mines of Phandelver]
+categories: [Games, D&D, Lost Mines of Phandelver]
 author: Joe
 voice: Gus
 ---

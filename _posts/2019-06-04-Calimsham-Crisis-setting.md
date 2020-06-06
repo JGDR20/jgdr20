@@ -2,7 +2,7 @@
 layout: post
 title:  "Calimshan Crisis – Invite"
 date:   2019-06-04 00:00:00 +0000
-categories: [D&D, Games]
+categories: [Games, D&D]
 author: Joe
 ---
 <hr style="border-color:red"/>
