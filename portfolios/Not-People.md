@@ -1,5 +1,5 @@
 ---
 layout: portfolio
-title: Objects
+title: Not People
 sidebar: No
 ---
