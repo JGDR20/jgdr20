@@ -9,32 +9,32 @@ As the lockdown restrictions start being lifted in England (which could have hap
 
 The first walk was on Saturday and it was really nice, although I had to get up *far* earlier than usual to avoid people as much as possible. I've included some photos from the walk below.
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_7883-HDR.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_7883-HDR.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_7985.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_7985.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_7986.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_7986.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_7991.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_7991.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8003-HDR.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8003-HDR.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8049-HDR.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8049-HDR.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8081-HDR.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8081-HDR.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8096.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8096.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8132-3-Composite.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8132-3-Composite.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8153.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8153.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8162-HDR.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8162-HDR.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8166.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8166.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8197.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8197.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8213.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8213.JPG)
 
-![](/assets/portfolios/20200620-Canal Walk-_MG_8216.JPG)
+![](/assets/Portfolios/20200620-Canal Walk-_MG_8216.JPG)
