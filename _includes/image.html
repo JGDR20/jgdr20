@@ -1,9 +1,10 @@
-<div>
-	<h2>{{ include.title }}</h2>
-	<p>{{ include.description }}</p>
-	<figure class="image">
-		<img src="{{ include.url }}" alt="{{ include.description }}">
-		<figcaption>{{ include.file }}</figcaption>
-	</figure>
-	<hr>
-</div>
+<li class="photo-bundle">
+	<div class="photo-bundle">
+		<h2>{{ include.title }}</h2>
+		<p>{{ include.description }}</p>
+		<figure class="photo-bundle">
+			<img class="photo-bundle" src="{{ include.url }}" alt="{{ include.description }}">
+			<figcaption>{{ include.file }}</figcaption>
+		</figure>
+	</div>
+</li>

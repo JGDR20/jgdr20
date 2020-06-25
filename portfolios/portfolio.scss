@@ -1,0 +1,72 @@
+---
+---
+
+//Portfolio Flex
+
+// Width of the content area
+//$flex-content-width:    1200px !default;
+$spacing-unit:     30px !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+/**
+ * Wrapper
+ */
+.flex-wrapper {
+  //max-width: -webkit-calc(#{$flex-content-width} - (#{$spacing-unit} * 2));
+  //max-width:         calc(#{$flex-content-width} - (#{$spacing-unit} * 2));
+  //margin-right: auto;
+  //margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+}
+
+
+ul.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border: none;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: row wrap;
+  //justify-content: space-between;
+  //align-content: stretch;
+  //align-items: flex-start;
+}
+
+.photo-bundle {
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 100%;
+}
+
+img.photo-bundle {
+  //align-self: center;
+  height: 40vh;
+  object-fit: cover;
+}
+
+li.photo-bundle {
+  //height: 40vh;
+  flex-grow: 1;
+  //max-width: 400px;
+  border-bottom: 1px;
+}
+
+div.photo-bundle {
+  padding: 5px;
+  
+  h2, p {
+    float: left;
+  }
+}

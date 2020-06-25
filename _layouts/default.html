@@ -7,7 +7,11 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+	{%- unless page.layout == "portfolio" -%}
+		<div class="wrapper">
+	  {%- else -%}
+	    <div class="flex-wrapper">
+	  {%- endunless -%}
 		{%- unless page.sidebar == false -%}
 			{%- include sidebar-right.html -%}
 		{%- endunless -%}
