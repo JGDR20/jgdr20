@@ -1,10 +1,10 @@
-<li class="photo-bundle">
-	<div class="photo-bundle">
+<div class="photo-bundle">
+	<a href="{{ include.dest_url }}" target="_blank" class="photo-bundle">
 		<h2>{{ include.title }}</h2>
 		<p>{{ include.description }}</p>
 		<figure class="photo-bundle">
 			<img class="photo-bundle" src="{{ include.url }}" alt="{{ include.description }}">
 			<figcaption>{{ include.file }}</figcaption>
 		</figure>
-	</div>
-</li>
+	</a>
+</div>

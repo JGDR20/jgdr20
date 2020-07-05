@@ -95,10 +95,29 @@ pagination:
 
 ############################################################
 
+
+############################################################
+# Site configuration for the Jekyll Datapage Generation plugin
+
+page_gen-dirs: [true|false]
+
+page_gen:
+- data: 'Portfolios.photos'
+  template: 'photo'
+  dir: 'portfolios/photos'
+  index_files: false
+  name: 'image'
+  title: title
+  extension: 'html'
+
+############################################################
+
 # Build settings
 theme: minima
-#plugins:
+
+plugins:
 #  - jekyll-feed
+  - jekyll-datapage-generator
 
 header_pages:
   - index.md

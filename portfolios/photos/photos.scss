@@ -1,0 +1,38 @@
+---
+---
+
+//Portfolio Flex
+
+/**
+ Try redoing as column-based flex
+ */
+
+// Width of the content area
+//$flex-content-width:    1200px !default;
+$spacing-unit:     30px !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+/**
+ * Wrapper
+ */
+.flex-wrapper {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.photo-bundle {
+  margin: auto;
+  text-align: center;
+  max-height: 90vh;
+  object-fit: contain;
+}
+
+.post-title {
+  margin: auto;
+  text-align: center;
+}
