@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resumé
+sidebar: No
 # permalink: /resume/index.html
 ---
 ## Headline Skills:
