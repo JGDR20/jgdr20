@@ -13,3 +13,4 @@ title: ToDo
 * [x] Implement photo galleries, possibly lightbox.js? Maybe something with no script or plugin
   * Done with Flexbox CSS
 * [ ] Bring over blog posts from WP site
+* [ ] Create print-friendly alt css for resumé
