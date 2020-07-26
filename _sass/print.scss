@@ -1,0 +1,34 @@
+//Print view
+
+@media print {
+	header nav, footer, .sidebar-right {
+		display: none;
+	}
+	
+	.site-header, .page-content, .post-header {
+		border: none;
+		padding: unset;
+		margin: unset;
+	}
+	
+	@page {
+		margin: 0.5cm;
+		border: none;
+	}
+	
+	h1 {
+		margin-bottom: 10px;
+	}
+	
+	h2 {
+		margin-top: 10px;
+	}
+	
+	h3 {
+		margin-top: 10px;
+	}
+	
+	.print-block {
+		page-break-inside: avoid;
+	}
+}
