@@ -34,7 +34,7 @@ excerpt_separator: <!-- more -->
 show_excerpts: true
 #paginate_path:  "/blog/page:num/"
 
-destination: _site2
+destination: _site
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
