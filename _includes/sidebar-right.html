@@ -1,6 +1,6 @@
 <div class="sidebar-right">
   Blog Categories
   {% for category in site.categories %}
-    <div><a class="page-link" href="{{ site.baseurl }}/category/{{ category[0] | slugify | append: "/index.html" }}">{{ category[0] | Sentence }} <span> ({{ category[1].size }}) </span></a></div>
+    <div><a class="page-link" href="{{ site.baseurl }}/category/{{ category[0] | append: "/index.html" }}">{{ category[0] | Sentence }} <span> ({{ category[1].size }}) </span></a></div>
   {% endfor %}
 </div>
