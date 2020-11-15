@@ -13,7 +13,7 @@ Laugh, joke, cheer and of course weep, for you do not know the dark forces that 
 
 Never has the need for heroes been as desperate - are you ready?  
 </div>
-
+<!-- more -->
 <div class="print-block" markdown="1">
 ## Setting
 
