@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Efficient Beurocratic Adventuring Company
-permalink: /category/EBAC/index.html
+permalink: /category/ebac/index.html
 category: EBAC
 ---
