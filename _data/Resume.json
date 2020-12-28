@@ -185,18 +185,18 @@
       "institution": "The University of Reading",
       "area": "Meteorology",
       "studyType": "Certificate of Higher Education",
-      "startDate": "2006-12-31",
-      "endDate": "2008-12-31",
-      "gpa": "",
+      "startDate": "2006-09-01",
+      "endDate": "2008-06-31",
+      "gpa": "Pass",
       "courses": []
     },
     {
       "institution": "Royal Grammar School",
       "area": "Maths, Physics, Biology, Chemistry",
       "studyType": "A-Level",
-      "startDate": "1999-12-31",
-      "endDate": "2006-12-31",
-      "gpa": "",
+      "startDate": "1999-09-01",
+      "endDate": "2006-07-31",
+      "gpa": "ABBB",
       "courses": []
     }
   ],

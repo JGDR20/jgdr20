@@ -62,6 +62,9 @@ layout: default
 						{% endfor %}
 					</div>
 				</div>
+				{%- if forloop.last != true -%}
+					<hr class="half-hr">
+				{%- endif -%}
 			{% endfor %}
 		<!-- </div> -->
 		
@@ -77,7 +80,7 @@ layout: default
 					<p>{{ reference.reference }}</p>
 				</div>
 				{%- if forloop.last != true -%}
-						<hr class="half-hr">
+					<hr class="half-hr">
 				{%- endif -%}
 			{% endfor %}
 		</div>
@@ -177,7 +180,7 @@ layout: default
 				{%- assign jobMonths = endSec | minus: startSec | divided_by: 3600 | divided_by: 24 | divided_by: 30 -%}
 				{%- assign jobYear = jobMonths | divided_by: 12 -%}
 				{%- assign jobMonth = jobMonths | modulo: 12 -%}
-				<div class="print-block" style="padding: 0px 20px 10px 0px;">
+				<div class="print-block non-technical">
 					<h3>{{ job.company }}</h3>
 					<div>
 						<p>
@@ -201,6 +204,22 @@ layout: default
 						</p>
 					</div>
 				</div>
+			{% endfor %}
+		</div>
+		
+		<hr>
+		
+		{% assign courses = site.data.Resume.education %}
+		<h2 class="post-list-heading">Education</h2>
+		<div>
+			{% for course in courses %}
+				<div class="print-block">
+					<h4>{{ course.institution }} | <em>{{ course.startDate | date: "%Y" }} - {{ course.endDate | date: "%Y" }}</em></h3>
+					<p>{{ course.studyType }}: {{ course.area }} | <em>{{ course.gpa }}</em></p>
+				</div>
+				{%- if forloop.last != true -%}
+					<hr class="half-hr">
+				{%- endif -%}
 			{% endfor %}
 		</div>
 		
