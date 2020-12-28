@@ -312,4 +312,34 @@
       @include relative-font-size(1.125);
     }
   }
+  
+  .flex-container {
+    display: flex;
+	flex-flow: row wrap;
+  }
+  
+  .flex-container-space {
+    justify-content: space-between;
+  }
+  
+  .horizontal-list {
+    margin-bottom: 5px;
+  
+    li {
+  	//  margin-bottom: 0px;
+    }
+  }
+  
+  .half-hr {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px
+  }
+  
+  .skills {
+    width: 50%;
+  }
+	
 }

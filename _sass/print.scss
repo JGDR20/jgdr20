@@ -1,11 +1,62 @@
 //Print view
 
 @media print {
-	header nav, footer, .sidebar-right {
+	
+	.post, .post-content, .post-title, .post-list, .page-content {
+		@include relative-font-size(0.75);
+		border: none;
+		padding: unset;
+		margin: unset;
+		
+		.post-header, .post-title {
+			@include relative-font-size(1.2);
+		}
+		
+		h1, h2, h3, h4, li, p, hr {
+			margin-bottom: 10px;
+		}
+		
+		h1 {
+			@include relative-font-size(1.4);
+		}
+		
+		h2 {
+			@include relative-font-size(1.2);
+		}
+	
+		h3 {
+			@include relative-font-size(1.0);
+		}
+	
+		h4 {
+			@include relative-font-size(0.9);
+		}
+		
+		.horizontal-list {
+			margin-bottom: 5px;
+			
+			li {
+				margin-bottom: 0px;
+			}
+		}
+		
+		.half-hr {
+			width: 50%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		.skills {
+			width: 33%;
+		}
+	}
+	
+	header nav.site-nav, footer, div.sidebar-right, .rss-subscribe, .post-header {
 		display: none;
 	}
 	
-	.site-header, .page-content, .post-header {
+	.site-header {
+		@include relative-font-size(0.75);
 		border: none;
 		padding: unset;
 		margin: unset;
@@ -14,18 +65,6 @@
 	@page {
 		margin: 0.5cm;
 		border: none;
-	}
-	
-	h1 {
-		margin-bottom: 10px;
-	}
-	
-	h2 {
-		margin-top: 10px;
-	}
-	
-	h3 {
-		margin-top: 10px;
 	}
 	
 	.print-block {

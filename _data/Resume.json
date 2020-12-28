@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Joseph Richardson",
+    "label": "Software Support Consultant specialising in HR systems and SQL",
+    "image": "/assets/Portfolios/20200530-Headshots-_MG_7863_1MB.png",
+    "website": "https://jgdr20.com",
+    "summary": "Support Analyst with experience with Microsoft SQL Server, SQL database and queries, Linux (Debian/Ubuntu) and Windows (Desktop/Server) OS environments, product implementation & support, troubleshooting techniques and Crystal Report writing.\n6 years experience supporting HR systems.\nExperience in both Corporate and Personal support.",
+    "location": {
+      "countryCode": "UK",
+      "address": "London"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jgdr20",
+        "url": "https://www.linkedin.com/in/jgdr20/"
+      },
+	  {
+	    "network": "GitHub",
+		"username": "jgdr20",
+		"url": "https://github.com/JGDR20"
+	  }
+    ]
+  },
+  "work": [
+    {
+      "company": "Charles River Development",
+      "startDate": "2018-07-31",
+      "highlights": [
+	    "MS SQL database",
+        "Oracle database",
+        "Java/C# business logic layers",
+        "Client application",
+        "FIX messaging",
+        "XML messaging (integration with other systems)",
+        "Import/Export",
+        "IBOR",
+        "CTM",
+        "OMS (buy-side)",
+        "Realtime Pricing (Bloomberg)",
+        "Application Performance",
+        "Upgrades for testing environments"
+	  ],
+      "website": "https://crd.com",
+	  "position": "Product Specialist",
+	  "summary": "As a member of the EMEA Support team I provide application and business support for all segments of the main CR IMS product including front-end, middle-tier, back-end and 3rd party integration.\nInternally I’ve also produced tools for managing test environments and a number of PowerShell and SQL scripts for automating some tasks.\nWe also provide reciprocal internal support to colleagues in other teams.",
+	  "technical": true
+    },
+    {
+      "company": "RITEQ Pty Ltd (bought by Ceridian)",
+      "startDate": "2016-07-31",
+      "endDate": "2018-07-31",
+      "highlights": [
+	    "Front-end Support",
+		"Remote Hardware Support",
+		"Assisting Consultant Team",
+		"Local IT Relief Cover",
+		"Change Management/Implementation",
+		"SaaS and On-Premise Upgrades",
+		"UAT Deployments",
+		"Data Health Maintenance",
+		"Documentation",
+		"DBA",
+		"Backups/Restores/Reproductions",
+	  ],
+      "summary": "As a member of the support team I provided both front- and back-end support for our main Time and Attendance/Reporting product offerings as well as legacy software. Additional duties included assisting the Consultant Team and Relief Cover/Assistance for the Local IT team.",
+      "website": "https://www.ceridian.com/uk/riteq",
+	  "position": "Application Support Consultant",
+	  "technical": true
+    },
+    {
+      "company": "Octopus HR (bought by Iris HR)",
+      "startDate": "2014-06-30",
+      "endDate": "2016-07-31",
+      "highlights": [
+	    "Front-end Support",
+		"Back-end Support",
+		"Assisting Consultant Team",
+		"System Implementation",
+		"Local IT",
+		"Change Management/Implementation",
+		"Training",
+		"Data Health Maintenance",
+		"Documentation",
+		"4-Eyes check for DevOps team"
+	  ],
+      "summary": "Provided support and training to both clients and internal teams.\nI built a solid relationship with many of our frequent callers and was often been named in positive client feedback.",
+      "website": "https://irishr.co.uk/",
+	  "position": "Senior Software Support Consultant",
+	  "technical": true
+    },
+    {
+      "company": "Computers In Personnel HR",
+      "startDate": "2010-09-30",
+      "endDate": "2014-06-30",
+      "highlights": [
+	    "Front-end Support",
+		"Back-end Support",
+		"Assisting Consultant Team",
+		"Training",
+		"Documentation",
+		"Report Creation",
+		"Data Entry"
+	  ],
+      "summary": "Provided support to clients for both our own and partners' HR, Expense and Recruiting software packages.\nI also provided second line support where required.",
+      "website": "https://www.ciphr.com/",
+	  "position": "Functional Support Analyst - First Line",
+	  "technical": true
+    },
+    {
+      "company": "WHSmith",
+      "startDate": "2009-03-31",
+      "endDate": "2010-09-30",
+      "highlights": [
+	    "Sales",
+		"Seasonal Promotion Setup",
+		"Cleaning",
+		"Stock Checks",
+		"Re-calls",
+		"Stock Replenishment",
+		"Display Dressing"
+	  ],
+      "summary": "",
+      "website": "",
+	  "position": "Sales Person",
+	  "technical": false
+    },
+    {
+      "company": "Mamas & Papas",
+      "startDate": "2008-04-30",
+      "endDate": "2008-09-30",
+      "highlights": [],
+      "summary": "Training new staff\nBuilding display equipment/furniture\nBasic shop maintenance\nTaking in deliveries\nIn-store repairs on Customers' equipment, as well as the loan equipment\nFloor sales\nEnd-of-Day procedures, including cashing-up",
+      "website": "",
+	  "position": "Sales Consultant",
+	  "technical": false
+    },
+    {
+      "company": "Fired Earth",
+      "startDate": "2007-10-31",
+      "endDate": "2008-04-30",
+      "highlights": [],
+      "summary": "Customer Relations, including Sales and Complaints\nTaking in deliveries\nCashing-up\nStock audits",
+      "website": "",
+	  "position": "Sales Consultant",
+	  "technical": false
+    },
+    {
+      "company": "Mamas & Papas",
+      "startDate": "2006-10-31",
+      "endDate": "2007-10-31",
+      "highlights": [],
+      "summary": "Floor sales\nTaking in deliveries\nStock checks\nBuilding and maintaining equipment/furniture (client and display)",
+      "website": "",
+	  "position": "General Assistant",
+	  "technical": false
+    },
+    {
+      "company": "Desborough Play Den",
+      "startDate": "2005-07-31",
+      "endDate": "2006-12-31",
+      "highlights": [],
+      "summary": "Provision of care and activities for children with learning difficulties and their siblings on Saturdays.",
+      "website": "",
+	  "position": "Play Worker",
+	  "technical": false
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Desborough Play Den",
+      "position": "Volunteer Playworker",
+      "startDate": "2004-07-31",
+      "endDate": "2005-07-31",
+      "summary": "Provision of care and activities for children with learning difficulties and their siblings on Saturdays.",
+      "highlights": [],
+      "website": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Reading",
+      "area": "Meteorology",
+      "studyType": "Certificate of Higher Education",
+      "startDate": "2006-12-31",
+      "endDate": "2008-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Royal Grammar School",
+      "area": "Maths, Physics, Biology, Chemistry",
+      "studyType": "A-Level",
+      "startDate": "1999-12-31",
+      "endDate": "2006-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technologies",
+      "level": "",
+      "keywords": [
+	    "SQL",
+		"Microsoft SQL Server",
+		"Oracle",
+		"Database",
+		"HTML",
+		"CSS",
+		"Javascript",
+		"SaaS",
+		"Microsoft Office",
+		"Java",
+		"Powershell"
+      ]
+    },
+	{
+	  "name": "Database",
+	  "level": "",
+	  "keywords": [
+	    "SQL",
+		"T-SQL",
+		"Microsoft SQL Server",
+		"Oracle",
+		"Database",
+		"Views",
+		"Stored Procedures",
+		"Tables",
+		"Constraints",
+		"Indexes",
+		"DBA",
+		"Multi-Table Joins",
+		"Sub-Queries",
+		"Temporary Tables",
+		"CTEs"
+	  ]
+	},
+    {
+      "name": "Technical Support",
+      "level": "",
+      "keywords": [
+	    "Problem Solving",
+		"Change Management",
+		"Troubleshooting",
+		"Service Desk",
+		"Product Implementation/Configuration",
+		"MS SQL Database Administration"
+	  ]
+    },
+    {
+      "name": "Business Areas",
+      "level": "Supporting",
+      "keywords": [
+	    "Human Resources",
+		"Recruiting",
+		"Finance",
+		"OMS",
+		"Time and Attendance"
+	  ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+	    "Windows",
+		"Windows Server",
+		"Linux (Debian/Ubuntu)"
+	  ]
+    },
+	{
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+	    "Customer Service",
+		"Customer Relations",
+		"Research",
+		"Training"
+	  ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+	  "name": "Photography",
+	  "summary": "Photography is a hobby of mine; I’m certainly an amateur but I enjoy exploring new places (a camera is a great excuse) and experimenting with post-production techniques.",
+	  "keywords": [
+	    "Lightroom",
+		"B&W",
+		"Landscape",
+		"Street",
+		"Canon",
+	  ]
+	},
+	{
+	  "name": "Tabletop Role-Playing Games",
+	  "summary": "Several times a week I also play D&D with friends, both as a player and occasionally as a GM. I’ve found that the critical thinking and team skills that I’ve learned during my career have proven surprisingly useful within the game – there is often limited information and time in order to make decisions that will affect both a single character and the party as a whole.",
+	  "keywords": [
+	    "D&D",
+		"TTRPG"
+	  ]
+	}
+  ],
+  "references": [
+    {
+      "name": "Crystal Kayne",
+	  "company": "Octopus HR",
+      "reference": "Working with Joe was a pleasure - his in-depth knowledge of the application made him an integral asset to the team and he was always ready to teach and to learn. One of the friendliest and hardworking people I know."
+    },
+    {
+      "name": "Tim Hopkins",
+	  "company": "Computers in Personnel HR",
+      "reference": "Jo was a pleasure to work with, he has a real focus on the client's satisfaction and is more than capable of taking on complex technical problems when required. Would definitely recommend."
+    }
+  ],
+  "projects": [
+    {
+	  "name": "jgdr20.com",
+	  "summary": "Ongoing development of the static site jgdr20.com to record game notes, photos etc.",
+	  "keywords": [
+	  "Jekyll",
+	  "Liquid",
+	  "HTML",
+	  "CSS",
+	  "JSON",
+	  "Markdown",
+	  "Git/GitHub",
+	  "AWS",
+	  "Travis-CI"
+	  ]
+	}
+  ]
+}
