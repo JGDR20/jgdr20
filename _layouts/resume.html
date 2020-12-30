@@ -87,29 +87,6 @@ layout: default
 		
 		<hr>
 		
-		{% assign interests = site.data.Resume.interests %}
-		<h2 class="post-list-heading">Interests</h2>
-		<!-- <div> -->
-			{% for interest in interests %}
-				<div class="print-block">
-					<h3>{{ interest.name }}</h3>
-					<p>{{ interest.summary }}</p>
-					<div class="flex-container">
-						{% for keyword in interest.keywords %}
-							<ul class="horizontal-list">
-								<li>{{ keyword }}</li>
-							</ul>
-						{% endfor %}
-					</div>
-				</div>
-				{%- if forloop.last != true -%}
-					<hr class="half-hr">
-				{%- endif -%}
-			{% endfor %}
-		<!-- </div> -->
-		
-		<hr>
-		
 		{% assign work = site.data.Resume.work | where: "technical", "true" %}
 		<h2 class="post-list-heading">Work</h2>
 		<div>
@@ -206,6 +183,31 @@ layout: default
 				</div>
 			{% endfor %}
 		</div>
+		
+		<hr>
+		
+		{% assign interests = site.data.Resume.interests %}
+		<h2 class="post-list-heading">Interests</h2>
+		<!-- <div> -->
+			{% for interest in interests %}
+				<div class="print-block">
+					<h3>{{ interest.name }}</h3>
+					<p>{{ interest.summary }}</p>
+					<div class="flex-container">
+						{% comment %}
+							{% for keyword in interest.keywords %}
+								<ul class="horizontal-list">
+									<li>{{ keyword }}</li>
+								</ul>
+							{% endfor %}
+						{% endcomment %}
+					</div>
+				</div>
+				{%- if forloop.last != true -%}
+					<hr class="half-hr">
+				{%- endif -%}
+			{% endfor %}
+		<!-- </div> -->
 		
 		<hr>
 		
