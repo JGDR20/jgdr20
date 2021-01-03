@@ -1,0 +1,5 @@
+<div class="nav-dropdown-content">
+	{% for category in site.categories %}
+		<a class="page-link" href="{{ site.baseurl }}/category/{{ category[0] | slugify | append: "/index.html" }}">{{ category[0] | Sentence }} <span> ({{ category[1].size }}) </span></a>
+	{% endfor %}
+</div>
