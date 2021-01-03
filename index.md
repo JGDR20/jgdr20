@@ -5,10 +5,11 @@
 layout: home
 title: Ramblings Pt. II
 alt_title: Home
+sidebar: No
 ---
 Under Development
 
-[Old Blog](https://joerichardson.eu)
+~~[Old Blog](https://joerichardson.eu)~~ *Defunct due to brexit. Honestly.*
 
 ## Intro:
 

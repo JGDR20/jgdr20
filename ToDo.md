@@ -2,6 +2,7 @@
 layout: page
 title: ToDo
 # permalink: /todo/index.html
+sidebar: No
 ---
 * [x] Create Category landing pages with filtering
 * [x] Add Grandad's site
