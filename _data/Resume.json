@@ -217,7 +217,10 @@
 		"SaaS",
 		"Microsoft Office",
 		"Java",
-		"Powershell"
+		"Powershell",
+		"Scripting",
+		"Kettle",
+		"C#"
       ]
     },
 	{
@@ -228,14 +231,12 @@
 		"T-SQL",
 		"Microsoft SQL Server",
 		"Oracle",
-		"Database",
 		"Views",
 		"Stored Procedures",
-		"Tables",
 		"Constraints",
 		"Indexes",
 		"DBA",
-		"Multi-Table Joins",
+		"Joins",
 		"Sub-Queries",
 		"Temporary Tables",
 		"CTEs"
