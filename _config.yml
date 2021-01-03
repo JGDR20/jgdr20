@@ -125,13 +125,13 @@ header_pages:
   - index.md
   - Resume.md
   - jmm.md
-  - /blog/index.html
+  #- /blog/index.html
   - ToDo.md
   - Portfolios.md
 
 # Page settings
-pages:
-    permalink: 
+#pages:
+    #permalink: 
 
 # Collections
 collections:
