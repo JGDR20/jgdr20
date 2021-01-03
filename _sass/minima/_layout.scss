@@ -25,103 +25,169 @@
 }
 
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+	float: right;
+	line-height: $base-line-height * $base-font-size * 2.25;
+	list-style: none;
 
-  .nav-trigger {
-      display: none;
-  }
+	.nav-trigger {
+		display: none;
+	}
 
-  .menu-icon {
-    display: none;
-  }
+	.menu-icon {
+		display: none;
+	}
 
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
+	.page-link {
+		color: $text-color;
+		line-height: $base-line-height;
+		margin: 0px;
+		padding: 10px 5px;
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
-  }
+		// Gaps between nav items, but not on the last one
+		//&:not(:last-child) {
+		//	padding-right: 0px;
+		//}
+	}
+  
+	.flex-container {
+		display: flex;
+		flex-flow: row wrap;
+		margin: 0px;
+	}
+  
+	li {
+		list-style: none;
+		margin: 0px;
+	}
+	
+	.nav-dropdown {
+		position: relative;
+	}
+  
+	a.nav-dropdown:hover {
+		background-color: lightgray;
+		background-clip: border-box;
+	}
+  
+	.nav-dropdown-content {
+		display: none;
+		position: absolute;
+		background-color: #f9f9f9;
+		min-width: 160px;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+		margin: 0px;
+	}
+	
+	.nav-dropdown:hover .nav-dropdown-content {
+		display: flex;
+		flex-flow: column wrap;
+		align-items: flex-end;
+		right: 0px;
+		white-space: nowrap;
+		
+		.page-link {
+			padding: 5px;
+		}
+	}
 
-  @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
+	@include media-query($on-palm) {
+		position: absolute;
+		top: 9px;
+		right: $spacing-unit / 2;
+		background-color: $background-color;
+		border: 1px solid $grey-color-light;
+		border-radius: 5px;
+		text-align: right;
+	
+		label[for="nav-trigger"] {
+			display: block;
+			float: right;
+			width: 36px;
+			height: 36px;
+			z-index: 2;
+			cursor: pointer;
+		}
+	
+		.menu-icon {
+			display: block;
+			float: right;
+			width: 36px;
+			height: 26px;
+			line-height: 0;
+			padding-top: 10px;
+			text-align: center;
+		
+			> svg {
+				fill: $grey-color-dark;
+			}
+		}
+		
+		input ~ .trigger {
+			clear: both;
+			display: none;
+		}
+		
+		input:checked ~ .trigger {
+			display: block;
+			padding-bottom: 5px;
+		}
+		
+		.page-link {
+			display: block;
+			padding: 5px 10px;
+			margin: unset;
+		
+			&:not(:last-child) {
+				margin-right: 0;
+			}
+			
+			margin-left: 20px;
+		}
+		
+		.flex-container {
+			display: flex;
+			flex-flow: column wrap;
+			margin: 0px;
+		}
+		
+		.nav-dropdown:hover .nav-dropdown-content {
+			display: none;
+		}
+	}
+}
 
-    label[for="nav-trigger"] {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 36px;
-      z-index: 2;
-      cursor: pointer;
-    }
+.flex-container {
+	display: flex;
+	flex-flow: row wrap;
+}
 
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg {
-        fill: $grey-color-dark;
-      }
-    }
-
-    input ~ .trigger {
-      clear: both;
-      display: none;
-    }
-
-    input:checked ~ .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 20px;
-    }
-  }
+.flex-container-space {
+	justify-content: space-between;
 }
 
 .sidebar-right {
-  padding-right: 0;
-  float: right;
-  height: auto; /* Full-height: remove this if you want "auto" height */
-  width: 150px; /* Set the width of the sidebar */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  right: 0;
-  overflow-x: hidden; /* Disable horizontal scroll */
-  margin-left: 5px;
-  border-left: 1px solid;
-  padding-left: 5px;
-  
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
-    /*
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }*/
-  }
+	padding-right: 0;
+	float: right;
+	height: auto; /* Full-height: remove this if you want "auto" height */
+	width: 150px; /* Set the width of the sidebar */
+	z-index: 1; /* Stay on top */
+	top: 0; /* Stay at the top */
+	right: 0;
+	overflow-x: hidden; /* Disable horizontal scroll */
+	margin-left: 5px;
+	border-left: 1px solid;
+	padding-left: 5px;
+
+	.page-link {
+		color: $text-color;
+		line-height: $base-line-height;
+		/*
+		// Gaps between nav items, but not on the last one
+		&:not(:last-child) {
+			margin-right: 20px;
+		}*/
+	}
 }
 
 /**
@@ -287,66 +353,57 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
-
-  h2 {
-    @include relative-font-size(2);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
-    }
-  }
-
-  h3 {
-    @include relative-font-size(1.625);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.375);
-    }
-  }
-
-  h4 {
-    @include relative-font-size(1.25);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.125);
-    }
-  }
-  
-  .flex-container {
-    display: flex;
-	flex-flow: row wrap;
-  }
-  
-  .flex-container-space {
-    justify-content: space-between;
-  }
-  
-  .horizontal-list {
-    margin-bottom: 5px;
-  
-    li {
-  	//  margin-bottom: 0px;
-    }
-  }
-  
-  .half-hr {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-	margin-bottom: 10px;
-	margin-top: 10px
-  }
-  
-  .skills {
-    width: 50%;
+	margin-bottom: $spacing-unit;
 	
-	@include media-query($on-palm) {
-	  width: 100%;
+	h2 {
+		@include relative-font-size(2);
+		
+		@include media-query($on-laptop) {
+			@include relative-font-size(1.75);
+		}
 	}
-  }
-  
-  .non-technical {
-    padding: 0px 20px 10px 0px;
-  }
+	
+	h3 {
+		@include relative-font-size(1.625);
+		
+		@include media-query($on-laptop) {
+			@include relative-font-size(1.375);
+		}
+	}
+	
+	h4 {
+		@include relative-font-size(1.25);
+		
+		@include media-query($on-laptop) {
+			@include relative-font-size(1.125);
+		}
+	}
+	
+	.horizontal-list {
+		margin-bottom: 5px;
+	
+		li {
+			//  margin-bottom: 0px;
+		}
+	}
+	
+	.half-hr {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 10px;
+		margin-top: 10px
+	}
+	
+	.skills {
+		width: 50%;
+		
+		@include media-query($on-palm) {
+			width: 100%;
+		}
+	}
+	
+	.non-technical {
+		padding: 0px 20px 10px 0px;
+	}
 }
