@@ -9,6 +9,9 @@ layout: default
   </header>
 
   <div class="post-content">
+    {%- unless page.sidebar == false -%}
+			{%- include blog-categories.html -%}
+    {%- endunless -%}
     {{ content }}
   </div>
 

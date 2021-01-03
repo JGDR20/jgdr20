@@ -12,10 +12,8 @@
 	  {%- else -%}
 	    <div class="flex-wrapper">
 	  {%- endunless -%}
-		{%- unless page.sidebar == false -%}
-			{%- include sidebar-right.html -%}
-		{%- endunless -%}
-        {{ content }}
+	  
+	  {{ content }}
       </div>
     </main>
 
