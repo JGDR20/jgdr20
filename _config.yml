@@ -128,6 +128,7 @@ header_pages:
   #- /blog/index.html
   - ToDo.md
   - Portfolios.md
+  - Contact.md
 
 # Page settings
 #pages:

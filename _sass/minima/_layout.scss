@@ -190,6 +190,21 @@
 	}
 }
 
+.form-control {
+	margin-top: 0;
+	margin-bottom: 0;	
+	
+	h4 {
+		margin-top: $spacing-unit / 2;
+		margin-bottom: 0;
+	}
+	
+	input {
+		margin-top: 0;
+		margin-bottom: $spacing-unit / 2;
+	}
+}
+
 /**
  * Site footer
  */
@@ -405,5 +420,9 @@
 	
 	.non-technical {
 		padding: 0px 20px 10px 0px;
+	}
+	
+	p {
+		page-break-inside: avoid;
 	}
 }
