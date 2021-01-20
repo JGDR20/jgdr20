@@ -2,7 +2,7 @@
 layout: post
 title:  "Sevenoaks – Invite"
 date:   2020-11-15 00:00:00 +0000
-categories: [Games, D&D]
+categories: [Games, D&D, The Seven Oaks]
 author: Joe & Neil
 ---
 <div class="print-block" markdown="1">
