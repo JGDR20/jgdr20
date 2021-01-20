@@ -19,4 +19,5 @@ sidebar: No
   * Added divs around blocks that should be kept together on pages (e.g. About Me, Education etc...)
   * [ ] Extend print-friendly css to whole site
 * [x] Contact form
+  * [ ] Change validation to be more sensible
 * [ ] Restructure blog categories with hierarchy?
