@@ -15,6 +15,8 @@ What follows will be my account of *What We Did on Our Holidays*.
 > Hey Mon, I gots the chicken house!  
 > ~<cite>Razda</cite>
 
+<!-- more -->
+
 It took a lot of work (and more running than I've done in a long time) but the *Lord of the Manor* has finally been evicted. Permanently. We lost some good folks along the way; Helm sorted me out to find some of them again but others are lost for good. A lot of the residents of Barovia have disappeared too (no bodies, just gone); I'm going to ask for some guidance on what happened to them and see if there's anything that can be done. Or maybe they're literally in a better place now.
 
 Razda seems to have inherited the Hag's chicken-leg house which was just as gross as the others described - the smell was ghastly! He got it emptied out (which was a disturbing sight in itself) and now uses it as an ~~ambyulatary~~ ~~ambulahtory~~ walking charity shop, shuttling supplies around as needed. I've just seen him go past with a dozen squealing children hanging off the sides... I might pop over with my healer's bag, just in case.
