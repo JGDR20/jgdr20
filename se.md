@@ -20,6 +20,12 @@ Contact me to request an invite
 Main: #FF0097  
 Accent: #00B3FF
 
+### Belaros
+Main: #6700
+
+### Hexcaster
+Main: #000000
+
 ### Ideas
 
 * 'Flippable' mobile processor
