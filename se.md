@@ -17,14 +17,14 @@ Contact me to request an invite
 ### Colour Scheme
 
 #### JGDR20
-Main: #FF0097  
-Accent: #00B3FF
+<span style="color:#FF0097">Main: #FF0097 / 255, 0, 151</span>  
+<span style="color:#00B3FF">Accent: #00B3FF / 0, 179, 255</span>  
 
 ### Belaros
-Main: #6700
+<span style="color:#ff6700">Main: #FF6700 / 255, 103, 0</span>  
 
 ### Hexcaster
-Main: #000000
+<span style="color:#000000">Main: #000000 / 0, 0, 0</span>  
 
 ### Ideas
 
