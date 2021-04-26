@@ -9,10 +9,10 @@ sidebar: No
 ### Private
 Contact me to request an invite
 
-| # 	| Mode 	| Scenario 	| Connection 	| Slots 	|
-|-	|-	|-	|-	|-	|
-| 1 	| Creative 	| Green Station 	| <a href="steam://connect/176.31.228.98:29314">176.31.228.98:29314</a> 	| 10 	|
-| 2 	| Survival 	| Earth-Like 	| <a href="steam://connect/176.31.228.98:29314">176.31.228.98:29314</a> 	| 10 	|
+| # 	| Mode 	| Scenario 	| Connection 	| Slots 	| Status	 |
+|-	|-	|-	|-	|-	| -	 |
+| 1 	| Creative 	| Green Station 	| <a href="steam://connect/176.31.228.98:29314">176.31.228.98:29314</a> 	| 10 	| <span style="color:#b30000;">Offline</span>	 |
+| 2 	| Survival 	| Earth-Like 	| <a href="steam://connect/176.31.228.98:29314">176.31.228.98:29314</a> 	| 10 	| <span style="color:#00b300;">Online</span>	 |
 
 ### Colour Scheme
 
@@ -33,6 +33,80 @@ Contact me to request an invite
 ### Ice Base
 White sci-fi armour  
 <span style="color:#FFFFFF; background-color:#505050;">Main: #FFFFFF / 255, 255, 255</span>  
+
+## Blueprints Offsets
+### Welder Projector
+#### Tick Mk I
+
+| Dimension | Value |
+| - | - |
+| H | 0 |
+| V | 1 |
+| F | 19 |
+| P | 90 |
+| Y | 0 |
+| R | 0 |
+| S | 100 |
+
+#### Tick Mk II
+
+| Dimension | Value |
+| -	 | -	 |
+| H | 2 |
+| V | 0 |
+| F | 5 |
+| P | -90 |
+| Y | 0 |
+| R | 0 |
+| S | 100 |
+
+| # | Block |
+| - | - |
+| 195 | Total |
+| 169 | Light Armour |
+| 2 | Left Offroad Suspension (5x5) |
+| 1 | Connector |
+| 1 | Small Curved Conveyor Tube |
+| 1 | Antenna |
+| 2 | Right Offroad Suspension (5x5) |
+| 2 | Interior Light |
+| 3 | Timer Block |
+| 1 | Medium Cargo |
+| 2 | Programmable Blocks |
+| 2 | Gyroscopes |
+| 2 | Rotors |
+| 2 | Text Panels |
+| (1) | (Projector) |
+| 1 | Gattling Turret |
+| 1 | Battery |
+| 1 | Spotlight |
+| 1 | Fighter Cockpit |
+
+#### Lil' Blue Friend
+
+| Dimension | Value |
+| - | - |
+| H | 1 |
+| V | 1 |
+| F | 8 |
+| P | 0 |
+| Y | 0 |
+| R | 0 |
+| S | 100 |
+
+| # | Block |
+| - | - |
+| 74 | Total |
+| 53 | Light Armour |
+| 10 | Atmospheric Thruster (Sci-Fi) |
+| 1 | Connector |
+| 1 | Antenna |
+| 1 | Programmable Block |
+| 2 | Gyroscope |
+| 3 | Battery |
+| 1 | Fighter Cockpit |
+| 1 | Ore Detector |
+| 1 | Landing Gear |
 
 ### Ideas
 
