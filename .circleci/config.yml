@@ -1,7 +1,8 @@
 version: 2.1
 
-orbs: 
-  aws-cli: circleci/aws-cli@2.1.0
+# Will work out orbs later
+# orbs: 
+#   aws-cli: circleci/aws-cli@2.1.0
 
 workflows:
   test-deploy:
@@ -36,14 +37,14 @@ jobs:
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
-      - run:
-          name: HTMLProofer tests
-          command: |
-            bundle exec htmlproofer ./_site \
-              --allow-hash-href \
-              --check-favicon  \
-              --check-html \
-              --disable-external
+      # - run:
+      #     name: HTMLProofer tests
+      #     command: |
+      #       bundle exec htmlproofer ./_site \
+      #         --allow-hash-href \
+      #         --check-favicon  \
+      #         --check-html \
+      #         --disable-external
       - persist_to_workspace:
           root: ./
           paths:
@@ -53,6 +54,7 @@ jobs:
       - image: cimg/python:3.9.1
     environment:
       S3_BUCKET_NAME: jgdr20
+    executor: aws-cli/default
     steps:
       - attach_workspace:
           at: ./
@@ -60,5 +62,11 @@ jobs:
           name: Install AWS CLI
           command: pip install awscli --upgrade --user
       - run:
-          name: Upload to s3
-          command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --delete --acl public-read
+          name: Upload non-images to s3
+          command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --region=eu-west-1 --exclude "assets*" --exclude "jmm\archive*" --size-only --delete
+      - run:
+          name: Upload images to s3
+          command: ~/.local/bin/aws s3 sync ./_site/assets s3://$S3_BUCKET_NAME/assets --region=eu-west-1 --size-only --delete
+      - run:
+          name: Invalidate cache
+          command: ~/.local/bin/aws cloudfront create-invalidation --distribution-id E32SB4NXD0EYKP --paths '/*'
