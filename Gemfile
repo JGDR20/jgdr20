@@ -20,6 +20,7 @@ group :jekyll_plugins do
 #  gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-paginate-v2"
   gem "jekyll-datapage-generator"
+  gem "html-proofer"
 end
 
 ## S3 gems
