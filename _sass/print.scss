@@ -32,6 +32,34 @@
 			@include relative-font-size(0.9);
 		}
 		
+		/* table, blockquote, pre, code, figure, li, hr, ul, ol, a, tr {
+			page-break-inside: avoid;
+		}
+		
+		h1, h2, h3, h4, h5, h6 {
+			page-break-after: avoid;
+			page-break-inside: avoid;
+		}
+
+		h1 + p,
+		h2 + p,
+		h3 + p {
+			page-break-before: avoid;
+		}
+
+		img {
+			page-break-after: auto;
+			page-break-before: auto;
+			page-break-inside: avoid;
+		}
+		
+		h1 + table,
+		h2 + table,
+		h3 + table,
+		h3 + table {
+			page-break-before: avoid;
+		} */
+		
 		.horizontal-list {
 			margin-bottom: 5px;
 			
