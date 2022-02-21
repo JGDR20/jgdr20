@@ -21,3 +21,5 @@ sidebar: No
 * [x] Contact form
   * [ ] Change validation to be more sensible
 * [ ] Restructure blog categories with hierarchy?
+* [ ] Look at calculating duration of current job on page load
+ * Javascript to rewrite blank element?
