@@ -51,7 +51,7 @@ Alternatively could be used in Damage2 whilst the Disciple of Life bonus could g
 
 Tack the below onto the end of whatever is in the Range field:
 
-` - Cast using level [[?{Cast at what level?|1,0|2,1|3,2|4,3|5,4|6,5|7,6|8,7|9,8}+1]] slot. Blessed Healer: Caster is also healed for [[?{Cast at what level?|1,0|2,1|3,2|4,3|5,4|6,5|7,6|8,7|9,8}+1 + 2]] HP for a total of [[{@{hp|max},(?{Cast at what level?|1,0|2,1|3,2|4,3|5,4|6,5|7,6|8,7|9,8}+1 + 2 + @{hp})}dh1]] if they healed someone other than themself.`
+`- Cast using level [[?{Cast at what level?|1,0|2,1|3,2|4,3|5,4|6,5|7,6|8,7|9,8}+1]] slot. Blessed Healer: Caster is also healed for [[?{Cast at what level?|1,0|2,1|3,2|4,3|5,4|6,5|7,6|8,7|9,8}+1 + 2]] HP for a total of [[{@{hp|max},(?{Cast at what level?|1,0|2,1|3,2|4,3|5,4|6,5|7,6|8,7|9,8}+1 + 2 + @{hp})}dh1]] if they healed someone other than themself.`
 
 ![][Cure_Wounds_roll_range]
 > Cure Wounds cast at level 2
