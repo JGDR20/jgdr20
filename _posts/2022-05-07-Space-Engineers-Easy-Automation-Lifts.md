@@ -12,7 +12,7 @@ wip: true
 
 ## Purpose:
 
-Minimum build steps for creating an aligned multi-level lift-platform in Space Engineers using Coren's [Easy Automation V2.0] in-game script.
+Minimum build steps for creating an aligned multi-level lift-platform in Space Engineers using Coren's [Easy Automation V2.0] in-game script.<!-- more -->
 
 ## Requirements:
 
