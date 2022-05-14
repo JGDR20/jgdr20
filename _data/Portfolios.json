@@ -29,6 +29,12 @@
 			"description": "Landscapes",
 			"image": "20200322-Lockdown Downley-_MG_7584.JPG",
 			"page": "/portfolios/Landscapes.html"
+		},
+		{
+			"title": "All",
+			"description": "All Photos",
+			"image": "20171231-Cambridge Point-to-Point-IMG_4080-012.JPG",
+			"page": "/portfolios/All.html"
 		}
 	],
 	"photos": [
@@ -458,6 +464,105 @@
 			"image": "20200620-Canal Walk-_MG_8216.JPG",
 			"portfolio": [
 				"Street"
+				]
+		},
+		{
+			"title": "Basel Stairs",
+			"description": "Street stairs in Basel",
+			"image": "20220411-Basel-IMG_1080.JPG",
+			"portfolio": [
+				"Street"
+				]
+		},
+		{
+			"title": "Walking by Bikes",
+			"description": "Taken near the University of Basel",
+			"image": "20220411-Basel-_MG_1134.JPG",
+			"portfolio": [
+				"Street",
+				"B&W",
+				"People"
+				]
+		},
+		{
+			"title": "They've Got an Awful Lot of Bikes in Basel",
+			"description": "Seriously, lotta bikes",
+			"image": "20220411-Basel-_MG_1087-HDR.JPG",
+			"portfolio": [
+				"Street",
+				"B&W",
+				"Not People"
+				]
+		},
+		{
+			"title": "Why They Put Bikes on Bikes in Basel",
+			"description": "So many bikes",
+			"image": "20220411-Basel-_MG_1084.JPG",
+			"portfolio": [
+				"Street",
+				"People"
+				]
+		},
+		{
+			"title": "Atlas Waits",
+			"description": "Artist: George Ricci. Also a Pokémon Go stop, apparently",
+			"image": "20220411-Basel-_MG_1070-HDR.JPG",
+			"portfolio": [
+				"Street",
+				"Not People"
+				]
+		},
+		{
+			"title": "Courtyard Windows",
+			"description": "Really nice courtyard with a coffeeshop, toy store and apartments",
+			"image": "20220411-Basel-_MG_1064.JPG",
+			"portfolio": [
+				"Street"
+				]
+		},
+		{
+			"title": "Brothers Catching Up",
+			"description": "What with the pandemic and distance it's been a long time since these two have managed to catch up properly",
+			"image": "20220410-Basel-_MG_1022.JPG",
+			"portfolio": [
+				"Street",
+				"People"
+				]
+		},
+		{
+			"title": "Jokes",
+			"description": "Uncle's got jokes",
+			"image": "20220410-Basel-_MG_0966.JPG",
+			"portfolio": [
+				"Street",
+				"People",
+				"B&W"
+				]
+		},
+		{
+			"title": "Trams",
+			"description": "The mechanical pick-ups at the top that run along the overhead wires are called 'Pantographs'",
+			"image": "20220409-Basel-_MG_0745.JPG",
+			"portfolio": [
+				"Street",
+				"B&W"
+				]
+		},
+		{
+			"title": "Small Matchbox",
+			"description": "Artist: George Ricci. And it is a very small matchbox",
+			"image": "20220409-Basel-_MG_0690.JPG",
+			"portfolio": [
+				"Not People"
+				]
+		},
+		{
+			"title": "Marktplatz",
+			"description": "Rathaus is a fun word",
+			"image": "20220409-Basel-_MG_0665.JPG",
+			"portfolio": [
+				"Street",
+				"B&W"
 				]
 		}
 	]
