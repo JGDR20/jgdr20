@@ -378,6 +378,7 @@
 
 
 [//]: # (Artwork)
+[Gallery]: /jmm/johnsmodelmadness/gallery/index.html
 [Beach3]: /assets/jmm/beach3.jpg
 [Isolabella]: /assets/jmm/isolabella.jpg
 [FishingBoat]: /assets/jmm/fishingboat.jpg
