@@ -141,12 +141,16 @@ collections:
     permalink: :title
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "/category"
       type: category
     values:
       layout: "category"
+
+  - scope:
+      path: "assets/jmm/Gallery"
+    values:
+      type: gallery
 
 ############################################################
 

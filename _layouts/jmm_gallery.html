@@ -1,0 +1,25 @@
+---
+layout: page
+---
+<link rel="stylesheet" href="/portfolios/portfolio.css">
+
+<article class="post">
+
+<a href="/Portfolios.html"><h3>Back to Portfolio list</h3></a>
+
+<div class="flex-container">
+	{%- assign photos = site.static_files | where: "type", "gallery" -%}
+	{%- for photo in photos -%}
+		{%- assign rel_url = photo.path -%}
+		{%- assign dest_url = photo.name | prepend: "photos/" | append: ".html" | replace: " ", "-" | downcase -%}
+<div class="photo-bundle">
+	<h2>{{ photo.basename }}</h2>
+	<figure class="photo-bundle">
+		<img class="photo-bundle" src="{{ photo.path }}">
+		<figcaption>{{ photo.name }}</figcaption>
+	</figure>
+</div>
+	{%- endfor -%}
+</div>
+
+</article>
