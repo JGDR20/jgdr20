@@ -1,4 +1,4 @@
-<!-- Models -->
+[//]: # (Models)
 [Models]: /jmm/johnsmodelmadness/models/index.html
 [Vespa]: /assets/jmm/vespa.jpg
 [VespaArticle]: /assets/jmm/vespart.jpg
@@ -8,14 +8,18 @@
 [ManOverboard]: /assets/jmm/aaamanoverboard.jpg
 [StayInTheShallowEnd]: /assets/jmm/stayintheshallowend.jpg
 [BoysLaunch]: /assets/jmm/aaaaboyslaunch.jpg
-[ClydePufferKit]: /assets/jmm/puffer2a.jpg
+[ClydePufferKit1]: /assets/jmm/puffer1a.jpg
+[ClydePufferKit2]: /assets/jmm/puffer2a.jpg
+[ClydePufferKit3]: /assets/jmm/puffer3a.jpg
 [Laser]: /assets/jmm/aaaaam%20mylaser.jpg
 [Stuart1]: /assets/jmm/stuart1.jpg
 [Stuart2]: /assets/jmm/stuart2.jpg
 [Stuart3]: /assets/jmm/stuart3.jpg
+[SeaHornet]: /assets/jmm/seahornet.jpg
+[CrashTender]: /assets/jmm/crashtender.jpg
 
-<!-- Engines -->
-<!-- Allchin -->
+[//]: # (Engines)
+[//]: # (Allchin)
 [BuildAllchin]: /jmm/johnsmodelmadness/buildallchin/index.html
 [BuildAllchinImg]: /assets/jmm/afinishedallchin.jpg
 [EarlierFullSize]: /assets/jmm/earlierfullsize.jpg
@@ -50,7 +54,7 @@
 [RampantAllchin]: /assets/jmm/rampantallchin.jpg
 [AllchinTopRH]: /assets/jmm/allchintoprh.jpg
 
-<!-- Pixie -->
+[//]: # (Pixie)
 [PixiesBackground]: /jmm/johnsmodelmadness/pixiesbackground/index.html
 [PixiesBackgroundImg]: /assets/jmm/pixie2.jpg
 [PixieAndPeterPan]: /assets/jmm/pixieandpeterpan.jpg
@@ -88,8 +92,9 @@
 [MarineBearings]: /assets/jmm/marinebearingsjpg.jpg
 [SmokeboxDoor]: /assets/jmm/smokeboxdoorpixie.jpg
 [SmokeboxFS]: /assets/jmm/smokebox%20fs.jpg
+[Prototype2]: /assets/jmm/prototype2.jpg
 
-<!-- Tich -->
+[//]: # (Tich)
 [TichsPedigree]: /jmm/johnsmodelmadness/tichspedigree/index.html
 [TichRejuvImg]: /assets/jmm/tichrejuvenated1.jpg
 [BirthdayRefit]: /assets/jmm/birthdayrefit.jpg
@@ -99,14 +104,15 @@
 [TichDSCF0033]: /assets/jmm/dscf0033.jpg
 [TichsFootplate]: /assets/jmm/tichsfootplate.jpg
 
-<!-- Minnie -->
+[//]: # (Minnie)
 [MinnieImg]: /assets/jmm/petersminnie_finished.jpg
-<!-- Rocket -->
+
+[//]: # (Rocket)
 [Rocket]: /assets/jmm/rocketbypeterbeck.jpg
 [Rocket2]: /assets/jmm/rockketbypeterbeck2.jpg
 
-<!-- Boats -->
-<!-- Egrete Pusher -->
+[//]: # (Boats)
+[//]: # (Egrete Pusher)
 [BuildingThePusherOld]: /jmm/johnsmodelmadness/buildingthepusherold/index.html
 [EgreteImg]: /assets/jmm/egrete.jpg
 [Egrete1]: /assets/jmm/egrete1.jpg
@@ -120,7 +126,7 @@
 [Anchors]: /assets/jmm/anchors.jpg
 [OnTheWater]: /assets/jmm/onthewater.jpg
 
-<!-- Yacht -->
+[//]: # (Yacht)
 [Yacht]: /jmm/johnsmodelmadness/yacht/index.html
 [LittleAndLarge]: /assets/jmm/littleandlarge.jpg
 [Carcass2]: /assets/jmm/carcass2.jpg
@@ -134,7 +140,7 @@
 [LargeYachtRefit]: /assets/jmm/largeyachtrefit.jpg
 [LargeYachtDims]: /jmm/johnsmodelmadness/largeyachtdims/index.html
 
-<!-- Free Lancer 1 -->
+[//]: # (Free Lancer 1)
 [BuildingWorkBoat]: /jmm/johnsmodelmadness/buildingworkboat/index.html
 [NearlyFinished1]: /assets/jmm/nearlyfinished1.jpg
 [Finished]: /assets/jmm/finished.jpg
@@ -171,7 +177,7 @@
 [FleetDeck]: /assets/jmm/fleetdeck.jpg
 [DoryAdded]: /assets/jmm/doryadded.jpg
 
-<!-- Free Lancer 2 -->
+[//]: # (Free Lancer 2)
 [BuildingFreeLancer2]: /jmm/johnsmodelmadness/buildingfreelancer2/index.html
 [FreeLancer2Afloat1stTime2]: /assets/jmm/freelancer2afloat1sttime2.jpg
 [Lancer2Afloat]: /assets/jmm/lancer2afloat.jpg
@@ -212,10 +218,10 @@
 [SternViewAsRevised]: /assets/jmm/sternviewasrevised.jpg
 
 
-<!-- The Clyde Puffer -->
+[//]: # (The Clyde Puffer)
 [TheClydePuffer]: /jmm/johnsmodelmadness/theclydepuffer/index.html
 
-<!-- Silhouette -->
+[//]: # (Silhouette)
 [BuildingTheSilhouette]: /jmm/johnsmodelmadness/buildingthesilhouette/index.html
 [Silhouette1]: /assets/jmm/silhouette%201.jpg
 [GlassSilhouette]: /assets/jmm/glasssilhouette.jpg
@@ -246,7 +252,7 @@
 [SilOverhead2]: /assets/jmm/silhouetteohead2.jpg
 [SilOverhead4]: /assets/jmm/silouetteohead4.jpg
 
-<!-- Small Pusher / Springer -->
+[//]: # (Small Pusher / Springer)
 [BuildingSmallPusher]: /jmm/johnsmodelmadness/buildingsmallpusher/index.html
 [SPSternView3]: /assets/jmm/smpushsternview3.jpg
 [SPSupStart]: /assets/jmm/spsupstart.jpg
@@ -265,7 +271,7 @@
 [SPSternWinch2]: /assets/jmm/spristernwinch2.jpg
 [SPAfloat]: /assets/jmm/sprifngerafloat.jpg
 
-<!-- Pilot Cutter -->
+[//]: # (Pilot Cutter)
 [BuildingPilotCutter]: /jmm/johnsmodelmadness/buildingpilotcutter/index.html
 [PilotLines1]: /assets/jmm/pilotlines1.jpg
 [PilotTemplates]: /assets/jmm/pilottemplates.jpg
@@ -309,7 +315,7 @@
 
 [CarrierLauncher]: /assets/jmm/carrielrlauncher.jpg
 
-<!-- Railways -->
+[//]: # (Railways)
 [OOGauge]: /jmm/johnsmodelmadness/oogauge/index.html
 [WidgetsWharf]: /assets/jmm/widgetswharf.jpg
 [WidgetsWharf2]: /assets/jmm/widgetswharf.jpg
@@ -326,7 +332,7 @@
 [LocoGraveyard]: /assets/jmm/locograveyard.jpg
 [AnglerClub]: /assets/jmm/watchingtheday.jpg
 
-<!-- Misc -->
+[//]: # (Misc)
 [Beck]: http://www.becks-dampfseite.de/
 [ConcreteSoc]: http://www.concrete.org.uk/
 [Home]: /jmm/johnsmodelmadness
@@ -337,7 +343,7 @@
 [ModelBoatsMag]: https://www.modelboats.co.uk/
 [BoatsAndOutboards]: https://www.boatsandoutboards.co.uk
 
-<!-- Workshop -->
+[//]: # (Workshop)
 [Workshops]: /jmm/johnsmodelmadness/workshops/index.html
 [BookOnBuilding]: /jmm/johnsmodelmadness/bookonbuilding/index.html
 [BookOnBuilding2]: /jmm/johnsmodelmadness/bookonbuilding2/index.html
@@ -371,7 +377,7 @@
 [SprayCabinet3]: /assets/jmm/spraycabinet3.jpg
 
 
-<!-- Artwork -->
+[//]: # (Artwork)
 [Beach3]: /assets/jmm/beach3.jpg
 [Isolabella]: /assets/jmm/isolabella.jpg
 [FishingBoat]: /assets/jmm/fishingboat.jpg

@@ -92,7 +92,7 @@ Now with a more suitable power supply and a better motor it does plane !
 ---
 <br>
 
-![ClydePufferKit]
+![ClydePufferKit2]
 > This is a proprietary model of a Clyde Puffer, one of the three kit models in 
 my workshop.
 > 

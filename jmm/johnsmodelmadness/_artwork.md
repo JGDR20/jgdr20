@@ -12,6 +12,18 @@
 ![Cornish Fantasy][CornishFantasy]
 > Cornish Fantasy
 
+In the past many happy hours have been spent on holiday roaming through Cornish towns and 
+villages.  
+Now memories flood back of the life that thrived around the tiny fishing boats moored and at 
+the quayside.
+
+The larger harbours have a lifeboat station as well as waterside houses, pubs and hotels.
+
+Cottages and houses, many fronting directly onto the narrow streets, are perched on the 
+surrounding hills.
+
+Hopefully this sketch conveys the essence of such a scene.
+
 When time permits I will be adding a gallery of items from my sketchbooks.....
 
 ## Cartoons and technical books

@@ -23,4 +23,4 @@
 * Model Railway topics
  * Looking back at OO Gauge Model railways click.. [Click here][OOGauge]
 * A Few Miscellaneous Models
-  * Models built over the years a few assorted [Click here][Models]
+  * Models built over the years... [Click here][Models]
