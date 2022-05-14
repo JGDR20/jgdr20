@@ -9,7 +9,11 @@ asset: "/assets/Portfolios/"
 <a href="/Portfolios.html"><h3>Back to Portfolio list</h3></a>
 
 <div class="flex-container">
-	{%- assign photos = site.data.Portfolios.photos | where: "portfolio", page.title -%}
+	{%- if page.title == "All" -%}
+		{%- assign photos = site.data.Portfolios.photos -%}
+	{%- else -%}
+		{%- assign photos = site.data.Portfolios.photos | where: "portfolio", page.title -%}
+	{%- endif -%}
 	{%- for photo in photos -%}
 		{%- assign rel_url = layout.asset | append: photo.image -%}
 		{%- assign dest_url = photo.image | prepend: "photos/" | append: ".html" | replace: " ", "-" | downcase -%}
