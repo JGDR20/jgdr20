@@ -63,7 +63,7 @@ jobs:
           command: pip install awscli --upgrade --user
       - run:
           name: Upload non-images to s3
-          command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --region=eu-west-1 --exclude "assets*" --exclude "jmm\archive*" --size-only --delete
+          command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --region=eu-west-1 --exclude "assets*" --exclude "jmm\archive*" --delete
       - run:
           name: Upload images to s3
           command: ~/.local/bin/aws s3 sync ./_site/assets s3://$S3_BUCKET_NAME/assets --region=eu-west-1 --size-only --delete
