@@ -318,7 +318,7 @@
 [//]: # (Railways)
 [OOGauge]: /jmm/johnsmodelmadness/oogauge/index.html
 [WidgetsWharf]: /assets/jmm/widgetswharf.jpg
-[WidgetsWharf2]: /assets/jmm/widgetswharf.jpg
+[WidgetsWharf2]: /assets/jmm/widgetswharf2.jpg
 [DocksideCranes]: /assets/jmm/docksidecranes.jpg
 [16x10N]: /assets/jmm/the16x10lookingnorth.jpg
 [16x10SE]: /assets/jmm/lookingsoutheast.jpg
