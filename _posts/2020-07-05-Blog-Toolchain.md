@@ -21,7 +21,7 @@ Below is documentation for the current toolchain used to publish this blog, as w
   * jekyll-paginate-v2
   * jekyll-datapage-generator
 * GitHub
-* Travis CI
+* ~~Travis CI~~ Circle CI
 * Amazon Web Services
   * S3
   * CloudFront
@@ -37,7 +37,7 @@ Below is documentation for the current toolchain used to publish this blog, as w
 
 # GitHub
 
-# Travis CI
+# Circle CI
 
 # Amazon Web Services
 #### IAM
