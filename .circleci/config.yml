@@ -20,7 +20,7 @@ jobs:
     docker:
       - image: cimg/ruby:3.1.2
     environment:
-      BUNDLE_PATH: ~/repo/vendor/bundle
+      BUNDLE_PATH: /home/circleci/repo/vendor/bundle
     steps:
       - checkout
       - restore_cache:
@@ -28,12 +28,15 @@ jobs:
             - rubygems-v1-{{ checksum "Gemfile.lock" }}
             - rubygems-v1-fallback
       - run:
+          name: Bundle Config
+          command: bundle config set --local path '/home/circleci/repo/vendor/bundle'
+       - run:
           name: Bundle Install
-          command: bundle check || bundle install --path ~/repo/vendor/bundle
+          command: bundle check || bundle install
       - save_cache:
           key: rubygems-v1-{{ checksum "Gemfile.lock" }}
           paths:
-            - ~/repo/vendor/bundle
+            - /home/circleci/repo/vendor/bundle
       - run:
           name: Jekyll build
           command: JEKYLL_ENV=production bundle exec jekyll build
