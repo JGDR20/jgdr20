@@ -30,7 +30,7 @@ jobs:
       - run:
           name: Bundle Config
           command: bundle config set --local path '/home/circleci/repo/vendor/bundle'
-       - run:
+      - run:
           name: Bundle Install
           command: bundle check || bundle install
       - save_cache:
