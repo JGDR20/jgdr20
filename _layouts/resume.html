@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article class="post">
 
   <header class="post-header">
@@ -111,16 +112,18 @@ layout: default
 						</p>
 						<p>
 							{{ job.startDate }} - {% if job.endDate %}{{ job.endDate }}{% else %}ongoing{% endif %}<br>
-							{% if jobYear > 1 %}
-								{{ jobYear }} years 
-							{% elsif jobYear == 1 %}
-								{{ jobYear }} year 
-							{% endif %}
-							{% if jobMonth > 1 %}
-								{{ jobMonth }} months
-							{% elsif jobMonth == 1 %}
-								{{ jobMonth }} month
-							{% endif %}
+							<div{% if job.endDate %}{% else %} id="ongoingJobDuration"{% endif %}>
+								{% if jobYear > 1 %}
+									{{ jobYear }} years 
+								{% elsif jobYear == 1 %}
+									{{ jobYear }} year 
+								{% endif %}
+								{% if jobMonth > 1 %}
+									{{ jobMonth }} months
+								{% elsif jobMonth == 1 %}
+									{{ jobMonth }} month
+								{% endif %}
+							</div>
 						</p>
 					</div>
 					{%- if job.summary != empty -%}

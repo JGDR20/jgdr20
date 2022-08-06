@@ -1,0 +1,37 @@
+<!-- Resume date checker JS -->
+<script type = "text/javascript" >
+window.onload = function() {
+
+    {% assign ongoingJob = site.data.Resume.work | where: "endDate", nil | first %}
+    {% assign ongoingJobStartDate = ongoingJob.startDate %}
+
+  function DateDiffMonthsTotal(d1, d2) {
+    return Math.floor((d2 - d1)/(1000*60*60*24*30));
+  }
+  function DateDiffYears(d1, d2) {
+    var durationYears = Math.floor(DateDiffMonthsTotal(d1, d2) / 12);
+    if (durationYears > 1) {
+      return durationYears + " years ";
+    } else if (durationYears == 1) {
+      return durationYears + " year ";
+    } else {
+      return "";
+    }
+  }
+  function DateDiffMonths(d1, d2) {
+    var durationMonths = Math.floor(DateDiffMonthsTotal(d1, d2) % 12);
+    if (durationMonths > 1) {
+      return durationMonths + " months";
+    } else if (durationMonths == 1) {
+      return durationMonths + " month";
+    } else {
+      return "";
+    }
+  }
+
+  var d1 = new Date("{{ ongoingJobStartDate }}");;
+  var d2 = new Date();
+
+  document.getElementById("ongoingJobDuration").innerHTML = DateDiffYears(d1, d2) + DateDiffMonths(d1, d2);
+}
+</script>
