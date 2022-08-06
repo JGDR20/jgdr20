@@ -11,9 +11,9 @@ window.onload = function() {
     var durationMonths = Math.floor(durationMonthsTotal % 12);
     
     if (durationYears > 1) {
-      var durationYearsText = durationYears + " years ";
+      var durationYearsText = durationYears + " years";
     } else if (durationYears == 1) {
-      var durationYearsText = durationYears + " year ";
+      var durationYearsText = durationYears + " year";
     } else {
       var durationYearsText = "";
     }
@@ -24,8 +24,13 @@ window.onload = function() {
     } else {
       var durationMonthsText = "";
     }
+    if (durationYears > 0 && durationMonths > 0 ) {
+      var durationSpacer = " ";
+    } else {
+      var durationSpacer = "";
+    }
 
-    return durationYearsText + durationMonthsText
+    return durationYearsText + durationSpacer + durationMonthsText
   }
 
   var d1 = new Date("{{ ongoingJobStartDate }}");;
