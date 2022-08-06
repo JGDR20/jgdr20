@@ -5,33 +5,32 @@ window.onload = function() {
     {% assign ongoingJob = site.data.Resume.work | where: "endDate", nil | first %}
     {% assign ongoingJobStartDate = ongoingJob.startDate %}
 
-  function DateDiffMonthsTotal(d1, d2) {
-    return Math.floor((d2 - d1)/(1000*60*60*24*30));
-  }
-  function DateDiffYears(d1, d2) {
-    var durationYears = Math.floor(DateDiffMonthsTotal(d1, d2) / 12);
+  function DateDiff(d1, d2) {
+    var durationMonthsTotal = Math.floor((d2 - d1)/(1000*60*60*24*30));
+    var durationYears = Math.floor(durationMonthsTotal / 12);
+    var durationMonths = Math.floor(durationMonthsTotal % 12);
+    
     if (durationYears > 1) {
-      return durationYears + " years ";
+      var durationYearsText = durationYears + " years ";
     } else if (durationYears == 1) {
-      return durationYears + " year ";
+      var durationYearsText = durationYears + " year ";
     } else {
-      return "";
+      var durationYearsText = "";
     }
-  }
-  function DateDiffMonths(d1, d2) {
-    var durationMonths = Math.floor(DateDiffMonthsTotal(d1, d2) % 12);
     if (durationMonths > 1) {
-      return durationMonths + " months";
+      var durationMonthsText = durationMonths + " months";
     } else if (durationMonths == 1) {
-      return durationMonths + " month";
+      var durationMonthsText = durationMonths + " month";
     } else {
-      return "";
+      var durationMonthsText = "";
     }
+
+    return durationYearsText + durationMonthsText
   }
 
   var d1 = new Date("{{ ongoingJobStartDate }}");;
   var d2 = new Date();
 
-  document.getElementById("ongoingJobDuration").innerHTML = DateDiffYears(d1, d2) + DateDiffMonths(d1, d2);
+  document.getElementById("ongoingJobDuration").innerHTML = DateDiff(d1, d2);
 }
 </script>
