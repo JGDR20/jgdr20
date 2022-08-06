@@ -26,7 +26,7 @@ jobs:
       - restore_cache:
           keys:
             - rubygems-v1-{{ checksum "Gemfile.lock" }}
-            - rubygems-v1-fallback
+            - rubygems-v1-
       - run:
           name: Bundle Config
           command: bundle config set --local path '/home/circleci/repo/vendor/bundle'
