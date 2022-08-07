@@ -6,15 +6,16 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
-	{% if page.subtitle %}<h2>{{ page.subtitle | escape }}</h2>{% endif %}
+	{%- if page.subtitle %}<h2>{{ page.subtitle | escape }}</h2>{%- endif %}
   </header>
 
 	<div class="post-content">
 		<div class="sidebar-right" style="border-left: none">
-			<img src="{{ site.data.Resume.basics.image }}">
+			<img src="{{ site.data.Resume.basics.image }}"
+				alt="B&W Headshot Picture">
 		</div>
 		
-		{% assign basics = site.data.Resume.basics %}
+		{%- assign basics = site.data.Resume.basics %}
 		<h2>{{ basics.name }}</h2>
 		<ul class="post-list print-block">
 			<li>One-Liner: {{ basics.label }}</li>
@@ -24,58 +25,57 @@ layout: default
 			{%- endfor -%}</li>
 			<li><p>Summary: {{ basics.summary | newline_to_br }}</p></li>
 		</ul>
-		
 		<hr>
 		
-		{% assign skills = site.data.Resume.skills %}
+		{%- assign skills = site.data.Resume.skills %}
 		<h2 class="post-list-heading">Skills</h2>
 		<div class="flex-container">
-			{% for skill in skills %}
+			{%- for skill in skills -%}
 				<div class="print-block skills">
 					<h4>{{ skill.name }}</h4>
-					{% if skill.level != empty %}{{ skill.level }}{% endif %}
+					{%- if skill.level != empty -%}{{ skill.level }}{%- endif -%}
 					<div class="flex-container">
-						{% for keyword in skill.keywords %}
+						{%- for keyword in skill.keywords %}
 							<ul class="horizontal-list">
 								<li>{{ keyword }}</li>
 							</ul>
-						{% endfor %}
+						{%- endfor %}
 					</div>
 					<hr class="half-hr">
 				</div>
-			{% endfor %}
+			{%- endfor %}
 		</div>
 		
 		<hr>
 		
-		{% assign projects = site.data.Resume.projects %}
+		{%- assign projects = site.data.Resume.projects %}
 		<h2 class="post-list-heading">Projects</h2>
 		<!-- <div> -->
-			{% for project in projects %}
+			{%- for project in projects %}
 				<div class="print-block">
 					<h3>{{ project.name }}</h3>
 					<p>{{ project.summary }}</p>
 					<div class="flex-container">
-						{% for keyword in project.keywords %}
+						{%- for keyword in project.keywords %}
 							<ul>
 								<li>{{ keyword }}</li>
 							</ul>
-						{% endfor %}
+						{%- endfor %}
 					</div>
 				</div>
 				{%- if forloop.last != true -%}
 					<hr class="half-hr">
 				{%- endif -%}
-			{% endfor %}
+			{%- endfor %}
 		<!-- </div> -->
 		
 		<hr>
 		
-		{% assign references = site.data.Resume.references %}
+		{%- assign references = site.data.Resume.references %}
 		<h2 class="post-list-heading">References</h2>
 		<p>Additional references available on request, the following are those made public on LinkedIn.</p>
 		<div>
-			{% for reference in references %}
+			{%- for reference in references %}
 				<div class="print-block">
 					<h4>{{ reference.name }} - <em>{{ reference.company }}</em></h3>
 					<p>{{ reference.reference }}</p>
@@ -83,15 +83,15 @@ layout: default
 				{%- if forloop.last != true -%}
 					<hr class="half-hr">
 				{%- endif -%}
-			{% endfor %}
+			{%- endfor %}
 		</div>
 		
 		<hr>
 		
-		{% assign work = site.data.Resume.work | where: "technical", "true" %}
+		{%- assign work = site.data.Resume.work | where: "technical", "true" %}
 		<h2 class="post-list-heading">Work</h2>
 		<div>
-			{% for job in work %}
+			{%- for job in work %}
 				{%- assign startSec = job.startDate | date: "%s" -%}
 				{%- if job.endDate -%}
 					{%- assign endSec = job.endDate | date: "%s" -%}
@@ -111,18 +111,18 @@ layout: default
 							{%- endif -%}
 						</p>
 						<p>
-							{{ job.startDate }} - {% if job.endDate %}{{ job.endDate }}{% else %}ongoing{% endif %}<br>
-							<div{% if job.endDate %}{% else %} id="ongoingJobDuration"{% endif %}>
-								{% if jobYear > 1 %}
+							{{ job.startDate }} - {%- if job.endDate %}{{ job.endDate }}{%- else %}ongoing{%- endif %}<br>
+							<div{%- if job.endDate %}{%- else %} id="ongoingJobDuration"{%- endif %}>
+								{%- if jobYear > 1 -%}
 									{{ jobYear }} years 
-								{% elsif jobYear == 1 %}
+								{%- elsif jobYear == 1 -%}
 									{{ jobYear }} year 
-								{% endif %}
-								{% if jobMonth > 1 %}
+								{%- endif -%}
+								{%- if jobMonth > 1 -%}
 									{{ jobMonth }} months
-								{% elsif jobMonth == 1 %}
+								{%- elsif jobMonth == 1 -%}
 									{{ jobMonth }} month
-								{% endif %}
+								{%- endif -%}
 							</div>
 						</p>
 					</div>
@@ -130,27 +130,27 @@ layout: default
 						<p>{{ job.summary | newline_to_br }}</p>
 					{%- endif -%}
 					<div class="flex-container">
-						{% for keyword in job.highlights %}
+						{%- for keyword in job.highlights -%}
 							<ul class="horizontal-list">
 								<li>{{ keyword }}</li>
 							</ul>
-						{% endfor %}
+						{%- endfor -%}
 					</div>
 				</div>
-				{% comment %}
+				{%- comment %}
 					<!-- For removing the <hr> in the last loop -->
 					{%- if forloop.last != true -%}
 						<hr class="half-hr">
 					{%- endif -%}
-				{% endcomment %}
+				{%- endcomment %}
 				<hr class="half-hr">
-			{% endfor %}
+			{%- endfor %}
 		</div>
 		
-		{% assign work = site.data.Resume.work | where: "technical", "false" %}
+		{%- assign work = site.data.Resume.work | where: "technical", "false" %}
 		<!-- <h2 class="post-list-heading">Work</h2> -->
 		<div class="flex-container">
-			{% for job in work %}
+			{%- for job in work %}
 				{%- assign startSec = job.startDate | date: "%s" -%}
 				{%- if job.endDate -%}
 					{%- assign endSec = job.endDate | date: "%s" -%}
@@ -170,54 +170,54 @@ layout: default
 							{%- endif -%}
 						</p>
 						<p>
-							{{ job.startDate }} - {% if job.endDate %}{{ job.endDate }}{% else %}ongoing{% endif %}<br>
-							{% if jobYear > 1 %}
+							{{ job.startDate }} - {%- if job.endDate %}{{ job.endDate }}{%- else %}ongoing{%- endif %}<br>
+							{%- if jobYear > 1 %}
 								{{ jobYear }} years 
-							{% elsif jobYear == 1 %}
+							{%- elsif jobYear == 1 %}
 								{{ jobYear }} year 
-							{% endif %}
-							{% if jobMonth > 1 %}
+							{%- endif %}
+							{%- if jobMonth > 1 %}
 								{{ jobMonth }} months
-							{% elsif jobMonth == 1 %}
+							{%- elsif jobMonth == 1 %}
 								{{ jobMonth }} month
-							{% endif %}
+							{%- endif %}
 						</p>
 					</div>
 				</div>
-			{% endfor %}
+			{%- endfor %}
 		</div>
 		
 		<hr>
 		
-		{% assign interests = site.data.Resume.interests %}
+		{%- assign interests = site.data.Resume.interests %}
 		<h2 class="post-list-heading">Interests</h2>
 		<!-- <div> -->
-			{% for interest in interests %}
+			{%- for interest in interests %}
 				<div class="print-block">
 					<h3>{{ interest.name }}</h3>
 					<p>{{ interest.summary }}</p>
 					<div class="flex-container">
-						{% comment %}
-							{% for keyword in interest.keywords %}
+						{%- comment %}
+							{%- for keyword in interest.keywords %}
 								<ul class="horizontal-list">
 									<li>{{ keyword }}</li>
 								</ul>
-							{% endfor %}
-						{% endcomment %}
+							{%- endfor %}
+						{%- endcomment %}
 					</div>
 				</div>
 				{%- if forloop.last != true -%}
 					<hr class="half-hr">
 				{%- endif -%}
-			{% endfor %}
+			{%- endfor %}
 		<!-- </div> -->
 		
 		<hr>
 		
-		{% assign courses = site.data.Resume.education %}
+		{%- assign courses = site.data.Resume.education %}
 		<h2 class="post-list-heading">Education</h2>
 		<div>
-			{% for course in courses %}
+			{%- for course in courses %}
 				<div class="print-block">
 					<h4>{{ course.institution }} | <em>{{ course.startDate | date: "%Y" }} - {{ course.endDate | date: "%Y" }}</em></h3>
 					<p>{{ course.studyType }}: {{ course.area }} | <em>{{ course.gpa }}</em></p>
@@ -225,7 +225,7 @@ layout: default
 				{%- if forloop.last != true -%}
 					<hr class="half-hr">
 				{%- endif -%}
-			{% endfor %}
+			{%- endfor %}
 		</div>
 		
 		<hr>
