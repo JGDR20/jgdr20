@@ -138,14 +138,23 @@ header_pages:
 collections:
   category:
     output: true
-    permalink: :title
+    permalink: /blog/:slugified_categories
 
 defaults:
   - scope:
-      path: "/category"
-      type: category
+      path: ""
+      type: "category"
     values:
       layout: "category"
+      output_ext: "html"
+      permalink: /blog/:slugified_categories/index.html
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "post"
+      permalink: /blog/:slugified_categories/:year:month:day_:title:output_ext
 
   - scope:
       path: "assets/jmm/Gallery"

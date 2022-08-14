@@ -3,7 +3,7 @@
   {% for category in site.categories %}
     <ul class="horizontal-list">
 		<li>
-			<a class="page-link" href="{{ site.baseurl }}/category/{{ category[0] | slugify | append: "/index.html" }}">{{ category[0] | Sentence }} <span> ({{ category[1].size }}) </span></a>
+			{%- include blog-categories-link.html -%}
 		</li>
 	</ul>
   {%- endfor -%}
