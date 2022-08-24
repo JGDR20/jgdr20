@@ -111,7 +111,7 @@ layout: default
 							{%- endif -%}
 						</p>
 						<p>
-							{{ job.startDate }} - {%- if job.endDate %}{{ job.endDate }}{%- else %}ongoing{%- endif %}<br>
+							{{ job.startDate }} - {% if job.endDate -%}{{ job.endDate }}{% else -%}ongoing{%- endif %}<br>
 							<div{%- if job.endDate %}{%- else %} id="ongoingJobDuration"{%- endif %}>
 								{%- if jobYear > 1 -%}
 									{{ jobYear }} years 
