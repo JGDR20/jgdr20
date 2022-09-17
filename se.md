@@ -9,10 +9,10 @@ sidebar: No
 ### Private
 Contact me to request an invite
 
-| # 	| Mode 	| Scenario 	| Connection 	| Slots 	| Status	 |
+| # 	| Mode 	| Scenario 	| Description | Connection 	| Slots 	| Status	 |
 |-	|-	|-	|-	|-	| -	 |
-| 1 	| Creative 	| Green Station 	| <a href="steam://connect/176.31.228.98:29314">176.31.228.98:29314</a> 	| 10 	| <span style="color:#b30000;">Offline</span>	 |
-| 2 	| Survival 	| Earth-Like 	| <a href="steam://connect/51.38.93.181:29016">51.38.93.181:29016</a> 	| 10 	| <span style="color:#00b300;">Online</span>	 |
+| 1 	| Survival 	| Star System 	| Modded survival with <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2847055633">Assertive Acquisitions collection</a> from Splitsie, plus a few others | <a href="steam://connect/176.31.228.98:29314">176.31.228.98:29314</a> 	| 10 	| <span style="color:#00b300;">Online</span>	 |
+| 2 	| Survival 	| Earth-Like 	| Rovers only | <a href="steam://connect/51.38.93.181:29016">51.38.93.181:29016</a> 	| 10 	| <span style="color:#b3b3b3;">Held</span>	 |
 
 ### Colour Scheme
 
@@ -34,7 +34,7 @@ Contact me to request an invite
 White sci-fi armour  
 <span style="color:#FFFFFF; background-color:#505050;">Main: #FFFFFF / 255, 255, 255</span>  
 
-## Blueprints Offsets
+## Blueprints
 ### Welder Projector
 #### Tick Mk I
 
