@@ -118,9 +118,12 @@ layout: default
 							{{ job.startDate }} - {% if job.endDate -%}{{ job.endDate }}{% else -%}ongoing{%- endif %}<br>
 							<div{%- if job.endDate %}{%- else %} id="ongoingJobDuration"{%- endif %}>
 								{%- if jobYear > 1 -%}
-									{{ jobYear }} years 
+									{{ jobYear }} years
 								{%- elsif jobYear == 1 -%}
-									{{ jobYear }} year 
+									{{ jobYear }} year
+								{%- endif -%}
+								{%- if jobYear > 0 and jobMonth > 0 -%}
+									&nbsp;
 								{%- endif -%}
 								{%- if jobMonth > 1 -%}
 									{{ jobMonth }} months
@@ -175,16 +178,19 @@ layout: default
 						</p>
 						<p>
 							{{ job.startDate }} - {%- if job.endDate %}{{ job.endDate }}{%- else %}ongoing{%- endif %}<br>
-							{%- if jobYear > 1 %}
-								{{ jobYear }} years 
-							{%- elsif jobYear == 1 %}
-								{{ jobYear }} year 
-							{%- endif %}
-							{%- if jobMonth > 1 %}
+							{%- if jobYear > 1 -%}
+								{{ jobYear }} years
+							{%- elsif jobYear == 1 -%}
+								{{ jobYear }} year
+							{%- endif -%}
+							{%- if jobYear > 0 and jobMonth > 0 -%}
+									&nbsp;
+								{%- endif -%}
+							{%- if jobMonth > 1 -%}
 								{{ jobMonth }} months
-							{%- elsif jobMonth == 1 %}
+							{%- elsif jobMonth == 1 -%}
 								{{ jobMonth }} month
-							{%- endif %}
+							{%- endif -%}
 						</p>
 					</div>
 				</div>
