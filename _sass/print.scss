@@ -3,7 +3,7 @@
 @media print {
 	
 	.post, .post-content, .post-title, .post-list, .page-content {
-		@include relative-font-size(0.75);
+		@include relative-font-size(0.65);
 		border: none;
 		padding: unset;
 		margin: unset;
