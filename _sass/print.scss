@@ -3,7 +3,7 @@
 @media print {
 	
 	.post, .post-content, .post-title, .post-list, .page-content {
-		@include relative-font-size(0.65);
+		@include relative-font-size(0.70);
 		border: none;
 		padding: unset;
 		margin: unset;
@@ -61,7 +61,7 @@
 		} */
 		
 		.horizontal-list {
-			margin-bottom: 5px;
+			margin-bottom: 0px;
 			
 			li {
 				margin-bottom: 0px;
@@ -77,6 +77,19 @@
 		.skills {
 			width: 33%;
 		}
+
+		li {
+				margin-bottom: 0px;
+			}
+	}
+
+	.post-list {
+  		margin-left: 0;
+  		list-style: none;
+
+	  > li {
+	    margin-bottom: $spacing-unit / 3;
+	  }
 	}
 	
 	header nav.site-nav, footer, div.sidebar-right, .rss-subscribe, .post-header {
