@@ -215,7 +215,6 @@
 		"CSS",
 		"Javascript",
 		"SaaS",
-		"Microsoft Office",
 		"Java",
 		"Powershell",
 		"Scripting",
@@ -246,8 +245,7 @@
       "name": "Technical Support",
       "level": "",
       "keywords": [
-	    "Problem Solving",
-		"Change Management",
+	    "Change Management",
 		"Troubleshooting",
 		"Service Desk",
 		"Product Implementation/Configuration",

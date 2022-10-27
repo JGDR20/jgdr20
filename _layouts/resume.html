@@ -31,6 +31,7 @@ layout: default
 		<h2 class="post-list-heading">Skills</h2>
 		<div class="flex-container">
 			{%- for skill in skills -%}
+				{%- unless skill.name == "Soft Skills" -%}
 				<div class="print-block skills">
 					<h4>{{ skill.name }}</h4>
 					{%- if skill.level != empty -%}{{ skill.level }}{%- endif -%}
@@ -43,6 +44,7 @@ layout: default
 					</div>
 					<hr class="half-hr">
 				</div>
+				{%- endunless -%}
 			{%- endfor %}
 		</div>
 		
@@ -71,6 +73,7 @@ layout: default
 		
 		<hr>
 		
+		<!-- Removed for brevity
 		{%- assign references = site.data.Resume.references %}
 		<h2 class="post-list-heading">References</h2>
 		<p>Additional references available on request, the following are those made public on LinkedIn.</p>
@@ -87,6 +90,7 @@ layout: default
 		</div>
 		
 		<hr>
+		-->
 		
 		{%- assign work = site.data.Resume.work | where: "technical", "true" %}
 		<h2 class="post-list-heading">Work</h2>
@@ -189,9 +193,9 @@ layout: default
 		
 		<hr>
 		
+		<!-- removed for brevity
 		{%- assign interests = site.data.Resume.interests %}
 		<h2 class="post-list-heading">Interests</h2>
-		<!-- <div> -->
 			{%- for interest in interests %}
 				<div class="print-block">
 					<h3>{{ interest.name }}</h3>
@@ -210,16 +214,16 @@ layout: default
 					<hr class="half-hr">
 				{%- endif -%}
 			{%- endfor %}
-		<!-- </div> -->
 		
 		<hr>
+		-->
 		
 		{%- assign courses = site.data.Resume.education %}
 		<h2 class="post-list-heading">Education</h2>
 		<div>
 			{%- for course in courses %}
 				<div class="print-block">
-					<h4>{{ course.institution }} | <em>{{ course.startDate | date: "%Y" }} - {{ course.endDate | date: "%Y" }}</em></h3>
+					<h4>{{ course.institution }} <!-- Removed for age descrimination | <em>{{ course.startDate | date: "%Y" }} - {{ course.endDate | date: "%Y" }}</em> --></h4>
 					<p>{{ course.studyType }}: {{ course.area }} | <em>{{ course.gpa }}</em></p>
 				</div>
 				{%- if forloop.last != true -%}
