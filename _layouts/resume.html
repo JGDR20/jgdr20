@@ -23,7 +23,11 @@ layout: default
 			{%- for profile in basics.profiles -%}
 				<br>{{ profile.network }}: {{ profile.username }} - <a class="page-link" href="{{ profile.url }}">{{ profile.url }}</a>
 			{%- endfor -%}</li>
-			<li><p>Summary: {{ basics.summary | newline_to_br }}</p></li>
+			<li>Summary: <ul class="bullet">{%- for point in basics.summary -%}
+					<li>{{ point  | newline_to_br }}</li>
+				{%- endfor -%}
+				</ul>
+			</li>
 		</ul>
 		<hr>
 		
