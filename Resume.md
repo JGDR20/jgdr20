@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Resumé
+title: Résumé
 sidebar: No
 # permalink: /resume/index.html
 ---
