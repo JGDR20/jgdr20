@@ -32,7 +32,7 @@
 			@include relative-font-size(0.9);
 		}
 		
-		/* table, blockquote, pre, code, figure, li, hr, ul, ol, a, tr {
+		table, blockquote, pre, code, figure, li, hr, ul, ol, a, tr {
 			page-break-inside: avoid;
 		}
 		
@@ -58,7 +58,7 @@
 		h3 + table,
 		h3 + table {
 			page-break-before: avoid;
-		} */
+		}
 		
 		.horizontal-list {
 			margin-bottom: 0px;
