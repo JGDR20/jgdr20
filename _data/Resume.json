@@ -32,8 +32,17 @@
 	},
 	"work": [
 		{
+			"company": "Totalmobile Ltd",
+			"startDate": "2023-05-02",
+		"website": "https://totalmobile.co.uk",
+		"position": "Problem Analyst (3<sup>rd</sup> Line)",
+		"summary": "3<sup>rd</sup> Line Support for one of the vertical product lines within the Totalmobile suite.\nDetails to follow at a later date.",
+		"technical": true
+		},
+		{
 			"company": "Charles River Development",
 			"startDate": "2018-07-31",
+			"endDate": "2023-04-28",
 			"highlights": [
 				"MS SQL database",
 				"Oracle database",
